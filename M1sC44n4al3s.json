@@ -1,10 +1,65 @@
 [
   {
     "canal": "ESPN",
+    "Categoria": "Principales",
     "playbackURL": "https://51a.pricesaskeloadsc.com:443/global/espn/index.m3u8?token=ee394cd4012b0b6fdd2d1a1ff62691cf983c84bb-b9-1742078406-1742046006"
   },
   {
+    "canal": "ESPN 2",
+    "Categoria": "Principales",
+    "playbackURL": "https://bcja.pricesaskeloadsc.com:443/global/espn2/index.m3u8?token=a50fab3bc7e6cd4145cab318581058975aa28945-56-1742097742-1742065342"
+  },
+  
+  {
+    "canal": "ESPN 3",
+    "Categoria": "Principales",
+    "playbackURL": "https://YXdlc29tZQ.fubohd.com:443/espn3/mono.m3u8?token=f49f7cf815cfca3cd9dd053fba780c6e36406544-0c-1742109494-1742073494"
+  },
+  
+  {
+    "canal": "ESPN +",
+    "Categoria": "Principales",
+    "playbackURL": "https://vadp.pricesaskeloadsc.com:443/global/espnplus2/index.m3u8?token=35ab1487f18dc758ecd259112c910f0e0179f0d8-d7-1742097924-1742065524"
+  },
+  {
+    "canal": "ESPN Premium"
+    "Categoria": "Principales",
+    "PlaybackURL":"https://bcja.pricesaskeloadsc.com:443/global/espnpremium/index.m3u8?token=90dc09fc51df5b1947db0277f9fac4f06bfb5b0b-74-1742097996-1742065596"
+  },
+  {
     "canal": "TyCSports",
+    "Categoria": "Principales",
     "playbackURL": "https://24a.pricesaskeloadsc.com:443/global/tycsports/index.m3u8?token=e2af53d143bf5876f96e01c02260f8d22c207c66-36-1742096442-1742064042"
-  }
+  },
+
+  {
+    "canal": "TNT Sports"
+    "Categoria": "Principales",
+    "PlaybackURL":"https://14c5.pricesaskeloadsc.com:443/global/tntsports/index.m3u8?token=1315041904db3fe187f9cd876ffe3e4a2eae09d0-ff-1742098064-1742065664"
+  },
+  {
+    "canal": "Disney + 1"
+    "Categoria": "Principales",
+    "PlaybackURL":"https://24a.pricesaskeloadsc.com:443/global/tycsports/index.m3u8?token=e2af53d143bf5876f96e01c02260f8d22c207c66-36-1742096442-1742064042"
+  },
+  {
+    "canal": "Disney + 2"
+    "Categoria": "Principales",
+    "PlaybackURL":"https://24a.pricesaskeloadsc.com:443/global/tycsports/index.m3u8?token=e2af53d143bf5876f96e01c02260f8d22c207c66-36-1742096442-1742064042"
+  },
+  {
+    "canal": "Disney + 3"
+    "Categoria": "Principales",
+    "PlaybackURL":"https://24a.pricesaskeloadsc.com:443/global/tycsports/index.m3u8?token=e2af53d143bf5876f96e01c02260f8d22c207c66-36-1742096442-1742064042"
+  },
+  {
+    "canal": "Disney + 4"
+    "Categoria": "Principales",
+    "PlaybackURL":"https://24a.pricesaskeloadsc.com:443/global/tycsports/index.m3u8?token=e2af53d143bf5876f96e01c02260f8d22c207c66-36-1742096442-1742064042"
+  },
+  {
+    "canal": "DirecTV Sports"
+    "Categoria": "Principales",
+    "PlaybackURL":"https://24a.pricesaskeloadsc.com:443/global/tycsports/index.m3u8?token=e2af53d143bf5876f96e01c02260f8d22c207c66-36-1742096442-1742064042"
+  },
 ]
