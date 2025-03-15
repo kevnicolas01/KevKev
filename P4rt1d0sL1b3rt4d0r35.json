@@ -2,6 +2,23 @@
   {
     "link": "go:LIB1",
     "canal": "go:ESPN",
+    "opcion1":"go:ESPN",
+    "opcion2":"go:ESPN",
+    "opcion3":"go:ESPN",
+    "torneo": "Copa Libertadores 🏆 15 de Marzo",
+    "equipo1": "Equipo 1",
+    "equipo2": "Equipo 2",
+    "fechaInicio": "2025-03-15T12:00",
+    "fecha": "18 de Marzo"
+  
+  },
+
+  {
+    "link": "go:LIB1",
+    "canal": "https://canal-de-ejemplo.com",
+    "opcion1":"go:ESPN",
+    "opcion2":"go:ESPN",
+    "opcion3":"go:ESPN",
     "torneo": "Copa Libertadores 🏆 15 de Marzo",
     "equipo1": "Equipo 1",
     "equipo2": "Equipo 2",
@@ -12,6 +29,9 @@
   {
     "link": "go:LIB1",
     "canal": "https://canal-de-ejemplo.com",
+    "opcion1":"go:ESPN",
+    "opcion2":"go:ESPN",
+    "opcion3":"go:ESPN",
     "torneo": "Copa Libertadores 🏆 15 de Marzo",
     "equipo1": "Equipo 1",
     "equipo2": "Equipo 2",
@@ -22,6 +42,21 @@
   {
     "link": "go:LIB1",
     "canal": "https://canal-de-ejemplo.com",
+    "opcion1":"go:ESPN",
+    "opcion2":"go:ESPN",
+    "opcion3":"go:ESPN",
+    "torneo": "Copa Libertadores 🏆 15 de Marzo",
+    "equipo1": "Equipo 1",
+    "equipo2": "Equipo 2",
+    "fechaInicio": "2025-03-15T12:00",
+    "fecha": "18 de Marzo"
+  },
+  {
+    "link": "go:LIB1",
+    "canal": "https://canal-de-ejemplo.com",
+    "opcion1":"go:ESPN",
+    "opcion2":"go:ESPN",
+    "opcion3":"go:ESPN",
     "torneo": "Copa Libertadores 🏆 15 de Marzo",
     "equipo1": "Equipo 1",
     "equipo2": "Equipo 2",
@@ -32,25 +67,9 @@
   {
     "link": "go:LIB1",
     "canal": "https://canal-de-ejemplo.com",
-    "torneo": "Copa Libertadores 🏆 15 de Marzo",
-    "equipo1": "Equipo 1",
-    "equipo2": "Equipo 2",
-    "fechaInicio": "2025-03-15T12:00",
-    "fecha": "18 de Marzo"
-  },
-  {
-    "link": "go:LIB1",
-    "canal": "https://canal-de-ejemplo.com",
-    "torneo": "Copa Libertadores 🏆 15 de Marzo",
-    "equipo1": "Equipo 1",
-    "equipo2": "Equipo 2",
-    "fechaInicio": "2025-03-15T12:00",
-    "fecha": "18 de Marzo"
-  },
-
-  {
-    "link": "go:LIB1",
-    "canal": "https://canal-de-ejemplo.com",
+    "opcion1":"go:ESPN",
+    "opcion2":"go:ESPN",
+    "opcion3":"go:ESPN",
     "torneo": "Copa Libertadores 🏆 15 de Marzo",
     "equipo1": "Equipo 1",
     "equipo2": "Equipo 2",
