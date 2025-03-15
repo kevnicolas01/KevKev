@@ -1,0 +1,37 @@
+[
+  {
+    "link": "go:LIB1",
+    "torneo": "Copa Libertadores 🏆",
+    "equipo1": "Equipo 1",
+    "equipo2": "Equipo 2",
+    "fechaInicio": "2025-03-15T01:00"
+  },
+  {
+    "link": "go:LIB2",
+    "torneo": "Copa Libertadores 🏆",
+    "equipo1": "Equipo 1",
+    "equipo2": "Equipo 2",
+    "fechaInicio": "2025-03-15T02:30"
+  },
+  {
+    "link": "go:LIB3",
+    "torneo": "Copa Libertadores 🏆",
+    "equipo1": "Equipo 1",
+    "equipo2": "Equipo 2",
+    "fechaInicio": "2025-03-15T00:00"
+  },
+  {
+    "link": "go:LIB4",
+    "torneo": "Copa Libertadores 🏆",
+    "equipo1": "Equipo 1",
+    "equipo2": "Equipo 2",
+    "fechaInicio": "2025-03-17T21:30"
+  },
+  {
+    "link": "go:LIB5",
+    "torneo": "Copa Libertadores 🏆",
+    "equipo1": "Equipo 1",
+    "equipo2": "Equipo 2",
+    "fechaInicio": "2025-03-18T18:00:00"
+  }
+]
