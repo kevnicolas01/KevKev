@@ -1,6 +1,37 @@
 [
   {
     "link": "go:LIB1",
+    "canal": "https://canal-de-ejemplo.com",
+    "torneo": "Copa Libertadores 🏆 15 de Marzo",
+    "equipo1": "Equipo 1",
+    "equipo2": "Equipo 2",
+    "fechaInicio": "2025-03-15T12:00",
+    "fecha": "18 de Marzo"
+  },
+
+  {
+    "link": "go:LIB1",
+    "canal": "https://canal-de-ejemplo.com",
+    "torneo": "Copa Libertadores 🏆 15 de Marzo",
+    "equipo1": "Equipo 1",
+    "equipo2": "Equipo 2",
+    "fechaInicio": "2025-03-15T12:00",
+    "fecha": "18 de Marzo"
+  },
+
+  {
+    "link": "go:LIB1",
+    "canal": "https://canal-de-ejemplo.com",
+    "torneo": "Copa Libertadores 🏆 15 de Marzo",
+    "equipo1": "Equipo 1",
+    "equipo2": "Equipo 2",
+    "fechaInicio": "2025-03-15T12:00",
+    "fecha": "18 de Marzo"
+  },
+
+  {
+    "link": "go:LIB1",
+    "canal": "https://canal-de-ejemplo.com",
     "torneo": "Copa Libertadores 🏆 15 de Marzo",
     "equipo1": "Equipo 1",
     "equipo2": "Equipo 2",
@@ -8,35 +39,22 @@
     "fecha": "18 de Marzo"
   },
   {
-    "link": "go:LIB2",
-    "torneo": "Copa Libertadores 🏆",
+    "link": "go:LIB1",
+    "canal": "https://canal-de-ejemplo.com",
+    "torneo": "Copa Libertadores 🏆 15 de Marzo",
     "equipo1": "Equipo 1",
     "equipo2": "Equipo 2",
-    "fechaInicio": "2025-03-15T13:30",
+    "fechaInicio": "2025-03-15T12:00",
     "fecha": "18 de Marzo"
   },
+
   {
-    "link": "go:LIB3",
-    "torneo": "Copa Libertadores 🏆",
+    "link": "go:LIB1",
+    "canal": "https://canal-de-ejemplo.com",
+    "torneo": "Copa Libertadores 🏆 15 de Marzo",
     "equipo1": "Equipo 1",
     "equipo2": "Equipo 2",
-    "fechaInicio": "2025-03-15T10:00",
-    "fecha": "18 de Marzo"
-  },
-  {
-    "link": "go:LIB4",
-    "torneo": "Copa Libertadores 🏆",
-    "equipo1": "Equipo 1",
-    "equipo2": "Equipo 2",
-    "fechaInicio": "2025-03-17T21:30",
-    "fecha": "18 de Marzo"
-  },
-  {
-    "link": "go:LIB5",
-    "torneo": "Copa Libertadores 🏆",
-    "equipo1": "Equipo 1",
-    "equipo2": "Equipo 2",
-    "fechaInicio": "2025-03-18T18:00:00",
+    "fechaInicio": "2025-03-15T12:00",
     "fecha": "18 de Marzo"
   }
 ]
