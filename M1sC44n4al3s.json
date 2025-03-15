@@ -5,10 +5,46 @@
   },
   {
     "canal": "ESPN Premium",
-    "playbackURL": "https://51a.pricesaskeloadsc.com:443/global/espnpremoum/index.m3u8?token=fb6d0641a3b58290c2e6dbcd27256c20c17cf3a1-9a-1742100194-1742067794"
+    "playbackURL": "https://cbado.pricesaskeloadsc.com:443/global/espnpremium/index.m3u8?token=8a38f8f7fd94315be1e5ac9dad26964cc66874dd-11-1742100472-1742068072"
+  },
+  {
+    "canal": "ESPN +",
+    "playbackURL": "https://99a.pricesaskeloadsc.com:443/global/espnplus2/index.m3u8?token=9d425c6fac6dd6db42fed9ded587820e4239e28a-be-1742100645-1742068245"
+  },
+  {
+    "canal": "ESPN 2",
+    "playbackURL": "https://24a.pricesaskeloadsc.com:443/global/espn2/index.m3u8?token=0591142e3c043636d972aba950d3c614e6b7bad9-50-1742100530-1742068130"
+  },
+  {
+    "canal": "ESPN 3",
+    "playbackURL": "https://aw1wcm92zq.fubohd.com:443/espn3/mono.m3u8?token=f69e7b57db9b0f61204a86cef9a301a74d242eba-7b-1742112400-1742076400"
+  },
+  {
+    "canal": "TNT Sports",
+    "playbackURL": "https://cbado.pricesaskeloadsc.com:443/global/tntsports/index.m3u8?token=292b2a21e588ca92428d00b700392e4bf8eb351f-64-1742100817-174206841746006"
+  },
+  {
+    "canal": "DirecTV Sports",
+    "playbackURL": "https://Y2FzdGxl.fubohd.com:443/dsports/mono.m3u8?token=02ec4c8c7d39d8aea928d0205fa132419a17a2e2-f7-1742112603-1742076603"
   },
   {
     "canal": "TyCSports",
     "playbackURL": "https://24a.pricesaskeloadsc.com:443/global/tycsports/index.m3u8?token=e2af53d143bf5876f96e01c02260f8d22c207c66-36-1742096442-1742064042"
+  },
+  {
+    "canal": "Disney16 +",
+    "playbackURL": "https://14c5.pricesaskeloadsc.com:443/global/disney16/index.m3u8?token=b02f3301e5f7ce31c49996a68efdee6d8d1ef00a-95-1742101137-1742068737"
+  },
+  {
+    "canal": "Disney15 +",
+    "playbackURL": "https://coeld.pricesaskeloadsc.com:443/global/disney15/index.m3u8?token=962278c6155db075347cb42c82d3b0b3f85b96c5-a4-1742101159-1742068759"
+  },
+  {
+    "canal": "Disney13 +",
+    "playbackURL": "https://pecdl.pricesaskeloadsc.com:443/global/disney13/index.m3u8?token=bdf57cd4426e3474182045c9f01384b37bb85261-c8-1742101178-1742068778"
+  },
+  {
+    "canal": "Disney10 +",
+    "playbackURL": "https://ca8s9.pricesaskeloadsc.com:443/global/disney10/index.m3u8?token=8df7fc354534afa090aee466241f4371f7c00242-2b-1742101200-1742068800"
   }
 ]
