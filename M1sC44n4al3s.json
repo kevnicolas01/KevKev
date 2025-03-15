@@ -32,6 +32,18 @@
     "playbackURL": "https://24a.pricesaskeloadsc.com:443/global/tycsports/index.m3u8?token=e2af53d143bf5876f96e01c02260f8d22c207c66-36-1742096442-1742064042"
   },
   {
+    "canal": "Fox Sports",
+    "playbackURL": "https://pecdl.pricesaskeloadsc.com:443/global/fox1ar/index.m3u8?token=79e37215e429f2c3737b71924f075a464c12e8fe-89-1742102853-17420704534042"
+  },
+  {
+    "canal": "Fox Sports 2",
+    "playbackURL": "https://cbado.pricesaskeloadsc.com:443/global/fox2ar/index.m3u8?token=7b34e85d8140e38f2c179c9ea293ab1c57462a6c-f0-1742103378-1742070978"
+  },
+  {
+    "canal": "Fox Sports 3",
+    "playbackURL": "https://14c5.pricesaskeloadsc.com:443/global/fox3ar/index.m3u8?token=74b7a42b48a0821f626bce4564007b2997c0a3b9-db-1742103478-1742071078"
+  },
+  {
     "canal": "Disney16 +",
     "playbackURL": "https://14c5.pricesaskeloadsc.com:443/global/disney16/index.m3u8?token=b02f3301e5f7ce31c49996a68efdee6d8d1ef00a-95-1742101137-1742068737"
   },
