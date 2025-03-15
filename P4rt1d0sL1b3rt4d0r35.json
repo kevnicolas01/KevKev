@@ -5,7 +5,7 @@
     "equipo1": "Equipo 1",
     "equipo2": "Equipo 2",
     "fechaInicio": "2025-03-20T01:00",
-    "fecha": "17 de Marzo"
+  
   },
   {
     "link": "go:LIB2",
@@ -13,7 +13,7 @@
     "equipo1": "Equipo 1",
     "equipo2": "Equipo 2",
     "fechaInicio": "2025-03-15T02:30",
-    "fecha": "15 de Marzo"
+    
   },
   {
     "link": "go:LIB3",
@@ -21,7 +21,7 @@
     "equipo1": "Equipo 1",
     "equipo2": "Equipo 2",
     "fechaInicio": "2025-03-15T00:00",
-    "fecha": "15 de Marzo"
+    
   },
   {
     "link": "go:LIB4",
@@ -29,7 +29,7 @@
     "equipo1": "Equipo 1",
     "equipo2": "Equipo 2",
     "fechaInicio": "2025-03-17T21:30",
-    "fecha": "17 de Marzo"
+    
   },
   {
     "link": "go:LIB5",
@@ -37,6 +37,6 @@
     "equipo1": "Equipo 1",
     "equipo2": "Equipo 2",
     "fechaInicio": "2025-03-18T18:00:00",
-    "fecha": "18 de Marzo"
+    
   }
 ]
