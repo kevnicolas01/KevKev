@@ -2,14 +2,14 @@
   "Libertadores": [
     {
       "link": "go:LIB1",
-      "canal": "ESPN",
+      "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
       "torneo": "Copa Libertadores 🏆",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-15T23:00",
+      "fechaInicio": "2025-03-16T23:00",
       "fecha": "15 de Marzo"
     },
     {
