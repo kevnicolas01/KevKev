@@ -1,7 +1,7 @@
 {
   "Libertadores": [
     {
-      "link": "ESPN",
+      "link": "go:LIB1",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -13,7 +13,7 @@
       "fecha": "15 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:LIB2",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -25,7 +25,7 @@
       "fecha": "16 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:LIB3",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -37,7 +37,7 @@
       "fecha": "17 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:LIB4",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -49,7 +49,7 @@
       "fecha": "18 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:LIB5",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -61,7 +61,7 @@
       "fecha": "19 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:LIB6",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -75,7 +75,7 @@
   ],
   "Champions": [
     {
-      "link": "ESPN",
+      "link": "go:CHAM1",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -87,7 +87,7 @@
       "fecha": "17 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:CHAM2",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -99,7 +99,7 @@
       "fecha": "18 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:CHAM3",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -111,7 +111,7 @@
       "fecha": "19 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:CHAM4",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -123,7 +123,7 @@
       "fecha": "20 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:CHAM5",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -135,7 +135,7 @@
       "fecha": "21 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:CHAM6",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -149,7 +149,7 @@
   ],
   "Copa del Rey": [
     {
-      "link": "ESPN",
+      "link": "go:rey1",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -161,7 +161,7 @@
       "fecha": "16 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:rey2",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -173,7 +173,7 @@
       "fecha": "17 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:rey3",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -185,7 +185,7 @@
       "fecha": "18 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:rey4",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -197,7 +197,7 @@
       "fecha": "19 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:rey5",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -209,7 +209,7 @@
       "fecha": "20 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:rey6",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -223,7 +223,7 @@
   ],
   "Europa League": [
     {
-      "link": "ESPN",
+      "link": "go:eurupa1",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -235,7 +235,7 @@
       "fecha": "16 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:europa2",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -247,7 +247,7 @@
       "fecha": "17 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:europa3",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -259,7 +259,7 @@
       "fecha": "18 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:europa4",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -271,7 +271,7 @@
       "fecha": "19 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:europa5",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -283,7 +283,7 @@
       "fecha": "20 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:europa6",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -297,7 +297,7 @@
   ],
   "Sudamericana": [
     {
-      "link": "ESPN",
+      "link": "go:suda1",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -309,7 +309,7 @@
       "fecha": "16 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:suda2",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -321,7 +321,7 @@
       "fecha": "17 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:suda3",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -333,7 +333,7 @@
       "fecha": "18 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:suda4",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -345,7 +345,7 @@
       "fecha": "19 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:suda5",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -357,7 +357,7 @@
       "fecha": "20 de Marzo"
     },
     {
-      "link": "ESPN",
+      "link": "go:suda6",
       "canal": "ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
