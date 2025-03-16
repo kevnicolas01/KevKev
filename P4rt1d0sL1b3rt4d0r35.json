@@ -1,79 +1,372 @@
-[
-  {
-    "link": "go:LIB1",
-    "canal": "go:ESPN",
-    "opcion1":"go:ESPN",
-    "opcion2":"go:ESPN",
-    "opcion3":"go:ESPN",
-    "torneo": "Copa Libertadores 🏆 15 de Marzo",
-    "equipo1": "Equipo 1",
-    "equipo2": "Equipo 2",
-    "fechaInicio": "2025-03-15T23:00",
-    "fecha": "18 de Marzo"
-  
-  },
-
-  {
-    "link": "go:LIB1",
-    "canal": "https://canal-de-ejemplo.com",
-    "opcion1":"go:ESPN",
-    "opcion2":"go:ESPN",
-    "opcion3":"go:ESPN",
-    "torneo": "Copa Libertadores 🏆 16 de Marzo",
-    "equipo1": "Equipo 1",
-    "equipo2": "Equipo 2",
-    "fechaInicio": "2025-03-16T00:00",
-    "fecha": "18 de Marzo"
-  },
-
-  {
-    "link": "go:LIB1",
-    "canal": "https://canal-de-ejemplo.com",
-    "opcion1":"go:ESPN",
-    "opcion2":"go:ESPN",
-    "opcion3":"go:ESPN",
-    "torneo": "Copa Libertadores 🏆 15 de Marzo",
-    "equipo1": "Equipo 1",
-    "equipo2": "Equipo 2",
-    "fechaInicio": "2025-03-16T12:00",
-    "fecha": "18 de Marzo"
-  },
-
-  {
-    "link": "go:LIB1",
-    "canal": "https://canal-de-ejemplo.com",
-    "opcion1":"go:ESPN",
-    "opcion2":"go:ESPN",
-    "opcion3":"go:ESPN",
-    "torneo": "Copa Libertadores 🏆 15 de Marzo",
-    "equipo1": "Equipo 1",
-    "equipo2": "Equipo 2",
-    "fechaInicio": "2025-03-15T12:00",
-    "fecha": "18 de Marzo"
-  },
-  {
-    "link": "go:LIB1",
-    "canal": "https://canal-de-ejemplo.com",
-    "opcion1":"go:ESPN",
-    "opcion2":"go:ESPN",
-    "opcion3":"go:ESPN",
-    "torneo": "Copa Libertadores 🏆 15 de Marzo",
-    "equipo1": "Equipo 1",
-    "equipo2": "Equipo 2",
-    "fechaInicio": "2025-03-15T12:00",
-    "fecha": "18 de Marzo"
-  },
-
-  {
-    "link": "go:LIB1",
-    "canal": "https://canal-de-ejemplo.com",
-    "opcion1":"go:ESPN",
-    "opcion2":"go:ESPN",
-    "opcion3":"go:ESPN",
-    "torneo": "Copa Libertadores 🏆 15 de Marzo",
-    "equipo1": "Equipo 1",
-    "equipo2": "Equipo 2",
-    "fechaInicio": "2025-03-15T12:00",
-    "fecha": "18 de Marzo"
-  }
-]
+{
+  "Libertadores": [
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-15T23:00",
+      "fecha": "15 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-16T20:00",
+      "fecha": "16 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-17T19:30",
+      "fecha": "17 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-18T21:00",
+      "fecha": "18 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-19T18:00",
+      "fecha": "19 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-20T19:45",
+      "fecha": "20 de Marzo"
+    }
+  ],
+  "Champions": [
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Champions League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-17T21:00",
+      "fecha": "17 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Champions League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-18T21:00",
+      "fecha": "18 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Champions League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-19T19:30",
+      "fecha": "19 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Champions League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-20T20:00",
+      "fecha": "20 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Champions League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-21T19:00",
+      "fecha": "21 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Champions League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-22T20:45",
+      "fecha": "22 de Marzo"
+    }
+  ],
+  "Copa del Rey": [
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Copa del Rey 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-16T18:00",
+      "fecha": "16 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Copa del Rey 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-17T18:00",
+      "fecha": "17 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Copa del Rey 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-18T18:00",
+      "fecha": "18 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Copa del Rey 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-19T18:00",
+      "fecha": "19 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Copa del Rey 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-20T18:00",
+      "fecha": "20 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Copa del Rey 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-21T18:00",
+      "fecha": "21 de Marzo"
+    }
+  ],
+  "Europa League": [
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Europa League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-16T20:00",
+      "fecha": "16 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Europa League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-17T20:00",
+      "fecha": "17 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Europa League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-18T20:00",
+      "fecha": "18 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Europa League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-19T20:00",
+      "fecha": "19 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Europa League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-20T20:00",
+      "fecha": "20 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Europa League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-21T20:00",
+      "fecha": "21 de Marzo"
+    }
+  ],
+  "Sudamericana": [
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Sudamericana 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-16T22:00",
+      "fecha": "16 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Sudamericana 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-17T22:00",
+      "fecha": "17 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Sudamericana 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-18T22:00",
+      "fecha": "18 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Sudamericana 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-19T22:00",
+      "fecha": "19 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Sudamericana 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-20T22:00",
+      "fecha": "20 de Marzo"
+    },
+    {
+      "link": "ESPN",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Sudamericana 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-21T22:00",
+      "fecha": "21 de Marzo"
+    }
+  ]
+}
