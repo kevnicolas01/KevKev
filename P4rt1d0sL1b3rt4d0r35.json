@@ -298,14 +298,14 @@
   "Sudamericana": [
     {
       "link": "go:suda1",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
+      "canal": "go:ESPN",
+      "opcion1": "go:ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
       "torneo": "Sudamericana 🏆",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-16T22:00",
+      "fechaInicio": "2025-03-17T22:00",
       "fecha": "16 de Marzo"
     },
     {
