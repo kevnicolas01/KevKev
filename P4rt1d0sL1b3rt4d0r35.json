@@ -9,7 +9,7 @@
       "torneo": "Copa Libertadores 🏆",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-18T23:00",
+      "fechaInicio": "2025-03-19T23:00",
       "fecha": "15 de Marzo"
     },
     {
@@ -21,7 +21,7 @@
       "torneo": "Copa Libertadores 🏆",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-18T20:00",
+      "fechaInicio": "2025-03-19T20:00",
       "fecha": "16 de Marzo"
     },
     {
@@ -33,7 +33,7 @@
       "torneo": "Copa Libertadores 🏆",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-18T19:30",
+      "fechaInicio": "2025-03-19T19:30",
       "fecha": "17 de Marzo"
     },
     {
@@ -45,7 +45,7 @@
       "torneo": "Copa Libertadores 🏆",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-18T21:00",
+      "fechaInicio": "2025-03-19T21:00",
       "fecha": "18 de Marzo"
     },
     {
@@ -57,33 +57,33 @@
       "torneo": "Copa Libertadores 🏆",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-18T18:00",
+      "fechaInicio": "2025-03-19T18:00",
       "fecha": "19 de Marzo"
     },
     {
       "link": "go:LIB6",
-      "canal": "go:fox1",
+      "canal": "go:fox1ar",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
       "torneo": "Copa Libertadores 🏆",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-20T19:45",
+      "fechaInicio": "2025-03-19T19:45",
       "fecha": "20 de Marzo"
     }
   ],
   "Champions": [
     {
       "link": "go:CHAM1",
-      "canal": "go:fox2",
+      "canal": "go:fox2ar",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
       "torneo": "Champions League 🏆",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-18T19:00",
+      "fechaInicio": "2025-03-19T19:00",
       "fecha": "17 de Marzo"
     },
     {
