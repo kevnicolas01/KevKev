@@ -368,5 +368,224 @@
       "fechaInicio": "2025-03-21T22:00",
       "fecha": "21 de Marzo"
     }
+    "EFL CUP": [
+    {
+      "link": "go:EFL1",
+      "canal": "go:ESPN",
+      "opcion1": "go:ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "EFL CUP 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-17T22:00",
+      "fecha": "16 de Marzo"
+    },
+    {
+      "link": "go:EFL2",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "EFL CUP 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-17T22:00",
+      "fecha": "17 de Marzo"
+    },
+    {
+      "link": "go:EFL3",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "EFL CUP 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-20T22:00",
+      "fecha": "18 de Marzo"
+    },
+    {
+      "link": "go:EFL4",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "EFL CUP 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-19T22:00",
+      "fecha": "19 de Marzo"
+    },
+    {
+      "link": "go:EFL5",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "EFL CUP 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-20T22:00",
+      "fecha": "20 de Marzo"
+    },
+    {
+      "link": "go:EFL6",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "EFL CUP 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-21T22:00",
+      "fecha": "21 de Marzo"
+    }
+      "Conference League": [
+    {
+      "link": "go:conf1",
+      "canal": "go:ESPN",
+      "opcion1": "go:ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Conference League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-17T22:00",
+      "fecha": "16 de Marzo"
+    },
+    {
+      "link": "go:conf2",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Conference League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-22T22:00",
+      "fecha": "17 de Marzo"
+    },
+    {
+      "link": "go:conf3",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Conference League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-20T22:00",
+      "fecha": "18 de Marzo"
+    },
+    {
+      "link": "go:conf4",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Conference League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-20T22:00",
+      "fecha": "19 de Marzo"
+    },
+    {
+      "link": "go:conf5",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Conference League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-20T22:00",
+      "fecha": "20 de Marzo"
+    },
+    {
+      "link": "go:conf6",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Conference League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-21T22:00",
+      "fecha": "21 de Marzo"
+    }
+        "Mundial de Clubes": [
+    {
+      "link": "go:mundial1",
+      "canal": "go:ESPN",
+      "opcion1": "go:ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Mundial de Clubes 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-17T22:00",
+      "fecha": "16 de Marzo"
+    },
+    {
+      "link": "go:mundial2",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Mundial de Clubes 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-20T22:00",
+      "fecha": "17 de Marzo"
+    },
+    {
+      "link": "go:mundial3",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Mundial de Clubes 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-18T22:00",
+      "fecha": "18 de Marzo"
+    },
+    {
+      "link": "go:mundial4",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Mundial de Clubes 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-20T22:00",
+      "fecha": "19 de Marzo"
+    },
+    {
+      "link": "go: mundial5",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Mundial de Clubes 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-20T22:00",
+      "fecha": "20 de Marzo"
+    },
+    {
+      "link": "go:mundial6",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Mundial de Clubes 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-21T22:00",
+      "fecha": "21 de Marzo"
+    }
   ]
 }
