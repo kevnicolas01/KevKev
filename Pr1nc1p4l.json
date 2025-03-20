@@ -25,7 +25,7 @@
     },
     {
         "nombre": "Copa Argentina",
-        "imagen": "https://lh3.googleusercontent.com/pw/AP1GczOPIJvKtrW6yeSV-mFpGm40yiHetediYhQ-bODWyQwHbMLHhy10QvKKEXJ-S4AkxC08KicCrS2P2WtwCOynff_vE_2wHUVcUdy-hMwfuNnR-ul88pcLm-QNPSeNSDr8pzFx47b63XFPvtGkDr6ZD2rm=w1080-h608-s-no-gm?authuser=0",
+        "imagen": "https://lh3.googleusercontent.com/pw/AP1GczNAYsMfF2Gb8GCibWp4VDkPjehHUhhUf9u8TxNlmGMrZfZuVEFf8bkV3qJThMl5m5QJPQfV2fNmsxS3hXmkfQ3I6kZGiPUwy7JLx4Tgit_sWmLxiEEjwSnn_AaAGnCrfcZtOwPYHlfvuJ1YY0qUKCZG=w1080-h608-s-no-gm?authuser=0",
         "enlace": "go:copaarg",
         "data-status": "activo"
     },
@@ -33,12 +33,12 @@
         "nombre": "Agregar nombre",
         "imagen": "https://lh3.googleusercontent.com/pw/AP1GczOPIJvKtrW6yeSV-mFpGm40yiHetediYhQ-bODWyQwHbMLHhy10QvKKEXJ-S4AkxC08KicCrS2P2WtwCOynff_vE_2wHUVcUdy-hMwfuNnR-ul88pcLm-QNPSeNSDr8pzFx47b63XFPvtGkDr6ZD2rm=w1080-h608-s-no-gm?authuser=0",
         "enlace": "go:s2",
-        "data-status": "activo"
+        "data-status": "finalizado"
     },
     {
         "nombre": "Agregar Nombre",
         "imagen": "https://lh3.googleusercontent.com/pw/AP1GczOPIJvKtrW6yeSV-mFpGm40yiHetediYhQ-bODWyQwHbMLHhy10QvKKEXJ-S4AkxC08KicCrS2P2WtwCOynff_vE_2wHUVcUdy-hMwfuNnR-ul88pcLm-QNPSeNSDr8pzFx47b63XFPvtGkDr6ZD2rm=w1080-h608-s-no-gm?authuser=0",
         "enlace": "go:s2",
-        "data-status": "activo"
+        "data-status": "finalizado"
     }
 ]
