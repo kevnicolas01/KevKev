@@ -16,5 +16,29 @@
         "imagen": "https://lh3.googleusercontent.com/pw/AP1GczNmY6ekOxFbtWtIGNvLRSlwN2SDW29Y651Wge2rYQqtMo3QuTbs9aJMQm5Nsh9dEfJfobr2k14h5i7IxJtr6koSo0isKyP7GcQv5ZgzBOEUPqkYWYLr144WEAnQCUXyaVvQssHEdCzpEZtwrydoge4z=w1080-h608-s-no-gm?authuser=0",
         "enlace": "go:s3",
         "data-status": "activo"
+    },
+    {
+        "nombre": "MLS",
+        "imagen": "https://lh3.googleusercontent.com/pw/AP1GczOPIJvKtrW6yeSV-mFpGm40yiHetediYhQ-bODWyQwHbMLHhy10QvKKEXJ-S4AkxC08KicCrS2P2WtwCOynff_vE_2wHUVcUdy-hMwfuNnR-ul88pcLm-QNPSeNSDr8pzFx47b63XFPvtGkDr6ZD2rm=w1080-h608-s-no-gm?authuser=0",
+        "enlace": "go:s4",
+        "data-status": "activo"
+    },
+    {
+        "nombre": "Copa Argentina",
+        "imagen": "https://lh3.googleusercontent.com/pw/AP1GczOPIJvKtrW6yeSV-mFpGm40yiHetediYhQ-bODWyQwHbMLHhy10QvKKEXJ-S4AkxC08KicCrS2P2WtwCOynff_vE_2wHUVcUdy-hMwfuNnR-ul88pcLm-QNPSeNSDr8pzFx47b63XFPvtGkDr6ZD2rm=w1080-h608-s-no-gm?authuser=0",
+        "enlace": "go:copaarg",
+        "data-status": "activo"
+    },
+    {
+        "nombre": "Agregar nombre",
+        "imagen": "https://lh3.googleusercontent.com/pw/AP1GczOPIJvKtrW6yeSV-mFpGm40yiHetediYhQ-bODWyQwHbMLHhy10QvKKEXJ-S4AkxC08KicCrS2P2WtwCOynff_vE_2wHUVcUdy-hMwfuNnR-ul88pcLm-QNPSeNSDr8pzFx47b63XFPvtGkDr6ZD2rm=w1080-h608-s-no-gm?authuser=0",
+        "enlace": "go:s2",
+        "data-status": "activo"
+    },
+    {
+        "nombre": "Agregar Nombre",
+        "imagen": "https://lh3.googleusercontent.com/pw/AP1GczOPIJvKtrW6yeSV-mFpGm40yiHetediYhQ-bODWyQwHbMLHhy10QvKKEXJ-S4AkxC08KicCrS2P2WtwCOynff_vE_2wHUVcUdy-hMwfuNnR-ul88pcLm-QNPSeNSDr8pzFx47b63XFPvtGkDr6ZD2rm=w1080-h608-s-no-gm?authuser=0",
+        "enlace": "go:s2",
+        "data-status": "activo"
     }
 ]
