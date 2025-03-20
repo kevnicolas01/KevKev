@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Copas y Torneos",
+        "imagen": "https://lh3.googleusercontent.com/pw/AP1GczPf2ZYYOY8QMuJ0eygfqAnR6ZSfqvWyKdZBE2F2SgGiRzxnv3HaYQpsi4BX59dP6ZAgqHTW8MDMyPhaMNOWY2nSAF75MWYaUAkJXfpKVt7y52zmUsVfTYAdbzVGYZt_bSbU4ZPXiK8Jq1_UNTefCPZC=w1080-h608-s-no-gm?authuser=0",
+        "enlace": "go:s1",
+        "data-status": "activo"
+    },
+    {
+        "nombre": "Ligas Europeas",
+        "imagen": "https://lh3.googleusercontent.com/pw/AP1GczOPIJvKtrW6yeSV-mFpGm40yiHetediYhQ-bODWyQwHbMLHhy10QvKKEXJ-S4AkxC08KicCrS2P2WtwCOynff_vE_2wHUVcUdy-hMwfuNnR-ul88pcLm-QNPSeNSDr8pzFx47b63XFPvtGkDr6ZD2rm=w1080-h608-s-no-gm?authuser=0",
+        "enlace": "go:s2",
+        "data-status": "activo"
+    },
+    {
+        "nombre": "Ligas Latinoamericanas",
+        "imagen": "https://lh3.googleusercontent.com/pw/AP1GczNmY6ekOxFbtWtIGNvLRSlwN2SDW29Y651Wge2rYQqtMo3QuTbs9aJMQm5Nsh9dEfJfobr2k14h5i7IxJtr6koSo0isKyP7GcQv5ZgzBOEUPqkYWYLr144WEAnQCUXyaVvQssHEdCzpEZtwrydoge4z=w1080-h608-s-no-gm?authuser=0",
+        "enlace": "go:s3",
+        "data-status": "activo"
+    }
+]
