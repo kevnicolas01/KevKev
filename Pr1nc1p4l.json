@@ -1,31 +1,31 @@
 [
     {
         "nombre": "Copas y Torneos",
-        "imagen": "https://i.imgur.com/QuyQOJu.png",
+        "imagen": "https://imgur.com/EoRTaGh",
         "enlace": "go:s1",
         "data-status": "activo"
     },
     {
         "nombre": "Ligas Europeas",
-        "imagen": "https://lh3.googleusercontent.com/pw/AP1GczOPIJvKtrW6yeSV-mFpGm40yiHetediYhQ-bODWyQwHbMLHhy10QvKKEXJ-S4AkxC08KicCrS2P2WtwCOynff_vE_2wHUVcUdy-hMwfuNnR-ul88pcLm-QNPSeNSDr8pzFx47b63XFPvtGkDr6ZD2rm=w1080-h608-s-no-gm?authuser=0",
+        "imagen": "1https://imgur.com/YiWtDR0",
         "enlace": "go:s2",
         "data-status": "activo"
     },
     {
         "nombre": "Ligas Latinoamericanas",
-        "imagen": "https://lh3.googleusercontent.com/pw/AP1GczNmY6ekOxFbtWtIGNvLRSlwN2SDW29Y651Wge2rYQqtMo3QuTbs9aJMQm5Nsh9dEfJfobr2k14h5i7IxJtr6koSo0isKyP7GcQv5ZgzBOEUPqkYWYLr144WEAnQCUXyaVvQssHEdCzpEZtwrydoge4z=w1080-h608-s-no-gm?authuser=0",
+        "imagen": "https://imgur.com/D1sD2Ig",
         "enlace": "go:s3",
         "data-status": "activo"
     },
     {
         "nombre": "MLS",
-        "imagen": "https://lh3.googleusercontent.com/pw/AP1GczPMXh0QBX1cJ-mwuuLXOiYfgOUd3RNMWUwAP2EsauCbctSniwMMRc4WUUzKLukRkT2AtMiAV3BfGr5hBJuPvpBsn5kM0NNp5c0aBL8A_QynEeXrHBNlRC4IRaOYtsNxjYj3Xy0YmwGFwYgNfeSM5uz5=w1080-h608-s-no-gm?authuser=0",
+        "imagen": "https://i.imgur.com/JlUPuP1.png",
         "enlace": "go:mls",
         "data-status": "activo"
     },
     {
         "nombre": "Copa Argentina",
-        "imagen": "https://lh3.googleusercontent.com/pw/AP1GczNAYsMfF2Gb8GCibWp4VDkPjehHUhhUf9u8TxNlmGMrZfZuVEFf8bkV3qJThMl5m5QJPQfV2fNmsxS3hXmkfQ3I6kZGiPUwy7JLx4Tgit_sWmLxiEEjwSnn_AaAGnCrfcZtOwPYHlfvuJ1YY0qUKCZG=w1080-h608-s-no-gm?authuser=0",
+        "imagen": "https://i.imgur.com/J0koTxL.png",
         "enlace": "go:copaarg",
         "data-status": "activo"
     },
