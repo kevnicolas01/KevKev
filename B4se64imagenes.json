@@ -5,7 +5,7 @@
   },
   {
     "Nombre": "Champions",
-    "Base64": "data:image/png;base64,..."  // Aquí va el Base64 de la imagen
+    "Base64": "data:image/png;base64,..." 
   },
   {
     "Nombre": "Copas y Torneos",
@@ -13,34 +13,34 @@
   },
   {
     "Nombre": "Copa del rey",
-    "Base64": "data:image/png;base64,..."  // Aquí va el Base64 de la imagen
+    "Base64": "data:image/png;base64,..."  
   },
   {
     "Nombre": "Libertadores",
-    "Base64": "data:image/png;base64,..."  // Aquí va el Base64 de la imagen
+    "Base64": "data:image/png;base64,..."  
   },
   {
     "Nombre": "Sudamericana",
-    "Base64": "data:image/png;base64,..."  // Aquí va el Base64 de la imagen
+    "Base64": "data:image/png;base64,..."  
   },
   {
     "Nombre": "Europa League",
-    "Base64": "data:image/png;base64,..."  // Aquí va el Base64 de la imagen
+    "Base64": "data:image/png;base64,..."  
   },
   {
     "Nombre": "Copa del Rey",
-    "Base64": "data:image/png;base64,..."  // Aquí va el Base64 de la imagen
+    "Base64": "data:image/png;base64,..."  
   },
   {
     "Nombre": "EFL CUP",
-    "Base64": "data:image/png;base64,..."  // Aquí va el Base64 de la imagen
+    "Base64": "data:image/png;base64,..."  
   },
   {
     "Nombre": "Conference League",
-    "Base64": "data:image/png;base64,..."  // Aquí va el Base64 de la imagen
+    "Base64": "data:image/png;base64,..."  
   },
   {
     "Nombre": "Mundial de Clubes",
-    "Base64": "data:image/png;base64,..."  // Aquí va el Base64 de la imagen
+    "Base64": "data:image/png;base64,..."  
   }
     ]
