@@ -1,0 +1,64 @@
+{
+  "competencias": [
+    {
+      "nombre": "Champions League",
+      "imagen": "https://i.imgur.com/JT3vu4c.png",
+      "link": "go:S5",
+      "status": "activo"
+    },
+    {
+      "nombre": "Libertadores",
+      "imagen": "https://i.imgur.com/65s11p6.png",
+      "link": "go:S4",
+      "status": "activo"
+    },
+    {
+      "nombre": "Copa del Rey",
+      "imagen": "https://i.imgur.com/jzUy84p.png",
+      "link": "go:S6",
+      "status": "activo"
+    },
+    {
+      "nombre": "Europa League",
+      "imagen": "https://i.imgur.com/db47Fql.png",
+      "link": "go:S7",
+      "status": "activo"
+    },
+    {
+      "nombre": "Sudamericana",
+      "imagen": "https://i.imgur.com/cGP4c5h.png",
+      "link": "go:S8",
+      "status": "activo"
+    },
+    {
+      "nombre": "EFL CUP",
+      "imagen": "https://i.imgur.com/W2ODMdV.png",
+      "link": "go:S9",
+      "status": "activo"
+    },
+    {
+      "nombre": "Conference League",
+      "imagen": "https://i.imgur.com/HpVNwHd.png",
+      "link": "go:S10",
+      "status": "activo"
+    },
+    {
+      "nombre": "UEFA Nations League",
+      "imagen": "https://i.imgur.com/0G2j2Om.png",
+      "link": "go:S10",
+      "status": "Activo"
+    },
+    {
+      "nombre": "Eliminatorias Mundial",
+      "imagen": "https://i.imgur.com/obi3aCU.png",
+      "link": "go:S10",
+      "status": "Activo"
+    }
+    {
+      "nombre": "Mundial de Clubes",
+      "imagen": "https://i.imgur.com/18EahkN.png",
+      "link": "go:S10",
+      "status": "finalizado"
+    }
+  ]
+}
