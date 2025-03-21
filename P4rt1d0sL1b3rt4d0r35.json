@@ -591,4 +591,77 @@
       "fecha": "21 de Marzo"
     }
   ]
+  "UEFA Nations League": [
+    {
+      "link": "go:Nations1",
+      "canal": "go:ESPN",
+      "opcion1": "go:ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "UEFA Nations League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-17T22:00",
+      "fecha": "16 de Marzo"
+    },
+    {
+      "link": "go:Nations2",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "UEFA Nations League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-21T22:00",
+      "fecha": "17 de Marzo"
+    },
+    {
+      "link": "go:Nations3",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "UEFA Nations League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-21T22:00",
+      "fecha": "18 de Marzo"
+    },
+    {
+      "link": "go:Nations4",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "UEFA Nations League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-21T22:00",
+      "fecha": "19 de Marzo"
+    },
+    {
+      "link": "go: mundial5",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "UEFA Nations League 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-20T22:00",
+      "fecha": "20 de Marzo"
+    },
+    {
+      "link": "go:mundial6",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Mundial de Clubes 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-21T22:00",
+      "fecha": "21 de Marzo"
+    }
 }
