@@ -53,21 +53,21 @@
       "nombre": "UEFA Nations League",
       "orden":2,
       "imagen": "https://i.imgur.com/0G2j2Om.png",
-      "link": "go:S10",
+      "link": "go:S12",
       "status": "activo"
     },
     {
       "nombre": "Eliminatorias Mundial",
       "orden":1,
       "imagen": "https://i.imgur.com/obi3aCU.png",
-      "link": "go:S10",
+      "link": "go:S13",
       "status": "activo"
     },
     {
       "nombre": "Mundial de Clubes",
 "orden":9,
       "imagen": "https://i.imgur.com/18EahkN.png",
-      "link": "go:S10",
+      "link": "go:S11",
       "status": "finalizado"
     }
   ]
