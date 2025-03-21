@@ -195,25 +195,6 @@ html {
   </div>
   
 <script>
-  let iframe = document.querySelector("iframe");
-  let originalURL = iframe.src;
-
-  setInterval(() => {
-    try {
-      if (iframe.contentWindow.location.href !== originalURL) {
-        console.warn("Intento de redirección detectado en el iframe.");
-        iframe.contentWindow.location.href = originalURL; // Forzar regreso a la URL original
-      }
-    } catch (e) {
-      // Si hay error de CORS, significa que el iframe pertenece a otro dominio y no podemos acceder.
-    }
-  }, 1000);
-
-
-
-
-  
-  
   
   document.querySelector('.tg-banner').addEventListener('dragstart', function(e) {
   e.preventDefault();  // Evita el arrastre del enlace
