@@ -2,12 +2,14 @@
   "competencias": [
     {
       "nombre": "Champions League",
+      "orden":4,
       "imagen": "https://i.imgur.com/JT3vu4c.png",
       "link": "go:S5",
       "status": "finalizado"
     },
     {
       "nombre": "Libertadores",
+      "orden":3,
       "imagen": "https://i.imgur.com/65s11p6.png",
       "link": "go:S4",
       "status": "activo"
@@ -44,12 +46,14 @@
     },
     {
       "nombre": "UEFA Nations League",
+      "orden":2,
       "imagen": "https://i.imgur.com/0G2j2Om.png",
       "link": "go:S10",
       "status": "activo"
     },
     {
       "nombre": "Eliminatorias Mundial",
+      "orden":1,
       "imagen": "https://i.imgur.com/obi3aCU.png",
       "link": "go:S10",
       "status": "activo"
