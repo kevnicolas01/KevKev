@@ -153,11 +153,28 @@ html {
     .close-btn:hover {
       background: darkred;
     }
-  </style>
+    <style>
+  /* Capa transparente sobre el iframe */
+  .click-blocker {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0); /* Invisible */
+    cursor: pointer;
+  }
+
+
+
+
+</style>
+ 
 </head>
 
 <body>
-  
+  <div class="click-blocker" id="clickBlocker"></div>
   <!-- Telegram Banner -->
   <a href="https://t.me/QueGolazo" class="tg-banner" target="_blank" rel="noopener noreferrer">
     <img src="https://i.pinimg.com/originals/31/2a/f9/312af9235aadad69655688eaee97eabf.png" alt="Telegram Icon">
@@ -191,23 +208,22 @@ html {
   <script>
 
 // Espera a que el DOM cargue
-document.addEventListener("DOMContentLoaded", function() {
-    let scripts = document.querySelectorAll("script");
 
-    scripts.forEach(script => {
-        if (script.src.includes("alwaysdomain01.online") || script.textContent.includes("aclib.runPop")) {
-            script.remove(); // Elimina el script antes de que se ejecute
-            console.log("🚫 Script de anuncios bloqueado:", script.src);
-        }
+  document.addEventListener("DOMContentLoaded", function () {
+    let blocker = document.getElementById("clickBlocker");
+
+    blocker.addEventListener("click", function () {
+      console.log("Clic permitido");
+      blocker.style.pointerEvents = "none"; // Desactiva la capa
+      setTimeout(() => {
+        blocker.style.pointerEvents = "auto"; // Reactiva después de 5 segundos
+      }, 5000);
     });
-});
+  });
 
-// Bloquea pop-ups y redirecciones
-window.open = function() {
-    console.log("🚫 Intento de abrir popup bloqueado.");
-    return null;
-};
-
+  
+  
+  
   document.querySelector('.tg-banner').addEventListener('dragstart', function(e) {
   e.preventDefault();  // Evita el arrastre del enlace
 });
