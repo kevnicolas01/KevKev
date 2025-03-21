@@ -16,30 +16,35 @@
     },
     {
       "nombre": "Copa del Rey",
+"orden":4,
       "imagen": "https://i.imgur.com/jzUy84p.png",
       "link": "go:S6",
       "status": "activo"
     },
     {
       "nombre": "Europa League",
+"orden":5,
       "imagen": "https://i.imgur.com/db47Fql.png",
       "link": "go:S7",
       "status": "activo"
     },
     {
       "nombre": "Sudamericana",
+"orden":6,
       "imagen": "https://i.imgur.com/cGP4c5h.png",
       "link": "go:S8",
       "status": "activo"
     },
     {
       "nombre": "EFL CUP",
+"orden":7,
       "imagen": "https://i.imgur.com/W2ODMdV.png",
       "link": "go:S9",
       "status": "activo"
     },
     {
       "nombre": "Conference League",
+"orden":8,
       "imagen": "https://i.imgur.com/HpVNwHd.png",
       "link": "go:S10",
       "status": "activo"
@@ -60,6 +65,7 @@
     },
     {
       "nombre": "Mundial de Clubes",
+"orden":9,
       "imagen": "https://i.imgur.com/18EahkN.png",
       "link": "go:S10",
       "status": "finalizado"
