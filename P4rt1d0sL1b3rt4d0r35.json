@@ -664,5 +664,79 @@
       "fechaInicio": "2025-03-21T22:00",
       "fecha": "21 de Marzo"
     }
+  ],
+  "Mundial Eliminatorias": [
+    {
+      "link": "go:elim1",
+      "canal": "go:ESPN",
+      "opcion1": "go:ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Sudamericana 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-17T22:00",
+      "fecha": "16 de Marzo"
+    },
+    {
+      "link": "go:elim2",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Mundial Eliminatorias 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-21T22:00",
+      "fecha": "17 de Marzo"
+    },
+    {
+      "link": "go:Elim3",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Mundial Eliminatorias 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-21T22:00",
+      "fecha": "18 de Marzo"
+    },
+    {
+      "link": "go:elim4",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Mundial Eliminatorias 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-22T22:00",
+      "fecha": "19 de Marzo"
+    },
+    {
+      "link": "go:Elim5",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Mundial Eliminatorias 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-23T22:00",
+      "fecha": "20 de Marzo"
+    },
+    {
+      "link": "go:Elim6",
+      "canal": "ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Mundial Eliminatorias 🏆",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-21T22:00",
+      "fecha": "21 de Marzo"
+    }
   ]
 }
