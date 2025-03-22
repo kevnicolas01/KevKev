@@ -1,0 +1,174 @@
+{
+  "Liga Argentina": [
+    {
+      "link": "go:ARG1",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "TyC Sports",
+      "opcion3": "Star+",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-25T20:00",
+      "fecha": "25 de Marzo"
+    },
+    {
+      "link": "go:ARG2",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "TyC Sports",
+      "opcion3": "Star+",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-25T20:00",
+      "fecha": "25 de Marzo"
+    },
+    {
+      "link": "go:ARG3",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "TyC Sports",
+      "opcion3": "Star+",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-25T20:00",
+      "fecha": "25 de Marzo"
+    },
+    {
+      "link": "go:ARG4",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "TyC Sports",
+      "opcion3": "Star+",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-25T20:00",
+      "fecha": "25 de Marzo"
+    },
+    {
+      "link": "go:ARG5",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "TyC Sports",
+      "opcion3": "Star+",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-25T20:00",
+      "fecha": "25 de Marzo"
+    },
+    {
+      "link": "go:ARG6",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "TyC Sports",
+      "opcion3": "Star+",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-25T20:00",
+      "fecha": "25 de Marzo"
+    }
+  ],
+  "Liga Brasileña": [
+    {
+      "link": "go:BRA1",
+      "canal": "go:Premiere",
+      "opcion1": "ESPN",
+      "opcion2": "Globo",
+      "opcion3": "Star+",
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-25T19:00",
+      "fecha": "25 de Marzo"
+    }
+  ],
+  "Liga Peruana": [
+    {
+      "link": "go:PER1",
+      "canal": "go:GOLPERU",
+      "opcion1": "GOLPERU",
+      "opcion2": "ESPN",
+      "opcion3": "Star+",
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-27T18:30",
+      "fecha": "27 de Marzo"
+    }
+  ],
+  "Liga Chilena": [
+    {
+      "link": "go:CHI1",
+      "canal": "go:TNT Sports Chile",
+      "opcion1": "TNT Sports",
+      "opcion2": "ESPN",
+      "opcion3": "Star+",
+      "torneo": "Liga Chilena 🇨🇱",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-28T20:00",
+      "fecha": "28 de Marzo"
+    }
+  ],
+  "Liga Mexicana": [
+    {
+      "link": "go:MEX1",
+      "canal": "go:TUDN",
+      "opcion1": "TUDN",
+      "opcion2": "Azteca Deportes",
+      "opcion3": "Star+",
+      "torneo": "Liga Mexicana 🇲🇽",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-29T21:00",
+      "fecha": "29 de Marzo"
+    }
+  ],
+  "Liga Uruguaya": [
+    {
+      "link": "go:URU1",
+      "canal": "go:VTV Uruguay",
+      "opcion1": "VTV",
+      "opcion2": "ESPN",
+      "opcion3": "Star+",
+      "torneo": "Liga Uruguaya 🇺🇾",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-30T18:00",
+      "fecha": "30 de Marzo"
+    }
+  ],
+  "Liga Colombiana": [
+    {
+      "link": "go:COL1",
+      "canal": "go:Win Sports+",
+      "opcion1": "Win Sports+",
+      "opcion2": "ESPN",
+      "opcion3": "Star+",
+      "torneo": "Liga Colombiana 🇨🇴",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-03-31T20:00",
+      "fecha": "31 de Marzo"
+    }
+  ],
+  "Liga Ecuatoriana": [
+    {
+      "link": "go:ECU1",
+      "canal": "go:GolTV Ecuador",
+      "opcion1": "GolTV",
+      "opcion2": "ESPN",
+      "opcion3": "Star+",
+      "torneo": "Liga Ecuatoriana 🇪🇨",
+      "equipo1": "Equipo 1",
+      "equipo2": "Equipo 2",
+      "fechaInicio": "2025-04-01T19:00",
+      "fecha": "1 de Abril"
+    }
+  ]
+}
