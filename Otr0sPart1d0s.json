@@ -54,14 +54,14 @@
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "La Liga 🇪🇸",
+      "torneo": "Copa Argentina 🇦🇷",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
       "fechaInicio": "2025-03-23T18:00",
       "fecha": "19 de Marzo"
     },
     {
-      "link": "go:laliga6",
+      "link": "go:Copaarg6",
       "canal": "go:fox1ar",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
@@ -73,17 +73,18 @@
       "fecha": "20 de Marzo"
     }
   ],
-  "MSL": [
+  
+  "MLS": [
     {
       "link": "go:mls1",
       "canal": "go:fox2ar",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "MSL 🇺🇸",
+      "torneo": "MLS 🇺🇸",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T19:00",
+      "fechaInicio": "2025-03-23T19:00",
       "fecha": "17 de Marzo"
     },
     {
@@ -92,10 +93,10 @@
       "opcion1": "go:ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "MSL 🇺🇸",
+      "torneo": "MLS 🇺🇸",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-22T21:00",
+      "fechaInicio": "2025-03-22T23:00",
       "fecha": "18 de Marzo"
     },
     {
@@ -104,7 +105,7 @@
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "MSL 🇺🇸",
+      "torneo": "MLS 🇺🇸",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
       "fechaInicio": "2025-03-23T19:00",
@@ -116,7 +117,7 @@
       "opcion1": "go:ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "MSL 🇺🇸",
+      "torneo": "MLS 🇺🇸",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
       "fechaInicio": "2025-03-24T21:00",
@@ -128,7 +129,7 @@
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "MSL 🇺🇸",
+      "torneo": "MLS 🇺🇸",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
       "fechaInicio": "2025-03-25T19:00",
@@ -140,7 +141,7 @@
       "opcion1": "go:ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "MSL 🇺🇸",
+      "torneo": "MLS 🇺🇸",
       "equipo1": "Equipo 1",
       "equipo2": "Equipo 2",
       "fechaInicio": "2025-03-26T21:00",
