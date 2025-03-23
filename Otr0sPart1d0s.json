@@ -1,373 +1,264 @@
 {
-  "Copa Argentina": [
+  "UEFA Nations League": [
     {
-      "link": "go:copaarg1",
+      "link": "go:s12",
       "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "Copa Argentina 🇦🇷",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-23T00:00",
-      "fecha": "15 de Marzo"
+      "torneo": "UEFA Nations League",
+      "equipo1": "Georgia",
+      "equipo2": "Armenia",
+      "fechaInicio": "2025-03-23T11:00",
+      "fecha": "23 de Marzo"
     },
     {
-      "link": "go:copaarg2",
-      "canal": "go:TNTSPORTS",
+      "link": "go:s12",
+      "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "Copa Argentina 🇦🇷",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-23T01:30",
-      "fecha": "16 de Marzo"
+      "torneo": "UEFA Nations League",
+      "equipo1": "Eslovenia",
+      "equipo2": "Eslovaquia",
+      "fechaInicio": "2025-03-23T14:00",
+      "fecha": "23 de Marzo"
     },
     {
-      "link": "go:copaarg3",
-      "canal": "go:TNTSports",
+      "link": "go:s12",
+      "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "Copa Argentina 🇦🇷",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-22T19:30",
-      "fecha": "17 de Marzo"
+      "torneo": "UEFA Nations League",
+      "equipo1": "Islandia",
+      "equipo2": "Kosovo",
+      "fechaInicio": "2025-03-23T14:00",
+      "fecha": "23 de Marzo"
     },
     {
-      "link": "go:copaarg4",
-      "canal": "go:tycsports",
+      "link": "go:s12",
+      "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "Copa Argentina 🇦🇷",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-22T21:00",
-      "fecha": "18 de Marzo"
+      "torneo": "UEFA Nations League",
+      "equipo1": "Serbia",
+      "equipo2": "Austria",
+      "fechaInicio": "2025-03-23T14:00",
+      "fecha": "23 de Marzo"
     },
     {
-      "link": "go:copaarg5",
-      "canal": "go:espnprem",
+      "link": "go:s12",
+      "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "Copa Argentina 🇦🇷",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-23T18:00",
-      "fecha": "19 de Marzo"
+      "torneo": "UEFA Nations League",
+      "equipo1": "Escocia",
+      "equipo2": "Grecia",
+      "fechaInicio": "2025-03-23T14:00",
+      "fecha": "23 de Marzo"
     },
     {
-      "link": "go:Copaarg6",
-      "canal": "go:fox1ar",
+      "link": "go:s12",
+      "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "Copa Argentina 🇦🇷",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
+      "torneo": "UEFA Nations League",
+      "equipo1": "Hungría",
+      "equipo2": "Turquía",
+      "fechaInicio": "2025-03-23T14:00",
+      "fecha": "23 de Marzo"
+    },
+    {
+      "link": "go:s12",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "UEFA Nations League",
+      "equipo1": "España",
+      "equipo2": "Holanda",
+      "fechaInicio": "2025-03-23T16:45",
+      "fecha": "23 de Marzo"
+    },
+    {
+      "link": "go:s12",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "UEFA Nations League",
+      "equipo1": "Alemania",
+      "equipo2": "Italia",
+      "fechaInicio": "2025-03-23T16:45",
+      "fecha": "23 de Marzo"
+    },
+    {
+      "link": "go:s12",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "UEFA Nations League",
+      "equipo1": "Francia",
+      "equipo2": "Croacia",
+      "fechaInicio": "2025-03-23T16:45",
+      "fecha": "23 de Marzo"
+    },
+    {
+      "link": "go:s12",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "UEFA Nations League",
+      "equipo1": "Portugal",
+      "equipo2": "Dinamarca",
+      "fechaInicio": "2025-03-23T16:45",
+      "fecha": "23 de Marzo"
+    },
+    {
+      "link": "go:s12",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "UEFA Nations League",
+      "equipo1": "Bélgica",
+      "equipo2": "Ucrania",
+      "fechaInicio": "2025-03-23T16:45",
+      "fecha": "23 de Marzo"
+    },
+    {
+      "link": "go:s12",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "UEFA Nations League",
+      "equipo1": "República Irlanda",
+      "equipo2": "Bulgaria",
+      "fechaInicio": "2025-03-23T16:45",
+      "fecha": "23 de Marzo"
+    }
+  ],
+  "Liga Uruguaya": [
+    {
+      "link": "go:uru",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Liga Uruguaya",
+      "equipo1": "Progreso",
+      "equipo2": "River Plate",
+      "fechaInicio": "2025-03-23T15:30",
+      "fecha": "23 de Marzo"
+    },
+    {
+      "link": "go:uru",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Liga Uruguaya",
+      "equipo1": "Cerro CA",
+      "equipo2": "Danubio",
+      "fechaInicio": "2025-03-23T17:45",
+      "fecha": "23 de Marzo"
+    },
+    {
+      "link": "go:uru",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Liga Uruguaya",
+      "equipo1": "Wanderers",
+      "equipo2": "Miramar",
+      "fechaInicio": "2025-03-23T20:00",
+      "fecha": "23 de Marzo"
+    }
+  ],
+  "Liga Peruana": [
+    {
+      "link": "go:pe",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Liga Peruana",
+      "equipo1": "Los Chankas",
+      "equipo2": "Cienciano",
+      "fechaInicio": "2025-03-23T17:00",
+      "fecha": "23 de Marzo"
+    }
+  ],
+  "Copa Argentina": [
+    {
+      "link": "go:copaarg",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Copa Argentina",
+      "equipo1": "Racing Club",
+      "equipo2": "Santamarina",
+      "fechaInicio": "2025-03-23T17:00",
+      "fecha": "23 de Marzo"
+    },
+    {
+      "link": "go:copaarg",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Copa Argentina",
+      "equipo1": "San Lorenzo",
+      "equipo2": "Sportivo Las Parejas",
+      "fechaInicio": "2025-03-23T19:15",
+      "fecha": "23 de Marzo"
+    }
+  ],
+  "Liga Colombiana": [
+    {
+      "link": "go:col",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Liga Colombiana",
+      "equipo1": "Alianza",
+      "equipo2": "Atlético Bucaramanga",
+      "fechaInicio": "2025-03-23T17:30",
+      "fecha": "23 de Marzo"
+    },
+    {
+      "link": "go:col",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Liga Colombiana",
+      "equipo1": "Atlético Nacional",
+      "equipo2": "Independiente Medellín",
       "fechaInicio": "2025-03-23T19:45",
-      "fecha": "20 de Marzo"
+      "fecha": "23 de Marzo"
+    },
+    {
+      "link": "go:col",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Liga Colombiana",
+      "equipo1": "Aguilas Doradas",
+      "equipo2": "Envigado",
+      "fechaInicio": "2025-03-23T22:00",
+      "fecha": "23 de Marzo"
     }
-  ],
-  
-  "MLS": [
-    {
-      "link": "go:mls1",
-      "canal": "go:fox2ar",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "MLS 🇺🇸",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-23T19:00",
-      "fecha": "17 de Marzo"
-    },
-    {
-      "link": "go:mls2",
-      "canal": "go:TYCSPORTS",
-      "opcion1": "go:ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "MLS 🇺🇸",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-22T23:00",
-      "fecha": "18 de Marzo"
-    },
-    {
-      "link": "go:mls3",
-      "canal": "go:fox2ar",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "MLS 🇺🇸",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-23T19:00",
-      "fecha": "17 de Marzo"
-    },
-    {
-      "link": "go:mls4",
-      "canal": "go:TYCSPORTS",
-      "opcion1": "go:ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "MLS 🇺🇸",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-24T21:00",
-      "fecha": "18 de Marzo"
-    },
-    {
-      "link": "go:mls5",
-      "canal": "go:fox2ar",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "MLS 🇺🇸",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-25T19:00",
-      "fecha": "17 de Marzo"
-    },
-    {
-      "link": "go:mls6",
-      "canal": "go:TYCSPORTS",
-      "opcion1": "go:ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "MLS 🇺🇸",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-26T21:00",
-      "fecha": "18 de Marzo"
-    }
-  ],
-  "Agregar Liga": [
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    },
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    },   
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    },
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    },
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    },
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    }
-  ],
-  "Agregar Liga": [
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    },
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    },   
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    },
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    },
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    },
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    }
-  ],
-  "Agregar Liga": [
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    },
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    },   
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    },
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    },
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    },
-    {
-      "link": "go:...",
-      "canal": "ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Agregar Liga",
-      "equipo1": "Equipo 1",
-      "equipo2": "Equipo 2",
-      "fechaInicio": "2025-03-21T18:00",
-      "fecha": "16 de Marzo"
-    }
-    ]
-    }
+  ]
+}
