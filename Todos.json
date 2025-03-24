@@ -1,226 +1,76 @@
 {
-  "UEFA Nations League": [
+  "Eliminatorias Mundial": [
     {
-      "link": "go:nations1",
+      "link": "go:elim1",
       "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "UEFA Nations League",
-      "equipo1": "Georgia",
-      "equipo2": "Armenia",
-      "fechaInicio": "2025-03-23T11:00",
-      "fecha": "23 de Marzo"
+      "torneo": "Eliminatorias Mundial",
+      "equipo1": "Lituania",
+      "equipo2": "Finlandia",
+      "fechaInicio": "2025-03-24T16:00",
+      "fecha": "24 de Marzo"
     },
     {
-      "link": "go:nations2",
+      "link": "go:elim2",
       "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "UEFA Nations League",
-      "equipo1": "Eslovenia",
-      "equipo2": "Eslovaquia",
-      "fechaInicio": "2025-03-23T14:00",
-      "fecha": "23 de Marzo"
+      "torneo": "Eliminatorias Mundial",
+      "equipo1": "Inglaterra",
+      "equipo2": "Letonia",
+      "fechaInicio": "2025-03-24T18:45",
+      "fecha": "24 de Marzo"
     },
     {
-      "link": "go:nations3",
+      "link": "go:elim3",
       "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "UEFA Nations League",
-      "equipo1": "Islandia",
-      "equipo2": "Kosovo",
-      "fechaInicio": "2025-03-23T14:00",
-      "fecha": "23 de Marzo"
+      "torneo": "Eliminatorias Mundial",
+      "equipo1": "Polonia",
+      "equipo2": "Malta",
+      "fechaInicio": "2025-03-24T18:45",
+      "fecha": "24 de Marzo"
     },
     {
-      "link": "go:nations4",
+      "link": "go:elim4",
       "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "UEFA Nations League",
-      "equipo1": "Serbia",
-      "equipo2": "Austria",
-      "fechaInicio": "2025-03-23T14:00",
-      "fecha": "23 de Marzo"
+      "torneo": "Eliminatorias Mundial",
+      "equipo1": "Albania",
+      "equipo2": "Andorra",
+      "fechaInicio": "2025-03-24T18:45",
+      "fecha": "24 de Marzo"
     },
     {
-      "link": "go:nations5",
+      "link": "go:elim5",
       "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "UEFA Nations League",
-      "equipo1": "Escocia",
-      "equipo2": "Grecia",
-      "fechaInicio": "2025-03-23T14:00",
-      "fecha": "23 de Marzo"
+      "torneo": "Eliminatorias Mundial",
+      "equipo1": "Bosnia-Herzegovina",
+      "equipo2": "Chipre",
+      "fechaInicio": "2025-03-24T18:45",
+      "fecha": "24 de Marzo"
     },
     {
-      "link": "go:nations6",
+      "link": "go:elim6",
       "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "UEFA Nations League",
-      "equipo1": "Hungría",
-      "equipo2": "Turquía",
-      "fechaInicio": "2025-03-23T14:00",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:nations7",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "UEFA Nations League",
-      "equipo1": "España",
-      "equipo2": "Holanda",
-      "fechaInicio": "2025-03-23T16:45",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:nations8",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "UEFA Nations League",
-      "equipo1": "Alemania",
-      "equipo2": "Italia",
-      "fechaInicio": "2025-03-23T16:45",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:nations9",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "UEFA Nations League",
-      "equipo1": "Francia",
-      "equipo2": "Croacia",
-      "fechaInicio": "2025-03-23T16:45",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:nations10",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "UEFA Nations League",
-      "equipo1": "Portugal",
-      "equipo2": "Dinamarca",
-      "fechaInicio": "2025-03-23T16:45",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:nations11",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "UEFA Nations League",
-      "equipo1": "Bélgica",
-      "equipo2": "Ucrania",
-      "fechaInicio": "2025-03-23T16:45",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:nations12",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "UEFA Nations League",
-      "equipo1": "República Irlanda",
-      "equipo2": "Bulgaria",
-      "fechaInicio": "2025-03-23T16:45",
-      "fecha": "23 de Marzo"
-    }
-  ],
-  "Liga Uruguaya": [
-    {
-      "link": "go:uru1",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Liga Uruguaya",
-      "equipo1": "Progreso",
-      "equipo2": "River Plate",
-      "fechaInicio": "2025-03-23T18:30",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:uru2",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Liga Uruguaya",
-      "equipo1": "Cerro CA",
-      "equipo2": "Danubio",
-      "fechaInicio": "2025-03-23T23:00",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:uru3",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Liga Uruguaya",
-      "equipo1": "Wanderers",
-      "equipo2": "Miramar",
-      "fechaInicio": "2025-03-23T20:00",
-      "fecha": "23 de Marzo"
-    }
-  ],
-  "Liga Peruana": [
-    {
-      "link": "go:per1",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Liga Peruana",
-      "equipo1": "Los Chankas",
-      "equipo2": "Cienciano",
-      "fechaInicio": "2025-03-23T17:00",
-      "fecha": "23 de Marzo"
-    }
-  ],
-  "Copa Argentina": [
-    {
-      "link": "go:copaarg1",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Copa Argentina",
-      "equipo1": "Racing Club",
-      "equipo2": "Santamarina",
-      "fechaInicio": "2025-03-23T17:00",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:copaarg2",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Copa Argentina",
-      "equipo1": "San Lorenzo",
-      "equipo2": "Sportivo Las Parejas",
-      "fechaInicio": "2025-03-23T19:15",
-      "fecha": "23 de Marzo"
+      "torneo": "Eliminatorias Mundial",
+      "equipo1": "San Marino",
+      "equipo2": "Rumanía",
+      "fechaInicio": "2025-03-24T18:45",
+      "fecha": "24 de Marzo"
     }
   ],
   "Liga Colombiana": [
@@ -231,10 +81,10 @@
       "opcion2": "ESPN",
       "opcion3": "ESPN",
       "torneo": "Liga Colombiana",
-      "equipo1": "Alianza",
-      "equipo2": "Atlético Bucaramanga",
-      "fechaInicio": "2025-03-23T17:30",
-      "fecha": "23 de Marzo"
+      "equipo1": "Bogotá",
+      "equipo2": "Patriotas",
+      "fechaInicio": "2025-03-24T18:00",
+      "fecha": "24 de Marzo"
     },
     {
       "link": "go:col2",
@@ -243,10 +93,10 @@
       "opcion2": "ESPN",
       "opcion3": "ESPN",
       "torneo": "Liga Colombiana",
-      "equipo1": "Atlético Nacional",
-      "equipo2": "Independiente Medellín",
-      "fechaInicio": "2025-03-23T19:45",
-      "fecha": "23 de Marzo"
+      "equipo1": "Tolima",
+      "equipo2": "Llaneros",
+      "fechaInicio": "2025-03-24T20:00",
+      "fecha": "24 de Marzo"
     },
     {
       "link": "go:col3",
@@ -255,10 +105,22 @@
       "opcion2": "ESPN",
       "opcion3": "ESPN",
       "torneo": "Liga Colombiana",
-      "equipo1": "Aguilas Doradas",
-      "equipo2": "Envigado",
-      "fechaInicio": "2025-03-23T22:00",
-      "fecha": "23 de Marzo"
+      "equipo1": "Deportivo Cali",
+      "equipo2": "América de Cali",
+      "fechaInicio": "2025-03-24T22:10",
+      "fecha": "24 de Marzo"
+    },
+    {
+      "link": "go:col4",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Liga Colombiana",
+      "equipo1": "Leones",
+      "equipo2": "Real Cundinamarca",
+      "fechaInicio": "",
+      "fecha": "24 de Marzo"
     }
   ]
 }
