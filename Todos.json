@@ -7,10 +7,10 @@
       "opcion2": "ESPN",
       "opcion3": "ESPN",
       "torneo": "Eliminatorias Mundial",
-      "equipo1": "Lituania",
-      "equipo2": "Finlandia",
-      "fechaInicio": "2025-03-25T23:00",
-      "fecha": "24 de Marzo"
+      "equipo1": "Moldavia",
+      "equipo2": "Estonia",
+      "fechaInicio": "2025-03-25T14:00",
+      "fecha": "25 de Marzo"
     },
     {
       "link": "go:elim2",
@@ -19,10 +19,10 @@
       "opcion2": "ESPN",
       "opcion3": "ESPN",
       "torneo": "Eliminatorias Mundial",
-      "equipo1": "Inglaterra",
-      "equipo2": "Letonia",
-      "fechaInicio": "2025-03-25T03:45",
-      "fecha": "24 de Marzo"
+      "equipo1": "Israel",
+      "equipo2": "Noruega",
+      "fechaInicio": "2025-03-25T16:45",
+      "fecha": "25 de Marzo"
     },
     {
       "link": "go:elim3",
@@ -31,10 +31,10 @@
       "opcion2": "ESPN",
       "opcion3": "ESPN",
       "torneo": "Eliminatorias Mundial",
-      "equipo1": "Polonia",
-      "equipo2": "Malta",
-      "fechaInicio": "2025-03-25T02:25",
-      "fecha": "24 de Marzo"
+      "equipo1": "Montenegro",
+      "equipo2": "Islas Feroe",
+      "fechaInicio": "2025-03-25T16:45",
+      "fecha": "25 de Marzo"
     },
     {
       "link": "go:elim4",
@@ -43,10 +43,10 @@
       "opcion2": "ESPN",
       "opcion3": "ESPN",
       "torneo": "Eliminatorias Mundial",
-      "equipo1": "Albania",
-      "equipo2": "Andorra",
-      "fechaInicio": "2025-03-25T21:45",
-      "fecha": "24 de Marzo"
+      "equipo1": "Gibraltar",
+      "equipo2": "República Checa",
+      "fechaInicio": "2025-03-25T16:45",
+      "fecha": "25 de Marzo"
     },
     {
       "link": "go:elim5",
@@ -55,10 +55,10 @@
       "opcion2": "ESPN",
       "opcion3": "ESPN",
       "torneo": "Eliminatorias Mundial",
-      "equipo1": "Bosnia-Herzegovina",
-      "equipo2": "Chipre",
-      "fechaInicio": "2025-03-24T18:45",
-      "fecha": "24 de Marzo"
+      "equipo1": "Liechtenstein",
+      "equipo2": "Kazajistán",
+      "fechaInicio": "2025-03-25T16:45",
+      "fecha": "25 de Marzo"
     },
     {
       "link": "go:elim6",
@@ -67,60 +67,70 @@
       "opcion2": "ESPN",
       "opcion3": "ESPN",
       "torneo": "Eliminatorias Mundial",
-      "equipo1": "San Marino",
-      "equipo2": "Rumanía",
-      "fechaInicio": "2025-03-24T18:45",
-      "fecha": "24 de Marzo"
-    }
-  ],
-  "Liga Colombiana": [
-    {
-      "link": "go:col1",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
-      "torneo": "Liga Colombiana",
-      "equipo1": "Bogotá",
-      "equipo2": "Patriotas",
-      "fechaInicio": "2025-03-24T18:00",
-      "fecha": "24 de Marzo"
+      "equipo1": "Macedonia del Norte",
+      "equipo2": "Gales",
+      "fechaInicio": "2025-03-25T16:45",
+      "fecha": "25 de Marzo"
     },
     {
-      "link": "go:col2",
+      "link": "go:elim7",
       "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "Liga Colombiana",
-      "equipo1": "Tolima",
-      "equipo2": "Llaneros",
-      "fechaInicio": "2025-03-24T20:00",
-      "fecha": "24 de Marzo"
+      "torneo": "Eliminatorias Mundial",
+      "equipo1": "Bolivia",
+      "equipo2": "Uruguay",
+      "fechaInicio": "2025-03-25T17:00",
+      "fecha": "25 de Marzo"
     },
     {
-      "link": "go:col3",
+      "link": "go:elim8",
       "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "Liga Colombiana",
-      "equipo1": "Deportivo Cali",
-      "equipo2": "América de Cali",
-      "fechaInicio": "2025-03-24T22:10",
-      "fecha": "24 de Marzo"
+      "torneo": "Eliminatorias Mundial",
+      "equipo1": "Venezuela",
+      "equipo2": "Perú",
+      "fechaInicio": "2025-03-25T21:00",
+      "fecha": "25 de Marzo"
     },
     {
-      "link": "go:col4",
+      "link": "go:elim9",
       "canal": "go:ESPN",
       "opcion1": "ESPN",
       "opcion2": "ESPN",
       "opcion3": "ESPN",
-      "torneo": "Liga Colombiana",
-      "equipo1": "Leones",
-      "equipo2": "Real Cundinamarca",
-      "fechaInicio": "",
-      "fecha": "24 de Marzo"
+      "torneo": "Eliminatorias Mundial",
+      "equipo1": "Argentina",
+      "equipo2": "Brasil",
+      "fechaInicio": "2025-03-25T21:00",
+      "fecha": "25 de Marzo"
+    },
+    {
+      "link": "go:elim10",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Eliminatorias Mundial",
+      "equipo1": "Chile",
+      "equipo2": "Ecuador",
+      "fechaInicio": "2025-03-25T21:00",
+      "fecha": "25 de Marzo"
+    },
+    {
+      "link": "go:elim11",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "Eliminatorias Mundial",
+      "equipo1": "Colombia",
+      "equipo2": "Paraguay",
+      "fechaInicio": "2025-03-25T21:00",
+      "fecha": "25 de Marzo"
     }
   ]
 }
