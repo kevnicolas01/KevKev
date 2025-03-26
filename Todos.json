@@ -1,5 +1,5 @@
 {
-  "Liga Uruguaya": [
+  "Liga Uruguaya ": [
     {
       "link": "go:uru1",
       "canal": "go:vtv+",
@@ -37,7 +37,7 @@
       "fecha": "26 de Marzo"
     }
   ],
-  "Copa Argentina": [
+  "Copa Argentina ": [
     {
       "link": "go:copaarg1",
       "canal": "go:TyCSports",
@@ -51,7 +51,7 @@
       "fecha": "26 de Marzo"
     }
   ],
-  "Liga Colombiana": [
+  "Liga Colombiana ": [
     {
       "link": "go:col1",
       "canal": "go:winsports+",
