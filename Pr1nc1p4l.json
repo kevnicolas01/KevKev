@@ -21,7 +21,7 @@
         "nombre": "MLS",
         "imagen": "https://i.imgur.com/JlUPuP1.png",
         "enlace": "go:mls",
-        "data-status": "Finalizado"
+        "data-status": "finalizado"
     },
     {
         "nombre": "Copa Argentina",
