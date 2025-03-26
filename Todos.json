@@ -2,9 +2,9 @@
   "Liga Uruguaya": [
     {
       "link": "go:uru1",
-      "canal": "go:vtv+",
+      "canal": "go:vtvplus",
       "opcion1": "go:goltv",
-      "opcion2": "go:vtv+",
+      "opcion2": "go:vtvplus",
       "opcion3": "go:goltv",
       "torneo": "Liga Uruguaya 🇺🇾",
       "equipo1": "Racing Montevideo",
@@ -14,9 +14,9 @@
     },
     {
       "link": "go:uru2",
-      "canal": "go:vtv+",
+      "canal": "go:vtvplus",
       "opcion1": "go:goltv",
-      "opcion2": "go:vtv+",
+      "opcion2": "go:vtvplus",
       "opcion3": "go:goltv",
       "torneo": "Liga Uruguaya 🇺🇾",
       "equipo1": "Liverpool M.",
@@ -26,9 +26,9 @@
     },
     {
       "link": "go:uru3",
-      "canal": "go:vtv+",
+      "canal": "go:vtvplus",
       "opcion1": "go:goltv",
-      "opcion2": "go:vtv+",
+      "opcion2": "go:vtvplus",
       "opcion3": "go:goltv",
       "torneo": "Liga Uruguaya 🇺🇾",
       "equipo1": "Plaza Colonia",
