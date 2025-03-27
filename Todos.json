@@ -1,92 +1,182 @@
 {
-  "Liga Uruguaya": [
+  "Liga Argentina": [
     {
-      "link": "go:uru1",
-      "canal": "go:vtvplus",
-      "opcion1": "go:goltv",
-      "opcion2": "go:vtvplus",
-      "opcion3": "go:goltv",
-      "torneo": "Liga Uruguaya 🇺🇾",
-      "equipo1": "Racing Montevideo",
-      "equipo2": "River Plate",
-      "fechaInicio": "2025-03-26T14:00",
-      "fecha": "26 de Marzo"
+      "link": "Go:arg1",
+      "canal": "Go:TNTSports",
+      "opcion1": "Go:TNTSports",
+      "opcion2": "Go:tycsports",
+      "opcion3": "Go:tycsports",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Aldosivi",
+      "equipo2": "Unión Santa Fe",
+      "fechaInicio": "2025-03-23T15:30",
+      "fecha": "15 de Marzo"
     },
     {
-      "link": "go:uru2",
-      "canal": "go:vtvplus",
-      "opcion1": "go:goltv",
-      "opcion2": "go:vtvplus",
-      "opcion3": "go:goltv",
-      "torneo": "Liga Uruguaya 🇺🇾",
-      "equipo1": "Liverpool M.",
-      "equipo2": "Nacional",
-      "fechaInicio": "2025-03-26T17:10",
-      "fecha": "26 de Marzo"
+      "link": "Go:arg2",
+      "canal": "Go:Espnpremium",
+      "opcion1": "Go:Espnpremium",
+      "opcion2": "Go:tycsports",
+      "opcion3": "Go:tycsports",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Barracas Central",
+      "equipo2": "Estudiantes",
+      "fechaInicio": "2025-03-23T18:00",
+      "fecha": "15 de Marzo"
     },
     {
-      "link": "go:uru3",
-      "canal": "go:vtvplus",
-      "opcion1": "go:goltv",
-      "opcion2": "go:vtvplus",
-      "opcion3": "go:goltv",
-      "torneo": "Liga Uruguaya 🇺🇾",
-      "equipo1": "Plaza Colonia",
-      "equipo2": "Boston River",
-      "fechaInicio": "2025-03-26T19:00",
-      "fecha": "26 de Marzo"
+      "link": "Go:arg3",
+      "canal": "Go:TNTSports",
+      "opcion1": "Go:TNTSports",
+      "opcion2": "Go:tycsports",
+      "opcion3": "Go:tycsports",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Independiente Rivadavia",
+      "equipo2": "Racing Club",
+      "fechaInicio": "2025-03-23T21:00",
+      "fecha": "15 de Marzo"
     }
   ],
-  "Copa Argentina": [
+  "La Liga": [
     {
-      "link": "go:copaarg1",
-      "canal": "go:TyCSports",
-      "opcion1": "go:tycop2",
-      "opcion2": "go:tycsports",
-      "opcion3": "go:tycop2",
-      "torneo": "Copa Argentina 🇦🇷",
-      "equipo1": "San Martín S.J.",
-      "equipo2": "Gimnasia Jujuy",
-      "fechaInicio": "2025-03-26T17:00",
-      "fecha": "26 de Marzo"
+      "link": "Go:laliga1",
+      "canal": "Go:espn",
+      "opcion1": "Go:daznlaliga",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:daznlaliga",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Barcelona",
+      "equipo2": "Osasuna",
+      "fechaInicio": "2025-03-23T17:00",
+      "fecha": "15 de Marzo"
+    }
+  ],
+  "Liga Chilena": [
+    {
+      "link": "Go:chile1",
+      "canal": "Go:TNTChile",
+      "opcion1": "Go:TNTChile2",
+      "opcion2": "Go:TNTchile",
+      "opcion3": "Go:TNTchile2",
+      "torneo": "Liga Chilena 🇨🇱",
+      "equipo1": "Colo-Colo",
+      "equipo2": "Palestino",
+      "fechaInicio": "2025-03-23T18:15",
+      "fecha": "15 de Marzo"
+    },
+    {
+      "link": "Go:chile2",
+      "canal": "Go:TNTChile",
+      "opcion1": "Go:TNTChile2",
+      "opcion2": "Go:TNTchile",
+      "opcion3": "Go:TNTchile2",
+      "torneo": "Liga Chilena 🇨🇱",
+      "equipo1": "Everton",
+      "equipo2": "Universidad Chile",
+      "fechaInicio": "2025-03-23T20:30",
+      "fecha": "15 de Marzo"
     }
   ],
   "Liga Colombiana": [
     {
-      "link": "go:col1",
-      "canal": "go:winsports+",
-      "opcion1": "go:winsports+",
-      "opcion2": "go:winsports+",
-      "opcion3": "go:winsports+",
+      "link": "Go:col1",
+      "canal": "Go:winplus",
+      "opcion1": "Go:winplus",
+      "opcion2": "Go:winplus",
+      "opcion3": "Go:winplus",
       "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Alianza",
-      "equipo2": "Fortaleza",
-      "fechaInicio": "2025-03-26T18:00",
-      "fecha": "26 de Marzo"
+      "equipo1": "Once Caldas",
+      "equipo2": "Llaneros",
+      "fechaInicio": "2025-03-23T20:00",
+      "fecha": "15 de Marzo"
     },
     {
-      "link": "go:col2",
-      "canal": "go:winsports+",
-      "opcion1": "go:winsports+",
-      "opcion2": "go:winsports+",
-      "opcion3": "go:winsports+",
+      "link": "Go:col2",
+      "canal": "Go:winplus",
+      "opcion1": "Go:winplus",
+      "opcion2": "Go:winplus",
+      "opcion3": "Go:winplus",
       "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Junior",
-      "equipo2": "U. Magdalena",
-      "fechaInicio": "2025-03-26T20:30",
-      "fecha": "26 de Marzo"
+      "equipo1": "América de Cali",
+      "equipo2": "Boyacá Chicó",
+      "fechaInicio": "2025-03-23T22:10",
+      "fecha": "15 de Marzo"
+    }
+  ],
+  "Liga Peruana": [
+    {
+      "link": "Go:per1",
+      "canal": "go:ligamax",
+      "opcion1": "go:ligamax",
+      "opcion2": "go:ligamax",
+      "opcion3": "go:ligamax",
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "Comerciantes Unidos",
+      "equipo2": "Atlético Grau",
+      "fechaInicio": "2025-03-23T15:00",
+      "fecha": "15 de Marzo"
     },
     {
-      "link": "go:col3",
-      "canal": "go:winsports+",
-      "opcion1": "go:winsports+",
-      "opcion2": "go:winsports+",
-      "opcion3": "go:winsports+",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Millonarios",
-      "equipo2": "Ind. Santa Fe",
-      "fechaInicio": "2025-03-26T22:30",
-      "fecha": "26 de Marzo"
+      "link": "Go:per2",
+      "canal": "go:ligamax",
+      "opcion1": "go:ligamax",
+      "opcion2": "go:ligamax",
+      "opcion3": "go:ligamax",
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "Ayacucho",
+      "equipo2": "Melgar",
+      "fechaInicio": "2025-03-23T17:30",
+      "fecha": "15 de Marzo"
+    }
+  ],
+  "Liga Uruguaya": [
+    {
+      "link": "Go:uru1",
+      "canal": "Go:vtvplus",
+      "opcion1": "Go:goltv",
+      "opcion2": "Go:goltv",
+      "opcion3": "Go:goltv",
+      "torneo": "Liga Uruguaya 🇺🇾",
+      "equipo1": "Danubio",
+      "equipo2": "Defensor Sporting",
+      "fechaInicio": "2025-03-23T14:00",
+      "fecha": "15 de Marzo"
+    },
+    {
+      "link": "Go:uru2",
+      "canal": "Go:vtvplus",
+      "opcion1": "Go:goltv",
+      "opcion2": "Go:goltv",
+      "opcion3": "Go:goltv",
+      "torneo": "Liga Uruguaya 🇺🇾",
+      "equipo1": "Juventud",
+      "equipo2": "Peñarol",
+      "fechaInicio": "2025-03-23T16:30",
+      "fecha": "15 de Marzo"
+    },
+    {
+      "link": "Go:uru3",
+      "canal": "Go:vtvplus",
+      "opcion1": "Go:goltv",
+      "opcion2": "Go:goltv",
+      "opcion3": "Go:goltv",
+      "torneo": "Liga Uruguaya 🇺🇾",
+      "equipo1": "Wanderers",
+      "equipo2": "Progreso",
+      "fechaInicio": "2025-03-23T19:00",
+      "fecha": "15 de Marzo"
+    },
+    {
+      "link": "Go:uru4",
+      "canal": "Go:vtvplus",
+      "opcion1": "Go:goltv",
+      "opcion2": "Go:goltv",
+      "opcion3": "Go:goltv",
+      "torneo": "Liga Uruguaya 🇺🇾",
+      "equipo1": "Miramar Misiones",
+      "equipo2": "Cerro",
+      "fechaInicio": "2025-03-23T21:15",
+      "fecha": "15 de Marzo"
     }
   ]
 }
