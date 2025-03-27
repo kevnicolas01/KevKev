@@ -5,7 +5,7 @@
       "orden":4,
       "imagen": "https://i.imgur.com/JT3vu4c.png",
       "link": "go:S5",
-      "status": "finalizado"
+      "status": "activo"
     },
     {
       "nombre": "Libertadores",
@@ -19,7 +19,7 @@
 "orden":4,
       "imagen": "https://i.imgur.com/jzUy84p.png",
       "link": "go:S6",
-      "status": "activo"
+      "status": "finalizado"
     },
     {
       "nombre": "Europa League",
