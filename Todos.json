@@ -2,8 +2,8 @@
   "Liga Argentina": [
     {
       "link": "go:arg1",
-      "canal": "Go:espn",
-      "opcion1": "go:ESPNprem",
+      "canal": "Go:espnprem",
+      "opcion1": "go:ESPN",
       "opcion2": "go:espn",
       "opcion3": "go:ESPNprem",
       "torneo": "Liga Argentina 🇦🇷",
