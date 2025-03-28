@@ -120,8 +120,8 @@
     {
       "link": "go:ecu1",
       "canal": "go:ecdf",
-      "opcion1": "go:ecdf",
-      "opcion2": "go:ecdf",
+      "opcion1": "go:ecdfop2",
+      "opcion2": "go:ecdfop2",
       "opcion3": "go:ecdf",
       "torneo": "Liga Ecuatoriana 🇪🇨",
       "equipo1": "Aucas",
@@ -132,8 +132,8 @@
     {
       "link": "go:ecu2",
       "canal": "go:ecdf",
-      "opcion1": "go:ecdf",
-      "opcion2": "go:ecdf",
+      "opcion1": "go:ecdfop2",
+      "opcion2": "go:ecdfop2",
       "opcion3": "go:ecdf",
       "torneo": "Liga Ecuatoriana 🇪🇨",
       "equipo1": "Barcelona",
