@@ -7,7 +7,7 @@
       "opcion2": "go:espn",
       "opcion3": "go:ESPNprem",
       "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Defensa y Justicia",
+      "equipo1": "Def. y Justicia",
       "equipo2": "Tigre",
       "fechaInicio": "2025-03-28T17:00",
       "fecha": "28 de Marzo"
@@ -44,7 +44,7 @@
       "opcion3": "go:eSPNPrem",
       "torneo": "Liga Argentina 🇦🇷",
       "equipo1": "Platense",
-      "equipo2": "Atlético Tucumán",
+      "equipo2": "Atl. Tucumán",
       "fechaInicio": "2025-03-28T21:30",
       "fecha": "28 de Marzo"
     },
@@ -55,8 +55,8 @@
       "opcion2": "go:tNTSports",
       "opcion3": "go:TNTSports",
       "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Vélez Sarsfield",
-      "equipo2": "Deportivo Riestra",
+      "equipo1": "Vélez",
+      "equipo2": "Riestra",
       "fechaInicio": "2025-03-28T21:30",
       "fecha": "28 de Marzo"
     }
@@ -85,7 +85,7 @@
       "opcion3": "TNTchileop2",
       "torneo": "Liga Chilena 🇨🇱",
       "equipo1": "Unión Española",
-      "equipo2": "Universidad Católica",
+      "equipo2": "U. Católica",
       "fechaInicio": "2025-03-28T18:15",
       "fecha": "28 de Marzo"
     },
@@ -110,8 +110,8 @@
       "opcion2": "go:WinPlus",
       "opcion3": "go:WinPlus",
       "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Atlético Bucaramanga",
-      "equipo2": "Atlético Nacional",
+      "equipo1": "Atl. Bucaramanga",
+      "equipo2": "Atl. Nacional",
       "fechaInicio": "2025-03-28T21:30",
       "fecha": "28 de Marzo"
     }
@@ -125,7 +125,7 @@
       "opcion3": "go:ecdf",
       "torneo": "Liga Ecuatoriana 🇪🇨",
       "equipo1": "Aucas",
-      "equipo2": "Independiente del Valle",
+      "equipo2": "Ind. del Valle",
       "fechaInicio": "2025-03-28T18:30",
       "fecha": "28 de Marzo"
     },
