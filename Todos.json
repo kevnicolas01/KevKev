@@ -363,7 +363,7 @@
   ],
   "Liga Brasileña": [
     {
-      "link": "Go:bra1",
+        "link": "Go:bra1",
       "canal": "go:premiere",
       "opcion1": "go:premiere",
       "opcion2": "go:premiere",
@@ -381,8 +381,8 @@
       "opcion2": "go:premiere",
       "opcion3": "go:premiere",
       "torneo": "Liga Brasileña 🇧🇷",
-      "equipo1": "Cruzeiro",
-      "equipo2": "Mirassol",
+      "equipo1": "Fortaleza",
+      "equipo2": "Fluminense",
       "fechaInicio": "2025-03-29T18:30",
       "fecha": "29 de Marzo"
     },
@@ -393,45 +393,9 @@
       "opcion2": "go:premiere",
       "opcion3": "go:premiere",
       "torneo": "Liga Brasileña 🇧🇷",
-      "equipo1": "Fortaleza",
-      "equipo2": "Fluminense",
-      "fechaInicio": "2025-03-29T18:30",
-      "fecha": "29 de Marzo"
-    },
-    {
-      "link": "Go:bra4",
-      "canal": "go:premiere",
-      "opcion1": "go:premiere",
-      "opcion2": "go:premiere",
-      "opcion3": "go:premiere",
-      "torneo": "Liga Brasileña 🇧🇷",
-      "equipo1": "São Paulo",
-      "equipo2": "Sport Recife",
-      "fechaInicio": "2025-03-29T18:30",
-      "fecha": "29 de Marzo"
-    },
-    {
-      "link": "Go:bra5",
-      "canal": "go:premiere",
-      "opcion1": "go:premiere",
-      "opcion2": "go:premiere",
-      "opcion3": "go:premiere",
-      "torneo": "Liga Brasileña 🇧🇷",
-      "equipo1": "Juventude",
-      "equipo2": "Vitória",
-      "fechaInicio": "2025-03-29T18:30",
-      "fecha": "29 de Marzo"
-    },
-    {
-      "link": "Go:bra6",
-      "canal": "go:premiere",
-      "opcion1": "go:premiere",
-      "opcion2": "go:premiere",
-      "opcion3": "go:premiere",
-      "torneo": "Liga Brasileña 🇧🇷",
       "equipo1": "Flamengo",
       "equipo2": "Internacional",
-      "fechaInicio": "2025-03-29T20:00",
+      "fechaInicio": "2025-03-29T21:00",
       "fecha": "29 de Marzo"
     }
   ],
