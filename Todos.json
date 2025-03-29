@@ -313,7 +313,7 @@
   ],
   "FA Cup": [
     {
-      "link": "Go:efl1",
+      "link": "Go:facup1",
       "canal": "Go:espn",
       "opcion1": "Go:espn",
       "opcion2": "Go:espn",
@@ -325,7 +325,7 @@
       "fecha": "29 de Marzo"
     },
     {
-      "link": "Go:efl2",
+      "link": "Go:facup2",
       "canal": "Go:espn",
       "opcion1": "Go:espn",
       "opcion2": "Go:espnbr",
@@ -562,7 +562,7 @@
       "opcion3": "Sin información",
       "torneo": "MLS 🇺🇸/🇨🇦",
       "equipo1": "Inter Miami",
-      "equipo2": "Philadelphia Union",
+      "equipo2": "Philadelphia",
       "fechaInicio": "2025-03-29T19:30",
       "fecha": "29 de Marzo"
     }  
