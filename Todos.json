@@ -1,186 +1,5 @@
 {
-  "Liga Argentina": [
-    {
-      "link": "go:arg1",
-      "canal": "go:disney5",
-      "opcion1": "go:ESPNprem",
-      "opcion2": "go:espn",
-      "opcion3": "go:ESPNprem",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Defensa",
-      "equipo2": "Tigre",
-      "fechaInicio": "2025-03-28T17:00",
-      "fecha": "28 de Marzo"
-    },
-    {
-      "link": "go:arg2",
-      "canal": "Go:Espnprem",
-      "opcion1": "go:ESPNPrem",
-      "opcion2": "go:ESPNPremium",
-      "opcion3": "go:eSPNPrem",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "San Lorenzo",
-      "equipo2": "Lanús",
-      "fechaInicio": "2025-03-28T19:15",
-      "fecha": "28 de Marzo"
-    },
-    {
-      "link": "go:arg3",
-      "canal": "Go:TNTSports",
-      "opcion1": "go:TNTSports",
-      "opcion2": "go:tNTSports",
-      "opcion3": "go:TNTSports",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Banfield",
-      "equipo2": "Huracán",
-      "fechaInicio": "2025-03-28T19:15",
-      "fecha": "28 de Marzo"
-    },
-    {
-      "link": "go:arg4",
-      "canal": "Go:Espnprem",
-      "opcion1": "go:ESPNPrem",
-      "opcion2": "go:ESPNPremium",
-      "opcion3": "go:eSPNPrem",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Platense",
-      "equipo2": "Atl. Tucumán",
-      "fechaInicio": "2025-03-28T21:30",
-      "fecha": "28 de Marzo"
-    },
-    {
-      "link": "go:arg5",
-      "canal": "Go:TNTSports",
-      "opcion1": "go:TNTSports",
-      "opcion2": "go:tNTSports",
-      "opcion3": "go:TNTSports",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Vélez",
-      "equipo2": "Riestra",
-      "fechaInicio": "2025-03-28T21:30",
-      "fecha": "28 de Marzo"
-    }
-  ],
-  "Bundesliga": [
-    {
-      "link": "go:bundes1",
-      "canal": "Go:espn2",
-      "opcion1": "go:ESPN2",
-      "opcion2": "go:ESPN2",
-      "opcion3": "go:ESPN2",
-      "torneo": "Bundesliga 🇩🇪",
-      "equipo1": "Leverkusen",
-      "equipo2": "Bochum",
-      "fechaInicio": "2025-03-28T16:30",
-      "fecha": "28 de Marzo"
-    }
-  ],
-  
-  "Liga Chilena": [
-    {
-      "link": "go:chile1",
-      "canal": "Go:TNTchile",
-      "opcion1": "TNTchile",
-      "opcion2": "TNTchileop2",
-      "opcion3": "TNTchileop2",
-      "torneo": "Liga Chilena 🇨🇱",
-      "equipo1": "Unión Española",
-      "equipo2": "U. Católica",
-      "fechaInicio": "2025-03-28T18:15",
-      "fecha": "28 de Marzo"
-    },
-    {
-      "link": "go:chile2",
-      "canal": "Go:TNTchile",
-      "opcion1": "TNTchile",
-      "opcion2": "TNTchileop2",
-      "opcion3": "TNTchileop2",
-      "torneo": "Liga Chilena 🇨🇱",      
-      "equipo1": "Ñublense",
-      "equipo2": "Deportes Iquique",
-      "fechaInicio": "2025-03-28T20:30",
-      "fecha": "28 de Marzo"
-    }
-  ],
-  "Liga Colombiana": [
-    {
-      "link": "go:col1",
-      "canal": "Go:winplus",
-      "opcion1": "go:WinPlus",
-      "opcion2": "go:WinPlus",
-      "opcion3": "go:WinPlus",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Atl. Bucaramanga",
-      "equipo2": "Atl. Nacional",
-      "fechaInicio": "2025-03-28T21:30",
-      "fecha": "28 de Marzo"
-    }
-  ],
-  "Liga Ecuatoriana": [
-    {
-      "link": "go:ecu1",
-      "canal": "go:ecdf",
-      "opcion1": "go:ecdfop2",
-      "opcion2": "go:ecdfop2",
-      "opcion3": "go:ecdf",
-      "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "Aucas",
-      "equipo2": "Ind. del Valle",
-      "fechaInicio": "2025-03-28T18:30",
-      "fecha": "28 de Marzo"
-    },
-    {
-      "link": "go:ecu2",
-      "canal": "go:ecdf",
-      "opcion1": "go:ecdfop2",
-      "opcion2": "go:ecdfop2",
-      "opcion3": "go:ecdf",
-      "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "Barcelona",
-      "equipo2": "Delfin",
-      "fechaInicio": "2025-03-28T21:00",
-      "fecha": "28 de Marzo"
-    }
-  ],
-  "Liga Peruana": [
-    {
-      "link": "go:per1",
-      "canal": "go:Ligamax",
-      "opcion1": "go:Ligamax",
-      "opcion2": "go:Ligamax",
-      "opcion3": "go:Ligamax",
-      "torneo": "Liga Peruana 🇵🇪",
-      "equipo1": "Alianza Atlético",
-      "equipo2": "Cusco",
-      "fechaInicio": "2025-03-28T17:30",
-      "fecha": "28 de Marzo"
-    },
-    {
-      "link": "go:per2",
-      "canal": "Go:goltv",
-      "opcion1": "go:Golperu",
-      "opcion2": "go:GolTV",
-      "opcion3": "go:golperu",
-      "torneo": "Liga Peruana 🇵🇪",
-      "equipo1": "Universitario",
-      "equipo2": "Sport Huancayo",
-      "fechaInicio": "2025-03-28T22:00",
-      "fecha": "28 de Marzo"
-    }
-  ],
-   "Liga Mexicana": [
-    {
-      "link": "go:mex1",
-      "canal": "go:azteca7",
-      "opcion1": "go:azteca7",
-      "opcion2": "go:azteca7",
-      "opcion3": "go:azteca7",
-      "torneo": "Liga Mexicana 🇲🇽",
-      "equipo1": "Necaxa",
-      "equipo2": "Querétaro",
-      "fechaInicio": "2025-03-28T22:00",
-      "fecha": "28 de Marzo"
-    },
+  "Liga Mexicana": [
     {
       "link": "go:mex2",
       "canal": "go:tudn",
@@ -193,5 +12,523 @@
       "fechaInicio": "2025-03-29T00:00",
       "fecha": "29 de Marzo"
     }
-   ]
+  ],
+  "Liga Argentina": [
+    {
+      "link": "Go:arg1",
+      "canal": "Go:Espnprem",
+      "opcion1": "Go:Espnprem",
+      "opcion2": "Go:Espnprem",
+      "opcion3": "Go:Espnprem",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Instituto",
+      "equipo2": "San Martín S.J",
+      "fechaInicio": "2025-03-29T16:30",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:arg2",
+      "canal": "Go:TNTSports",
+      "opcion1": "Go:TNTSports",
+      "opcion2": "Go:TNTSports",
+      "opcion3": "Go:TNTSports",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Central Córdoba",
+      "equipo2": "Argentinos Jrs.",
+      "fechaInicio": "2025-03-29T18:30",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:arg3",
+      "canal": "Go:Espnprem",
+      "opcion1": "Go:Espnprem",
+      "opcion2": "Go:Espnprem",
+      "opcion3": "Go:Espnprem",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Independiente",
+      "equipo2": "Godoy Cruz",
+      "fechaInicio": "2025-03-29T18:45",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:arg4",
+      "canal": "Go:TNTSports",
+      "opcion1": "Go:TNTSports",
+      "opcion2": "Go:TNTSports",
+      "opcion3": "Go:espnco",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "River Plate",
+      "equipo2": "Rosario Central",
+      "fechaInicio": "2025-03-29T20:00",
+      "fecha": "29 de Marzo"
+    }
+  ],
+  "La Liga": [
+    {
+      "link": "go:laliga1",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn3",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espnbr",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Real Sociedad",
+      "equipo2": "Real Valladolid",
+      "fechaInicio": "2025-03-29T10:00",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "go:laliga2",
+      "canal": "Go:Dsports",
+      "opcion1": "Go:Dsports",
+      "opcion2": "Go:Dsports",
+      "opcion3": "Go:Dsports",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Espanyol",
+      "equipo2": "Atl. Madrid",
+      "fechaInicio": "2025-03-29T12:15",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "go:laliga3",
+      "canal": "Go:Dsports",
+      "opcion1": "Go:Dsports",
+      "opcion2": "Go:Dsports",
+      "opcion3": "Go:Dsports",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Alavés",
+      "equipo2": "Rayo Vallecano",
+      "fechaInicio": "2025-03-29T14:30",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "go:laliga4",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Real Madrid",
+      "equipo2": "Leganés",
+      "fechaInicio": "2025-03-29T17:00",
+      "fecha": "29 de Marzo"
+    }
+  ],
+  "Serie A": [
+    {
+      "link": "Go:serieA1",
+      "canal": "Go:espn2",
+      "opcion1": "Go:espn2",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn2col",
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Como",
+      "equipo2": "Empoli",
+      "fechaInicio": "2025-03-29T11:00",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:serieA2",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Venezia",
+      "equipo2": "Bologna",
+      "fechaInicio": "2025-03-29T11:00",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:serieA3",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espnco",
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Juventus",
+      "equipo2": "Genoa",
+      "fechaInicio": "2025-03-29T14:00",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:serieA4",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Lecce",
+      "equipo2": "Roma",
+      "fechaInicio": "2025-03-29T16:45",
+      "fecha": "29 de Marzo"
+    }
+  ],
+  "Bundesliga": [
+    {
+      "link": "Go:bundes1",
+      "canal": "go:bundeslig1",
+      "opcion1": "go:bundeslig2",
+      "opcion2": "go:bundeslig3",
+      "opcion3": "go:bundeslig4",
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Hoffenheim",
+      "equipo2": "Augsburg",
+      "fechaInicio": "2025-03-29T11:30",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:bundes2",
+      "canal": "go:bundeslig1",
+      "opcion1": "go:bundeslig2",
+      "opcion2": "go:bundeslig3",
+      "opcion3": "go:bundeslig4",
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Wolfsburg",
+      "equipo2": "Heidenheim",
+      "fechaInicio": "2025-03-29T11:30",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:bundes3",
+      "canal": "go:bundeslig1",
+      "opcion1": "go:bundeslig2",
+      "opcion2": "go:bundeslig3",
+      "opcion3": "go:bundeslig4",
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Borussia M",
+      "equipo2": "RB Leipzig",
+      "fechaInicio": "2025-03-29T11:30",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:bundes4",
+      "canal": "go:bundeslig1",
+      "opcion1": "go:bundeslig2",
+      "opcion2": "go:bundeslig4",
+      "opcion3": "go:bundeslig3",
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Holstein Kiel",
+      "equipo2": "Werder Bremen",
+      "fechaInicio": "2025-03-29T11:30",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:bundes5",
+      "canal": "Go:espn",
+      "opcion1": "go:bundeslig1",
+      "opcion2": "go:SporTV",
+      "opcion3": "go:bundeslig2",
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Bayern München",
+      "equipo2": "St. Pauli",
+      "fechaInicio": "2025-03-29T11:30",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:bundes6",
+      "canal": "go:bundeslig3",
+      "opcion1": "go:bundeslig2",
+      "opcion2": "go:bundeslig1",
+      "opcion3": "go:bundeslig4",
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Eintracht",
+      "equipo2": "Stuttgart",
+      "fechaInicio": "2025-03-29T14:30",
+      "fecha": "29 de Marzo"
+    }
+  ],
+  "Ligue 1": [
+    {
+      "link": "Go:liguee1",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn2",
+      "opcion2": "Go:espn2col",
+      "opcion3": "go:espn2col",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Reims",
+      "equipo2": "Marsella FC",
+      "fechaInicio": "22025-03-29T13:00",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:ligue2",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn2",
+      "opcion2": "Go:espn2col",
+      "opcion3": "go:espn2col",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Saint-Étienne",
+      "equipo2": "PSG",
+      "fechaInicio": "2025-03-29T15:00",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:ligue3",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn2",
+      "opcion2": "Go:espn2col",
+      "opcion3": "go:espn2col",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Monaco",
+      "equipo2": "Nice",
+      "fechaInicio": "2025-03-29T17:05",
+      "fecha": "29 de Marzo"
+    }
+  ],
+  "FA Cup": [
+    {
+      "link": "Go:efl1",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espnbr",
+      "torneo": "FA Cup 󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Fulham",
+      "equipo2": "Crystal Palace",
+      "fechaInicio": "2025-03-29T09:15",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:efl2",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espnbr",
+      "opcion3": "Go:espn",
+      "torneo": "FA Cup 󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Brighton",
+      "equipo2": "Nottingham",
+      "fechaInicio": "2025-03-29T14:15",
+      "fecha": "29 de Marzo"
+    }
+  ],
+  "Liga Brasileña": [
+    {
+      "link": "Go:bra1",
+      "canal": "go:premiere",
+      "opcion1": "go:premiere",
+      "opcion2": "go:premiere",
+      "opcion3": "go:premiere",
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "Grêmio",
+      "equipo2": "Atl. Mineiro",
+      "fechaInicio": "2025-03-29T18:30",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:bra2",
+      "canal": "go:premiere",
+      "opcion1": "go:premiere",
+      "opcion2": "go:premiere",
+      "opcion3": "go:premiere",
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "Cruzeiro",
+      "equipo2": "Mirassol",
+      "fechaInicio": "2025-03-29T18:30",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:bra3",
+      "canal": "go:premiere",
+      "opcion1": "go:premiere",
+      "opcion2": "go:premiere",
+      "opcion3": "go:premiere",
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "Fortaleza",
+      "equipo2": "Fluminense",
+      "fechaInicio": "2025-03-29T18:30",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:bra4",
+      "canal": "go:premiere",
+      "opcion1": "go:premiere",
+      "opcion2": "go:premiere",
+      "opcion3": "go:premiere",
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "São Paulo",
+      "equipo2": "Sport Recife",
+      "fechaInicio": "2025-03-29T18:30",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:bra5",
+      "canal": "go:premiere",
+      "opcion1": "go:premiere",
+      "opcion2": "go:premiere",
+      "opcion3": "go:premiere",
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "Juventude",
+      "equipo2": "Vitória",
+      "fechaInicio": "2025-03-29T18:30",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:bra6",
+      "canal": "go:premiere",
+      "opcion1": "go:premiere",
+      "opcion2": "go:premiere",
+      "opcion3": "go:premiere",
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "Flamengo",
+      "equipo2": "Internacional",
+      "fechaInicio": "2025-03-29T20:00",
+      "fecha": "29 de Marzo"
+    }
+  ],
+  "Liga Chilena": [
+    {
+      "link": "Go:chile1",
+      "canal": "go:tntchile",
+      "opcion1": "go:tntchile",
+      "opcion2": "go:tntchile",
+      "opcion3": "go:tntchile",
+      "torneo": "Liga Chilena 🇨🇱",
+      "equipo1": "O'Higgins",
+      "equipo2": "Deportes Limache",
+      "fechaInicio": "2025-03-29T18:00",
+      "fecha": "29 de Marzo"
+    }
+  ],
+  "Liga Colombiana": [
+    {
+      "link": "Go:col1",
+      "canal": "go:winplus",
+      "opcion1": "go:winplus",
+      "opcion2": "go:winplus",
+      "opcion3": "go:winplus",
+      "torneo": "Liga Colombiana 🇨🇴",
+      "equipo1": "Dep. Pasto",
+      "equipo2": "Dep. Cali",
+      "fechaInicio": "2025-03-29T19:05",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:col2",
+      "canal": "go:winplus",
+      "opcion1": "go:winplus",
+      "opcion2": "go:winplus",
+      "opcion3": "go:winplus",
+      "torneo": "Liga Colombiana 🇨🇴",
+      "equipo1": "Medellín",
+      "equipo2": "Aguilas",
+      "fechaInicio": "2025-03-29T22:10",
+      "fecha": "29 de Marzo"
+    }
+  ],
+  "Liga Ecuatoriana": [
+    {
+      "link": "Go:ecu1",
+      "canal": "go:ECDF",
+      "opcion1": "go:ECDF",
+      "opcion2": "go:ECDF",
+      "opcion3": "go:ECDF",
+      "torneo": "Liga Ecuatoriana 🇪🇨",
+      "equipo1": "Cuniburo",
+      "equipo2": "U. Católica",
+      "fechaInicio": "2025-03-29T16:00",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:ecu2",
+      "canal": "go:ECDF",
+      "opcion1": "go:ECDF",
+      "opcion2": "go:ECDF",
+      "opcion3": "go:ECDF",
+      "torneo": "Liga Ecuatoriana 🇪🇨",
+      "equipo1": "Dep. Cuenca",
+      "equipo2": "LDU Quito",
+      "fechaInicio": "2025-03-29T18:30",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:ecu3",
+      "canal": "go:ECDF",
+      "opcion1": "go:ECDF",
+      "opcion2": "go:ECDF",
+      "opcion3": "go:ECDF",
+      "torneo": "Liga Ecuatoriana 🇪🇨",
+      "equipo1": "Mushuc Runa",
+      "equipo2": "Emelec",
+      "fechaInicio": "2025-03-29T20:00",
+      "fecha": "29 de Marzo"
+    }
+  ],
+  "Liga Peruana": [
+    {
+      "link": "Go:per1",
+      "canal": "go:golperu",
+      "opcion1": "go:golperu",
+      "opcion2": "go:golperu",
+      "opcion3": "go:golperu",
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "ADT",
+      "equipo2": "Alianza Lima",
+      "fechaInicio": "2025-03-29T15:00",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:per2",
+      "canal": "go:golperu",
+      "opcion1": "go:golperu",
+      "opcion2": "go:golperu",
+      "opcion3": "go:golperu",
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "Sport. Cristal",
+      "equipo2": "Binacional",
+      "fechaInicio": "2025-03-29T17:30",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:per3",
+      "canal": "go:golperu",
+      "opcion1": "go:golperu",
+      "opcion2": "go:golperu",
+      "opcion3": "go:golperu",
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "Dep. Garcilaso",
+      "equipo2": "Sport Boys",
+      "fechaInicio": "2025-03-29T19:00",
+      "fecha": "29 de Marzo"
+    }
+  ],
+  "Liga Uruguaya": [
+    {
+      "link": "Go:uru1",
+      "canal": "go:vtvplus",
+      "opcion1": "go:vtvplus",
+      "opcion2": "go:vtvplus",
+      "opcion3": "go:vtvplus",
+      "torneo": "Liga Uruguaya 🇺🇾",
+      "equipo1": "River Plate",
+      "equipo2": "Plaza Colonia",
+      "fechaInicio": "2025-03-29T17:00",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "Go:uru2",
+      "canal": "go:vtvplus",
+      "opcion1": "go:vtvplus",
+      "opcion2": "go:vtvplus",
+      "opcion3": "go:vtvplus",
+      "torneo": "Liga Uruguaya 🇺🇾",
+      "equipo1": "Boston River",
+      "equipo2": "Liverpool",
+      "fechaInicio": "2025-03-29T19:15",
+      "fecha": "29 de Marzo"
+    }
+  ],
+  "MLS":   
+    {
+      "link": "go:mlspass",
+      "canal": "Sin información",
+      "opcion1": "go:mlspass",
+      "opcion2": "SiriusXM FC",
+      "opcion3": "Sin información",
+      "torneo": "MLS 🇺🇸/🇨🇦",
+      "equipo1": "Inter Miami",
+      "equipo2": "Philadelphia Union",
+      "fechaInicio": "2025-03-29T19:30",
+      "fecha": "29 de Marzo"
+    }
+  ]
 }
