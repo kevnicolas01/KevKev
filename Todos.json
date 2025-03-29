@@ -274,8 +274,8 @@
     },
     {
       "link": "Go:bundes5",
-      "canal": "go:disneyplus",
-      "opcion1": "go:espn",
+      "canal": "go:espn",
+      "opcion1": "go:disneyplus",
       "opcion2": "go:SporTV",
       "opcion3": "go:bundeslig1",
       "torneo": "Bundesliga 🇩🇪",
