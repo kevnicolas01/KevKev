@@ -11,6 +11,42 @@
       "equipo2": "Atlas",
       "fechaInicio": "2025-03-29T00:00",
       "fecha": "29 de Marzo"
+    },
+    {
+      "link": "go:mex3",
+      "canal": "go:tudn",
+      "opcion1": "go:tudn",
+      "opcion2": "go:tudn",
+      "opcion3": "go:tudn",
+      "torneo": "Liga Mexicana 🇲🇽",
+      "equipo1": "Club América",
+      "equipo2": "Tigres UANL",
+      "fechaInicio": "2025-03-29T22:05",
+      "fecha": "29 de Marzo"
+    },
+    {
+      "link": "go:mex4",
+      "canal": "go:tudn",
+      "opcion1": "go:tudn",
+      "opcion2": "go:tudn",
+      "opcion3": "go:tudn",
+      "torneo": "Liga Mexicana 🇲🇽",
+      "equipo1": "Guadalajara",
+      "equipo2": "Cruz Azul",
+      "fechaInicio": "2025-03-30T00:05",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "go:mex5",
+      "canal": "go:tudn",
+      "opcion1": "go:tudn",
+      "opcion2": "go:tudn",
+      "opcion3": "go:tudn",
+      "torneo": "Liga Mexicana 🇲🇽",
+      "equipo1": "Monterrey",
+      "equipo2": "Tijuana",
+      "fechaInicio": "2025-03-30T00:10",
+      "fecha": "30 de Marzo"
     }
   ],
   "Liga Argentina": [
