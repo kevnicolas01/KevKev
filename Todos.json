@@ -442,8 +442,8 @@
   "Liga Ecuatoriana": [
     {
       "link": "Go:ecu1",
-      "canal": "go:ECDF",
-      "opcion1": "go:ECDF",
+      "canal": "go:ECDFop2",
+      "opcion1": "go:ECDFop2",
       "opcion2": "go:ECDF",
       "opcion3": "go:ECDF",
       "torneo": "Liga Ecuatoriana 🇪🇨",
@@ -454,8 +454,8 @@
     },
     {
       "link": "Go:ecu2",
-      "canal": "go:ECDF",
-      "opcion1": "go:ECDF",
+      "canal": "go:ECDFop2",
+      "opcion1": "go:ECDFop2",
       "opcion2": "go:ECDF",
       "opcion3": "go:ECDF",
       "torneo": "Liga Ecuatoriana 🇪🇨",
@@ -466,7 +466,7 @@
     },
     {
       "link": "Go:ecu3",
-      "canal": "go:ECDF",
+      "canal": "go:ECDFop2",
       "opcion1": "go:ECDF",
       "opcion2": "go:ECDF",
       "opcion3": "go:ECDF",
