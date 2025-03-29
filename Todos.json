@@ -553,7 +553,7 @@
       "fecha": "29 de Marzo"
     }
   ],
-  "MLS":   
+  "MLS": [
     {
       "link": "go:mlspass",
       "canal": "Sin información",
@@ -565,5 +565,5 @@
       "equipo2": "Philadelphia Union",
       "fechaInicio": "2025-03-29T19:30",
       "fecha": "29 de Marzo"
-    }
-}
+    }  
+  ]
