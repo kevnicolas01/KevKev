@@ -318,7 +318,7 @@
   "Liga Ecuatoriana": [
     {
       "link": "Go:ecu1",
-      "canal": "go:ECDF",
+      "canal": "go:zapping",
       "opcion1": "go:ECDF",
       "opcion2": "go:ECDF",
       "opcion3": "go:ECDF",
@@ -330,7 +330,7 @@
     },
     {
       "link": "Go:ecu2",
-      "canal": "go:ECDF",
+      "canal": "go:zapping",
       "opcion1": "go:ECDF",
       "opcion2": "go:ECDF",
       "opcion3": "go:ECDF",
@@ -342,7 +342,7 @@
     },
     {
       "link": "Go:ecu3",
-      "canal": "go:ECDF",
+      "canal": "go:zapping",
       "opcion1": "go:ECDF",
       "opcion2": "go:ECDF",
       "opcion3": "go:ECDF",
