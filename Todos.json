@@ -1,1 +1,432 @@
-
+{
+  "Liga Argentina": [
+    {
+      "link": "Go:arg1",
+      "canal": "Go:TNTSports",
+      "opcion1": "Go:TNTSports",
+      "opcion2": "Go:TNTSports",
+      "opcion3": "Go:TNTSports",
+      "torneo": "Liga Argentina",
+      "equipo1": "Belgrano",
+      "equipo2": "Talleres",
+      "fechaInicio": "2025-03-30T15:00",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:arg2",
+      "canal": "Go:TNTSports",
+      "opcion1": "Go:TNTSports",
+      "opcion2": "Go:TNTSports",
+      "opcion3": "Go:TNTSports",
+      "torneo": "Liga Argentina",
+      "equipo1": "Gimnasia",
+      "equipo2": "Sarmiento",
+      "fechaInicio": "2025-03-30T16:00",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:arg3",
+      "canal": "Go:Espnprem",
+      "opcion1": "Go:Espnprem",
+      "opcion2": "Go:Espnprem",
+      "opcion3": "Go:Espnprem",
+      "torneo": "Liga Argentina",
+      "equipo1": "Newell's",
+      "equipo2": "Boca Juniors",
+      "fechaInicio": "2025-03-30T19:30",
+      "fecha": "30 de Marzo"
+    }
+  ],
+  "La Liga": [
+    {
+      "link": "go:laliga1",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "La Liga",
+      "equipo1": "Getafe",
+      "equipo2": "Villarreal",
+      "fechaInicio": "2025-03-30T09:00",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "go:laliga2",
+      "canal": "Go:Dsports",
+      "opcion1": "Go:Dsports",
+      "opcion2": "Go:Dsports",
+      "opcion3": "Go:Dsports",
+      "torneo": "La Liga",
+      "equipo1": "Barcelona",
+      "equipo2": "Girona",
+      "fechaInicio": "2025-03-30T11:15",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "go:laliga3",
+      "canal": "Go:Dsports2",
+      "opcion1": "Go:Dsports2",
+      "opcion2": "Go:Dsports2",
+      "opcion3": "Go:Dsports2",
+      "torneo": "La Liga",
+      "equipo1": "Athletic",
+      "equipo2": "Osasuna",
+      "fechaInicio": "2025-03-30T13:30",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "go:laliga4",
+      "canal": "Go:Dsports",
+      "opcion1": "Go:Dsports",
+      "opcion2": "Go:Dsports",
+      "opcion3": "Go:Dsports",
+      "torneo": "La Liga",
+      "equipo1": "Valencia",
+      "equipo2": "Mallorca",
+      "fechaInicio": "2025-03-30T13:30",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "go:laliga5",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "La Liga",
+      "equipo1": "Real Betis",
+      "equipo2": "Sevilla",
+      "fechaInicio": "2025-03-30T16:00",
+      "fecha": "30 de Marzo"
+    }
+  ],
+  "Serie A": [
+    {
+      "link": "Go:serieA1",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Cagliari",
+      "equipo2": "Monza",
+      "fechaInicio": "2025-03-30T07:30",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:seriea2",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Fiorentina",
+      "equipo2": "Atalanta",
+      "fechaInicio": "2025-03-30T10:00",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:seriea3",
+      "canal": "Go:disneyplus",
+      "opcion1": "Go:disneyplus",
+      "opcion2": "Go:disneyplus",
+      "opcion3": "Go:disneyplus",
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Internazionale",
+      "equipo2": "Udinese",
+      "fechaInicio": "2025-03-30T13:00",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:seriea4",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Napoli",
+      "equipo2": "Milan",
+      "fechaInicio": "2025-03-30T15:45",
+      "fecha": "30 de Marzo"
+    }
+  ],
+  "Bundesliga": [
+    {
+      "link": "Go:bundes1",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Freiburg",
+      "equipo2": "Union Berlin",
+      "fechaInicio": "2025-03-30T10:30",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:bundes2",
+      "canal": "Go:espn2",
+      "opcion1": "Go:espn2",
+      "opcion2": "Go:espn2",
+      "opcion3": "Go:espn2",
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Borussia Dor.",
+      "equipo2": "Mainz 05",
+      "fechaInicio": "2025-03-30T12:30",
+      "fecha": "30 de Marzo"
+    }
+  ],
+  "Ligue 1": [
+    {
+      "link": "Go:liguee1",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Toulouse",
+      "equipo2": "Brest",
+      "fechaInicio": "2025-03-30T10:00",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:ligue2",
+      "canal": "Go;Dísney4",
+      "opcion1": "Go;Dísney4",
+      "opcion2": "Go;Dísney4",
+      "opcion3": "Go;Dísney4",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Angers SCO",
+      "equipo2": "Rennes",
+      "fechaInicio": "2025-03-30T12:15",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:ligue3",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Auxerre",
+      "equipo2": "Montpellier",
+      "fechaInicio": "2025-03-30T12:15",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:ligue4",
+      "canal": "Disneymas5",
+      "opcion1": "Disneymas5",
+      "opcion2": "Disneymas5",
+      "opcion3": "Disneymas5",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Le Havre",
+      "equipo2": "Nantes",
+      "fechaInicio": "2025-03-30T12:15",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:ligue5",
+      "canal": "Go;Dísney7",
+      "opcion1": "Go;Dísney7",
+      "opcion2": "Go;Dísney7",
+      "opcion3": "Go;Dísney7",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Lille",
+      "equipo2": "Lens",
+      "fechaInicio": "2025-03-30T15:45",
+      "fecha": "30 de Marzo"
+    }
+  ],
+  "FA Cup": [
+    {
+      "link": "Go:facup1",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "FA Cup 󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Preston",
+      "equipo2": "Aston Villa",
+      "fechaInicio": "2025-03-30T09:30",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:facup2",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "FA Cup 󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Bournemouth",
+      "equipo2": "Manchester City",
+      "fechaInicio": "2025-03-30T12:30",
+      "fecha": "30 de Marzo"
+    }
+  ],
+  "Liga Brasileña": [
+    {
+      "link": "Go:bra1",
+      "canal": "go: premiere88",
+      "opcion1": "go: premiere88",
+      "opcion2": "go: premiere88",
+      "opcion3": "go: premiere88",
+      "torneo": "Liga Brasileña",
+      "equipo1": "Palmeiras",
+      "equipo2": "Botafogo",
+      "fechaInicio": "2025-03-30T16:00",
+      "fecha": "30 de Marzo"
+    }   
+  ],
+  "Liga Colombiana": [    
+    {
+      "link": "Go:col2",
+      "canal": "Go:winplus",
+      "opcion1": "Go:winplus",
+      "opcion2": "Go:winplus",
+      "opcion3": "Go:winplus",
+      "torneo": "Liga Colombiana",
+      "equipo1": "Millonarios",
+      "equipo2": "Alianza Pet.",
+      "fechaInicio": "2025-03-30T17:30",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:col3",
+      "canal": "Go:winplus",
+      "opcion1": "Go:winplus",
+      "opcion2": "Go:winplus",
+      "opcion3": "Go:winplus",
+      "torneo": "Liga Colombiana",
+      "equipo1": "Unión Magdalena",
+      "equipo2": "Santa Fe",
+      "fechaInicio": "2025-03-30T19:45",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:col4",
+      "canal": "Go:winplus",
+      "opcion1": "Go:winplus",
+      "opcion2": "Go:winplus",
+      "opcion3": "Go:winplus",
+      "torneo": "Liga Colombiana",
+      "equipo1": "América Cali",
+      "equipo2": "Fortaleza CEIF",
+      "fechaInicio": "2025-03-30T22:00",
+      "fecha": "30 de Marzo"
+    }
+  ],
+  "Liga Ecuatoriana": [
+    {
+      "link": "Go:ecu1",
+      "canal": "go:ECDF",
+      "opcion1": "go:ECDF",
+      "opcion2": "go:ECDF",
+      "opcion3": "go:ECDF",
+      "torneo": "Liga Ecuatoriana",
+      "equipo1": "Macará",
+      "equipo2": "Técnico Univ.",
+      "fechaInicio": "2025-03-30T15:00",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:ecu2",
+      "canal": "go:ECDF",
+      "opcion1": "go:ECDF",
+      "opcion2": "go:ECDF",
+      "opcion3": "go:ECDF",
+      "torneo": "Liga Ecuatoriana",
+      "equipo1": "Manta",
+      "equipo2": "Libertad",
+      "fechaInicio": "2025-03-30T17:30",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:ecu3",
+      "canal": "go:ECDF",
+      "opcion1": "go:ECDF",
+      "opcion2": "go:ECDF",
+      "opcion3": "go:ECDF",
+      "torneo": "Liga Ecuatoriana",
+      "equipo1": "El Nacional",
+      "equipo2": "Orense",
+      "fechaInicio": "2025-03-30T20:00",
+      "fecha": "30 de Marzo"
+    }
+  ],
+  "Liga Peruana": [
+    {
+      "link": "Go:per1",
+      "canal": "go:ligamax",
+      "opcion1": "go:ligamax",
+      "opcion2": "go:ligamax",
+      "opcion3": "go:ligamax",
+      "torneo": "Liga Peruana",
+      "equipo1": "Los Chankas",
+      "equipo2": "Alianza Univ.",
+      "fechaInicio": "2025-03-30T15:00",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:per2",
+      "canal": "go:ligamax",
+      "opcion1": "go:ligamax",
+      "opcion2": "go:ligamax",
+      "opcion3": "go:ligamax",
+      "torneo": "Liga Peruana",
+      "equipo1": "Juan Pablo II",
+      "equipo2": "UTC Cajamarca",
+      "fechaInicio": "2025-03-30T17:30",
+      "fecha": "30 de Marzo"
+    }
+  ],
+  "Liga Uruguaya": [
+    {
+      "link": "Go:uru1",
+      "canal": "Go:vtvplus",
+      "opcion1": "Go:goltv",
+      "opcion2": "Go:vtvplus",
+      "opcion3": "Go:vtvplus",
+      "torneo": "Liga Uruguaya",
+      "equipo1": "Progreso",
+      "equipo2": "Racing",
+      "fechaInicio": "2025-03-30T10:00",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:uru2",
+      "canal": "Go:vtvplus",
+      "opcion1": "Go:vtvplus",
+      "opcion2": "Go:goltv",
+      "opcion3": "Go:goltv",
+      "torneo": "Liga Uruguaya",
+      "equipo1": "Nacional",
+      "equipo2": "Juventud",
+      "fechaInicio": "2025-03-30T15:00",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:uru3",
+      "canal": "Go:goltv",
+      "opcion1": "Go:goltv",
+      "opcion2": "Go:goltv",
+      "opcion3": "Go:goltv",
+      "torneo": "Liga Uruguaya",
+      "equipo1": "Torque",
+      "equipo2": "Danubio",
+      "fechaInicio": "2025-03-30T18:00",
+      "fecha": "30 de Marzo"
+    },
+    {
+      "link": "Go:uru4",
+      "canal": "Go:goltv",
+      "opcion1": "Go:goltv",
+      "opcion2": "Go:goltv",
+      "opcion3": "Go:goltv",
+      "torneo": "Liga Uruguaya",
+      "equipo1": "Peñarol",
+      "equipo2": "Cerro Largo",
+      "fechaInicio": "2025-03-30T20:30",
+      "fecha": "30 de Marzo"
+    }
+  ]
+}
