@@ -2,10 +2,10 @@
   "La Liga": [
     {
       "link": "go:laliga1",
-      "canal": "go:esp3",
-      "opcion1": "go:esp3",
+      "canal": "go:espn3",
+      "opcion1": "go:espn3",
       "opcion2": "go:espn3",
-      "opcion3": "go:esp3",
+      "opcion3": "go:espn3",
       "torneo": "La Liga 🇪🇸",
       "equipo1": "Celta de Vigo",
       "equipo2": "Las Palmas",
