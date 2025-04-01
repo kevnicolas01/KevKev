@@ -128,9 +128,9 @@
     },
     {
       "link": "go:suda5",
-      "canal": "go:espn2",
+      "canal": "go:dsport",
       "opcion1": "go:espn2",
-      "opcion2": "go:espn2",
+      "opcion2": "go:espnbr",
       "opcion3": "go:espn2",
       "torneo": "Copa Sudamericana ",
       "equipo1": "Cienciano",
@@ -178,9 +178,9 @@
     },
     {
       "link": "go:lib3",
-      "canal": "go:foxsports",
+      "canal": "go:foxsports2",
       "opcion1": "go:espncol",
-      "opcion2": "go:foxsports2",
+      "opcion2": "go:espn",
       "opcion3": "go:foxsports2",
       "torneo": "Copa Libertadores ",
       "equipo1": "Atl. Bucaramanga",
@@ -202,7 +202,7 @@
     },
     {
       "link": "go:lib5",
-      "canal": "go:foxsports3",
+      "canal": "go:espn5",
       "opcion1": "go:dsports",
       "opcion2": "go:espn5",
       "opcion3": "go:foxsports3",
@@ -214,7 +214,7 @@
     },
     {
       "link": "go:lib6",
-      "canal": "go:foxsports3",
+      "canal": "go:espn6",
       "opcion1": "go:espn6",
       "opcion2": "go:dsports",
       "opcion3": "go:dsports",
