@@ -80,9 +80,9 @@
   "Sudamericana": [
     {
       "link": "go:suda1",
-      "canal": "go:dsports",
-      "opcion1": "go:dsports",
-      "opcion2": "go:dsports",
+      "canal": "go:dsportsmas",
+      "opcion1": "go:dsportsmas",
+      "opcion2": "go:dsportsmas",
       "opcion3": "go:dsports",
       "torneo": "Copa Sudamericana ",
       "equipo1": "Boston River",
