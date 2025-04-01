@@ -30,7 +30,7 @@
       "opcion1": "go:disneyplus",
       "opcion2": "go:disneyplus",
       "opcion3": "go:disneyplus",
-      "torneo": "Premier League Inglaterra 󠁧󠁢󠁥󠁮󠁧󠁿",
+      "torneo": "Premier League",
       "equipo1": "Nottingham Forest",
       "equipo2": "Manchester United",
       "fechaInicio": "2025-04-01T16:00",
@@ -208,7 +208,7 @@
       "opcion3": "go:foxsports3",
       "torneo": "Libertadores",
       "equipo1": "Barcelona",
-      "equipo2": "Independiente del Valle",
+      "equipo2": "Ind. del Valle",
       "fechaInicio": "2025-04-01T23:00",
       "fecha": "1 de Abril"
     },
