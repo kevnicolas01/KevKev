@@ -104,7 +104,7 @@
     },
     {
       "link": "go:suda3",
-      "canal": "go:dsports",
+      "canal": "go:espn2",
       "opcion1": "go:dsports",
       "opcion2": "go:dsports",
       "opcion3": "go:dsports",
@@ -166,7 +166,7 @@
     },
     {
       "link": "go:lib2",
-      "canal": "go:foxsports2",
+      "canal": "go:espn",
       "opcion1": "go:espncol",
       "opcion2": "go:foxsports2",
       "opcion3": "go:foxsports2",
