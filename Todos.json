@@ -1,56 +1,54 @@
 {
-  "La Liga": [
+  "Premier League": [
     {
-      "link": "go:laliga1",
-      "canal": "go:espn3",
-      "opcion1": "go:espn3",
-      "opcion2": "go:espn3",
-      "opcion3": "go:espn3",
-      "torneo": "La Liga 🇪🇸",
-      "equipo1": "Celta de Vigo",
-      "equipo2": "Las Palmas",
-      "fechaInicio": "2025-03-31T16:00",
-      "fecha": "31 de Marzo"
-    }
-  ],
-  "Serie A": [
-    {
-      "link": "go:serieA1",
-      "canal": "go:disneyplus",
-      "opcion1": "go:disneyplus",
-      "opcion2": "go:disneyplus",
-      "opcion3": "go:disneyplus",
-      "torneo": "Serie A 🇮🇹",
-      "equipo1": "Hellas Verona",
-      "equipo2": "Parma",
-      "fechaInicio": "2025-03-31T13:30",
-      "fecha": "31 de Marzo"
+      "link": "go:prem1",
+      "canal": "go:espn",
+      "opcion1": "go:espn",
+      "opcion2": "go:espn",
+      "opcion3": "go:espn",
+      "torneo": "Premier League",
+      "equipo1": "Arsenal",
+      "equipo2": "Fulham",
+      "fechaInicio": "2025-04-01T15:45",
+      "fecha": "1 de Abril"
     },
     {
-      "link": "go:serieA2",
+      "link": "go:prem2",
       "canal": "go:espn2",
       "opcion1": "go:espn2",
       "opcion2": "go:espn2",
       "opcion3": "go:espn2",
-      "torneo": "Serie A 🇮🇹",
-      "equipo1": "Lazio",
-      "equipo2": "Torino",
-      "fechaInicio": "2025-03-31T15:45",
-      "fecha": "31 de Marzo"
+      "torneo": "Premier League",
+      "equipo1": "Wolverhampton",
+      "equipo2": "West Ham",
+      "fechaInicio": "2025-04-01T15:45",
+      "fecha": "1 de Abril"
+    },
+    {
+      "link": "go:prem3",
+      "canal": "go:disneyplus",
+      "opcion1": "go:disneyplus",
+      "opcion2": "go:disneyplus",
+      "opcion3": "go:disneyplus",
+      "torneo": "Premier League Inglaterra 󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Nottingham Forest",
+      "equipo2": "Manchester United",
+      "fechaInicio": "2025-04-01T16:00",
+      "fecha": "1 de Abril"
     }
   ],
-  "Liga Brasileña": [
+  "Copa del Rey": [
     {
-      "link": "go:bra1",
-      "canal": "go:Zapping",
-      "opcion1": "go:Zapping",
-      "opcion2": "go:Zapping",
-      "opcion3": "go:Zapping",
-      "torneo": "Liga Brasileña 🇧🇷",
-      "equipo1": "RB Bragantino",
-      "equipo2": "Ceará",
-      "fechaInicio": "2025-03-31T20:00",
-      "fecha": "31 de Marzo"
+      "link": "go:rey1",
+      "canal": "go:movisplus",
+      "opcion1": "go:movisplus",
+      "opcion2": "go:movisplus",
+      "opcion3": "go:movisplus",
+      "torneo": "Copa del Rey ",
+      "equipo1": "Real Madrid",
+      "equipo2": "Real Sociedad",
+      "fechaInicio": "2025-04-01T16:30",
+      "fecha": "1 de Abril"
     }
   ],
   "Liga Colombiana": [
@@ -60,37 +58,172 @@
       "opcion1": "go:winplus",
       "opcion2": "go:winplus",
       "opcion3": "go:winplus",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "La Equidad",
-      "equipo2": "Junior",
-      "fechaInicio": "2025-03-31T21:30",
-      "fecha": "31 de Marzo"
-    }
-  ],
-  "Liga Uruguaya": [
-    {
-      "link": "go:uru1",
-      "canal": "go:goltv",
-      "opcion1": "go:vtvplus",
-      "opcion2": "go:goltv",
-      "opcion3": "go:goltv",
-      "torneo": "Liga Uruguaya 🇺🇾",
-      "equipo1": "Cerro",
-      "equipo2": "Wanderers",
-      "fechaInicio": "2025-03-31T19:00",
-      "fecha": "31 de Marzo"
+      "torneo": "Primera A Colombia 🇨🇴",
+      "equipo1": "Llaneros",
+      "equipo2": "Deportivo Pereira",
+      "fechaInicio": "2025-04-01T20:00",
+      "fecha": "1 de Abril"
     },
     {
-      "link": "go:uru2",
-      "canal": "go:goltv",
-      "opcion1": "go:goltv",
-      "opcion2": "go:vtvplus",
-      "opcion3": "go:goltv",
-      "torneo": "Liga Uruguaya 🇺🇾",
-      "equipo1": "Defensor Sporting",
-      "equipo2": "Miramar Misiones",
-      "fechaInicio": "2025-03-31T21:15",
-      "fecha": "31 de Marzo"
+      "link": "go:col2",
+      "canal": "go:winplus",
+      "opcion1": "go:winplus",
+      "opcion2": "go:winplus",
+      "opcion3": "go:winplus",
+      "torneo": "Primera A Colombia 🇨🇴",
+      "equipo1": "Boyacá Chicó",
+      "equipo2": "Deportes Tolima",
+      "fechaInicio": "2025-04-01T22:10",
+      "fecha": "1 de Abril"
+    }
+  ],
+  "Copa Sudamericana": [
+    {
+      "link": "go:suda1",
+      "canal": "go:dsports",
+      "opcion1": "go:dsports",
+      "opcion2": "go:dsports",
+      "opcion3": "go:dsports",
+      "torneo": "Copa Sudamericana ",
+      "equipo1": "Boston River",
+      "equipo2": "Guaraní",
+      "fechaInicio": "2025-04-01T19:00",
+      "fecha": "1 de Abril"
+    },
+    {
+      "link": "go:suda2",
+      "canal": "go:espn",
+      "opcion1": "go:espn",
+      "opcion2": "go:espn",
+      "opcion3": "go:espn",
+      "torneo": "Copa Sudamericana ",
+      "equipo1": "Nacional Potosí",
+      "equipo2": "Independiente",
+      "fechaInicio": "2025-04-01T19:00",
+      "fecha": "1 de Abril"
+    },
+    {
+      "link": "go:suda3",
+      "canal": "go:dsports",
+      "opcion1": "go:dsports",
+      "opcion2": "go:dsports",
+      "opcion3": "go:dsports",
+      "torneo": "Copa Sudamericana ",
+      "equipo1": "Unión Santa Fe",
+      "equipo2": "Cruzeiro",
+      "fechaInicio": "2025-04-01T19:00",
+      "fecha": "1 de Abril"
+    },
+    {
+      "link": "go:suda4",
+      "canal": "go:espn2",
+      "opcion1": "go:espn2",
+      "opcion2": "go:espn2",
+      "opcion3": "go:espn2",
+      "torneo": "Copa Sudamericana ",
+      "equipo1": "Deportes Iquique",
+      "equipo2": "Caracas",
+      "fechaInicio": "2025-04-01T19:00",
+      "fecha": "1 de Abril"
+    },
+    {
+      "link": "go:suda5",
+      "canal": "go:espn2",
+      "opcion1": "go:espn2",
+      "opcion2": "go:espn2",
+      "opcion3": "go:espn2",
+      "torneo": "Copa Sudamericana ",
+      "equipo1": "Cienciano",
+      "equipo2": "Atlético Mineiro",
+      "fechaInicio": "2025-04-01T21:30",
+      "fecha": "1 de Abril"
+    },
+    {
+      "link": "go:suda6",
+      "canal": "go:dsports",
+      "opcion1": "go:espn2col",
+      "opcion2": "go:dsports",
+      "opcion3": "go:dsports",
+      "torneo": "Copa Sudamericana ",
+      "equipo1": "Once Caldas",
+      "equipo2": "Fluminense",
+      "fechaInicio": "2025-04-01T21:30",
+      "fecha": "1 de Abril"
+    }
+  ],
+  "Copa Libertadores": [
+    {
+      "link": "go:lib1",
+      "canal": "go:foxsports",
+      "opcion1": "go:foxop2",
+      "opcion2": "go:foxop3",
+      "opcion3": "go:foxsports",
+      "torneo": "Copa Libertadores ",
+      "equipo1": "Carabobo",
+      "equipo2": "Estudiantes",
+      "fechaInicio": "2025-04-01T19:00",
+      "fecha": "1 de Abril"
+    },
+    {
+      "link": "go:lib2",
+      "canal": "go:foxsports2",
+      "opcion1": "go:espncol",
+      "opcion2": "go:foxsports2",
+      "opcion3": "go:foxsports2",
+      "torneo": "Copa Libertadores ",
+      "equipo1": "Cerro Porteño",
+      "equipo2": "Bolívar",
+      "fechaInicio": "2025-04-01T19:00",
+      "fecha": "1 de Abril"
+    },
+    {
+      "link": "go:lib3",
+      "canal": "go:foxsports",
+      "opcion1": "go:espn7",
+      "opcion2": "go:foxsports2",
+      "opcion3": "go:foxsports2",
+      "torneo": "Copa Libertadores ",
+      "equipo1": "Atl. Bucaramanga",
+      "equipo2": "Colo-Colo",
+      "fechaInicio": "2025-04-01T21:30",
+      "fecha": "1 de Abril"
+    },
+    {
+      "link": "go:lib4",
+      "canal": "go:foxsports",
+      "opcion1": "go:espncol",
+      "opcion2": "go:foxsports",
+      "opcion3": "go:foxsports",
+      "torneo": "Copa Libertadores ",
+      "equipo1": "Fortaleza",
+      "equipo2": "Racing Club",
+      "fechaInicio": "2025-04-01T21:30",
+      "fecha": "1 de Abril"
+    },
+    {
+      "link": "go:lib5",
+      "canal": "go:foxsports3",
+      "opcion1": "go:dsports",
+      "opcion2": "go:espn5",
+      "opcion3": "go:foxsports3",
+      "torneo": "Copa Libertadores ",
+      "equipo1": "Barcelona",
+      "equipo2": "Independiente del Valle",
+      "fechaInicio": "2025-04-01T23:00",
+      "fecha": "1 de Abril"
+    },
+    {
+      "link": "go:lib6",
+      "canal": "go:foxsports3",
+      "opcion1": "go:espn6",
+      "opcion2": "go:dsports",
+      "opcion3": "go:dsports",
+      "torneo": "Copa Libertadores ",
+      "equipo1": "Alianza Lima",
+      "equipo2": "Libertad",
+      "fechaInicio": "2025-04-01T23:00",
+      "fecha": "1 de Abril"
     }
   ]
 }
+
