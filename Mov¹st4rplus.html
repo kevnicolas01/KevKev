@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <meta charset="UTF-8">
+  <style>
+    body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+  overflow: auto; 
+}
+    iframe {
+  width: 100vw;
+  height: 100vh;
+  border: 0;
+}
+    .tg-banner {
+      position: absolute;
+      top: 15px;
+      left: 18px;
+      background: linear-gradient(135deg, #1da1f2, #0077b5);
+      border-radius: 12px;
+      padding: 12px 18px;
+      display: flex;
+      align-items: center;
+      color: white;
+      text-decoration: none;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+      z-index: 1000;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      -webkit-user-select: none;
+      user-select: none;
+      -webkit-touch-callout: none;
+    }
+    .tg-banner img {
+      width: 36px;
+      height: 36px;
+      margin-right: 12px;
+      border-radius: 50%;
+      border: 2px solid white;
+    }
+    .tg-banner a {
+      pointer-events: none;
+    }
+    .dialog-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.7);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 2000;
+    }
+    .dialog-box {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      text-align: center;
+      max-width: 300px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+      position: relative;
+    }
+    .dialog-box p {
+      font-size: 16px;
+      margin: 15px 0;
+    }
+    .dialog-box .buttons {
+      display: flex;
+      justify-content: space-between;
+    }
+    .dialog-box button {
+      border: none;
+      padding: 10px 15px;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+      flex: 1;
+      margin: 5px;
+    }
+    .join-btn {
+      background: #1da1f2;
+      color: white;
+    }
+    .join-btn:hover {
+      background: #0077b5;
+    }
+    .later-btn {
+      background: #ccc;
+      color: black;
+    }
+    .later-btn:hover {
+      background: #bbb;
+    }
+    .close-btn {
+      position: absolute;
+      top: -10px;
+      right: -10px;
+      background: red;
+      border: none;
+      font-size: 18px;
+      cursor: pointer;
+      color: white;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    }
+    .close-btn:hover {
+      background: darkred;
+    }
+  </style>
+</head>
+<body>
+  <a href="https://t.me/LibreGol" class="tg-banner" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.pinimg.com/originals/31/2a/f9/312af9235aadad69655688eaee97eabf.png" alt="Telegram Icon">
+    <span>@LibreGol - unirse!</span>
+  </a>
+<iframe src="https://miztv.shop/total/stream-437.php"100%" height="100%" sand box="allow-scripts allow-same-origin" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+  <div class="dialog-container" id="dialog">
+    <div class="dialog-box">
+      <button class="close-btn" onclick="closeDialog()">✖</button>
+      <p>Únete a nuestro canal de Telegram para no perderte las actualizaciones.</p>
+      <div class="buttons">
+        <a href="https://t.me/LibreGol" target="_blank">
+          <button class="join-btn">Unirse</button>
+        </a>
+        <button class="later-btn" onclick="closeDialog()">En otro momento</button>
+      </div>
+    </div>
+  </div>
+  
+
+  <Script>
+    document.querySelector('.tg-banner').addEventListener('dragstart', function(e) {
+      e.preventDefault();
+    });
+    function closeDialog() {
+      document.getElementById("dialog").style.display = "none";
+    }
+    
+    Object.defineProperty(document, "referrer", { get: () => "" });
+
+const blockScripts = () => {
+    const observer = new MutationObserver((mutations) => {
+        mutations.forEach((mutation) => {
+            mutation.addedNodes.forEach((node) => {
+                if (node.tagName === "SCRIPT") {
+                    const src = node.src || "";
+                    if (src.includes("analytics") || src.includes("detect")) {
+                        node.remove();
+                    }
+                }
+            });
+        });
+    });
+
+    observer.observe(document.documentElement, { childList: true, subtree: true });
+};
+
+blockScripts();
+
+window.onbeforeunload = function () {
+    return "No puedes salir de aquí!";
+};
+
+Object.defineProperty(window, "self", { get: () => window.top });
+
+setInterval(() => {
+    if (window.top !== window.self) {
+        window.top = window.self;
+    }
+}, 1000);
+  </script>
+</body>
+</html>
