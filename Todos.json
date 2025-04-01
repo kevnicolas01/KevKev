@@ -26,9 +26,9 @@
     },
     {
       "link": "go:prem3",
-      "canal": "go:disneyplus",
+      "canal": "go:dazn2",
       "opcion1": "go:disneyplus",
-      "opcion2": "go:disneyplus",
+      "opcion2": "go:dazn2",
       "opcion3": "go:disneyplus",
       "torneo": "Premier League",
       "equipo1": "Nottingham Forest",
