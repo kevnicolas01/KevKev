@@ -1,5 +1,5 @@
 {
-  "Copa Libertadores": [
+  "Libertadores": [
     {
       "link": "go:Lib1",
       "canal": "go:foxsports",
@@ -74,7 +74,7 @@
     }
 
   ],
-  "Copa Sudamericana": [
+  "Sudamericana": [
     {
       "link": "go:suda1",
       "canal": "go:dsports",
