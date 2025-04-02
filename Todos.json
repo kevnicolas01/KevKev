@@ -240,8 +240,8 @@
   "Copa del Rey": [
     {
       "link": "go:rey1",
-      "canal": "go:Atlvsbarsa",
-      "opcion1": "go:espnplus2",
+      "canal": "go:espnplus1",
+      "opcion1": "go:Atlvsbarsa",
       "opcion2": "go:espnplus1",
       "opcion3": "go:espnplus2",
       "torneo": "Copa del Rey 🇪🇸",
