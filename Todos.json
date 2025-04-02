@@ -240,10 +240,10 @@
   "Copa del Rey": [
     {
       "link": "go:rey1",
-      "canal": "go:dsports",
-      "opcion1": "Dsports",
-      "opcion2": "Dsports",
-      "opcion3": "Dsports",
+      "canal": "go:espnplus1",
+      "opcion1": "go:espnplus2",
+      "opcion2": "go:espnplus1",
+      "opcion3": "go:espnplus2",
       "torneo": "Copa del Rey 🇪🇸",
       "equipo1": "Atlético Madrid",
       "equipo2": "Barcelona",
