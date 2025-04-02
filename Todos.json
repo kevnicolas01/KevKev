@@ -178,7 +178,7 @@
     },
     {
       "link": "go:lib3",
-      "canal": "go:foxsports2",
+      "canal": "go:espncol",
       "opcion1": "go:espncol",
       "opcion2": "go:espn",
       "opcion3": "go:foxsports2",
