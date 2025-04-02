@@ -31,7 +31,7 @@
       "opcion2": "go:espncol2",
       "opcion3": "go:espncol2",
       "torneo": "Copa Libertadores ",
-      "equipo1": "Universidad de Chile",
+      "equipo1": "U. de Chile",
       "equipo2": "Botafogo",
       "fechaInicio": "2025-04-02T21:00",
       "fecha": "2 de Abril"
@@ -67,7 +67,7 @@
         "opcion2": "go:espn5",
         "opcion3": "go:foxsports",
         "torneo": "Copa Libertadores ",
-        "equipo1": "Atlético Nacional",
+        "equipo1": "Atl. Nacional",
         "equipo2": "Nacional",
         "fechaInicio": "2025-04-02T22:45",
         "fecha": "2 de Abril"
@@ -130,7 +130,7 @@
        "opcion2": "go:espn4",
        "opcion3": "go:espn4",
        "torneo": "Copa Libertadores ",
-       "equipo1": "Sportivo Luqueño",
+       "equipo1": "Sport. Luqueño",
        "equipo2": "Gremio",
        "fechaInicio": "2025-04-02T21:15",
        "fecha": "2 de Abril"
@@ -142,7 +142,7 @@
       "opcion2": "go:espn3",
       "opcion3": "go:espn3",
       "torneo": "Copa Sudamericana ",
-      "equipo1": "Atlético Grau",
+      "equipo1": "Atl. Grau",
       "equipo2": "Godoy Cruz",
       "fechaInicio": "2025-04-02T21:00",
       "fecha": "2 de Abril"
@@ -156,7 +156,7 @@
       "opcion2": "go:tycsports",
       "opcion3": "go:tycsports",
       "torneo": "Copa Argentina ",
-      "equipo1": "Atlético Tucumán",
+      "equipo1": "Atl. Tucumán",
       "equipo2": "All Boys",
       "fechaInicio": "2025-04-02T19:00",
       "fecha": "2 de Abril"
@@ -245,7 +245,7 @@
       "opcion2": "go:espnplus1",
       "opcion3": "go:espnplus2",
       "torneo": "Copa del Rey 🇪🇸",
-      "equipo1": "Atlético Madrid",
+      "equipo1": "Atl. Madrid",
       "equipo2": "Barcelona",
       "fechaInicio": "2025-04-02T16:30",
       "fecha": "2 de Abril"
