@@ -52,10 +52,10 @@
   "Sudamericana": [
     {
       "link": "Go:suda1",
-      "canal": "Go:dsports",
-      "opcion1": "DSports",
-      "opcion2": "DSports",
-      "opcion3": "DSports",
+      "canal": "Go:dsportsMAS",
+      "opcion1": "DSportsMAS",
+      "opcion2": "DSportsMAS",
+      "opcion3": "DSportsMAS",
       "torneo": "Copa Sudamericana ",
       "equipo1": "Gualberto V.",
       "equipo2": "Unión Esp.",
