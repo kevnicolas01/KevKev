@@ -3,7 +3,7 @@
     {
       "link": "go:Lib1",
       "canal": "Go:foxsports",
-      "opcion1": "Fox Sports",
+      "opcion1": "Go:foxsports2",
       "opcion2": "Fox Sports",
       "opcion3": "Fox Sports",
       "torneo": "Copa Libertadores ",
@@ -14,7 +14,7 @@
     },
     {
       "link": "go:Lib2",
-      "canal": "Go:foxsports",
+      "canal": "Go:foxsports2",
       "opcion1": "Fox Sports",
       "opcion2": "Fox Sports",
       "opcion3": "Fox Sports",
