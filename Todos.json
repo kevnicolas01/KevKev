@@ -2,10 +2,10 @@
   "La Liga": [
     {
       "link": "go:laliga1",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
+      "canal": "go:Daznlaliga",
+      "opcion1": "go:espnplus1",
+      "opcion2": "go:disney4",
+      "opcion3": "go:espnplus2",
       "torneo": "La Liga 🇪🇸",
       "equipo1": "Rayo Vallecano",
       "equipo2": "Espanyol",
@@ -16,10 +16,10 @@
   "Serie A": [
     {
       "link": "Go:serieA1",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
+      "canal": "go:ESPN5",
+      "opcion1": "go:disney3",
+      "opcion2": "go:disney3",
+      "opcion3": "go:disney3",
       "torneo": "Serie A 🇮🇹",
       "equipo1": "Genoa",
       "equipo2": "Udinese",
@@ -30,10 +30,10 @@
   "Bundesliga": [
     {
       "link": "Go:bundes1",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
+      "canal": "go:ESPNplus1",
+      "opcion1": "go:ESPNplus2",
+      "opcion2": "go:disney1",
+      "opcion3": "go:disney1",
       "torneo": "Bundesliga 🇩🇪",
       "equipo1": "Augsburg",
       "equipo2": "Bayern Munich",
@@ -44,10 +44,10 @@
   "Ligue 1": [
     {
       "link": "Go:liguee1",
-      "canal": "go:ESPN",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN",
-      "opcion3": "ESPN",
+      "canal": "go:ESPN4",
+      "opcion1": "go:disney2",
+      "opcion2": "go:disney2",
+      "opcion3": "go:ESPN4",
       "torneo": "Ligue 1 🇫🇷",
       "equipo1": "Nice",
       "equipo2": "Nantes",
@@ -58,10 +58,10 @@
   "Liga Argentina": [
     {
       "link": "Go:arg1",
-      "canal": "Go:tycsports",
-      "opcion1": "TyC Sports",
-      "opcion2": "TyC Sports",
-      "opcion3": "TyC Sports",
+      "canal": "Go:tntsports",
+      "opcion1": "Go:tntsports",
+      "opcion2": "Go:tntsports",
+      "opcion3": "Go:tntsports",
       "torneo": "Liga Argentina 🇦🇷",
       "equipo1": "Estudiantes",
       "equipo2": "Belgrano",
@@ -70,10 +70,10 @@
     },
     {
       "link": "Go:arg2",
-      "canal": "Go:tycsports",
-      "opcion1": "TyC Sports",
-      "opcion2": "TyC Sports",
-      "opcion3": "TyC Sports",
+      "canal": "go:espnprem",
+      "opcion1": "go:disney6",
+      "opcion2": "go:disney6",
+      "opcion3": "go:espnprem",
       "torneo": "Liga Argentina 🇦🇷",
       "equipo1": "San Martín",
       "equipo2": "San Lorenzo",
@@ -183,8 +183,7 @@
       "equipo2": "El Nacional",
       "fechaInicio": "2025-04-04T20:00",
       "fecha": "4 de Abril"
-    }
-  ],
+    },
   "Liga Chilena": [
     {
       "link": "Go:chile1",
