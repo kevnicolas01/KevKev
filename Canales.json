@@ -46,12 +46,11 @@
   "Disney8": "https://streamtp4.com/global1.php?stream=disney8",
   "Disney16": "https://streamtp4.com/global1.php?stream=disney16",
   "Disney20": "https://streamtp4.com/global1.php?stream=disney20",
-  "Universo": "#",
-  "Serie A5": "#",
+  "Universo": "https://streamtp4.com/global1.php?stream=universo_usa",
   "Zapping": "#",
-  "DAZN 2": "#",
-  "Movistar Plus": "#",
+  "DAZN 2": "https://streamtp4.com/global1.php?stream=dazn2",
+  "Movistar La Liga": "https://streamtp4.com/global1.php?stream=movistarlaliga",
   "Max 1": "https://streamtp4.com/global1.php?stream=max1",
-  "Max2": "#",
-  "Max3": "#"
+  "Max2": "https://streamtp4.com/global1.php?stream=max2",
+  "Max3": "https://streamtp4.com/global1.php?stream=max3"
 }
