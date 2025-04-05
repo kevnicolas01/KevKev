@@ -214,7 +214,7 @@
   "Bundesliga": [
    
     {
-      "link": "Go:bundes2",
+      "link": "Go:bundes1",
       "canal": "go:hd3",
       "opcion1": "go:hd3",
       "opcion2": "go:hd3",
@@ -226,7 +226,7 @@
       "fecha": "5 de Abril"
     },
     {
-      "link": "Go:bundes3",
+      "link": "Go:bundes2",
       "canal": "go:hd10",
       "opcion1": "go:espn3",
       "opcion2": "go:hd10",
@@ -238,11 +238,11 @@
       "fecha": "5 de Abril"
     },
     {
-      "link": "Go:bundes4",
-      "canal": "Go:Espn",
-      "opcion1": "ESPN",
-      "opcion2": "Star+",
-      "opcion3": null,
+      "link": "Go:bundes3",
+      "canal": "go:disney6",
+      "opcion1": "go:disney6",
+      "opcion2": "go:disney6",
+      "opcion3": "go:disney6",
       "torneo": "Bundesliga 🇩🇪",
       "equipo1": "Mainz 05",
       "equipo2": "Holstein Kiel",
