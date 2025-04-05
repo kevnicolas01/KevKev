@@ -88,10 +88,10 @@
     },
     {
       "link": "Go:prem3",
-      "canal": "go:dazn3",
-      "opcion1": "go:dazn3",
-      "opcion2": "go:dazn3",
-      "opcion3": "go:dazn3",
+      "canal": "go:disney10",
+      "opcion1": "go:disney10",
+      "opcion2": "go:disney10",
+      "opcion3": "go:disney10",
       "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "equipo1": "Ipswich Town",
       "equipo2": "Wolver. Wanderers",
@@ -101,7 +101,7 @@
     {
       "link": "Go:prem4",
       "canal": "go:max2",
-      "opcion1": "go:hd11",
+      "opcion1": "go:peacock2",
       "opcion2": "go:hd11",
       "opcion3": "go:hd11",
       "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
