@@ -525,5 +525,43 @@
       "fechaInicio": "2025-04-05T22:05",
       "fecha": "5 de Abril"
     }
+  ],
+  "Liga Brasileña": [
+    {
+      "link": "Go:bra1",
+      "canal": "go:premiere1",
+      "opcion1": "go:premiere1",
+      "opcion2": "go:premiere1",
+      "opcion3": "go:premiere1",
+      "torneo": "Brasileirao 🇧🇷",
+      "equipo1": "Ceará",
+      "equipo2": "Gremio",
+      "fechaInicio": "2025-04-05T18:30",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:bra2",
+      "canal": "go:eventos6",
+      "opcion1": "go:eventos6",
+      "opcion2": "go:eventos6",
+      "opcion3": "go:eventos6",
+      "torneo": "Brasileirao 🇧🇷",
+      "equipo1": "Corinthians",
+      "equipo2": "Vasco Da Gama",
+      "fechaInicio": "2025-04-05T18:30",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:bra3",
+      "canal": "go:premiere1",
+      "opcion1": "go:premiere1",
+      "opcion2": "go:premiere1",
+      "opcion3": "go:premiere1",
+      "torneo": "Brasileirao 🇧🇷",
+      "equipo1": "Botafogo",
+      "equipo2": "Juventude",
+      "fechaInicio": "2025-04-05T21:00",
+      "fecha": "5 de Abril"
+    }
   ]
 }
