@@ -1,151 +1,493 @@
 {
+  "Liga Argentina": [
+    {
+      "link": "Go:arg1",
+      "canal": "Go:tycsports",
+      "opcion1": "TyC Sports",
+      "opcion2": "TyC Sports Play",
+      "opcion3": null,
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Rosario Central",
+      "equipo2": "Vélez",
+      "fechaInicio": "2025-04-05T15:30",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:arg2",
+      "canal": "Go:tycsports",
+      "opcion1": "TyC Sports",
+      "opcion2": "TyC Sports Play",
+      "opcion3": null,
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Godoy Cruz",
+      "equipo2": "Ind. Rivadavia",
+      "fechaInicio": "2025-04-05T15:30",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:arg3",
+      "canal": "Go:TNTSports",
+      "opcion1": "TNT Sports",
+      "opcion2": "Flow Eventos",
+      "opcion3": "Directv GO",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Huracán",
+      "equipo2": "Aldosivi",
+      "fechaInicio": "2025-04-05T18:00",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:arg4",
+      "canal": "Go:TNTSports",
+      "opcion1": "TNT Sports",
+      "opcion2": "Flow Eventos",
+      "opcion3": "Directv GO",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Talleres Córdoba",
+      "equipo2": "Gimnasia",
+      "fechaInicio": "2025-04-05T18:00",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:arg5",
+      "canal": "Go:TNTSports",
+      "opcion1": "TNT Sports",
+      "opcion2": "Flow Eventos",
+      "opcion3": "Directv GO",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Sarmiento",
+      "equipo2": "River Plate",
+      "fechaInicio": "2025-04-05T20:30",
+      "fecha": "5 de Abril"
+    }
+  ],
+  "Premier League": [
+    {
+      "link": "Go:prem1",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
+      "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Crystal Palace",
+      "equipo2": "Brighton",
+      "fechaInicio": "2025-04-05T08:30",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:prem2",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
+      "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Everton",
+      "equipo2": "Arsenal",
+      "fechaInicio": "2025-04-05T11:00",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:prem3",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
+      "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Ipswich Town",
+      "equipo2": "Wolver. Wanderers",
+      "fechaInicio": "2025-04-05T11:00",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:prem4",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
+      "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "West Ham",
+      "equipo2": "Bournemouth",
+      "fechaInicio": "2025-04-05T11:00",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:prem5",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
+      "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Aston Villa",
+      "equipo2": "Nott. Forest",
+      "fechaInicio": "2025-04-05T13:30",
+      "fecha": "5 de Abril"
+    }
+  ],
   "La Liga": [
     {
       "link": "go:laliga1",
-      "canal": "go:Daznlaliga",
-      "opcion1": "go:espnplus1",
-      "opcion2": "go:disney4",
-      "opcion3": "go:espnplus2",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
       "torneo": "La Liga 🇪🇸",
-      "equipo1": "Rayo Vallecano",
-      "equipo2": "Espanyol",
-      "fechaInicio": "2025-04-04T16:00",
-      "fecha": "4 de Abril"
+      "equipo1": "Girona",
+      "equipo2": "Deportivo Alavés",
+      "fechaInicio": "2025-04-05T09:00",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "go:laliga2",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Real Madrid",
+      "equipo2": "Valencia",
+      "fechaInicio": "2025-04-05T11:15",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "go:laliga3",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Mallorca",
+      "equipo2": "Celta de Vigo",
+      "fechaInicio": "2025-04-05T13:30",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "go:laliga4",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Barcelona",
+      "equipo2": "Real Betis",
+      "fechaInicio": "2025-04-05T16:00",
+      "fecha": "5 de Abril"
     }
   ],
   "Serie A": [
     {
       "link": "Go:serieA1",
-      "canal": "go:ESPN5",
-      "opcion1": "go:disney3",
-      "opcion2": "go:disney3",
-      "opcion3": "go:disney3",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
       "torneo": "Serie A 🇮🇹",
-      "equipo1": "Genoa",
-      "equipo2": "Udinese",
-      "fechaInicio": "2025-04-04T15:45",
-      "fecha": "4 de Abril"
+      "equipo1": "Monza",
+      "equipo2": "Como",
+      "fechaInicio": "2025-04-05T10:00",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:seriea2",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Parma",
+      "equipo2": "Internazionale",
+      "fechaInicio": "2025-04-05T13:00",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:seriea3",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Milan",
+      "equipo2": "Fiorentina",
+      "fechaInicio": "2025-04-05T15:45",
+      "fecha": "5 de Abril"
     }
   ],
   "Bundesliga": [
     {
       "link": "Go:bundes1",
-      "canal": "go:ESPNplus1",
-      "opcion1": "go:ESPNplus2",
-      "opcion2": "go:disney1",
-      "opcion3": "go:disney1",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
       "torneo": "Bundesliga 🇩🇪",
-      "equipo1": "Augsburg",
-      "equipo2": "Bayern Munich",
-      "fechaInicio": "2025-04-04T15:30",
-      "fecha": "4 de Abril"
+      "equipo1": "RB Leipzig",
+      "equipo2": "Hoffenheim",
+      "fechaInicio": "2025-04-05T10:30",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:bundes2",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Heidenheim",
+      "equipo2": "Leverkusen",
+      "fechaInicio": "2025-04-05T10:30",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:bundes3",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Freiburg",
+      "equipo2": "Borussia Dort.",
+      "fechaInicio": "2025-04-05T10:30",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:bundes4",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Mainz 05",
+      "equipo2": "Holstein Kiel",
+      "fechaInicio": "2025-04-05T10:30",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:bundes5",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Bochum",
+      "equipo2": "Stuttgart",
+      "fechaInicio": "2025-04-05T10:30",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:bundes6",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Werder Bremen",
+      "equipo2": "Eintracht Frankfurt",
+      "fechaInicio": "2025-04-05T13:30",
+      "fecha": "5 de Abril"
     }
   ],
   "Ligue 1": [
     {
       "link": "Go:liguee1",
-      "canal": "go:ESPN4",
-      "opcion1": "go:disney2",
-      "opcion2": "go:disney2",
-      "opcion3": "go:ESPN4",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": null,
       "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "Nice",
-      "equipo2": "Nantes",
-      "fechaInicio": "2025-04-04T15:45",
-      "fecha": "4 de Abril"
-    }
-  ],
-  "Liga Argentina": [
-    {
-      "link": "Go:arg1",
-      "canal": "Go:tntsports",
-      "opcion1": "Go:tntsports",
-      "opcion2": "Go:tntsports",
-      "opcion3": "Go:tntsports",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Estudiantes",
-      "equipo2": "Belgrano",
-      "fechaInicio": "2025-04-04T19:00",
-      "fecha": "4 de Abril"
+      "equipo1": "PSG",
+      "equipo2": "Angers SCO",
+      "fechaInicio": "2025-04-05T12:00",
+      "fecha": "5 de Abril"
     },
     {
-      "link": "Go:arg2",
-      "canal": "go:espnprem",
-      "opcion1": "go:disney6",
-      "opcion2": "go:disney6",
-      "opcion3": "go:espnprem",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "San Martín",
-      "equipo2": "San Lorenzo",
-      "fechaInicio": "2025-04-04T22:00",
-      "fecha": "4 de Abril"
-    }
-  ],
-  "Liga Peruana": [
-    {
-      "link": "Go:per1",
-      "canal": "go:ligamax",
-      "opcion1": "go:ligamax",
-      "opcion2": "go:ligamax",
-      "opcion3": "go:ligamax",
-      "torneo": "Liga Peruana 🇵🇪",
-      "equipo1": "Binacional",
-      "equipo2": "Ayacucho FC",
-      "fechaInicio": "2025-04-04T19:30",
-      "fecha": "4 de Abril"
+      "link": "Go:ligue2",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": "",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Brest",
+      "equipo2": "Monaco",
+      "fechaInicio": "2025-04-05T14:00",
+      "fecha": "5 de Abril"
     },
     {
-      "link": "go:per2",
-      "canal": "go:ligamax",
-      "opcion1": "go:ligamax",
-      "opcion2": "go:ligamax",
-      "opcion3": "go:ligamax",
-      "torneo": "Liga Peruana 🇵🇪",
-      "equipo1": "Sport Huancayo",
-      "equipo2": "Dep. Garcilaso",
-      "fechaInicio": "2025-04-04T22:00",
-      "fecha": "4 de Abril"
+      "link": "Go:ligue3",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": "",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Olympique Lyon.",
+      "equipo2": "Lille",
+      "fechaInicio": "2025-04-05T16:05",
+      "fecha": "5 de Abril"
     }
   ],
   "Liga Colombiana": [
     {
       "link": "Go:col1",
       "canal": "Go:winplus",
-      "opcion1": "Go:winplus2",
-      "opcion2": "Go:winpluson",
-      "opcion3": "Go:winplus",
+      "opcion1": "Win Sports+",
+      "opcion2": "Win Sports Online",
+      "opcion3": "",
       "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Alianza Pet.",
-      "equipo2": "Envigado",
-      "fechaInicio": "2025-04-04T18:00",
-      "fecha": "4 de Abril"
+      "equipo1": "Atl. Nacional",
+      "equipo2": "Unión Magd.",
+      "fechaInicio": "2025-04-05T16:00",
+      "fecha": "5 de Abril"
     },
     {
       "link": "Go:col2",
       "canal": "Go:winplus",
-      "opcion1": "Go:winplus2",
-      "opcion2": "Go:winpluson",
-      "opcion3": "Go:winplus",
+      "opcion1": "Win Sports+",
+      "opcion2": "Win Sports Online",
+      "opcion3": "",
       "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Santa Fe",
-      "equipo2": "Deportivo Pasto",
-      "fechaInicio": "2025-04-04T21:00",
-      "fecha": "4 de Abril"
+      "equipo1": "Dep. Cali",
+      "equipo2": "La Equidad",
+      "fechaInicio": "2025-04-05T18:10",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:col3",
+      "canal": "Go:winplus",
+      "opcion1": "Win Sports+",
+      "opcion2": "Win Sports Online",
+      "opcion3": "",
+      "torneo": "Liga Colombiana 🇨🇴",
+      "equipo1": "Once Caldas",
+      "equipo2": "Am. De Cali",
+      "fechaInicio": "2025-04-05T20:20",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:col4",
+      "canal": "Go:winplus",
+      "opcion1": "Win Sports+",
+      "opcion2": "Win Sports Online",
+      "opcion3": "",
+      "torneo": "Liga Colombiana 🇨🇴",
+      "equipo1": "Dep. Tolima",
+      "equipo2": "Bucaramanga",
+      "fechaInicio": "2025-04-05T22:30",
+      "fecha": "5 de Abril"
+    }
+  ],
+  "Liga Ecuatoriana": [
+    {
+      "link": "Go:ecu1",
+      "canal": "Go:goltv",
+      "opcion1": "GolTV",
+      "opcion2": "Star+",
+      "opcion3": "",
+      "torneo": "Liga Ecuatoriana 🇪🇨",
+      "equipo1": "Delfin",
+      "equipo2": "Aucas",
+      "fechaInicio": "2025-04-05T16:00",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:ecu2",
+      "canal": "Go:goltv",
+      "opcion1": "GolTV",
+      "opcion2": "Star+",
+      "opcion3": "",
+      "torneo": "Liga Ecuatoriana 🇪🇨",
+      "equipo1": "Orense",
+      "equipo2": "Cuniburo",
+      "fechaInicio": "2025-04-05T18:30",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:ecu3",
+      "canal": "Go:goltv",
+      "opcion1": "GolTV",
+      "opcion2": "Star+",
+      "opcion3": "",
+      "torneo": "Liga Ecuatoriana 🇪🇨",
+      "equipo1": "Ind. del Valle",
+      "equipo2": "Dep. Cuenca",
+      "fechaInicio": "2025-04-05T21:00",
+      "fecha": "5 de Abril"
+    }
+  ],
+  "Liga Peruana": [
+    {
+      "link": "Go:per1",
+      "canal": "Go:golperu",
+      "opcion1": "Gol Perú",
+      "opcion2": "Movistar Play",
+      "opcion3": "",
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "Atl. Grau",
+      "equipo2": "Cienciano",
+      "fechaInicio": "2025-04-05T12:15",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:per2",
+      "canal": "Go:golperu",
+      "opcion1": "Gol Perú",
+      "opcion2": "Movistar Play",
+      "opcion3": "",
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "Melgar",
+      "equipo2": "ADT",
+      "fechaInicio": "2025-04-05T17:15",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:per3",
+      "canal": "Go:golperu",
+      "opcion1": "Gol Perú",
+      "opcion2": "Movistar Play",
+      "opcion3": "",
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "Alianza Lima",
+      "equipo2": "Universitario",
+      "fechaInicio": "2025-04-05T21:00",
+      "fecha": "5 de Abril"
+    }
+  ],
+  "Liga Uruguaya": [
+    {
+      "link": "Go:uru1",
+      "canal": "Go:Vtvplus",
+      "opcion1": "VTV+",
+      "opcion2": "Star+",
+      "opcion3": "",
+      "torneo": "Liga Uruguaya 🇺🇾",
+      "equipo1": "Juventud",
+      "equipo2": "Boston River",
+      "fechaInicio": "2025-04-05T13:00",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:uru2",
+      "canal": "Go:Vtvplus",
+      "opcion1": "VTV+",
+      "opcion2": "Star+",
+      "opcion3": "",
+      "torneo": "Liga Uruguaya 🇺🇾",
+      "equipo1": "Danubio",
+      "equipo2": "Peñarol",
+      "fechaInicio": "2025-04-05T16:00",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:uru3",
+      "canal": "Go:Vtvplus",
+      "opcion1": "VTV+",
+      "opcion2": "Star+",
+      "opcion3": "",
+      "torneo": "Liga Uruguaya 🇺🇾",
+      "equipo1": "Plaza Colonia",
+      "equipo2": "Racing",
+      "fechaInicio": "2025-04-05T18:30",
+      "fecha": "5 de Abril"
     }
   ],
   "Liga Mexicana": [
-    {
-      "link": "Go:mex1",
-      "canal": "Go:TUDNUSA",
-      "opcion1": "Go:TUDNUSA",
-      "opcion2": "Go:TUDNUSA",
-      "opcion3": "Go:TUDNUSA",
-      "torneo": "Liga Mexicana 🇲🇽",
-      "equipo1": "Querétaro",
-      "equipo2": "León",
-      "fechaInicio": "2025-04-04T22:00",
-      "fecha": "4 de Abril"
-    },
     {
       "link": "Go:mex2",
       "canal": "Go:calientetv",
@@ -169,34 +511,54 @@
       "equipo2": "Tigres UANL",
       "fechaInicio": "2025-04-05T00:05",
       "fecha": "4 de Abril"
-    }
-  ],
-    "Liga Ecuatoriana": [
+    },
     {
-      "link": "Go:ecu1",
-      "canal": "go:ecdf",
-      "opcion1": "go:ecdf",
-      "opcion2": "go:ecdf",
-      "opcion3": "go:ecdf",
-      "torneo": "Copa Ecuador 🇪🇨",
-      "equipo1": "Libertad",
-      "equipo2": "El Nacional",
-      "fechaInicio": "2025-04-04T20:00",
-      "fecha": "4 de Abril"
-    }
-  ],
-  "Liga Chilena": [
+      "link": "Go:mex3",
+      "canal": "ViX",
+      "opcion1": "ViX",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Mexicana 🇲🇽",
+      "equipo1": "Atlas",
+      "equipo2": "Juárez",
+      "fechaInicio": "2025-04-05T20:00",
+      "fecha": "5 de Abril"
+    },
     {
-      "link": "Go:chile1",
-      "canal": "go:max1",
-      "opcion1": "go:max1",
-      "opcion2": "go:max1",
-      "opcion3": "go:max1",
-      "torneo": "Copa Chile 🇨🇱",
-      "equipo1": "Everton",
-      "equipo2": "Unión La Calera",
-      "fechaInicio": "2025-04-04T20:00",
-      "fecha": "4 de Abril"
+      "link": "Go:mex4",
+      "canal": "Go:TUDN",
+      "opcion1": "TUDN USA",
+      "opcion2": "Univision",
+      "opcion3": "TUDN.com",
+      "torneo": "Liga Mexicana 🇲🇽",
+      "equipo1": "Pachuca",
+      "equipo2": "América",
+      "fechaInicio": "2025-04-05T20:00",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:mex5",
+      "canal": "Go:Espn",
+      "opcion1": "Disney+ Argentina",
+      "opcion2": "Disney+ Brazil",
+      "opcion3": "ESPN2 Mexico",
+      "torneo": "Liga Mexicana 🇲🇽",
+      "equipo1": "Atlético San Luis",
+      "equipo2": "Mazatlán",
+      "fechaInicio": "2025-04-05T22:00",
+      "fecha": "5 de Abril"
+    },
+    {
+      "link": "Go:mex6",
+      "canal": "Go:Espn",
+      "opcion1": "ESPN",
+      "opcion2": "Star+",
+      "opcion3": "",
+      "torneo": "Liga Mexicana 🇲🇽",
+      "equipo1": "Monterrey",
+      "equipo2": "Guadalajara",
+      "fechaInicio": "2025-04-05T22:05",
+      "fecha": "5 de Abril"
     }
   ]
 }
