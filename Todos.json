@@ -379,10 +379,10 @@
   "Liga Peruana": [
     {
       "link": "Go:per1",
-      "canal": "Go:golperu",
-      "opcion1": "Gol Perú",
-      "opcion2": "Movistar Play",
-      "opcion3": null,
+      "canal": "go:ligamax",
+      "opcion1": "go:ligamax",
+      "opcion2": "go:ligamax",
+      "opcion3": "go:ligamax",
       "torneo": "Liga Peruana 🇵🇪",
       "equipo1": "Atl. Grau",
       "equipo2": "Cienciano",
