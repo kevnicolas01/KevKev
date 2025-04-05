@@ -417,10 +417,10 @@
   "Liga Uruguaya": [
     {
       "link": "Go:uru1",
-      "canal": "Go:Vtvplus",
-      "opcion1": "VTV+",
-      "opcion2": "Star+",
-      "opcion3": null,
+      "canal": "go:disney15",
+      "opcion1": "go:disney15",
+      "opcion2": "go:vtvplus",
+      "opcion3": "go:vtvplus",
       "torneo": "Liga Uruguaya 🇺🇾",
       "equipo1": "Juventud",
       "equipo2": "Boston River",
