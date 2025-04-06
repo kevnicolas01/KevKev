@@ -8,7 +8,7 @@
       "opcion3": "Go:espn2",
       "torneo": "La Liga 🇪🇸",
       "equipo1": "Sevilla",
-      "equipo2": "Atlético de Madrid",
+      "equipo2": "Atl. de Madrid",
       "fechaInicio": "2025-04-06T11:15",
       "fecha": "6 de Abril"
     },
@@ -32,7 +32,7 @@
       "opcion3": "go:disney7",
       "torneo": "La Liga 🇪🇸",
       "equipo1": "Villarreal",
-      "equipo2": "Athletic Bilbao",
+      "equipo2": "Athletic",
       "fechaInicio": "2025-04-06T16:00",
       "fecha": "6 de Abril"
     }
@@ -258,7 +258,7 @@
       "opcion3": "Go:TNTSports",
       "torneo": "Liga Argentina",
       "equipo1": "Boca",
-      "equipo2": "Barracas Central",
+      "equipo2": "Barracas",
       "fechaInicio": "2025-04-06T18:00",
       "fecha": "6 de Abril"
     },
