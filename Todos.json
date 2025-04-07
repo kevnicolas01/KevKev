@@ -41,9 +41,9 @@
 {
 "link": "Go:prem1",
 "canal": "Go:espn",
-"opcion1": "Go:espn",
+"opcion1": "Go:disney2",
 "opcion2": "Go:espn",
-"opcion3": "Go:espn",
+"opcion3": "Go:dazn1",
 "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
 "equipo1": "Leicester",
 "equipo2": "Newcastle",
@@ -54,10 +54,10 @@
 "La Liga": [
 {
 "link": "go:laliga1",
-"canal": "Go:Dsports",
-"opcion1": "Go:Dsports",
-"opcion2": "Go:Dsports",
-"opcion3": "Go:Dsports",
+"canal": "Go:espndeport",
+"opcion1": "Go:espnplus5",
+"opcion2": "Go:espnplus6",
+"opcion3": "Go:espndeport",
 "torneo": "La Liga 🇪🇸",
 "equipo1": "Leganés",
 "equipo2": "Osasuna",
@@ -68,10 +68,10 @@
 "Serie A": [
 {
 "link": "Go:serieA1",
-"canal": "Go:espn",
-"opcion1": "Go:espn",
-"opcion2": "Go:espn",
-"opcion3": "Go:espn",
+"canal": "Go:disney1",
+"opcion1": "Go:disney1",
+"opcion2": "Go:disney1",
+"opcion3": "Go:disney1",
 "torneo": "Serie A 🇮🇹",
 "equipo1": "Bologna",
 "equipo2": "Napoli",
@@ -82,10 +82,10 @@
 "Liga Uruguaya": [
 {
 "link": "Go:uru1",
-"canal": "Go:Vtvplus",
-"opcion1": "Go:Vtvplus",
-"opcion2": "Go:Vtvplus",
-"opcion3": "Go:Vtvplus",
+"canal": "Go:disney4",
+"opcion1": "Go:disney4",
+"opcion2": "Go:disney4",
+"opcion3": "Go:disney4",
 "torneo": "Primera División 🇺🇾",
 "equipo1": "Wanderers",
 "equipo2": "Def. Sporting",
