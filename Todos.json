@@ -1,367 +1,96 @@
 {
-  "La Liga": [
-    {
-      "link": "go:laliga1",
-      "canal": "Go:espn2",
-      "opcion1": "go:espndeport",
-      "opcion2": "Go:espn2",
-      "opcion3": "Go:espn2",
-      "torneo": "La Liga 🇪🇸",
-      "equipo1": "Sevilla",
-      "equipo2": "Atl. de Madrid",
-      "fechaInicio": "2025-04-06T11:15",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "go:laliga2",
-      "canal": "go:disney7",
-      "opcion1": "go:dazn2",
-      "opcion2": "go:disney7",
-      "opcion3": "go:disney7",
-      "torneo": "La Liga 🇪🇸",
-      "equipo1": "Real Valladolid",
-      "equipo2": "Getafe",
-      "fechaInicio": "2025-04-06T13:30",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "go:laliga3",
-      "canal": "go:disney15",
-      "opcion1": "go:disney7",
-      "opcion2": "go:disney7",
-      "opcion3": "go:disney7",
-      "torneo": "La Liga 🇪🇸",
-      "equipo1": "Villarreal",
-      "equipo2": "Athletic",
-      "fechaInicio": "2025-04-06T16:00",
-      "fecha": "6 de Abril"
-    }
-  ],
-  "Premier League": [
-    {
-      "link": "Go:prem1",
-      "canal": "go:disney6",
-      "opcion1": "go:dazn2",
-      "opcion2": "go:max2",
-      "opcion3": "go:espn",
-      "torneo": "Premier League",
-      "equipo1": "Brentford",
-      "equipo2": "Chelsea",
-      "fechaInicio": "2025-04-06T10:00",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:prem2",
-      "canal": "go:disney7",
-      "opcion1": "go:disney7",
-      "opcion2": "go:max1",
-      "opcion3": "go:max1",
-      "torneo": "Premier League",
-      "equipo1": "Fulham",
-      "equipo2": "Liverpool",
-      "fechaInicio": "2025-04-06T10:00",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:prem3",
-      "canal": "go:disney8",
-      "opcion1": "go:peacock2",
-      "opcion2": "go:disney8",
-      "opcion3": "go:disney8",
-      "torneo": "Premier League",
-      "equipo1": "Tottenham",
-      "equipo2": "Southampton",
-      "fechaInicio": "2025-04-06T10:00",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:prem4",
-      "canal": "Go:espn",
-      "opcion1": "go:disney3",
-      "opcion2": "go:disney3",
-      "opcion3": "go:disney3",
-      "torneo": "Premier League",
-      "equipo1": "Manchester United",
-      "equipo2": "Manchester City",
-      "fechaInicio": "2025-04-06T12:30",
-      "fecha": "6 de Abril"
-    }
-  ],
-  "Serie A": [
-    {
-      "link": "Go:serieA1",
-      "canal": "Go:espn",
-      "opcion1": "go:disney10",
-      "opcion2": "go:disney10",
-      "opcion3": "go:disney10",
-      "torneo": "Serie A",
-      "equipo1": "Empoli",
-      "equipo2": "Cagliari",
-      "fechaInicio": "2025-04-06T10:00",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:seriea2",
-      "canal": "Go:espn",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN 2",
-      "opcion3": "ESPN 3",
-      "torneo": "Serie A",
-      "equipo1": "Torino",
-      "equipo2": "Hellas Verona",
-      "fechaInicio": "2025-04-06T10:00",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:seriea3",
-      "canal": "go:disney5",
-      "opcion1": "go:disney5",
-      "opcion2": "go:disney5",
-      "opcion3": "go:disney5",
-      "torneo": "Serie A",
-      "equipo1": "Atalanta",
-      "equipo2": "Lazio",
-      "fechaInicio": "2025-04-06T13:00",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:seriea4",
-      "canal": "Go:espn",
-      "opcion1": "go:disney14",
-      "opcion2": "go:disney14",
-      "opcion3": "go:disney14",
-      "torneo": "Serie A",
-      "equipo1": "Roma",
-      "equipo2": "Juventus",
-      "fechaInicio": "2025-04-06T15:45",
-      "fecha": "6 de Abril"
-    }
-  ],
-  "Ligue 1": [
-    {
-      "link": "Go:liguee1",
-      "canal": "Go:espn",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN 2",
-      "opcion3": "ESPN 4",
-      "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "Lens",
-      "equipo2": "Saint-Etienne",
-      "fechaInicio": "2025-04-06T10:00",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:ligue2",
-      "canal": "go:disney19",
-      "opcion1": "go:disney19",
-      "opcion2": "go:disney19",
-      "opcion3": "go:disney19",
-      "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "Montpeiller",
-      "equipo2": "Le Havre",
-      "fechaInicio": "2025-04-06T12:15",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:ligue3",
-      "canal": "go:disney1",
-      "opcion1": "go:disney1",
-      "opcion2": "go:disney1",
-      "opcion3": "go:disney1",
-      "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "Reims",
-      "equipo2": "Estrasburgo",
-      "fechaInicio": "2025-04-06T12:15",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:ligue4",
-      "canal": "Go:espn",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN 2",
-      "opcion3": "ESPN 4",
-      "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "Rennes",
-      "equipo2": "Auxerre",
-      "fechaInicio": "2025-04-06T12:15",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:ligue5",
-      "canal": "go:disney2",
-      "opcion1": "go:disney2",
-      "opcion2": "go:disney2",
-      "opcion3": "go:disney2",
-      "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "Olympique Marsella",
-      "equipo2": "Toulouse",
-      "fechaInicio": "2025-04-06T15:45",
-      "fecha": "6 de Abril"
-    }
-  ],
-  "Bundesliga": [
-    {
-      "link": "Go:bundes1",
-      "canal": "Go:espn",
-      "opcion1": "ESPN",
-      "opcion2": "ESPN 2",
-      "opcion3": "ESPN 3",
-      "torneo": "Bundesliga",
-      "equipo1": "St. Pauli",
-      "equipo2": "Borussia Monchengladbach",
-      "fechaInicio": "2025-04-06T10:30",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:bundes2",
-      "canal": "Go:espn5",
-      "opcion1": "Go:espn5",
-      "opcion2": "Go:espn5",
-      "opcion3": "Go:espn5",
-      "torneo": "Bundesliga",
-      "equipo1": "Unión Berlín",
-      "equipo2": "Wolfsburgo",
-      "fechaInicio": "2025-04-06T12:30",
-      "fecha": "6 de Abril"
-    }
-  ],
-  "Liga Argentina": [
-    {
-      "link": "Go:arg1",
-      "canal": "Go:TNTSports",
-      "opcion1": "Go:TNTSports",
-      "opcion2": "Go:TNTSports",
-      "opcion3": "Go:TNTSports",
-      "torneo": "Liga Argentina",
-      "equipo1": "Unión",
-      "equipo2": "Central Córdoba",
-      "fechaInicio": "2025-04-06T15:30",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:arg2",
-      "canal": "Go:Espnprem",
-      "opcion1": "Go:Espnprem",
-      "opcion2": "Go:Espnprem",
-      "opcion3": "Go:Espnprem",
-      "torneo": "Liga Argentina",
-      "equipo1": "Lanús",
-      "equipo2": "Independiente",
-      "fechaInicio": "2025-04-06T15:30",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:arg3",
-      "canal": "Go:TNTSports",
-      "opcion1": "Go:TNTSports",
-      "opcion2": "Go:TNTSports",
-      "opcion3": "Go:TNTSports",
-      "torneo": "Liga Argentina",
-      "equipo1": "Boca",
-      "equipo2": "Barracas",
-      "fechaInicio": "2025-04-06T18:00",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:arg4",
-      "canal": "Go:TNTSports",
-      "opcion1": "Go:TNTSports",
-      "opcion2": "Go:TNTSports",
-      "opcion3": "Go:TNTSports",
-      "torneo": "Liga Argentina",
-      "equipo1": "Racing",
-      "equipo2": "Banfield",
-      "fechaInicio": "2025-04-06T20:15",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:arg5",
-      "canal": "Go:Espnprem",
-      "opcion1": "Go:Espnprem",
-      "opcion2": "Go:Espnprem",
-      "opcion3": "Go:Espnprem",
-      "torneo": "Liga Argentina",
-      "equipo1": "Argentinos Jrs.",
-      "equipo2": "Defensa y Justicia",
-      "fechaInicio": "2025-04-06T20:15",
-      "fecha": "6 de Abril"
-    }
-  ],
-  "MLS": [
-    {
-      "link": "Go:mls1",
-      "canal": "go:mls1es",
-      "opcion1": "go:mls3es",
-      "opcion2": "go:mls1es",
-      "opcion3": "go:mls3es",
-      "torneo": "MLS",
-      "equipo1": "Inter Miami",
-      "equipo2": "Toronto FC",
-      "fechaInicio": "2025-04-06T20:00",
-      "fecha": "6 de Abril"
-    }
-  ],
-  "Liga Brasileña": [
-    {
-      "link": "Go:bra1",
-      "canal": "go:premiere3",
-      "opcion1": "go:premiere3",
-      "opcion2": "go:premiere3",
-      "opcion3": "go:premiere3",
-      "torneo": "Liga Brasileña",
-      "equipo1": "Fluminense",
-      "equipo2": "Bragantino",
-      "fechaInicio": "2025-04-06T16:00",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:bra2",
-      "canal": "go:premiere",
-      "opcion1": "go:premiere",
-      "opcion2": "go:premiere",
-      "opcion3": "go:premiere",
-      "torneo": "Liga Brasileña",
-      "equipo1": "Atlético Mineiro",
-      "equipo2": "San Pablo",
-      "fechaInicio": "2025-04-06T16:00",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:bra3",
-      "canal": "go:premiere3",
-      "opcion1": "go:premiere3",
-      "opcion2": "go:premiere3",
-      "opcion3": "go:premiere3",
-      "torneo": "Liga Brasileña",
-      "equipo1": "Mirassol",
-      "equipo2": "Fortaleza",
-      "fechaInicio": "2025-04-06T18:30",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:bra4",
-      "canal": "go:premiere4",
-      "opcion1": "go:premiere4",
-      "opcion2": "go:premiere4",
-      "opcion3": "go:premiere4",
-      "torneo": "Liga Brasileña",
-      "equipo1": "Inter",
-      "equipo2": "Cruzeiro",
-      "fechaInicio": "2025-04-06T18:30",
-      "fecha": "6 de Abril"
-    },
-    {
-      "link": "Go:bra5",
-      "canal": "go:premiere",
-      "opcion1": "go:premiere",
-      "opcion2": "go:premiere",
-      "opcion3": "go:premiere",
-      "torneo": "Liga Brasileña",
-      "equipo1": "Vitoria",
-      "equipo2": "Flamengo",
-      "fechaInicio": "2025-04-06T18:30",
-      "fecha": "6 de Abril"
-    }
-  ]
+"Liga Argentina": [
+{
+"link": "Go:arg1",
+"canal": "Go:Espnprem",
+"opcion1": "Go:Espnprem",
+"opcion2": "Go:Espnprem",
+"opcion3": "Go:Espnprem",
+"torneo": "Superliga Argentina 🇦🇷",
+"equipo1": "Riestra",
+"equipo2": "Platense",
+"fechaInicio": "2025-04-06T15:30",
+"fecha": "6 de Abril"
+},
+{
+"link": "Go:arg2",
+"canal": "Go:Espnprem",
+"opcion1": "Go:Espnprem",
+"opcion2": "Go:Espnprem",
+"opcion3": "Go:Espnprem",
+"torneo": "Superliga Argentina 🇦🇷",
+"equipo1": "Atl. Tucumán",
+"equipo2": "Instituto",
+"fechaInicio": "2025-04-06T21:00",
+"fecha": "6 de Abril"
+},
+{
+"link": "Go:arg3",
+"canal": "Go:TNTSports",
+"opcion1": "Go:TNTSports",
+"opcion2": "Go:TNTSports",
+"opcion3": "Go:TNTSports",
+"torneo": "Superliga Argentina 🇦🇷",
+"equipo1": "Tigre",
+"equipo2": "Newell's",
+"fechaInicio": "2025-04-06T21:00",
+"fecha": "6 de Abril"
 }
-
+],
+"Premier League": [
+{
+"link": "Go:prem1",
+"canal": "Go:espn",
+"opcion1": "Go:espn",
+"opcion2": "Go:espn",
+"opcion3": "Go:espn",
+"torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+"equipo1": "Leicester",
+"equipo2": "Newcastle",
+"fechaInicio": "2025-04-06T16:00",
+"fecha": "6 de Abril"
+}
+],
+"La Liga": [
+{
+"link": "go:laliga1",
+"canal": "Go:Dsports",
+"opcion1": "Go:Dsports",
+"opcion2": "Go:Dsports",
+"opcion3": "Go:Dsports",
+"torneo": "La Liga 🇪🇸",
+"equipo1": "Leganés",
+"equipo2": "Osasuna",
+"fechaInicio": "2025-04-06T16:00",
+"fecha": "6 de Abril"
+}
+],
+"Serie A": [
+{
+"link": "Go:serieA1",
+"canal": "Go:espn",
+"opcion1": "Go:espn",
+"opcion2": "Go:espn",
+"opcion3": "Go:espn",
+"torneo": "Serie A 🇮🇹",
+"equipo1": "Bologna",
+"equipo2": "Napoli",
+"fechaInicio": "2025-04-06T15:45",
+"fecha": "6 de Abril"
+}
+],
+"Liga Uruguaya": [
+{
+"link": "Go:uru1",
+"canal": "Go:Vtvplus",
+"opcion1": "Go:Vtvplus",
+"opcion2": "Go:Vtvplus",
+"opcion3": "Go:Vtvplus",
+"torneo": "Primera División 🇺🇾",
+"equipo1": "Wanderers",
+"equipo2": "Def. Sporting",
+"fechaInicio": "2025-04-06T16:00",
+"fecha": "6 de Abril"
+}
+]
+}
