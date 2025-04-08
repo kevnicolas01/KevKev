@@ -28,8 +28,8 @@
     "Libertadores": [
         {
             "link": "go:Lib1",
-            "canal": "go:foxsports",
-            "opcion1": "go:espn2",
+            "canal": "go:espn2",
+            "opcion1": "go:foxsports",
             "opcion2": "go:espn2",
             "opcion3": "go:disney2",
             "torneo": "Copa Libertadores",
