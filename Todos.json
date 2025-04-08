@@ -25,7 +25,7 @@
             "fecha": "8 de Abril de 2025"
         }
     ],
-    "Copa Libertadores": [
+    "Libertadores": [
         {
             "link": "go:Lib1",
             "canal": "go:foxsports",
@@ -99,7 +99,7 @@
             "fecha": "8 de Abril de 2025"
         }
     ],
-    "Copa Sudamericana": [
+    "Sudamericana": [
         {
             "link": "go:suda1",
             "canal": "go:ESPN",
