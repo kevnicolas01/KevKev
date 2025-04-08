@@ -1,96 +1,177 @@
 {
-"Liga Argentina": [
-{
-"link": "Go:arg1",
-"canal": "Go:Espnprem",
-"opcion1": "Go:Espnprem",
-"opcion2": "Go:Espnprem",
-"opcion3": "Go:Espnprem",
-"torneo": "Superliga Argentina 🇦🇷",
-"equipo1": "Riestra",
-"equipo2": "Platense",
-"fechaInicio": "2025-04-07T15:30",
-"fecha": "6 de Abril"
-},
-{
-"link": "Go:arg2",
-"canal": "Go:Espnprem",
-"opcion1": "Go:Espnprem",
-"opcion2": "Go:Espnprem",
-"opcion3": "Go:Espnprem",
-"torneo": "Superliga Argentina 🇦🇷",
-"equipo1": "Atl. Tucumán",
-"equipo2": "Instituto",
-"fechaInicio": "2025-04-07T21:00",
-"fecha": "6 de Abril"
-},
-{
-"link": "Go:arg3",
-"canal": "Go:TNTSports",
-"opcion1": "Go:TNTSports",
-"opcion2": "Go:TNTSports",
-"opcion3": "Go:TNTSports",
-"torneo": "Superliga Argentina 🇦🇷",
-"equipo1": "Tigre",
-"equipo2": "Newell's",
-"fechaInicio": "2025-04-07T21:00",
-"fecha": "6 de Abril"
+    "Champions League": [
+        {
+            "link": "go:cham1",
+            "canal": "go:ESPN",
+            "opcion1": "ESPN Argentina",
+            "opcion2": "Disney+ Argentina",
+            "opcion3": "ESPN Colombia",
+            "torneo": "Champions League",
+            "equipo1": "Arsenal",
+            "equipo2": "Real Madrid",
+            "fechaInicio": "2025-04-08T16:00",
+            "fecha": "8 de Abril de 2025"
+        },
+        {
+            "link": "go:cham2",
+            "canal": "go:foxsports",
+            "opcion1": "Fox Sports Argentina",
+            "opcion2": null,
+            "opcion3": null,
+            "torneo": "Champions League",
+            "equipo1": "Bayern München",
+            "equipo2": "Inter",
+            "fechaInicio": "2025-04-08T16:00",
+            "fecha": "8 de Abril de 2025"
+        }
+    ],
+    "Copa Libertadores": [
+        {
+            "link": "go:Lib1",
+            "canal": "go:foxsports",
+            "opcion1": "Fox Sports Argentina",
+            "opcion2": "Disney+ Argentina",
+            "opcion3": "ESPN2 Colombia",
+            "torneo": "Copa Libertadores",
+            "equipo1": "Libertad",
+            "equipo2": "Talleres",
+            "fechaInicio": "2025-04-08T19:00",
+            "fecha": "8 de Abril de 2025"
+        },
+        {
+            "link": "go:Lib2",
+            "canal": "go:foxsports",
+            "opcion1": "Fox Sports 2 Argentina",
+            "opcion2": "Disney+ Argentina",
+            "opcion3": "Amazon Prime Video",
+            "torneo": "Copa Libertadores",
+            "equipo1": "Botafogo",
+            "equipo2": "Carabobo",
+            "fechaInicio": "2025-04-08T19:00",
+            "fecha": "8 de Abril de 2025"
+        },
+        {
+            "link": "go:Lib3",
+            "canal": "go:ESPN",
+            "opcion1": "Disney+ Argentina",
+            "opcion2": null,
+            "opcion3": null,
+            "torneo": "Copa Libertadores",
+            "equipo1": "Peñarol",
+            "equipo2": "San Antonio",
+            "fechaInicio": "2025-04-08T21:00",
+            "fecha": "8 de Abril de 2025"
+        },
+        {
+            "link": "go:Lib4",
+            "canal": "go:foxsports",
+            "opcion1": "Telefe Argentina",
+            "opcion2": "Fox Sports Argentina",
+            "opcion3": "Disney+ Argentina",
+            "torneo": "Copa Libertadores",
+            "equipo1": "River Plate",
+            "equipo2": "Barcelona",
+            "fechaInicio": "2025-04-08T21:30",
+            "fecha": "8 de Abril de 2025"
+        },
+        {
+            "link": "go:Lib5",
+            "canal": "go:foxsports",
+            "opcion1": "Fox Sports 2 Argentina",
+            "opcion2": "Disney+ Argentina",
+            "opcion3": "Chilevision",
+            "torneo": "Copa Libertadores",
+            "equipo1": "Estudiantes",
+            "equipo2": "U. Chile",
+            "fechaInicio": "2025-04-08T21:30",
+            "fecha": "8 de Abril de 2025"
+        },
+        {
+            "link": "go:Lib6",
+            "canal": "go:foxsports",
+            "opcion1": "FOX Sports",
+            "opcion2": null,
+            "opcion3": null,
+            "torneo": "Copa Libertadores",
+            "equipo1": "Ind. del Valle",
+            "equipo2": "Universitario",
+            "fechaInicio": "2025-04-08T23:00",
+            "fecha": "8 de Abril de 2025"
+        }
+    ],
+    "Copa Sudamericana": [
+        {
+            "link": "go:suda1",
+            "canal": "go:ESPN",
+            "opcion1": "ESPN2 Argentina",
+            "opcion2": "Disney+ Argentina",
+            "opcion3": "DIRECTV Sports Colombia",
+            "torneo": "Copa Sudamericana",
+            "equipo1": "Caracas",
+            "equipo2": "Cienciano",
+            "fechaInicio": "2025-04-08T19:00",
+            "fecha": "8 de Abril de 2025"
+        },
+        {
+            "link": "go:suda2",
+            "canal": "go:Dsports",
+            "opcion1": "DIRECTV Sports Argentina",
+            "opcion2": "DGO",
+            "opcion3": "DIRECTV Sports Chile",
+            "torneo": "Copa Sudamericana",
+            "equipo1": "Grêmio",
+            "equipo2": "Atl. Grau",
+            "fechaInicio": "2025-04-08T19:00",
+            "fecha": "8 de Abril de 2025"
+        },
+        {
+            "link": "go:suda3",
+            "canal": "go:Dsports",
+            "opcion1": "DIRECTV Sports Argentina",
+            "opcion2": "DGO",
+            "opcion3": "DIRECTV Sports Chile",
+            "torneo": "Copa Sudamericana",
+            "equipo1": "Independiente",
+            "equipo2": "Boston River",
+            "fechaInicio": "2025-04-08T19:00",
+            "fecha": "8 de Abril de 2025"
+        },
+        {
+            "link": "go:suda4",
+            "canal": "go:ESPN",
+            "opcion1": "ESPN3 Argentina",
+            "opcion2": "Disney+ Argentina",
+            "opcion3": "ESPN Brazil",
+            "torneo": "Copa Sudamericana",
+            "equipo1": "Vasco da Gama",
+            "equipo2": "Puerto Cabello",
+            "fechaInicio": "2025-04-08T21:30",
+            "fecha": "8 de Abril de 2025"
+        },
+        {
+            "link": "go:suda5",
+            "canal": "go:Dsports",
+            "opcion1": "DIRECTV Sports Argentina",
+            "opcion2": "DGO",
+            "opcion3": "DIRECTV Sports Chile",
+            "torneo": "Copa Sudamericana",
+            "equipo1": "Godoy Cruz",
+            "equipo2": "Sport. Luqueño",
+            "fechaInicio": "2025-04-08T21:30",
+            "fecha": "8 de Abril de 2025"
+        },
+        {
+            "link": "go:suda6",
+            "canal": null,
+            "opcion1": null,
+            "opcion2": null,
+            "opcion3": null,
+            "torneo": "Copa Sudamericana",
+            "equipo1": "América de Cali",
+            "equipo2": "Corinthians",
+            "fechaInicio": "2025-04-08T21:30",
+            "fecha": "8 de Abril de 2025"
+        }
+    ]
 }
-],
-"Premier League": [
-{
-"link": "Go:prem1",
-"canal": "Go:espn",
-"opcion1": "Go:disney2",
-"opcion2": "Go:espn",
-"opcion3": "Go:dazn1",
-"torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-"equipo1": "Leicester",
-"equipo2": "Newcastle",
-"fechaInicio": "2025-04-07T16:00",
-"fecha": "6 de Abril"
-}
-],
-"La Liga": [
-{
-"link": "go:laliga1",
-"canal": "Go:espndeport",
-"opcion1": "Go:espnplus5",
-"opcion2": "Go:espnplus6",
-"opcion3": "Go:espndeport",
-"torneo": "La Liga 🇪🇸",
-"equipo1": "Leganés",
-"equipo2": "Osasuna",
-"fechaInicio": "2025-04-07T16:00",
-"fecha": "6 de Abril"
-}
-],
-"Serie A": [
-{
-"link": "Go:serieA1",
-"canal": "Go:disney1",
-"opcion1": "Go:disney1",
-"opcion2": "Go:disney1",
-"opcion3": "Go:disney1",
-"torneo": "Serie A 🇮🇹",
-"equipo1": "Bologna",
-"equipo2": "Napoli",
-"fechaInicio": "2025-04-07T15:45",
-"fecha": "6 de Abril"
-}
-],
-"Liga Uruguaya": [
-{
-"link": "Go:uru1",
-"canal": "Go:disney4",
-"opcion1": "Go:disney4",
-"opcion2": "Go:disney4",
-"opcion3": "Go:disney4",
-"torneo": "Primera División 🇺🇾",
-"equipo1": "Wanderers",
-"equipo2": "Def. Sporting",
-"fechaInicio": "2025-04-07T16:00",
-"fecha": "6 de Abril"
-}
-]
-}
+
