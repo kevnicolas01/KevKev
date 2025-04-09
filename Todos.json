@@ -186,5 +186,33 @@
       "fechaInicio": "2025-04-09T21:30",
       "fecha": "9 de Abril"
     }
+  ],
+{
+  "Concacaf Champions Cup": [
+    {
+      "link": "Go:concacaf1",
+      "canal": "Go:DsportsMAS",
+      "opcion1": "Disney+ Premium",
+      "opcion2": "Disney+ Premium",
+      "opcion3": "Disney+ Premium",
+      "torneo": "Concacaf Champions Cup 🏆",
+      "equipo1": "Inter Miami",
+      "equipo2": "LAFC",
+      "fechaInicio": "2025-04-09T21:05",
+      "fecha": "9 de Abril"
+    },
+    {
+      "link": "Go:concacaf2",
+      "canal": "Go:TUDN",
+      "opcion1": "TUDN",
+      "opcion2": "TUDN",
+      "opcion3": "TUDN",
+      "torneo": "Concacaf Champions Cup 🏆",
+      "equipo1": "Pumas UNAM",
+      "equipo2": "Vancouver",
+      "fechaInicio": "2025-04-09T23:35",
+      "fecha": "9 de Abril"
+    }
   ]
 }
+
