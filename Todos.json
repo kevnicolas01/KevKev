@@ -189,11 +189,11 @@
   ],
   "Concacaf Champions Cup": [
     {
-      "link": "Go:concacaf1",
-      "canal": "Go:DsportsMAS",
-      "opcion1": "Disney+ Premium",
-      "opcion2": "Disney+ Premium",
-      "opcion3": "Disney+ Premium",
+      "link": "Go:concaCup1",
+      "canal": "go:disney1",
+      "opcion1": "go:disney1",
+      "opcion2": "go:disney1",
+      "opcion3": "go:disney1",
       "torneo": "Concacaf Champions Cup 🏆",
       "equipo1": "Inter Miami",
       "equipo2": "LAFC",
@@ -201,11 +201,11 @@
       "fecha": "9 de Abril"
     },
     {
-      "link": "Go:concacaf2",
-      "canal": "Go:TUDN",
-      "opcion1": "TUDN",
-      "opcion2": "TUDN",
-      "opcion3": "TUDN",
+      "link": "Go:concaCup1",
+      "canal": "go:disney2",
+      "opcion1": "go:disney2",
+      "opcion2": "go:disney2",
+      "opcion3": "go:disney2",
       "torneo": "Concacaf Champions Cup 🏆",
       "equipo1": "Pumas UNAM",
       "equipo2": "Vancouver",
