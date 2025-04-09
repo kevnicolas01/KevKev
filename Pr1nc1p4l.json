@@ -18,6 +18,12 @@
         "data-status": "activo"
     },
     {
+        "nombre": "Concacaf Champions Cup",
+        "imagen": "https://i.imgur.com/rfRIx57.png",
+        "enlace": "go:ConcaCup",
+        "data-status": "activo"
+    },
+    {
         "nombre": "MLS",
         "imagen": "https://i.imgur.com/JlUPuP1.png",
         "enlace": "go:mls",
