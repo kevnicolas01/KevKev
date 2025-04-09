@@ -186,5 +186,19 @@
       "fechaInicio": "2025-04-09T21:30",
       "fecha": "9 de Abril"
     }
+  ],
+  "La Liga": [
+    {
+      "link": "go:laliga1",
+      "canal": "go:ESPN",
+      "opcion1": "ESPN",
+      "opcion2": "ESPN",
+      "opcion3": "ESPN",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Villa real",
+      "equipo2": "Espanyol",
+      "fechaInicio": "2025-04-09T17:00",
+      "fecha": "9 de Abril"
+    }
   ]
 }
