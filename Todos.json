@@ -3,9 +3,9 @@
     {
       "link": "Go:europa1",
       "canal": "Go:espn2",
-      "opcion1": "ESPN2 Argentina",
-      "opcion2": "Disney+ Argentina",
-      "opcion3": "ESPN2 Colombia",
+      "opcion1": "go:disney1",
+      "opcion2": "go:disney1",
+      "opcion3": "go:espn2",
       "torneo": "Europa League",
       "equipo1": "Bodø/Glimt",
       "equipo2": "Lazio",
@@ -52,10 +52,10 @@
   "Conference League": [
     {
       "link": "Go:conf1",
-      "canal": "Go:dsports",
-      "opcion1": "Disney+ Argentina",
-      "opcion2": "Disney+ Sur",
-      "opcion3": "Disney+ Chile",
+      "canal": "go:disney2",
+      "opcion1": "go:disney2",
+      "opcion2": "go:disney2",
+      "opcion3": "go:disney2",
       "torneo": "Conference League",
       "equipo1": "Legia Warszawa",
       "equipo2": "Chelsea",
