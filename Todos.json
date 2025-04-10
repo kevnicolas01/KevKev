@@ -139,7 +139,7 @@
       "fecha": "10 de Abril"
     }
   ],
-  "Copa Sudamericana": [
+  "Sudamericana": [
     {
       "link": "Go:suda1",
       "canal": "Go:espn",
@@ -201,7 +201,7 @@
       "fecha": "10 de Abril"
     }
   ],
-  "Copa Libertadores": [
+  "Libertadores": [
     {
       "link": "go:lib1",
       "canal": "Go:foxsports",
