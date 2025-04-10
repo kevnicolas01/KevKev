@@ -216,8 +216,8 @@
     },
     {
       "link": "go:lib2",
-      "canal": "go:espn",
-      "opcion1": "Go:foxsports2",
+      "canal": "Go:foxsports2",
+      "opcion1": "go:espn",
       "opcion2": "go:disney13",
       "opcion3": "Go:espn",
       "torneo": "Copa Libertadores",
