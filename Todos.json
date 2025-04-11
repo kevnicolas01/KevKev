@@ -70,10 +70,10 @@
   "Ligue 1": [
     {
       "link": "Go:liguee1",
-      "canal": "go:disney4",
-      "opcion1": "go:disney4",
-      "opcion2": "go:disney4",
-      "opcion3": "go:disney4",
+      "canal": "go:disney4op2",
+      "opcion1": "go:disney4op2",
+      "opcion2": "go:disney4op2",
+      "opcion3": "go:disney4op2",
       "torneo": "Ligue 1 🇫🇷",
       "equipo1": "Lens",
       "equipo2": "Reims",
