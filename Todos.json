@@ -43,8 +43,8 @@
     {
       "link": "Go:serieA1",
       "canal": "Go:espn4",
-      "opcion1": "go:disney5",
-      "opcion2": "go:disney5",
+      "opcion1": "go:disney5op2",
+      "opcion2": "go:disney5op2",
       "opcion3": "Go:espn4",
       "torneo": "Serie A 🇮🇹",
       "equipo1": "Udinese",
