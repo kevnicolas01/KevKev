@@ -2,10 +2,10 @@
   "Liga Argentina": [
     {
       "link": "Go:arg1",
-      "canal": "Go:espnpremium",
+      "canal": "Go:espnprem",
       "opcion1": "go:espn",
       "opcion2": "go:disney8",
-      "opcion3": "Go:espnpremium",
+      "opcion3": "Go:espnprem",
       "torneo": "Liga Argentina 🇦🇷",
       "equipo1": "Banfield",
       "equipo2": "Ind. Rivadavia",
