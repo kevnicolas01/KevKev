@@ -8,7 +8,7 @@
       "opcion3": "Go:espnpremium",
       "torneo": "Liga Argentina 🇦🇷",
       "equipo1": "Banfield",
-      "equipo2": "Independiente Rivadavia",
+      "equipo2": "Ind. Rivadavia",
       "fechaInicio": "2025-04-11T19:00",
       "fecha": "11 de Abril"
     },
@@ -19,8 +19,8 @@
       "opcion2": "Go:TNTSports",
       "opcion3": "Go:TNTSports",
       "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Newell's Old Boys",
-      "equipo2": "Argentinos Juniors",
+      "equipo1": "Newell's",
+      "equipo2": "Argentinos",
       "fechaInicio": "2025-04-11T21:00",
       "fecha": "11 de Abril"
     }
@@ -90,7 +90,7 @@
       "opcion3": "Win Play",
       "torneo": "Liga Colombiana 🇨🇴",
       "equipo1": "Llaneros",
-      "equipo2": "Alianza Petrolera",
+      "equipo2": "Alianza Petro.",
       "fechaInicio": "2025-04-11T20:00",
       "fecha": "11 de Abril"
     },
@@ -102,7 +102,7 @@
       "opcion3": "Go:winplus",
       "torneo": "Liga Colombiana 🇨🇴",
       "equipo1": "Deportivo Cali",
-      "equipo2": "Rionegro Águilas",
+      "equipo2": "Rionegro",
       "fechaInicio": "2025-04-11T22:10",
       "fecha": "11 de Abril"
     }
