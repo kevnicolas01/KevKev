@@ -85,9 +85,9 @@
     {
       "link": "Go:col1",
       "canal": "Go:winplus",
-      "opcion1": "Win Sports",
-      "opcion2": "Win+ Futbol",
-      "opcion3": "Win Play",
+      "opcion1": "Go:winplus2",
+      "opcion2": "Go:winplus",
+      "opcion3": "Go:winpluson",
       "torneo": "Liga Colombiana 🇨🇴",
       "equipo1": "Llaneros",
       "equipo2": "Alianza Petro.",
@@ -110,10 +110,10 @@
   "Liga Ecuatoriana": [
     {
       "link": "Go:ecu1",
-      "canal": "ecdf",
-      "opcion1": "ecdf",
-      "opcion2": "ecdf",
-      "opcion3": "ecdf",
+      "canal": "go:eventosec",
+      "opcion1": "go:ecdf",
+      "opcion2": "go:eventosec",
+      "opcion3": "go:eventosec",
       "torneo": "Liga Ecuatoriana 🇪🇨",
       "equipo1": "Emelec",
       "equipo2": "Libertad",
