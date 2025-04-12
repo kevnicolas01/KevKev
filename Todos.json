@@ -500,6 +500,60 @@
             "fechaInicio": "2025-04-12T18:30",
             "fecha": "12 de Abril"
         }
+    ],
+{
+    "Liga Mexicana": [
+      
+        {
+            "link": "go:mex1",
+            "canal": "go:TUDN",
+            "opcion1": "TUDN USA",
+            "opcion2": "Univision",
+            "opcion3": "Canal 5 Televisa",
+            "torneo": "Liga Mexicana 🇲🇽",
+            "equipo1": "Pumas UNAM",
+            "equipo2": "Juárez",
+            "fechaInicio": "2025-04-12T20:00",
+            "fecha": "12 de Abril"
+        },
+        {
+            "link": "go:mex2",
+            "canal": "go:none",
+            "opcion1": "ViX",
+            "opcion2": "Tubi Mexico",
+            "opcion3": "None",
+            "torneo": "Liga Mexicana 🇲🇽",
+            "equipo1": "León",
+            "equipo2": "Puebla",
+            "fechaInicio": "2025-04-12T20:00",
+            "fecha": "12 de Abril"
+        },
+        {
+            "link": "go:mex3",
+            "canal": "go:foxsports",
+            "opcion1": "fuboTV",
+            "opcion2": "FOX Deportes",
+            "opcion3": "Azteca 7",
+            "torneo": "Liga Mexicana 🇲🇽",
+            "equipo1": "Tigres UANL",
+            "equipo2": "Monterrey",
+            "fechaInicio": "2025-04-12T22:00",
+            "fecha": "12 de Abril"
+        },
+        {
+            "link": "go:mex4",
+            "canal": "go:TUDN",
+            "opcion1": "TUDN USA",
+            "opcion2": "Univision",
+            "opcion3": "Canal 5",
+            "torneo": "Liga Mexicana 🇲🇽",
+            "equipo1": "Atlas",
+            "equipo2": "Toluca",
+            "fechaInicio": "2025-04-12T22:05",
+            "fecha": "12 de Abril"
+        }
     ]
 }
+
+
 
