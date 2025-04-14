@@ -19,7 +19,7 @@
       "opcion2": "TyC Sports Internacional",
       "opcion3": "Fanatiz USA",
       "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Central Córdoba SdE",
+      "equipo1": "Central Córdoba",
       "equipo2": "Huracán",
       "fechaInicio": "2025-04-14T18:00",
       "fecha": "14 de Abril"
@@ -31,8 +31,8 @@
       "opcion2": "Disney+ Argentina",
       "opcion3": "TyC Sports Internacional",
       "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Defensa y Justicia",
-      "equipo2": "Unión Santa Fe",
+      "equipo1": "Def. y Justicia",
+      "equipo2": "Unión",
       "fechaInicio": "2025-04-14T19:00",
       "fecha": "14 de Abril"
     },
@@ -55,7 +55,7 @@
       "opcion2": "ESPN Premium",
       "opcion3": null,
       "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Vélez Sarsfield",
+      "equipo1": "Vélez",
       "equipo2": "Sarmiento",
       "fechaInicio": "2025-04-14T21:15",
       "fecha": "14 de Abril"
@@ -69,7 +69,7 @@
       "opcion2": "Disney+ Argentina",
       "opcion3": "ESPN4 Brazil",
       "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "equipo1": "AFC Bournemouth",
+      "equipo1": "Bournemouth",
       "equipo2": "Fulham",
       "fechaInicio": "2025-04-14T16:00",
       "fecha": "14 de Abril"
@@ -83,7 +83,7 @@
       "opcion2": "DGO",
       "opcion3": "ESPN Brazil",
       "torneo": "La Liga 🇪🇸",
-      "equipo1": "Atlético Madrid",
+      "equipo1": "Atl. Madrid",
       "equipo2": "Real Valladolid",
       "fechaInicio": "2025-04-14T16:00",
       "fecha": "14 de Abril"
@@ -176,7 +176,7 @@
       "opcion3": "Fanatiz USA",
       "torneo": "Liga Ecuatoriana 🇪🇨",
       "equipo1": "El Nacional",
-      "equipo2": "Independiente del Valle",
+      "equipo2": "Ind. del Valle",
       "fechaInicio": "2025-04-14T18:30",
       "fecha": "14 de Abril"
     },
