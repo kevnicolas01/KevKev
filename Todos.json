@@ -2,195 +2,133 @@
   "Liga Argentina": [
     {
       "link": "Go:arg1",
-      "canal": "Go:Espnprem",
-      "opcion1": "Go:Espnprem",
-      "opcion2": "Go:Espnprem",
-      "opcion3": "Go:Espnprem",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Aldosivi",
-      "equipo2": "Racing Club",
-      "fechaInicio": "2025-04-14T15:30",
-      "fecha": "14 de Abril"
-    },
-    {
-      "link": "Go:arg2",
       "canal": "Go:TNTSports",
       "opcion1": "Go:TNTSports",
       "opcion2": "Go:TNTSports",
       "opcion3": "Go:TNTSports",
       "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Central Córdoba",
-      "equipo2": "Huracán",
-      "fechaInicio": "2025-04-14T18:00",
-      "fecha": "14 de Abril"
-    },
-    {
-      "link": "Go:arg3",
-      "canal": "Go:Espnprem",
-      "opcion1": "Go:Espnprem",
-      "opcion2": "Go:Espnprem",
-      "opcion3": "Go:Espnprem",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Def. y Justicia",
-      "equipo2": "Unión",
-      "fechaInicio": "2025-04-14T19:00",
-      "fecha": "14 de Abril"
-    },
-    {
-      "link": "Go:arg4",
-      "canal": "Go:TNTSports",
-      "opcion1": "Go:TNTSports",
-      "opcion2": "Go:TNTSports",
-      "opcion3": "Go:TNTSports",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Godoy Cruz",
-      "equipo2": "Lanús",
-      "fechaInicio": "2025-04-14T21:15",
-      "fecha": "14 de Abril"
-    },
-    {
-      "link": "Go:arg5",
-      "canal": "Go:Espnprem",
-      "opcion1": "Go:Espnprem",
-      "opcion2": "Go:Espnprem",
-      "opcion3": "Go:Espnprem",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Vélez",
-      "equipo2": "Sarmiento",
-      "fechaInicio": "2025-04-14T21:15",
-      "fecha": "14 de Abril"
+      "equipo1": "Platense",
+      "equipo2": "Rosario Central",
+      "fechaInicio": "2025-04-15T20:00",
+      "fecha": "15 de Abril"
     }
   ],
-  "Premier League": [
+  "Champions League": [
     {
-      "link": "Go:prem1",
+      "link": "go:cham1",
       "canal": "Go:espn",
-      "opcion1": "go:disney2op2",
-      "opcion2": "go:universo",
-      "opcion3": "go:disney4",
-      "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "equipo1": "Bournemouth",
-      "equipo2": "Fulham",
-      "fechaInicio": "2025-04-14T16:00",
-      "fecha": "14 de Abril"
-    }
-  ],
-  "La Liga": [
-    {
-      "link": "go:laliga1",
-      "canal": "Go:Dsports",
-      "opcion1": "go:zespnplus1",
-      "opcion2": "go:espndeport",
-      "opcion3": "go:espnplus5",
-      "torneo": "La Liga 🇪🇸",
-      "equipo1": "Atl. Madrid",
-      "equipo2": "Real Valladolid",
-      "fechaInicio": "2025-04-14T16:00",
-      "fecha": "14 de Abril"
-    }
-  ],
-  "Serie A": [
-    {
-      "link": "Go:serieA1",
-      "canal": "Go:espn2",
-      "opcion1": "go:disney3",
-      "opcion2": "go:disney1op2",
-      "opcion3": "go:espn2",
-      "torneo": "Serie A 🇮🇹",
-      "equipo1": "Napoli",
-      "equipo2": "Empoli",
-      "fechaInicio": "2025-04-14T15:45",
-      "fecha": "14 de Abril"
-    }
-  ],
-  "Liga Chilena": [
-    {
-      "link": "Go:chile1",
-      "canal": "Go:TNTchile",
-      "opcion1": "go:max1",
-      "opcion2": "go:max1",
-      "opcion3": "go:max1",
-      "torneo": "Liga Chilena 🇨🇱",
-      "equipo1": "Palestino",
-      "equipo2": "Unión La Calera",
-      "fechaInicio": "2025-04-14T16:00",
-      "fecha": "14 de Abril"
+      "opcion1": "ESPN Argentina",
+      "opcion2": "Disney+ Argentina",
+      "opcion3": "ESPN2 Colombia",
+      "torneo": "Champions League",
+      "equipo1": "Aston Villa",
+      "equipo2": "PSG",
+      "fechaInicio": "2025-04-15T16:00",
+      "fecha": "15 de Abril"
     },
     {
-      "link": "Go:chile2",
-      "canal": "Go:TNTchile",
-      "opcion1": "go:max2",
-      "opcion2": "go:max2",
-      "opcion3": "go:max2",
-      "torneo": "Liga Chilena 🇨🇱",
-      "equipo1": "Unión Española",
-      "equipo2": "Ñublense",
-      "fechaInicio": "2025-04-14T19:00",
-      "fecha": "14 de Abril"
-    },
+      "link": "go:cham2",
+      "canal": "Go:foxsports",
+      "opcion1": "Fox Sports Argentina",
+      "opcion2": "Disney+ Argentina",
+      "opcion3": "ESPN Colombia",
+      "torneo": "Champions League",
+      "equipo1": "Dortmund",
+      "equipo2": "Barcelona",
+      "fechaInicio": "2025-04-15T16:00",
+      "fecha": "15 de Abril"
+    }
+  ],
+  "Liga Brasileña": [
     {
-      "link": "Go:chile3",
-      "canal": "Go:TNTchile",
-      "opcion1": "go:max1",
-      "opcion2": "go:max1",
-      "opcion3": "go:max1",
-      "torneo": "Liga Chilena 🇨🇱",
-      "equipo1": "Deportes Limache",
-      "equipo2": "Deportes Iquique",
-      "fechaInicio": "2025-04-14T21:30",
-      "fecha": "14 de Abril"
+      "link": "Go:bra1",
+      "canal": null,
+      "opcion1": "Premiere",
+      "opcion2": "Zapping",
+      "opcion3": "Amazon Prime Video",
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "Ceará",
+      "equipo2": "Vasco da Gama",
+      "fechaInicio": "2025-04-15T21:30",
+      "fecha": "15 de Abril"
     }
   ],
   "Liga Colombiana": [
     {
       "link": "Go:col1",
       "canal": "Go:winplus",
-      "opcion1": "Go:winpluson",
-      "opcion2": "Go:winplus2",
-      "opcion3": "Go:winplus",
+      "opcion1": "Win+ Futbol",
+      "opcion2": "Win Play",
+      "opcion3": "ViX",
       "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Santa Fe",
-      "equipo2": "Medellín",
-      "fechaInicio": "2025-04-14T21:00",
-      "fecha": "14 de Abril"
+      "equipo1": "Alianza Petro.",
+      "equipo2": "Dep. Pasto",
+      "fechaInicio": "2025-04-15T18:00",
+      "fecha": "15 de Abril"
+    },
+    {
+      "link": "Go:col2",
+      "canal": "Go:winplus",
+      "opcion1": "Win Sports",
+      "opcion2": "Win+ Futbol",
+      "opcion3": "Win Play",
+      "torneo": "Liga Colombiana 🇨🇴",
+      "equipo1": "Dep. Pereira",
+      "equipo2": "Dep. Cali",
+      "fechaInicio": "2025-04-15T20:15",
+      "fecha": "15 de Abril"
+    },
+    {
+      "link": "Go:col3",
+      "canal": "Go:winplus",
+      "opcion1": "Win+ Futbol",
+      "opcion2": "Win Play",
+      "opcion3": "Fanatiz USA",
+      "torneo": "Liga Colombiana 🇨🇴",
+      "equipo1": "Tolima",
+      "equipo2": "Junior",
+      "fechaInicio": "2025-04-15T22:30",
+      "fecha": "15 de Abril"
     }
   ],
   "Liga Ecuatoriana": [
     {
       "link": "Go:ecu1",
-      "canal": "go:eventosec",
-      "opcion1": "go:ecdf",
-      "opcion2": "go:eventosec",
-      "opcion3": "go:ecdf",
+      "canal": null,
+      "opcion1": "Canal del Futbol",
+      "opcion2": "Zapping",
+      "opcion3": null,
       "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "Mushuc Runa",
-      "equipo2": "LDU Quito",
-      "fechaInicio": "2025-04-14T16:00",
-      "fecha": "14 de Abril"
+      "equipo1": "Aucas",
+      "equipo2": "U. Católica",
+      "fechaInicio": "2025-04-15T21:00",
+      "fecha": "15 de Abril"
+    }
+  ],
+  "Liga Mexicana": [
+    {
+      "link": "Go:mex1",
+      "canal": "Go:TUDN",
+      "opcion1": "TUDN USA",
+      "opcion2": "TUDN.com",
+      "opcion3": "TUDN App",
+      "torneo": "Liga Mexicana 🇲🇽",
+      "equipo1": "Pachuca",
+      "equipo2": "Tigres",
+      "fechaInicio": "2025-04-15T22:00",
+      "fecha": "15 de Abril"
     },
     {
-      "link": "Go:ecu2",
-      "canal": "go:ecdf",
-      "opcion1": "go:eventosec",
-      "opcion2": "go:ecdf",
-      "opcion3": "go:eventosec",
-      "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "El Nacional",
-      "equipo2": "Ind. del Valle",
-      "fechaInicio": "2025-04-14T18:30",
-      "fecha": "14 de Abril"
-    },
-    {
-      "link": "Go:ecu3",
-      "canal": "go:eventosec",
-      "opcion1": "go:ecdf",
-      "opcion2": "go:eventosec",
-      "opcion3": "go:ecdf",
-      "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "Orense",
-      "equipo2": "Barcelona",
-      "fechaInicio": "2025-04-14T21:00",
-      "fecha": "14 de Abril"
+      "link": "Go:mex2",
+      "canal": null,
+      "opcion1": "fuboTV",
+      "opcion2": "UNIVERSO",
+      "opcion3": "UNIVERSO NOW",
+      "torneo": "Liga Mexicana 🇲🇽",
+      "equipo1": "Guadalajara",
+      "equipo2": "Puebla",
+      "fechaInicio": "2025-04-15T22:05",
+      "fecha": "15 de Abril"
     }
   ]
 }
