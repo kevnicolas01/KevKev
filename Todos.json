@@ -1,134 +1,204 @@
 {
-  "Liga Argentina": [
-    {
-      "link": "Go:arg1",
-      "canal": "Go:TNTSports",
-      "opcion1": "Go:TNTSports",
-      "opcion2": "Go:TNTSports",
-      "opcion3": "Go:TNTSports",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Platense",
-      "equipo2": "Rosario Central",
-      "fechaInicio": "2025-04-15T20:00",
-      "fecha": "15 de Abril"
-    }
-  ],
   "Champions League": [
     {
       "link": "go:cham1",
-      "canal": "Go:espn2",
-      "opcion1": "go:disney2op2",
-      "opcion2": "go:max2",
-      "opcion3": "go:espn2",
+      "canal": "go:espn",
+      "opcion1": "ESPN",
+      "opcion2": "Disney+",
+      "opcion3": null,
       "torneo": "Champions League",
-      "equipo1": "Aston Villa",
-      "equipo2": "PSG",
-      "fechaInicio": "2025-04-15T16:00",
-      "fecha": "15 de Abril"
+      "equipo1": "Inter",
+      "equipo2": "Bayern Münich",
+      "fechaInicio": "2025-04-16T16:00",
+      "fecha": "16 de Abril"
     },
     {
       "link": "go:cham2",
-      "canal": "go:espn",
-      "opcion1": "Go:foxsports",
-      "opcion2": "go:disney1op2",
-      "opcion3": "go:max1",
+      "canal": "go:foxsports",
+      "opcion1": "Fox Sports",
+      "opcion2": "Disney+",
+      "opcion3": null,
       "torneo": "Champions League",
-      "equipo1": "Dortmund",
-      "equipo2": "Barcelona",
-      "fechaInicio": "2025-04-15T16:00",
-      "fecha": "15 de Abril"
+      "equipo1": "Real Madrid",
+      "equipo2": "Arsenal",
+      "fechaInicio": "2025-04-16T16:00",
+      "fecha": "16 de Abril"
+    }
+  ],
+  "Premier League": [
+    {
+      "link": "go:prem1",
+      "canal": "go:espn",
+      "opcion1": "ESPN3",
+      "opcion2": "Disney+",
+      "opcion3": null,
+      "torneo": "Premier League 󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Newcastle United",
+      "equipo2": "Crystal Palace",
+      "fechaInicio": "2025-04-16T15:30",
+      "fecha": "16 de Abril"
     }
   ],
   "Liga Brasileña": [
     {
-      "link": "Go:bra1",
-      "canal": "go:Premiere",
-      "opcion1": "go:Premiere",
-      "opcion2": "go:Premiere",
-      "opcion3": "go:Premiere",
+      "link": "go:bra1",
+      "canal": null,
+      "opcion1": "Premiere",
+      "opcion2": "Zapping",
+      "opcion3": "Claro TV+",
       "torneo": "Liga Brasileña 🇧🇷",
-      "equipo1": "Ceará",
-      "equipo2": "Vasco da Gama",
-      "fechaInicio": "2025-04-15T21:30",
-      "fecha": "15 de Abril"
+      "equipo1": "Botafogo",
+      "equipo2": "São Paulo",
+      "fechaInicio": "2025-04-16T18:30",
+      "fecha": "16 de Abril"
+    },
+    {
+      "link": "go:bra2",
+      "canal": null,
+      "opcion1": "Premiere",
+      "opcion2": "Zapping",
+      "opcion3": "Claro TV+",
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "Sport Recife",
+      "equipo2": "RB Bragantino",
+      "fechaInicio": "2025-04-16T19:00",
+      "fecha": "16 de Abril"
+    },
+    {
+      "link": "go:bra3",
+      "canal": null,
+      "opcion1": "Premiere",
+      "opcion2": "Zapping",
+      "opcion3": "Claro TV+",
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "Mirassol",
+      "equipo2": "Grêmio",
+      "fechaInicio": "2025-04-16T19:00",
+      "fecha": "16 de Abril"
+    },
+    {
+      "link": "go:bra4",
+      "canal": null,
+      "opcion1": "Premiere",
+      "opcion2": "TV Record",
+      "opcion3": "Zapping",
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "Corinthians",
+      "equipo2": "Fluminense",
+      "fechaInicio": "2025-04-16T19:30",
+      "fecha": "16 de Abril"
+    },
+    {
+      "link": "go:bra5",
+      "canal": null,
+      "opcion1": "Amazon Prime Video",
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "Internacional",
+      "equipo2": "Palmeiras",
+      "fechaInicio": "2025-04-16T19:30",
+      "fecha": "16 de Abril"
+    },
+    {
+      "link": "go:bra6",
+      "canal": null,
+      "opcion1": "Globo",
+      "opcion2": "Premiere",
+      "opcion3": "Zapping",
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "Flamengo",
+      "equipo2": "Juventude",
+      "fechaInicio": "2025-04-16T21:30",
+      "fecha": "16 de Abril"
+    },
+    {
+      "link": "go:bra7",
+      "canal": null,
+      "opcion1": "Globo",
+      "opcion2": "Premiere",
+      "opcion3": "Zapping",
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "Santos",
+      "equipo2": "Atlético Mineiro",
+      "fechaInicio": "2025-04-16T21:30",
+      "fecha": "16 de Abril"
+    },
+    {
+      "link": "go:bra8",
+      "canal": null,
+      "opcion1": "Globo",
+      "opcion2": "Premiere",
+      "opcion3": "Zapping",
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "Vitória",
+      "equipo2": "Fortaleza",
+      "fechaInicio": "2025-04-16T21:30",
+      "fecha": "16 de Abril"
     }
   ],
   "Liga Colombiana": [
     {
-      "link": "Go:col1",
-      "canal": "Go:winpluson",
-      "opcion1": "Go:winplus2",
-      "opcion2": "Go:winplus",
-      "opcion3": "Go:winplus",
+      "link": "go:col1",
+      "canal": "go:winplus",
+      "opcion1": "Win Sports",
+      "opcion2": "Win+ Futbol",
+      "opcion3": "Win Play",
       "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Alianza Petro.",
-      "equipo2": "Dep. Pasto",
-      "fechaInicio": "2025-04-15T18:00",
-      "fecha": "15 de Abril"
+      "equipo1": "Rionegro Águilas",
+      "equipo2": "Unión Magdalena",
+      "fechaInicio": "2025-04-16T16:00",
+      "fecha": "16 de Abril"
     },
     {
-      "link": "Go:col2",
-      "canal": "Go:winplus",
-      "opcion1": "Go:winplus",
-      "opcion2": "Go:winplus",
-      "opcion3": "Go:winplus",
+      "link": "go:col2",
+      "canal": "go:winplus",
+      "opcion1": "Win+ Futbol",
+      "opcion2": "Win Play",
+      "opcion3": null,
       "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Dep. Pereira",
-      "equipo2": "Dep. Cali",
-      "fechaInicio": "2025-04-15T20:15",
-      "fecha": "15 de Abril"
+      "equipo1": "Once Caldas",
+      "equipo2": "La Equidad",
+      "fechaInicio": "2025-04-16T18:10",
+      "fecha": "16 de Abril"
     },
     {
-      "link": "Go:col3",
-      "canal": "Go:winplus",
-      "opcion1": "Go:winplus",
-      "opcion2": "Go:winplus",
-      "opcion3": "Go:winplus",
+      "link": "go:col3",
+      "canal": "go:winplus",
+      "opcion1": "Win Sports",
+      "opcion2": "Win+ Futbol",
+      "opcion3": "Win Play",
       "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Tolima",
-      "equipo2": "Junior",
-      "fechaInicio": "2025-04-15T22:30",
-      "fecha": "15 de Abril"
-    }
-  ],
-  "Liga Ecuatoriana": [
+      "equipo1": "Atlético Nacional",
+      "equipo2": "Boyacá Chicó",
+      "fechaInicio": "2025-04-16T20:20",
+      "fecha": "16 de Abril"
+    },
     {
-      "link": "Go:ecu1",
-      "canal": "go:eventosec",
-      "opcion1": "go:ecdf",
-      "opcion2": "go:eventosec",
-      "opcion3": "go:ecdf",
-      "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "Aucas",
-      "equipo2": "U. Católica",
-      "fechaInicio": "2025-04-15T21:00",
-      "fecha": "15 de Abril"
+      "link": "go:col4",
+      "canal": "go:winplus",
+      "opcion1": "Win+ Futbol",
+      "opcion2": "Win",
+      "opcion3": null,
+      "torneo": "Liga Colombiana 🇨🇴",
+      "equipo1": "América de Cali",
+      "equipo2": "Millonarios",
+      "fechaInicio": "2025-04-16T22:30",
+      "fecha": "16 de Abril"
     }
   ],
   "Liga Mexicana": [
     {
-      "link": "Go:mex1",
-      "canal": "Go:TUDNusa",
-      "opcion1": "Go:TUDNusa",
-      "opcion2": "Go:TUDNusa",
-      "opcion3": "Go:TUDNusa",
+      "link": "go:mex1",
+      "canal": "go:espn",
+      "opcion1": "Disney+",
+      "opcion2": null,
+      "opcion3": null,
       "torneo": "Liga Mexicana 🇲🇽",
-      "equipo1": "Pachuca",
-      "equipo2": "Tigres",
-      "fechaInicio": "2025-04-15T22:00",
-      "fecha": "15 de Abril"
-    },
-    {
-      "link": "Go:mex2",
-      "canal": "go:universo",
-      "opcion1": "go:universo",
-      "opcion2": "go:universo",
-      "opcion3": "go:universoW",
-      "torneo": "Liga Mexicana 🇲🇽",
-      "equipo1": "Guadalajara",
-      "equipo2": "Puebla",
-      "fechaInicio": "2025-04-15T22:05",
-      "fecha": "15 de Abril"
+      "equipo1": "Atlético San Luis",
+      "equipo2": "Toluca",
+      "fechaInicio": "2025-04-16T23:00",
+      "fecha": "16 de Abril"
     }
   ]
 }
