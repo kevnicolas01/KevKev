@@ -9,7 +9,7 @@
       "torneo": "Champions League",
       "equipo1": "Inter",
       "equipo2": "Bayern Münich",
-      "fechaInicio": "2025-04-16T16:00Z",
+      "fechaInicio": "2025-04-16T16:00",
       "fecha": "16 de Abril"
     },
     {
@@ -21,7 +21,7 @@
       "torneo": "Champions League",
       "equipo1": "Real Madrid",
       "equipo2": "Arsenal",
-      "fechaInicio": "2025-04-16T18:00Z",
+      "fechaInicio": "2025-04-16T16:00",
       "fecha": "16 de Abril"
     }
   ],
@@ -35,7 +35,7 @@
       "torneo": "Premier League 󠁧󠁢󠁥󠁮󠁧󠁿",
       "equipo1": "Newcastle United",
       "equipo2": "Crystal Palace",
-      "fechaInicio": "2025-04-16T15:30Z",
+      "fechaInicio": "2025-04-16T15:30",
       "fecha": "16 de Abril"
     }
   ],
@@ -49,7 +49,7 @@
       "torneo": "Liga Colombiana 🇨🇴",
       "equipo1": "Rionegro Águilas",
       "equipo2": "Unión Magdalena",
-      "fechaInicio": "2025-04-16T16:00Z",
+      "fechaInicio": "2025-04-16T16:00",
       "fecha": "16 de Abril"
     },
     {
@@ -61,7 +61,7 @@
       "torneo": "Liga Colombiana 🇨🇴",
       "equipo1": "Once Caldas",
       "equipo2": "La Equidad",
-      "fechaInicio": "2025-04-16T18:10Z",
+      "fechaInicio": "2025-04-16T18:10",
       "fecha": "16 de Abril"
     },
     {
@@ -73,7 +73,7 @@
       "torneo": "Liga Colombiana 🇨🇴",
       "equipo1": "Atlético Nacional",
       "equipo2": "Boyacá Chicó",
-      "fechaInicio": "2025-04-16T20:20Z",
+      "fechaInicio": "2025-04-16T20:20",
       "fecha": "16 de Abril"
     },
     {
@@ -85,7 +85,7 @@
       "torneo": "Liga Colombiana 🇨🇴",
       "equipo1": "América de Cali",
       "equipo2": "Millonarios",
-      "fechaInicio": "2025-04-16T22:30Z",
+      "fechaInicio": "2025-04-16T22:30",
       "fecha": "16 de Abril"
     }
   ],
@@ -99,7 +99,7 @@
       "torneo": "Liga Mexicana 🇲🇽",
       "equipo1": "Atlético San Luis",
       "equipo2": "Toluca",
-      "fechaInicio": "2025-04-16T23:00Z",
+      "fechaInicio": "2025-04-16T23:00",
       "fecha": "16 de Abril"
     }
   ]
