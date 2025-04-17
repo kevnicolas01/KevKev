@@ -1,106 +1,208 @@
 {
-  "Ligue 1": [
+  "Europa League": [
     {
-      "link": "go:cham1",
-      "canal": "go:espn2",
-      "opcion1": "go:disney3op2",
-      "opcion2": "go:max1",
-      "opcion3": "go:disney1op2",
-      "torneo": "Champions League",
-      "equipo1": "Inter",
-      "equipo2": "Bayern Münich",
-      "fechaInicio": "2025-04-16T23:00Z",
-      "fecha": "16 de Abril"
+      "link": "Go:europa1",
+      "canal": "Go:espn",
+      "opcion1": "ESPN5 Chile",
+      "opcion2": "ESPN 5 Sur",
+      "opcion3": null,
+      "torneo": "Europa League",
+      "equipo1": "Lazio",
+      "equipo2": "Bodø / Glimt",
+      "fechaInicio": "2025-04-17T19:00Z",
+      "fecha": "17 de Abril"
     },
     {
-      "link": "go:cham2",
-      "canal": "go:espn",
-      "opcion1": "go:disney2op2",
-      "opcion2": "go:foxsports",
-      "opcion3": "go:foxsports",
-      "torneo": "Champions League",
-      "equipo1": "Real Madrid",
-      "equipo2": "Arsenal",
-      "fechaInicio": "2025-04-17T01:00Z",
-      "fecha": "16 de Abril"
+      "link": "Go:europa2",
+      "canal": "Go:espn",
+      "opcion1": "ESPN2 Argentina",
+      "opcion2": "ESPN2 Colombia",
+      "opcion3": "ESPN2 Chile",
+      "torneo": "Europa League",
+      "equipo1": "Eintracht Frankfurt",
+      "equipo2": "Tottenham Hotspur",
+      "fechaInicio": "2025-04-17T19:00Z",
+      "fecha": "17 de Abril"
+    },
+    {
+      "link": "Go:europa3",
+      "canal": "Go:espn",
+      "opcion1": "ESPN4 Argentina",
+      "opcion2": "ESPN 4 Sur",
+      "opcion3": "ESPN4 Chile",
+      "torneo": "Europa League",
+      "equipo1": "Athletic Club",
+      "equipo2": "Rangers",
+      "fechaInicio": "2025-04-17T19:00Z",
+      "fecha": "17 de Abril"
+    },
+    {
+      "link": "Go:europa4",
+      "canal": "Go:espn",
+      "opcion1": "ESPN Argentina",
+      "opcion2": "ESPN Colombia",
+      "opcion3": "ESPN Chile",
+      "torneo": "Europa League",
+      "equipo1": "Manchester United",
+      "equipo2": "Olympique Lyonnais",
+      "fechaInicio": "2025-04-17T19:00Z",
+      "fecha": "17 de Abril"
     }
   ],
-  "Premier League": [
+  "Conference League": [
     {
-      "link": "go:prem1",
-      "canal": "go:espn3",
-      "opcion1": "go:disney1op2",
-      "opcion2": "go:espn3",
-      "opcion3": "go:disney1op2",
-      "torneo": "Premier League 󠁧󠁢󠁥󠁮󠁧󠁿",
-      "equipo1": "Newcastle United",
-      "equipo2": "Crystal Palace",
-      "fechaInicio": "2025-04-17T01:30Z",
-      "fecha": "16 de Abril"
+      "link": "Go:conf1",
+      "canal": "Go:azteca7",
+      "opcion1": "Azteca Deportes En Vivo",
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Conference League",
+      "equipo1": "Mazatlán",
+      "equipo2": "Tijuana",
+      "fechaInicio": "2025-04-17T03:00Z",
+      "fecha": "17 de Abril"
+    },
+    {
+      "link": "Go:conf2",
+      "canal": "Go:TUDN",
+      "opcion1": null,
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Conference League",
+      "equipo1": "Pumas UNAM",
+      "equipo2": "Santos Laguna",
+      "fechaInicio": "2025-04-17T03:05Z",
+      "fecha": "17 de Abril"
+    },
+    {
+      "link": "Go:conf3",
+      "canal": "Go:espn",
+      "opcion1": null,
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Conference League",
+      "equipo1": "Jagiellonia Białystok",
+      "equipo2": "Real Betis",
+      "fechaInicio": "2025-04-17T16:45Z",
+      "fecha": "17 de Abril"
+    },
+    {
+      "link": "Go:conf4",
+      "canal": "Go:espn",
+      "opcion1": null,
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Conference League",
+      "equipo1": "Fiorentina",
+      "equipo2": "Celje",
+      "fechaInicio": "2025-04-17T16:45Z",
+      "fecha": "17 de Abril"
+    },
+    {
+      "link": "Go:conf5",
+      "canal": "Go:espn",
+      "opcion1": null,
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Conference League",
+      "equipo1": "Rapid Wien",
+      "equipo2": "Djurgården",
+      "fechaInicio": "2025-04-17T19:00Z",
+      "fecha": "17 de Abril"
+    },
+    {
+      "link": "Go:conf6",
+      "canal": null,
+      "opcion1": null,
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Conference League",
+      "equipo1": "Chelsea",
+      "equipo2": "Legia Warszawa",
+      "fechaInicio": "2025-04-17T19:00Z",
+      "fecha": "17 de Abril"
+    }
+  ],
+  "Copa Argentina": [
+    {
+      "link": "Go:copaarg1",
+      "canal": "Go:tycsports",
+      "opcion1": "TyC Sports Play",
+      "opcion2": "TyC Sports Internacional",
+      "opcion3": null,
+      "torneo": "Copa Argentina",
+      "equipo1": "Barracas Central",
+      "equipo2": "Defensores de Belgrano",
+      "fechaInicio": "2025-04-17T20:00Z",
+      "fecha": "17 de Abril"
+    }
+  ],
+  "Liga Brasileña": [
+    {
+      "link": "Go:bra1",
+      "canal": null,
+      "opcion1": null,
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Liga Brasileña 🇧🇷",
+      "equipo1": "Cruzeiro",
+      "equipo2": "Bahia",
+      "fechaInicio": "2025-04-18T00:30Z",
+      "fecha": "17 de Abril"
+    }
+  ],
+  "Liga Chilena": [
+    {
+      "link": "Go:chile1",
+      "canal": null,
+      "opcion1": null,
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Liga Chilena 🇨🇱",
+      "equipo1": "Universidad Chile",
+      "equipo2": "La Serena",
+      "fechaInicio": "2025-04-18T00:00Z",
+      "fecha": "17 de Abril"
     }
   ],
   "Liga Colombiana": [
     {
-      "link": "go:col1",
-      "canal": "go:winplus",
-      "opcion1": "go:winplus",
-      "opcion2": "go:winpluson",
-      "opcion3": "go:winplus2",
+      "link": "Go:col1",
+      "canal": null,
+      "opcion1": null,
+      "opcion2": null,
+      "opcion3": null,
       "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Rionegro Águilas",
-      "equipo2": "Unión Magdalena",
-      "fechaInicio": "2025-04-16T19:00Z",
-      "fecha": "16 de Abril"
+      "equipo1": "Atlético Bucaramanga",
+      "equipo2": "Envigado",
+      "fechaInicio": "2025-04-17T21:00Z",
+      "fecha": "17 de Abril"
     },
     {
-      "link": "go:col2",
-      "canal": "go:winplus",
-      "opcion1": "go:winpluson",
-      "opcion2": "go:winplus2",
-      "opcion3": "go:winplus",
+      "link": "Go:col2",
+      "canal": null,
+      "opcion1": null,
+      "opcion2": null,
+      "opcion3": null,
       "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Once Caldas",
-      "equipo2": "La Equidad",
-      "fechaInicio": "2025-04-16T21:10Z",
-      "fecha": "16 de Abril"
-    },
-    {
-      "link": "go:col3",
-      "canal": "go:winplus",
-      "opcion1": "go:winpluson",
-      "opcion2": "go:winplus2",
-      "opcion3": "go:winplus",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Atlético Nacional",
-      "equipo2": "Boyacá Chicó",
-      "fechaInicio": "2025-04-16T23:20Z",
-      "fecha": "16 de Abril"
-    },
-    {
-      "link": "go:col4",
-      "canal": "go:winplus",
-      "opcion1": "go:winpluson",
-      "opcion2": "go:winplus2",
-      "opcion3": "go:winplus",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "América de Cali",
-      "equipo2": "Millonarios",
-      "fechaInicio": "2025-04-17T01:30Z",
-      "fecha": "16 de Abril"
+      "equipo1": "Fortaleza CEIF",
+      "equipo2": "Llaneros",
+      "fechaInicio": "2025-04-18T00:00Z",
+      "fecha": "17 de Abril"
     }
   ],
-  "Liga Mexicana": [
+  "Liga Peruana": [
     {
-      "link": "go:mex1",
-      "canal": "go:espn2",
-      "opcion1": "go:espn2",
-      "opcion2": "go:espn2",
-      "opcion3": "go:espn2",
-      "torneo": "Liga Mexicana 🇲🇽",
-      "equipo1": "Atlético San Luis",
-      "equipo2": "Toluca",
-      "fechaInicio": "2025-04-17T02:00Z",
-      "fecha": "16 de Abril"
+      "link": "Go:per1",
+      "canal": null,
+      "opcion1": null,
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "Alianza Universidad",
+      "equipo2": "Atlético Grau",
+      "fechaInicio": "2025-04-18T01:00Z",
+      "fecha": "17 de Abril"
     }
   ]
 }
