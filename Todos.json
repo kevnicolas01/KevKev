@@ -1,5 +1,5 @@
 {
-  "Premier League": [
+  "Ligue 1": [
     {
       "link": "go:cham1",
       "canal": "go:espn2",
@@ -35,7 +35,7 @@
       "torneo": "Premier League 󠁧󠁢󠁥󠁮󠁧󠁿",
       "equipo1": "Newcastle United",
       "equipo2": "Crystal Palace",
-      "fechaInicio": "2025-04-16T15:30Z",
+      "fechaInicio": "2025-04-17T01:30Z",
       "fecha": "16 de Abril"
     }
   ],
