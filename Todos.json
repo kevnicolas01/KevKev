@@ -1,5 +1,5 @@
 {
-  "Champions League": [
+  "Libertadores": [
     {
       "link": "go:cham1",
       "canal": "go:espn2",
@@ -9,7 +9,7 @@
       "torneo": "Champions League",
       "equipo1": "Inter",
       "equipo2": "Bayern Münich",
-      "fechaInicio": "2025-04-16T16:00Z",
+      "fechaInicio": "2025-04-16T23:00Z",
       "fecha": "16 de Abril"
     },
     {
@@ -21,7 +21,7 @@
       "torneo": "Champions League",
       "equipo1": "Real Madrid",
       "equipo2": "Arsenal",
-      "fechaInicio": "2025-04-16T16:00Z",
+      "fechaInicio": "2025-04-17T01:00Z",
       "fecha": "16 de Abril"
     }
   ],
