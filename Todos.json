@@ -49,9 +49,9 @@
       "fecha": "17 de Abril"
     }
   ],
-  "Conference League": [
+  "Liga Mexicana": [
     {
-      "link": "Go:conf1",
+      "link": "Go:mex1",
       "canal": "Go:azteca7",
       "opcion1": "Azteca Deportes En Vivo",
       "opcion2": null,
@@ -63,7 +63,7 @@
       "fecha": "17 de Abril"
     },
     {
-      "link": "Go:conf2",
+      "link": "Go:mex2",
       "canal": "Go:TUDN",
       "opcion1": null,
       "opcion2": null,
@@ -73,9 +73,11 @@
       "equipo2": "Santos Laguna",
       "fechaInicio": "2025-04-18T03:05Z",
       "fecha": "17 de Abril"
-    },
+    }
+  ],
+ "Conference League": [
     {
-      "link": "Go:conf3",
+      "link": "Go:conf1",
       "canal": "Go:espn",
       "opcion1": null,
       "opcion2": null,
@@ -87,7 +89,7 @@
       "fecha": "17 de Abril"
     },
     {
-      "link": "Go:conf4",
+      "link": "Go:conf2",
       "canal": "Go:espn",
       "opcion1": null,
       "opcion2": null,
@@ -99,7 +101,7 @@
       "fecha": "17 de Abril"
     },
     {
-      "link": "Go:conf5",
+      "link": "Go:conf3",
       "canal": "Go:espn",
       "opcion1": null,
       "opcion2": null,
@@ -111,7 +113,7 @@
       "fecha": "17 de Abril"
     },
     {
-      "link": "Go:conf6",
+      "link": "Go:conf4",
       "canal": null,
       "opcion1": null,
       "opcion2": null,
