@@ -49,32 +49,6 @@
       "fecha": "17 de Abril"
     }
   ],
-  "Liga Mexicana": [
-    {
-      "link": "Go:mex1",
-      "canal": "Go:azteca7",
-      "opcion1": "Azteca Deportes En Vivo",
-      "opcion2": null,
-      "opcion3": null,
-      "torneo": "Liga Mexicana",
-      "equipo1": "Mazatlán",
-      "equipo2": "Tijuana",
-      "fechaInicio": "2025-04-18T03:00Z",
-      "fecha": "17 de Abril"
-    },
-    {
-      "link": "Go:mex2",
-      "canal": "Go:TUDN",
-      "opcion1": null,
-      "opcion2": null,
-      "opcion3": null,
-      "torneo": "Liga Mexicana",
-      "equipo1": "Pumas UNAM",
-      "equipo2": "Santos Laguna",
-      "fechaInicio": "2025-04-18T03:05Z",
-      "fecha": "17 de Abril"
-    }
-  ],
  "Conference League": [
     {
       "link": "Go:conf1",
