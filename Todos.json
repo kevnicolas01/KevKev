@@ -35,7 +35,7 @@
       "opcion2": "TNT Sports",
       "opcion3": "TNT Sports",
       "torneo": "Liga Argentina",
-      "equipo1": "Gimnasia La Plata",
+      "equipo1": "Gimnasia",
       "equipo2": "River Plate",
       "fechaInicio": "2025-04-18T20:00Z",
       "fecha": "18 de Abril"
@@ -47,8 +47,8 @@
       "opcion2": "TNT Sports",
       "opcion3": "TNT Sports",
       "torneo": "Liga Argentina",
-      "equipo1": "Talleres Córdoba",
-      "equipo2": "Vélez Sarsfield",
+      "equipo1": "Talleres",
+      "equipo2": "Vélez",
       "fechaInicio": "2025-04-18T22:15Z",
       "fecha": "18 de Abril"
     },
@@ -59,8 +59,8 @@
       "opcion2": "ESPN Premium",
       "opcion3": "ESPN Premium",
       "torneo": "Liga Argentina",
-      "equipo1": "Racing Club",
-      "equipo2": "Central Córdoba SdE",
+      "equipo1": "Racing",
+      "equipo2": "Central Córdoba",
       "fechaInicio": "2025-04-19T00:15Z",
       "fecha": "18 de Abril"
     },
@@ -71,7 +71,7 @@
       "opcion2": "TNT Sports",
       "opcion3": "TNT Sports",
       "torneo": "Liga Argentina",
-      "equipo1": "Atlético Tucumán",
+      "equipo1": "Atl. Tucumán",
       "equipo2": "Independiente",
       "fechaInicio": "2025-04-19T00:30Z",
       "fecha": "18 de Abril"
@@ -83,8 +83,8 @@
       "opcion2": "ESPN Premium",
       "opcion3": "ESPN Premium",
       "torneo": "Liga Argentina",
-      "equipo1": "Unión Santa Fe",
-      "equipo2": "Newell's Old Boys",
+      "equipo1": "Unión",
+      "equipo2": "Newell's",
       "fechaInicio": "2025-04-19T00:30Z",
       "fecha": "18 de Abril"
     }
