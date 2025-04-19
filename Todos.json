@@ -257,7 +257,7 @@
       "opcion2": "go:disney3op2",
       "opcion3": "go:disney3op2",
       "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "Olympique Marseille",
+      "equipo1": "Marsella",
       "equipo2": "Montpellier",
       "fechaInicio": "2025-04-19T19:05Z",
       "fecha": "19 de Abril"
@@ -321,8 +321,8 @@
       "opcion2": "go:max2op2",
       "opcion3": "go:max2op2",
       "torneo": "Liga Chilena 🇨🇱",
-      "equipo1": "Universidad Católica",
-      "equipo2": "Deportes Limache",
+      "equipo1": "U. Católica",
+      "equipo2": "De. Limache",
       "fechaInicio": "2025-04-19T21:30Z",
       "fecha": "19 de Abril"
     }
@@ -348,7 +348,7 @@
       "opcion3": "Go:winplus",
       "torneo": "Colombia - Primera A 🇨🇴",
       "equipo1": "Junior",
-      "equipo2": "Alianza Petrolera",
+      "equipo2": "Alianza Petro.",
       "fechaInicio": "2025-04-20T01:10Z",
       "fecha": "19 de Abril"
     },
@@ -385,7 +385,7 @@
       "opcion2": "Go:ecdf",
       "opcion3": "Go:eventosec",
       "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "Deportivo Cuenca",
+      "equipo1": "Dep. Cuenca",
       "equipo2": "Emelec",
       "fechaInicio": "2025-04-19T21:30Z",
       "fecha": "19 de Abril"
@@ -397,7 +397,7 @@
       "opcion2": "Go:ecdf",
       "opcion3": "Go:eventosec",
       "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "Independiente del Valle",
+      "equipo1": "Ind. del Valle",
       "equipo2": "Manta",
       "fechaInicio": "2025-04-20T00:00Z",
       "fecha": "19 de Abril"
@@ -423,8 +423,8 @@
       "opcion2": "Go:ligamax",
       "opcion3": "Go:ligamax",
       "torneo": "Liga Peruana 🇵🇪",
-      "equipo1": "Alianza Atlético",
-      "equipo2": "Sporting Cristal",
+      "equipo1": "Alianza Atl.",
+      "equipo2": "Sport. Cristal",
       "fechaInicio": "2025-04-19T22:30Z",
       "fecha": "19 de Abril"
     },
