@@ -466,6 +466,21 @@
       "fechaInicio": "2025-04-19T21:30Z",
       "fecha": "19 de Abril"
     }
+  ],
+  "MLS": [
+    {
+      "link": "Go:mls2",
+      "canal": "go:mls2en",
+      "opcion1": "go:mls2en",
+      "opcion2": "go:mls2en",
+      "opcion3": "go:mls2en",
+      "torneo": "MLS 🇺🇸🇨🇦",
+      "equipo1": "Columbus Crew",
+      "equipo2": "Inter Miami",
+      "fechaInicio": "2025-04-19T20:30Z",
+      "fecha": "19 de Abril"
+    }
   ]
 }
+
 
