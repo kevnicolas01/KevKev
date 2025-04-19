@@ -300,5 +300,172 @@
       "fechaInicio": "2025-04-20T01:05Z",
       "fecha": "19 de Abril"
     }
+  ],
+  "Liga Chilena": [
+    {
+      "link": "Go:chile1",
+      "canal": "go:max1op2",
+      "opcion1": "go:max4op2",
+      "opcion2": "go:max1op2",
+      "opcion3": "go:max4op2",
+      "torneo": "Liga Chilena 🇨🇱",
+      "equipo1": "Huachipato",
+      "equipo2": "Cobresal",
+      "fechaInicio": "2025-04-19T19:00Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:chile2",
+      "canal": "go:max2op2",
+      "opcion1": "go:max2op2",
+      "opcion2": "go:max2op2",
+      "opcion3": "go:max2op2",
+      "torneo": "Liga Chilena 🇨🇱",
+      "equipo1": "Universidad Católica",
+      "equipo2": "Deportes Limache",
+      "fechaInicio": "2025-04-19T21:30Z",
+      "fecha": "19 de Abril"
+    }
+  ],
+  "Liga Colombiana": [
+    {
+      "link": "Go:col1",
+      "canal": "Go:winplus",
+      "opcion1": "Go:winplus",
+      "opcion2": "Go:winplus",
+      "opcion3": "Go:winplus",
+      "torneo": "Colombia - Primera A 🇨🇴",
+      "equipo1": "La Equidad",
+      "equipo2": "América de Cali",
+      "fechaInicio": "2025-04-19T21:00Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:col2",
+      "canal": "Go:winplus",
+      "opcion1": "Go:winplus",
+      "opcion2": "Go:winplus",
+      "opcion3": "Go:winplus",
+      "torneo": "Colombia - Primera A 🇨🇴",
+      "equipo1": "Junior",
+      "equipo2": "Alianza Petrolera",
+      "fechaInicio": "2025-04-20T01:10Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:col3",
+      "canal": "Go:winplus",
+      "opcion1": "Go:winplus",
+      "opcion2": "Go:winplus",
+      "opcion3": "Go:winplus",
+      "torneo": "Colombia - Primera A 🇨🇴",
+      "equipo1": "Medellín",
+      "equipo2": "Once Caldas",
+      "fechaInicio": "2025-04-20T03:20Z",
+      "fecha": "19 de Abril"
+    }
+  ],
+  "Liga Ecuatoriana": [
+    {
+      "link": "Go:ecu1",
+      "canal": "Go:ecdf",
+      "opcion1": "Go:eventosec",
+      "opcion2": "Go:ecdf",
+      "opcion3": "Go:eventosec",
+      "torneo": "Liga Ecuatoriana 🇪🇨",
+      "equipo1": "Libertad",
+      "equipo2": "Mushuc Runa",
+      "fechaInicio": "2025-04-19T19:00Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:ecu2",
+      "canal": "Go:ecdf",
+      "opcion1": "Go:eventosec",
+      "opcion2": "Go:ecdf",
+      "opcion3": "Go:eventosec",
+      "torneo": "Liga Ecuatoriana 🇪🇨",
+      "equipo1": "Deportivo Cuenca",
+      "equipo2": "Emelec",
+      "fechaInicio": "2025-04-19T21:30Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:ecu3",
+      "canal": "Go:ecdf",
+      "opcion1": "Go:eventosec",
+      "opcion2": "Go:ecdf",
+      "opcion3": "Go:eventosec",
+      "torneo": "Liga Ecuatoriana 🇪🇨",
+      "equipo1": "Independiente del Valle",
+      "equipo2": "Manta",
+      "fechaInicio": "2025-04-20T00:00Z",
+      "fecha": "19 de Abril"
+    }
+  ],
+  "Liga Peruana": [
+    {
+      "link": "Go:per1",
+      "canal": "Go:golperu",
+      "opcion1": "Go:golperu",
+      "opcion2": "Go:golperu",
+      "opcion3": "Go:golperu",
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "Sport Boys",
+      "equipo2": "Cienciano",
+      "fechaInicio": "2025-04-19T20:00Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:per2",
+      "canal": "Go:ligamax",
+      "opcion1": "Go:ligamax",
+      "opcion2": "Go:ligamax",
+      "opcion3": "Go:ligamax",
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "Alianza Atlético",
+      "equipo2": "Sporting Cristal",
+      "fechaInicio": "2025-04-19T22:30Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:per3",
+      "canal": "Go:ligamax",
+      "opcion1": "Go:ligamax",
+      "opcion2": "Go:ligamax",
+      "opcion3": "Go:ligamax",
+      "torneo": "Liga Peruana 🇵🇪",",
+      "equipo1": "Cusco",
+      "equipo2": "Ayacucho",
+      "fechaInicio": "2025-04-20T02:00Z",
+      "fecha": "19 de Abril"
+    }
+  ],
+  "Liga Uruguaya": [
+    {
+      "link": "Go:uru1",
+      "canal": "Go:vtvplus",
+      "opcion1": "Go:vtvplus",
+      "opcion2": "Go:vtvplus",
+      "opcion3": "Go:vtvplus",
+      "torneo": "Liga Uruguaya 🇺🇾",
+      "equipo1": "Juventud",
+      "equipo2": "Racing",
+      "fechaInicio": "2025-04-19T18:30Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:uru2",
+      "canal": "Go:goltv",
+      "opcion1": "Go:goltv",
+      "opcion2": "Go:goltv",
+      "opcion3": "Go:goltv",
+      "torneo": "Liga Uruguaya 🇺🇾",
+      "equipo1": "Wanderers",
+      "equipo2": "Peñarol",
+      "fechaInicio": "2025-04-19T21:30Z",
+      "fecha": "19 de Abril"
+    }
   ]
 }
+
