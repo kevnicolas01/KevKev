@@ -1,4 +1,68 @@
 {
+  "Liga Argentina": [
+    {
+      "link": "Go:arg1",
+      "canal": "Go:Espnprem",
+      "opcion1": "Go:Espnprem",
+      "opcion2": "Go:tycsports",
+      "opcion3": null,
+      "torneo": "Superliga Argentina 🇦🇷",
+      "equipo1": "Lanús",
+      "equipo2": "Banfield",
+      "fechaInicio": "2025-04-19T19:15Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:arg2",
+      "canal": "Go:TNTSports",
+      "opcion1": "Go:TNTSports",
+      "opcion2": "Go:tycsports",
+      "opcion3": null,
+      "torneo": "Superliga Argentina 🇦🇷",
+      "equipo1": "Huracán",
+      "equipo2": "Defensa y Justicia",
+      "fechaInicio": "2025-04-19T21:15Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:arg3",
+      "canal": "Go:Espnprem",
+      "opcion1": "Go:Espnprem",
+      "opcion2": "Go:tycsports",
+      "opcion3": "Go:espn",
+      "torneo": "Superliga Argentina 🇦🇷",
+      "equipo1": "Boca Juniors",
+      "equipo2": "Estudiantes",
+      "fechaInicio": "2025-04-20T00:30Z",
+      "fecha": "19 de Abril"
+    }
+  ],
+  "Premier League": [
+    {
+      "link": "Go:prem1",
+      "canal": "Go:espn",
+      "opcion1": "go:disney8op2",
+      "opcion2": "go:universo",
+      "opcion3": "go:max1",
+      "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Everton",
+      "equipo2": "Manchester City",
+      "fechaInicio": "2025-04-19T14:00Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:prem2",
+      "canal": "Go:espn",
+      "opcion1": "go:max3",
+      "opcion2": "go:disney16o2",
+      "opcion3": "go:espn",
+      "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Aston Villa",
+      "equipo2": "Newcastle United",
+      "fechaInicio": "2025-04-19T16:30Z",
+      "fecha": "19 de Abril"
+    }
+  ],
   "La Liga": [
     {
       "link": "go:laliga1",
@@ -7,216 +71,234 @@
       "opcion2": "go:espndeport",
       "opcion3": "go:espndeport",
       "torneo": "La Liga 🇪🇸",
-      "equipo1": "Espanyol",
-      "equipo2": "Getafe",
-      "fechaInicio": "2025-04-18T19:00Z",
-      "fecha": "18 de Abril"
+      "equipo1": "Rayo Vallecano",
+      "equipo2": "Valencia",
+      "fechaInicio": "2025-04-19T12:00Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "go:laliga2",
+      "canal": "go:disney12o2",
+      "opcion1": "go:zespnplus1",
+      "opcion2": "go:disney12o2",
+      "opcion3": "go:zespnplus1",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Barcelona",
+      "equipo2": "Celta de Vigo",
+      "fechaInicio": "2025-04-19T14:15Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "go:laliga3",
+      "canal": "go:espndeport",
+      "opcion1": "go:espndeport",
+      "opcion2": "go:espndeport",
+      "opcion3": "go:espndeport",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Mallorca",
+      "equipo2": "Leganés",
+      "fechaInicio": "2025-04-19T16:30Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "go:laliga4",
+      "canal": "Go:espn",
+      "opcion1": "go:espndeport",
+      "opcion2": "go:zespnplus2",
+      "opcion3": "go:disney2op2",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Las Palmas",
+      "equipo2": "Atlético Madrid",
+      "fechaInicio": "2025-04-19T19:00Z",
+      "fecha": "19 de Abril"
+    }
+  ],
+  "Serie A": [
+    {
+      "link": "Go:serieA1",
+      "canal": "go:disney1op2",
+      "opcion1": "go:disney1op2",
+      "opcion2": "go:disney1op2",
+      "opcion3": "go:disney1op2",
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Lecce",
+      "equipo2": "Como",
+      "fechaInicio": "2025-04-19T13:00Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:seriea2",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Monza",
+      "equipo2": "Napoli",
+      "fechaInicio": "2025-04-19T16:00Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:seriea3",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Roma",
+      "equipo2": "Hellas Verona",
+      "fechaInicio": "2025-04-19T18:45Z",
+      "fecha": "19 de Abril"
+    }
+  ],
+  "Bundesliga": [
+    {
+      "link": "Go:bundes1",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Heidenheim",
+      "equipo2": "Bayern München",
+      "fechaInicio": "2025-04-19T13:30Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:bundes2",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Union Berlin",
+      "equipo2": "Stuttgart",
+      "fechaInicio": "2025-04-19T16:30Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:bundes3",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "RB Leipzig",
+      "equipo2": "Holstein Kiel",
+      "fechaInicio": "2025-04-19T13:30Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:bundes4",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Werder Bremen",
+      "equipo2": "Bochum",
+      "fechaInicio": "2025-04-19T13:30Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:bundes5",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Freiburg",
+      "equipo2": "Hoffenheim",
+      "fechaInicio": "2025-04-19T13:30Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:bundes6",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Mainz 05",
+      "equipo2": "Wolfsburg",
+      "fechaInicio": "2025-04-19T13:30Z",
+      "fecha": "19 de Abril"
     }
   ],
   "Ligue 1": [
     {
       "link": "Go:liguee1",
-      "canal": "Go:espn4",
-      "opcion1": "go:disney6op2",
-      "opcion2": "go:disney6op2",
-      "opcion3": "go:disney6op2",
-      "torneo": "Ligue 1",
-      "equipo1": "Rennes",
-      "equipo2": "Nantes",
-      "fechaInicio": "2025-04-18T18:45Z",
-      "fecha": "18 de Abril"
-    }
-  ],
-  "Liga Argentina": [
-    {
-      "link": "Go:arg1",
-      "canal": "Go:TNTSports",
-      "opcion1": "Go:TNTSports",
-      "opcion2": "Go:TNTSports",
-      "opcion3": "Go:TNTSports",
-      "torneo": "Liga Argentina",
-      "equipo1": "Gimnasia",
-      "equipo2": "River Plate",
-      "fechaInicio": "2025-04-18T20:00Z",
-      "fecha": "18 de Abril"
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": null,
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "PSG",
+      "equipo2": "Le Havre",
+      "fechaInicio": "2025-04-19T15:00Z",
+      "fecha": "19 de Abril"
     },
     {
-      "link": "Go:arg2",
-      "canal": "Go:TNTSports",
-      "opcion1": "Go:TNTSports",
-      "opcion2": "Go:TNTSports",
-      "opcion3": "Go:TNTSports",
-      "torneo": "Liga Argentina",
-      "equipo1": "Talleres",
-      "equipo2": "Vélez",
-      "fechaInicio": "2025-04-18T22:15Z",
-      "fecha": "18 de Abril"
+      "link": "Go:ligue2",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Monaco",
+      "equipo2": "Strasbourg",
+      "fechaInicio": "2025-04-19T17:00Z",
+      "fecha": "19 de Abril"
     },
     {
-      "link": "Go:arg3",
-      "canal": "Go:espnprem",
-      "opcion1": "Go:espnprem",
-      "opcion2": "Go:espnprem",
-      "opcion3": "Go:espnprem",
-      "torneo": "Liga Argentina",
-      "equipo1": "Racing",
-      "equipo2": "Central Córdoba",
-      "fechaInicio": "2025-04-22T22:15Z",
-      "fecha": "18 de Abril"
-    },
-    {
-      "link": "Go:arg4",
-      "canal": "Go:TNTSports",
-      "opcion1": "Go:TNTSports",
-      "opcion2": "Go:TNTSports",
-      "opcion3": "Go:TNTSports",
-      "torneo": "Liga Argentina",
-      "equipo1": "Atl. Tucumán",
-      "equipo2": "Independiente",
-      "fechaInicio": "2025-04-19T00:30Z",
-      "fecha": "18 de Abril"
-    },
-    {
-      "link": "Go:arg5",
-      "canal": "Go:espnprem",
-      "opcion1": "Go:espnprem",
-      "opcion2": "Go:espnprem",
-      "opcion3": "Go:espnprem",
-      "torneo": "Liga Argentina",
-      "equipo1": "Unión",
-      "equipo2": "Newell's",
-      "fechaInicio": "2025-04-19T00:30Z",
-      "fecha": "18 de Abril"
-    }
-  ],
-  "Liga Chilena": [
-    {
-      "link": "Go:chile1",
-      "canal": "go:max1",
-      "opcion1": "go:max1",
-      "opcion2": "go:max1",
-      "opcion3": "go:max1",
-      "torneo": "Liga Chilena",
-      "equipo1": "Audax Italiano",
-      "equipo2": "Unión Española",
-      "fechaInicio": "2025-04-18T22:00Z",
-      "fecha": "18 de Abril"
-    }
-  ],
-  "Liga Ecuatoriana": [
-    {
-      "link": "Go:ecu1",
-      "canal": "go:ecdf",
-      "opcion1": "go:eventosec",
-      "opcion2": "go:eventosec",
-      "opcion3": "go:eventosec",
-      "torneo": "Liga Ecuatoriana",
-      "equipo1": "LDU Quito",
-      "equipo2": "Aucas",
-      "fechaInicio": "2025-04-18T21:30Z",
-      "fecha": "18 de Abril"
-    },
-    {
-      "link": "Go:ecu2",
-      "canal": "go:ecdf",
-      "opcion1": "go:eventosec",
-      "opcion2": "go:eventosec",
-      "opcion3": "go:eventosec",
-      "torneo": "Liga Ecuatoriana",
-      "equipo1": "Barcelona",
-      "equipo2": "El Nacional",
-      "fechaInicio": "2025-04-19T00:00Z",
-      "fecha": "18 de Abril"
-    }
-  ],
-  "Liga Peruana": [
-    {
-      "link": "Go:per1",
-      "canal": "Go:ligamax",
-      "opcion1": "Go:ligamax",
-      "opcion2": "Go:ligamax",
-      "opcion3": "Go:ligamax",
-      "torneo": "Liga Peruana",
-      "equipo1": "Melgar",
-      "equipo2": "Deportivo Garcilaso",
-      "fechaInicio": "2025-04-18T20:00Z",
-      "fecha": "18 de Abril"
-    },
-    {
-      "link": "Go:per2",
-      "canal": "Go:ligamax",
-      "opcion1": "Go:ligamax",
-      "opcion2": "Go:ligamax",
-      "opcion3": "Go:ligamax",
-      "torneo": "Liga Peruana",
-      "equipo1": "Binacional",
-      "equipo2": "Universitario",
-      "fechaInicio": "2025-04-18T22:30Z",
-      "fecha": "18 de Abril"
-    },
-    {
-      "link": "Go:per3",
-      "canal": "Go:ligamax",
-      "opcion1": "Go:ligamax",
-      "opcion2": "Go:ligamax",
-      "opcion3": "Go:ligamax",
-      "torneo": "Liga Peruana",
-      "equipo1": "Alianza Lima",
-      "equipo2": "Los Chankas",
-      "fechaInicio": "2025-04-19T01:00Z",
-      "fecha": "18 de Abril"
-    }
-  ],
-  "Liga Uruguaya": [
-    {
-      "link": "Go:uru1",
-      "canal": "Go:Vtvplus",
-      "opcion1": "Go:Vtvplus",
-      "opcion2": "Go:Vtvplus",
-      "opcion3": "Go:Vtvplus",
-      "torneo": "Liga Uruguaya",
-      "equipo1": "Danubio",
-      "equipo2": "Boston River",
-      "fechaInicio": "2025-04-18T17:00Z",
-      "fecha": "18 de Abril"
-    },
-    {
-      "link": "Go:uru2",
-      "canal": "Go:Vtvplus",
-      "opcion1": "Go:Vtvplus",
-      "opcion2": "Go:Vtvplus",
-      "opcion3": "Go:Vtvplus",
-      "torneo": "Liga Uruguaya",
-      "equipo1": "Miramar Misiones",
-      "equipo2": "Nacional",
-      "fechaInicio": "2025-04-18T19:00Z",
-      "fecha": "18 de Abril"
-    },
-    {
-      "link": "Go:uru3",
-      "canal": "Go:Vtvplus",
-      "opcion1": "Go:Vtvplus",
-      "opcion2": "Go:Vtvplus",
-      "opcion3": "Go:Vtvplus",
-      "torneo": "Liga Uruguaya",
-      "equipo1": "Cerro Largo",
-      "equipo2": "River Plate",
-      "fechaInicio": "2025-04-18T21:30Z",
-      "fecha": "18 de Abril"
+      "link": "Go:ligue3",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Olympique Marseille",
+      "equipo2": "Montpellier",
+      "fechaInicio": "2025-04-19T19:05Z",
+      "fecha": "19 de Abril"
     }
   ],
   "Liga Mexicana": [
     {
       "link": "Go:mex1",
+      "canal": "Go:TUDN",
+      "opcion1": "Go:TUDN",
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Liga MX 🇲🇽",
+      "equipo1": "América",
+      "equipo2": "Mazatlán",
+      "fechaInicio": "2025-04-19T23:00Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:mex2",
       "canal": "Go:azteca7",
       "opcion1": "Go:azteca7",
-      "opcion2": "Go:azteca7",
-      "opcion3": "Go:azteca7",
-      "torneo": "Liga Mexicana",
-      "equipo1": "Puebla",
-      "equipo2": "Necaxa",
-      "fechaInicio": "2025-04-19T01:00Z",
-      "fecha": "18 de Abril"
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Liga MX 🇲🇽",
+      "equipo1": "Juárez",
+      "equipo2": "Querétaro",
+      "fechaInicio": "2025-04-20T01:00Z",
+      "fecha": "19 de Abril"
+    },
+    {
+      "link": "Go:mex3",
+      "canal": "Go:TUDN",
+      "opcion1": "Go:TUDN",
+      "opcion2": null,
+      "opcion3": null,
+      "torneo": "Liga MX 🇲🇽",
+      "equipo1": "Toluca",
+      "equipo2": "Cruz Azul",
+      "fechaInicio": "2025-04-20T01:05Z",
+      "fecha": "19 de Abril"
     }
   ]
 }
