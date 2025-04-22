@@ -94,7 +94,7 @@
   "Sudamericana": [
     {
       "link": "Go:suda1",
-      "canal": "Go:Dsports",
+      "canal": "go:disney7",
       "opcion1": "Go:espn2",
       "opcion2": "Go:Dsports",
       "opcion3": "Go:espn2",
@@ -143,7 +143,7 @@
     {
       "link": "Go:suda5",
       "canal": "Go:espn2",
-      "opcion1": "Go:espn2",
+      "opcion1": "go:disney11",
       "opcion2": "Go:espn2",
       "opcion3": "Go:espn2",
       "torneo": "Copa Sudamericana 🏆",
