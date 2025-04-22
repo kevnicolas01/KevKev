@@ -2,145 +2,229 @@
   "Liga Argentina": [
     {
       "link": "Go:arg1",
-      "canal": "Go:espnprem",
-      "opcion1": "Go:espnprem",
-      "opcion2": "Go:Espnprem",
-      "opcion3": "Go:espnprem",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Tigre",
-      "equipo2": "Belgrano",
-      "fechaInicio": "2025-04-21T22:00Z",
-      "fecha": "21 de Abril"
+      "canal": "Go:TNTSports",
+      "opcion1": "Go:TNTSports",
+      "opcion2": "Go:TNTSports",
+      "opcion3": "Go:TNTSports",
+      "torneo": "Argentina - Superliga Argentina 🇦🇷",
+      "equipo1": "Argentinos Jrs ",
+      "equipo2": "Barracas",
+      "fechaInicio": "2025-04-22T22:00Z",
+      "fecha": "22 de Abril"
     },
     {
       "link": "Go:arg2",
-      "canal": "Go:espnprem",
-      "opcion1": "Go:espnprem",
+      "canal": "Go:Espnprem",
+      "opcion1": "Go:Espnprem",
       "opcion2": "Go:Espnprem",
-      "opcion3": "Go:espnprem",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Ind. Rivadavia",
-      "equipo2": "Aldosivi",
-      "fechaInicio": "2025-04-22T00:15Z",
-      "fecha": "21 de Abril"
+      "opcion3": "Go:Espnprem",
+      "torneo": "Argentina - Superliga Argentina 🇦🇷",
+      "equipo1": "Tigre",
+      "equipo2": "Belgrano",
+      "fechaInicio": "2025-04-22T22:00Z",
+      "fecha": "22 de Abril"
     },
     {
       "link": "Go:arg3",
-      "canal": "go:tntsorts",
-      "opcion1": "go:tntsorts",
-      "opcion2": "go:tntsorts",
-      "opcion3": "go:tntsorts",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Argentinos Juniors",
-      "equipo2": "Barracas Central",
-      "fechaInicio": "2025-04-22T00:15Z",
-      "fecha": "21 de Abril"
+      "canal": "Go:espn",
+      "opcion1": "Go:Espnprem",
+      "opcion2": "Go:Espnprem",
+      "opcion3": "Go:Espnprem",
+      "torneo": "Argentina - Superliga Argentina 🇦🇷",
+      "equipo1": "Ind. Rivadavia",
+      "equipo2": "Aldosivi",
+      "fechaInicio": "2025-04-23T00:15Z",
+      "fecha": "22 de Abril"
     }
   ],
   "Premier League": [
     {
       "link": "Go:prem1",
-      "canal": "Go:Espn",
-      "opcion1": "Go:disney4",
-      "opcion2": "Go:disney4",
-      "opcion3": "Go:Espn",
+      "canal": "Go:espn",
+      "opcion1": "go:tubitv1",
+      "opcion2": "Go:espn",
+      "opcion3": "go:tubitv1",
       "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "equipo1": "Tottenham Hotspur",
-      "equipo2": "Nottingham Forest",
-      "fechaInicio": "2025-04-21T19:00Z",
-      "fecha": "21 de Abril"
+      "equipo1": "Manchester City",
+      "equipo2": "Aston Villa",
+      "fechaInicio": "2025-04-22T19:00Z",
+      "fecha": "22 de Abril"
     }
   ],
   "La Liga": [
     {
       "link": "go:laliga1",
-      "canal": "Go:espn3",
-      "opcion1": "Go:disney5",
-      "opcion2": "Go:daznlaliga",
-      "opcion3": "Go:espn3",
+      "canal": "Go:espn2",
+      "opcion1": "go:espndeport",
+      "opcion2": "Go:espn2",
+      "opcion3": "Go:espndeport",
       "torneo": "La Liga 🇪🇸",
-      "equipo1": "Girona",
-      "equipo2": "Real Betis",
-      "fechaInicio": "2025-04-21T19:00Z",
-      "fecha": "21 de Abril"
+      "equipo1": "Valencia",
+      "equipo2": "Espanyol",
+      "fechaInicio": "2025-04-22T17:00Z",
+      "fecha": "22 de Abril"
+    },
+    {
+      "link": "go:laliga2",
+      "canal": "Go:espn2",
+      "opcion1": "go:espndeport",
+      "opcion2": "Go:espn2",
+      "opcion3": "Go:espndeport",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Barcelona",
+      "equipo2": "Mallorca",
+      "fechaInicio": "2025-04-22T19:30Z",
+      "fecha": "22 de Abril"
     }
   ],
-  "Serie A": [
+  "Ligue 1": [
     {
-      "link": "Go:serieA1",
+      "link": "Go:liguee1",
+      "canal": "Go:espn3",
+      "opcion1": "Go:espn3",
+      "opcion2": "Go:espn3",
+      "opcion3": "Go:espn3",
+      "torneo": "Francia - Ligue 1 🇫🇷",
+      "equipo1": "Nantes",
+      "equipo2": "PSG",
+      "fechaInicio": "2025-04-22T18:45Z",
+      "fecha": "22 de Abril"
+    }
+  ],
+  "Sudamericana": [
+    {
+      "link": "Go:suda1",
+      "canal": "Go:Dsports",
+      "opcion1": "Go:espn2",
+      "opcion2": "Go:Dsports",
+      "opcion3": "Go:espn2",
+      "torneo": "Copa Sudamericana 🏆",
+      "equipo1": "Guaraní",
+      "equipo2": "Independiente",
+      "fechaInicio": "2025-04-22T22:00Z",
+      "fecha": "22 de Abril"
+    },
+    {
+      "link": "Go:suda2",
+      "canal": "Go:Dsportsmas",
+      "opcion1": "Go:Dsportsmas",
+      "opcion2": "Go:Dsportsmas",
+      "opcion3": "Go:Dsportsmas",
+      "torneo": "Copa Sudamericana 🏆",
+      "equipo1": "Boston River",
+      "equipo2": "Nacional Potosí",
+      "fechaInicio": "2025-04-22T22:00Z",
+      "fecha": "22 de Abril"
+    },
+    {
+      "link": "Go:suda3",
+       "canal": "Go:Dsportsmas",
+      "opcion1": "Go:Dsportsmas",
+      "opcion2": "Go:Dsportsmas",
+      "opcion3": "Go:Dsportsmas",
+      "torneo": "Copa Sudamericana 🏆",
+      "equipo1": "Vasco da Gama",
+      "equipo2": "Lanús",
+      "fechaInicio": "2025-04-23T00:30Z",
+      "fecha": "22 de Abril"
+    },
+    {
+      "link": "Go:suda4",
+      "canal": "Go:Dsports",
+      "opcion1": "Go:Dsports",
+      "opcion2": "Go:Dsports",
+      "opcion3": "Go:Dsports",
+      "torneo": "Copa Sudamericana 🏆",
+      "equipo1": "Gualberto",
+      "equipo2": "Once Caldas",
+      "fechaInicio": "2025-04-23T00:30Z",
+      "fecha": "22 de Abril"
+    },
+    {
+      "link": "Go:suda5",
+      "canal": "Go:espn2",
+      "opcion1": "Go:espn2",
+      "opcion2": "Go:espn2",
+      "opcion3": "Go:espn2",
+      "torneo": "Copa Sudamericana 🏆",
+      "equipo1": "Melgar",
+      "equipo2": "Academia Puerto C.",
+      "fechaInicio": "2025-04-23T02:00Z",
+      "fecha": "22 de Abril"
+    }
+  ],
+  "Libertadores": [
+    {
+      "link": "go:Lib1",
+      "canal": "Go:telefe",
+      "opcion1": "Go:foxsports",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "Alianza Lima",
+      "equipo2": "Talleres",
+      "fechaInicio": "2025-04-22T22:00Z",
+      "fecha": "22 de Abril"
+    },
+    {
+      "link": "go:Lib2",
+      "canal": "Go:foxsports3",
+      "opcion1": "Go:espn5",
+      "opcion2": "Go:foxsports3",
+      "opcion3": "Go:espn5",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "Carabobo",
+      "equipo2": "U. Chile",
+      "fechaInicio": "2025-04-22T22:00Z",
+      "fecha": "22 de Abril"
+    },
+    {
+      "link": "go:Lib3",
+      "canal": "Go:espn7",
+      "opcion1": "Go:espn7",
+      "opcion2": "Go:espn7",
+      "opcion3": "Go:espn",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "LDU Quito",
+      "equipo2": "Flamengo",
+      "fechaInicio": "2025-04-22T22:00Z",
+      "fecha": "22 de Abril"
+    },
+    {
+      "link": "go:Lib4",
+      "canal": "Go:foxsports",
+      "opcion1": "Go:espn5",
+      "opcion2": "Go:foxsports",
+      "opcion3": "Go:espn5",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "Colo-Colo",
+      "equipo2": "Racing Club",
+      "fechaInicio": "2025-04-23T00:30Z",
+      "fecha": "22 de Abril"
+    },
+    {
+      "link": "go:Lib5",
       "canal": "Go:espn",
-      "opcion1": "Go:Espnprem",
-      "opcion2": "Go:espndeport",
-      "opcion3": "Go:foxdeporte",
-      "torneo": "Serie A 🇮🇹",
-      "equipo1": "Torino",
-      "equipo2": "Udinese",
-      "fechaInicio": "2025-04-21T10:30Z",
-      "fecha": "21 de Abril"
-    },
-    {
-      "link": "Go:seriea2",
-      "canal": "Go:Espnprem",
       "opcion1": "Go:espn",
-      "opcion2": "Go:espndeport",
-      "opcion3": "Go:foxdeporte",
-      "torneo": "Serie A 🇮🇹",
-      "equipo1": "Cagliari",
-      "equipo2": "Fiorentina",
-      "fechaInicio": "2025-04-21T13:00Z",
-      "fecha": "21 de Abril"
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "Internacional",
+      "equipo2": "Nacional",
+      "fechaInicio": "2025-04-23T00:30Z",
+      "fecha": "22 de Abril"
     },
     {
-      "link": "Go:seriea3",
-      "canal": "Go:espndeport",
-      "opcion1": "Go:espn",
-      "opcion2": "Go:Espnprem",
-      "opcion3": "Go:foxdeporte",
-      "torneo": "Serie A 🇮🇹",
-      "equipo1": "Genoa",
-      "equipo2": "Lazio",
-      "fechaInicio": "2025-04-21T16:00Z",
-      "fecha": "21 de Abril"
-    }
-  ],
-  "Liga Brasileña": [
-    {
-      "link": "Go:bra1",
-      "canal": "go:premiere1",
-      "opcion1": "go:premiere1",
-      "opcion2": "go:premiere1",
-      "opcion3": "go:premiere1",
-      "torneo": "Liga Brasileña 🇧🇷",
-      "equipo1": "Bahia",
-      "equipo2": "Ceará",
-      "fechaInicio": "2025-04-21T23:00Z",
-      "fecha": "21 de Abril"
-    }
-  ],
-  "Liga Colombiana": [
-    {
-      "link": "Go:col1",
-      "canal": "Go:winplus",
-      "opcion1": "Go:winplus",
-      "opcion2": "Go:winplus",
-      "opcion3": "Go:winplus",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Boyacá Chicó",
-      "equipo2": "Fortaleza CEIF",
-      "fechaInicio": "2025-04-21T23:00Z",
-      "fecha": "21 de Abril"
-    },
-    {
-      "link": "Go:col2",
-      "canal": "Go:winplus",
-      "opcion1": "Go:winplus",
-      "opcion2": "Go:winplus",
-      "opcion3": "Go:winplus",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Deportivo Pasto",
-      "equipo2": "Rionegro Águilas",
-      "fechaInicio": "2025-04-22T01:10Z",
-      "fecha": "21 de Abril"
+      "link": "go:Lib6",
+      "canal": "Go:foxsports3",
+      "opcion1": "Go:espn6",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:foxsports3",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "Barcelona",
+      "equipo2": "Universitario",
+      "fechaInicio": "2025-04-23T02:00Z",
+      "fecha": "22 de Abril"
     }
   ]
 }
