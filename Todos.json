@@ -203,9 +203,9 @@
   "Libertadores": [
     {
       "link": "go:Lib1",
-      "canal": "Go:foxsports3",
-      "opcion1": "Go:disney12",
-      "opcion2": "Go:espn4",
+      "canal": "https://voodc.com/embed/85818a96a08b9e8a847a8598a48798858d83.html",
+      "opcion1": "https://voodc.com/embed/85818a96a08b9e8a847a8598a48798858d83.html",
+      "opcion2": "go:foxsports3",
       "opcion3": "go:espn5",
       "torneo": "Copa Libertadores 🌎",
       "equipo1": "Olimpia",
@@ -215,9 +215,9 @@
     },
     {
       "link": "go:Lib2",
-      "canal": "Go:foxsports",
-      "opcion1": "Go:disney11",
-      "opcion2": "Go:espn7",
+      "canal": "https://voodc.com/embed/85818a96a08b9e8a847a8598a4889886847a.html",
+      "opcion1": "https://voodc.com/embed/85818a96a08b9e8a847a8598a4899886847b.html",
+      "opcion2": "Go:foxsports",
       "opcion3": "Go:disney11",
       "torneo": "Copa Libertadores 🌎",
       "equipo1": "San Antonio",
@@ -227,10 +227,10 @@
     },
     {
       "link": "go:Lib3",
-      "canal": "Go:foxsports2",
-      "opcion1": "Go:disney14",
-      "opcion2": "Go:espn7",
-      "opcion3": "Go:espn7",
+      "canal": "https://voodc.com/embed/85818a96a08c9d8a847a8595a18998868a7f.html",
+      "opcion1": "https://voodc.com/embed/85818a96a08c9d8a847a8595a18a98868a80.html",
+      "opcion2": "go:disney14",
+      "opcion3": "go:foxsports2",
       "torneo": "Copa Libertadores 🌎",
       "equipo1": "Libertad",
       "equipo2": "São Paulo",
@@ -251,7 +251,7 @@
     },
     {
       "link": "go:Lib5",
-      "canal": "Go:disney17",
+      "canal": "https://voodc.com/embed/85818a96a08c9d8a847a8595a08d98868983.html",
       "opcion1": "Go:disney17",
       "opcion2": "Go:espn4",
       "opcion3": "Go:espn6",
@@ -263,7 +263,7 @@
     },
     {
       "link": "go:Lib6",
-      "canal": "Go:foxsports3",
+      "canal": "https://voodc.com/embed/85818a96a08d9984847a8595a58998878480.html",
       "opcion1": "Go:disney2",
       "opcion2": "Go:espn",
       "opcion3": "Go:foxsports3",
