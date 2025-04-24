@@ -38,8 +38,8 @@
     },
     {
       "link": "go:laliga4",
-      "canal": "Go:Daznlaliga",
-      "opcion1": "Go:espnplus5",
+      "canal": "https://voodc.com/embed/85818a96a1899c84847a85989c8b9885847d.html",
+      "opcion1": "https://voodc.com/embed/85818a96a1899c84847a85989c8c9885847e.html",
       "opcion2": "go:espndeport",
       "opcion3": "Go:Daznlaliga",
       "torneo": "La Liga 🇪🇸",
@@ -52,9 +52,9 @@
   "Serie A": [
     {
       "link": "Go:seriea1",
-      "canal": "Go:Dsports2",
+      "canal": "https://voodc.com/embed/85818a96a1899a86847a8597a48e988d88.html",
       "opcion1": "Go:Dsports2",
-      "opcion2": "Go:Dsports2",
+      "opcion2": "https://voodc.com/embed/85818a96a1899a86847a8597a48d988d87.html",
       "opcion3": "Go:Dsports2",
       "torneo": "Copa del Rey 🇮🇹",
       "equipo1": "Bologna",
