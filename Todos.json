@@ -66,7 +66,7 @@
   "Sudamericana": [
     {
       "link": "Go:suda1",
-      "canal": "Go:espn5",
+      "canal": "https://voodc.com/embed/85818a96a18a9b84847a85989e8898858780.html",
       "opcion1": "Go:espn5",
       "opcion2": "Go:espn5",
       "opcion3": "Go:espn5",
@@ -78,7 +78,7 @@
     },
     {
       "link": "Go:suda2",
-      "canal": "go:dsports",
+      "canal": "https://voodc.com/embed/85818a96a18a9b84847a85989d909885877e.html",
       "opcion1": "go:dsports",
       "opcion2": "go:dsports",
       "opcion3": "go:dsports",
@@ -90,7 +90,7 @@
     },
     {
       "link": "Go:suda3",
-      "canal": "Go:espn5",
+      "canal": "https://voodc.com/embed/85818a96a18b9a84847a85959f8f98858c7f.html",
       "opcion1": "Go:espn5",
       "opcion2": "Go:espn5",
       "opcion3": "Go:espn5",
@@ -102,7 +102,7 @@
     },
     {
       "link": "Go:suda4",
-      "canal": "Go:Dsports",
+      "canal": "https://voodc.com/embed/85818a96a18b9a84847a85959f9098858c80.html",
       "opcion1": "Go:Dsports",
       "opcion2": "Go:Dsports",
       "opcion3": "Go:Dsports",
@@ -114,7 +114,7 @@
     },
     {
       "link": "Go:suda5",
-      "canal": "Go:espn3",
+      "canal": "https://voodc.com/embed/85818a96a18b9f88847a8595a38798868581.html",
       "opcion1": "Go:espn3",
       "opcion2": "Go:espn3",
       "opcion3": "Go:espn3",
@@ -128,7 +128,7 @@
   "Libertadores": [
     {
       "link": "go:Lib1",
-      "canal": "Go:foxsports2",
+      "canal": "https://voodc.com/embed/85818a96a18a9b84847a85989d8c9885877a.html",
       "opcion1": "go:espn2",
       "opcion2": "Go:foxsports2",
       "opcion3": "go:espn2",
@@ -140,7 +140,7 @@
     },
     {
       "link": "go:Lib2",
-      "canal": "Go:espn7",
+      "canal": "https://voodc.com/embed/85818a96a18a9b84847a85989d8f9885877d.html",
       "opcion1": "Go:espn7",
       "opcion2": "Go:espn7",
       "opcion3": "Go:espn7",
@@ -152,9 +152,9 @@
     },
     {
       "link": "go:Lib3",
-      "canal": "Go:foxsports2",
-      "opcion1": "go:espn2",
-      "opcion2": "go:espn",
+      "canal": "https://voodc.com/embed/85818a96a18aa286847a85959e8b98858b7c.html",
+      "opcion1": "https://voodc.com/embed/85818a96a18aa286847a85959e8c98858b7d.html",
+      "opcion2": "go:espn2",
       "opcion3": "Go:foxsports2",
       "torneo": "Copa Libertadores 🌎",
       "equipo1": "Bahia",
@@ -164,8 +164,8 @@
     },
     {
       "link": "go:Lib4",
-      "canal": "Go:foxsports",
-      "opcion1": "go:espn2",
+      "canal": "https://voodc.com/embed/85818a96a18b9a84847a85959f8d98858c7d.html",
+      "opcion1": "https://voodc.com/embed/85818a96a18b9a84847a85959f8e98858c7e.html",
       "opcion2": "Go:foxsports",
       "opcion3": "go:espn2",
       "torneo": "Copa Libertadores 🌎",
@@ -178,8 +178,8 @@
   "CONCACAF Champions Cup": [
     {
       "link": "go:cham1",
-      "canal": "Go:tundusa",
-      "opcion1": "Go:tudnusa",
+      "canal": "https://voodc.com/embed/85818a96a18ba186847a8595a38f9886867d.html",
+      "opcion1": "https://voodc.com/embed/85818a96a18ba186847a8595a38e9886867c.html",
       "opcion2": "Go:tudnusa",
       "opcion3": "Go:tudnusa",
       "torneo": "CONCACAF Champions Cup 🌎",
