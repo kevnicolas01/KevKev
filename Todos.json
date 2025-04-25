@@ -1,191 +1,81 @@
 {
-  "La Liga": [
+  "Bundesliga": [
     {
-      "link": "go:laliga1",
-      "canal": "Go:espn2",
-      "opcion1": "Go:espnplus5",
-      "opcion2": "Go:espnplus4",
-      "opcion3": "Go:espndeport",
-      "torneo": "La Liga 🇪🇸",
-      "equipo1": "Osasuna",
-      "equipo2": "Sevilla",
-      "fechaInicio": "2025-04-24T17:00Z",
-      "fecha": "24 de Abril"
-    },
-    {
-      "link": "go:laliga2",
-      "canal": "Go:Dsports",
-      "opcion1": "Go:daznlaliga",
-      "opcion2": "Go:Dsports",
-      "opcion3": "Go:Dsports",
-      "torneo": "La Liga 🇪🇸",
-      "equipo1": "Leganés",
-      "equipo2": "Girona",
-      "fechaInicio": "2025-04-24T17:00Z",
-      "fecha": "24 de Abril"
-    },
-    {
-      "link": "go:laliga3",
-      "canal": "Go:Dsportsmas",
-      "opcion1": "Go:espnplus10",
-      "opcion2": "Go:espnplus9",
-      "opcion3": "Go:Dsportsmas",
-      "torneo": "La Liga 🇪🇸",
-      "equipo1": "Real Betis",
-      "equipo2": "Real Valladolid",
-      "fechaInicio": "2025-04-24T19:30Z",
-      "fecha": "24 de Abril"
-    },
-    {
-      "link": "go:laliga4",
-      "canal": "https://voodc.com/embed/85818a96a1899c84847a85989c8b9885847d.html",
-      "opcion1": "https://voodc.com/embed/85818a96a1899c84847a85989c8c9885847e.html",
-      "opcion2": "go:dsports",
-      "opcion3": "Go:Daznlaliga",
-      "torneo": "La Liga 🇪🇸",
-      "equipo1": "Atl. Madrid",
-      "equipo2": "Rayo Vallecano",
-      "fechaInicio": "2025-04-24T19:30Z",
-      "fecha": "24 de Abril"
-    }
-  ],
-  "Serie A": [
-    {
-      "link": "Go:seriea1",
-      "canal": "https://voodc.com/embed/85818a96a1899a86847a8597a48e988d88.html",
-      "opcion1": "Go:Dsports2",
-      "opcion2": "https://voodc.com/embed/85818a96a1899a86847a8597a48d988d87.html",
-      "opcion3": "Go:Dsports2",
-      "torneo": "Copa del Rey 🇮🇹",
-      "equipo1": "Bologna",
-      "equipo2": "Empoli",
-      "fechaInicio": "2025-04-24T19:00Z",
-      "fecha": "24 de Abril"
-    }
-  ],
-  "Sudamericana": [
-    {
-      "link": "Go:suda1",
-      "canal": "https://voodc.com/embed/85818a96a18a9b84847a85989e8898858780.html",
-      "opcion1": "Go:espn5",
-      "opcion2": "Go:espn5",
-      "opcion3": "Go:espn5",
-      "torneo": "Copa Sudamericana 🌎",
-      "equipo1": "Godoy Cruz",
-      "equipo2": "Grêmio",
-      "fechaInicio": "2025-04-24T22:00Z",
-      "fecha": "24 de Abril"
-    },
-    {
-      "link": "Go:suda2",
-      "canal": "https://voodc.com/embed/85818a96a18a9b84847a85989d909885877e.html",
-      "opcion1": "go:dsports",
-      "opcion2": "go:dsports",
-      "opcion3": "go:dsports",
-      "torneo": "Copa Sudamericana 🌎",
-      "equipo1": "Corinthians",
-      "equipo2": "Racing",
-      "fechaInicio": "2025-04-24T22:00Z",
-      "fecha": "24 de Abril"
-    },
-    {
-      "link": "Go:suda3",
-      "canal": "https://voodc.com/embed/85818a96a18b9a84847a85959f8f98858c7f.html",
-      "opcion1": "Go:espn5",
-      "opcion2": "Go:espn5",
-      "opcion3": "Go:espn5",
-      "torneo": "Copa Sudamericana 🌎",
-      "equipo1": "Dep. Iquique",
-      "equipo2": "Cienciano",
-      "fechaInicio": "2025-04-25T00:30Z",
-      "fecha": "25 de Abril"
-    },
-    {
-      "link": "Go:suda4",
-      "canal": "https://voodc.com/embed/85818a96a18b9a84847a85959f9098858c80.html",
-      "opcion1": "Go:Dsports",
-      "opcion2": "Go:Dsports",
-      "opcion3": "Go:Dsports",
-      "torneo": "Copa Sudamericana 🌎",
-      "equipo1": "Palestino",
-      "equipo2": "Cruzeiro",
-      "fechaInicio": "2025-04-25T00:30Z",
-      "fecha": "25 de Abril"
-    },
-    {
-      "link": "Go:suda5",
-      "canal": "https://voodc.com/embed/85818a96a18b9f88847a8595a38798868581.html",
+      "link": "Go:bundes1",
+      "canal": "Go:espn",
       "opcion1": "Go:espn",
-      "opcion2": "Go:espn3",
-      "opcion3": "Go:espn3",
-      "torneo": "Copa Sudamericana 🌎",
-      "equipo1": "U. Católica",
-      "equipo2": "Def. y Justicia",
-      "fechaInicio": "2025-04-25T02:00Z",
+      "opcion2": "Go:disney1op2",
+      "opcion3": "Go:espn",
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Stuttgart",
+      "equipo2": "Heidenheim",
+      "fechaInicio": "2025-04-25T18:30Z",
       "fecha": "25 de Abril"
     }
   ],
-  "Libertadores": [
+  "Ligue 1": [
     {
-      "link": "go:Lib1",
-      "canal": "https://voodc.com/embed/85818a96a18a9b84847a85989d8c9885877a.html",
-      "opcion1": "go:espn2",
-      "opcion2": "Go:foxsports2",
-      "opcion3": "go:espn2",
-      "torneo": "Copa Libertadores 🌎",
-      "equipo1": "Bolívar",
-      "equipo2": "Palmeiras",
-      "fechaInicio": "2025-04-24T22:00Z",
-      "fecha": "24 de Abril"
-    },
-    {
-      "link": "go:Lib2",
-      "canal": "https://voodc.com/embed/85818a96a18a9b84847a85989d8f9885877d.html",
-      "opcion1": "Go:espn7",
-      "opcion2": "Go:espn7",
-      "opcion3": "Go:espn7",
-      "torneo": "Copa Libertadores 🌎",
-      "equipo1": "Central Córdoba",
-      "equipo2": "Dep. Táchira",
-      "fechaInicio": "2025-04-24T22:00Z",
-      "fecha": "24 de Abril"
-    },
-    {
-      "link": "go:Lib3",
-      "canal": "https://voodc.com/embed/85818a96a18aa286847a85959e8b98858b7c.html",
-      "opcion1": "https://voodc.com/embed/85818a96a18aa286847a85959e8c98858b7d.html",
-      "opcion2": "go:espn2",
-      "opcion3": "Go:foxsports2",
-      "torneo": "Copa Libertadores 🌎",
-      "equipo1": "Bahia",
-      "equipo2": "Atl. Nacional",
-      "fechaInicio": "2025-04-25T00:00Z",
-      "fecha": "25 de Abril"
-    },
-    {
-      "link": "go:Lib4",
-      "canal": "https://voodc.com/embed/85818a96a18b9a84847a85959f8d98858c7d.html",
-      "opcion1": "https://voodc.com/embed/85818a96a18b9a84847a85959f8e98858c7e.html",
-      "opcion2": "Go:foxsports",
-      "opcion3": "go:espn2",
-      "torneo": "Copa Libertadores 🌎",
-      "equipo1": "Cerro Porteño",
-      "equipo2": "Sporting Cristal",
-      "fechaInicio": "2025-04-25T00:30Z",
+      "link": "Go:liguee1",
+      "canal": "Go:espn",
+      "opcion1": "Go:disney1op2",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:disney1op2",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "PSG",
+      "equipo2": "Nice",
+      "fechaInicio": "2025-04-25T18:45Z",
       "fecha": "25 de Abril"
     }
   ],
-  "Concacaf Champions Cup": [
+  "Liga Chilena": [
     {
-      "link": "go:Concacup1",
-      "canal": "https://voodc.com/embed/85818a96a18ba186847a8595a38f9886867d.html",
-      "opcion1": "https://voodc.com/embed/85818a96a18ba186847a8595a38e9886867c.html",
-      "opcion2": "go:espn2",
-      "opcion3": "Go:tudnusa",
-      "torneo": "CONCACAF Champions Cup 🌎",
-      "equipo1": "Vancouver",
-      "equipo2": "Inter Miami",
-      "fechaInicio": "2025-04-25T02:30Z",
+      "link": "Go:chile1",
+      "canal": "Go:max1op2",
+      "opcion1": "Go:TNTSports",
+      "opcion2": "Go:TNTSports",
+      "opcion3": "Go:TNTSports",
+      "torneo": "Liga Chilena 🇨🇱",
+      "equipo1": "Unión La Calera",
+      "equipo2": "Audax Italiano",
+      "fechaInicio": "2025-04-25T22:00Z",
+      "fecha": "25 de Abril"
+    },
+    {
+      "link": "Go:chile2",
+      "canal": "Go:max2op2",
+      "opcion1": "Go:TNTSports",
+      "opcion2": "Go:TNTSports",
+      "opcion3": "Go:TNTSports",
+      "torneo": "Liga Chilena 🇨🇱",
+      "equipo1": "Ñublense",
+      "equipo2": "La Serena",
+      "fechaInicio": "2025-04-25T22:00Z",
+      "fecha": "25 de Abril"
+    },
+    {
+      "link": "Go:chile3",
+      "canal": "Go:max3op2",
+      "opcion1": "Go:TNTSports",
+      "opcion2": "Go:TNTSports",
+      "opcion3": "Go:TNTSports",
+      "torneo": "Liga Chilena 🇨🇱",
+      "equipo1": "Universidad Católica",
+      "equipo2": "Everton",
+      "fechaInicio": "2025-04-26T00:30Z",
+      "fecha": "25 de Abril"
+    }
+  ],
+  "Liga Ecuatoriana": [
+    {
+      "link": "Go:ecu1",
+      "canal": "Go:goltv",
+      "opcion1": "Go:goltv",
+      "opcion2": "Go:goltv",
+      "opcion3": "Go:goltv",
+      "torneo": "Liga Ecuatoriana 🇪🇨",
+      "equipo1": "El Nacional",
+      "equipo2": "Delfín",
+      "fechaInicio": "2025-04-26T00:00Z",
       "fecha": "25 de Abril"
     }
   ]
