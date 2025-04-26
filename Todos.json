@@ -1,82 +1,359 @@
 {
-  "Bundesliga": [
-    {
-      "link": "Go:bundes1",
-      "canal": "https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8",
-      "opcion1": "https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8",
-      "opcion2": "https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8",
-      "opcion3": "https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8",
-      "torneo": "Bundesliga 🇩🇪",
-      "equipo1": "Stuttgart",
-      "equipo2": "Heidenheim",
-      "fechaInicio": "2025-04-25T18:30Z",
-      "fecha": "25 de Abril"
-    }
-  ],
-  "Ligue 1": [
-    {
-      "link": "Go:liguee1",
-      "canal": "Go:espn2",
-      "opcion1": "Go:espn2",
-      "opcion2": "Go:espn2",
-      "opcion3": "Go:espn2",
-      "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "PSG",
-      "equipo2": "Nice",
-      "fechaInicio": "2025-04-25T18:45Z",
-      "fecha": "25 de Abril"
-    }
-  ],
-  "Liga Chilena": [
-    {
-      "link": "Go:chile1",
-      "canal": "Go:max1",
-      "opcion1": "Go:TNTchile",
-      "opcion2": "Go:max1",
-      "opcion3": "Go:max1",
-      "torneo": "Liga Chilena 🇨🇱",
-      "equipo1": "Unión La Calera",
-      "equipo2": "Audax Italiano",
-      "fechaInicio": "2025-04-25T22:00Z",
-      "fecha": "25 de Abril"
-    },
-    {
-      "link": "Go:chile2",
-      "canal": "Go:max2",
-      "opcion1": "Go:TNTchile",
-      "opcion2": "Go:max2",
-      "opcion3": "Go:max2",
-      "torneo": "Liga Chilena 🇨🇱",
-      "equipo1": "Ñublense",
-      "equipo2": "La Serena",
-      "fechaInicio": "2025-04-25T22:00Z",
-      "fecha": "25 de Abril"
-    },
-    {
-      "link": "Go:chile3",
-      "canal": "Go:max3",
-      "opcion1": "Go:max3",
-      "opcion2": "Go:max3",
-      "opcion3": "Go:max3",
-      "torneo": "Liga Chilena 🇨🇱",
-      "equipo1": "Universidad Católica",
-      "equipo2": "Everton",
-      "fechaInicio": "2025-04-26T00:30Z",
-      "fecha": "25 de Abril"
-    }
-  ],
-  "Liga Ecuatoriana": [
-    {
-      "link": "Go:ecu1",
-      "canal": "go:ecdf",
-      "opcion1": "go:ecdf",
-      "opcion2": "go:ecdf",
-      "opcion3": "go:ecdf",
-      "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "El Nacional",
-      "equipo2": "Delfín",
-      "fechaInicio": "2025-04-26T00:00Z",
-      "fecha": "25 de Abril"
-    }
-  ]
+    "Ligue 1": [
+        {
+            "link": "go:liguee1",
+            "canal": "Go:disney1op2",
+            "opcion1": "Go:disney1op2",
+            "opcion2": "Go:disney1op2",
+            "opcion3": "Go:disney1op2",
+            "torneo": "Ligue 1",
+            "equipo1": "Strasbourg",
+            "equipo2": "Saint-Étienne",
+            "fechaInicio": "2025-04-26T15:00Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "go:liguee2",
+            "canal": "Go:espn",
+            "opcion1": "Go:espn",
+            "opcion2": "Go:espn",
+            "opcion3": "Go:espn",
+            "torneo": "Ligue 1",
+            "equipo1": "Le Havre",
+            "equipo2": "Monaco",
+            "fechaInicio": "2025-04-26T17:00Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "go:liguee3",
+            "canal": "Go:disney1op2",
+            "opcion1": "Go:disney1op2",
+            "opcion2": "Go:disney1op2",
+            "opcion3": "Go:disney1op2",
+            "torneo": "Ligue 1",
+            "equipo1": "Olympique Lyonnais",
+            "equipo2": "Rennes",
+            "fechaInicio": "2025-04-26T19:05Z",
+            "fecha": "26 de Abril"
+        }
+    ],
+    "Liga Argentina": [
+        {
+            "link": "Go:arg1",
+            "canal": "Go:TNTSports",
+            "opcion1": "Go:TNTSports",
+            "opcion2": "Go:TNTSports",
+            "opcion3": "Go:TNTSports",
+            "torneo": "Superliga Argentina",
+            "equipo1": "Aldosivi",
+            "equipo2": "Banfield",
+            "fechaInicio": "2025-04-26T18:00Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:arg2",
+            "canal": "Go:espn",
+            "opcion1": "Go:espn",
+            "opcion2": "Go:espn",
+            "opcion3": "Go:espn",
+            "torneo": "Superliga Argentina",
+            "equipo1": "San Lorenzo",
+            "equipo2": "Rosario Central",
+            "fechaInicio": "2025-04-26T20:00Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:arg3",
+            "canal": "Go:TNTSports",
+            "opcion1": "Go:TNTSports",
+            "opcion2": "Go:TNTSports",
+            "opcion3": "Go:TNTSports",
+            "torneo": "Superliga Argentina",
+            "equipo1": "Belgrano",
+            "equipo2": "Argentinos Juniors",
+            "fechaInicio": "2025-04-26T22:00Z",
+            "fecha": "26 de Abril"
+        }
+    ],
+    "FA Cup": [
+        {
+            "link": "Go:efl1",
+            "canal": "Go:espn",
+            "opcion1": "Go:espn",
+            "opcion2": "Go:espn",
+            "opcion3": "Go:espn",
+            "torneo": "FA Cup",
+            "equipo1": "Crystal Palace",
+            "equipo2": "Aston Villa",
+            "fechaInicio": "2025-04-26T16:15Z",
+            "fecha": "26 de Abril"
+        }
+    ],
+    "Copa del Rey": [
+        {
+            "link": "Go:rey1",
+            "canal": "Flow Eventos HD",
+            "opcion1": "Flow Eventos HD",
+            "opcion2": "Flow Eventos HD",
+            "opcion3": "Flow Eventos HD",
+            "torneo": "Copa del Rey",
+            "equipo1": "Barcelona",
+            "equipo2": "Real Madrid",
+            "fechaInicio": "2025-04-26T20:00Z",
+            "fecha": "26 de Abril"
+        }
+    ],
+    "Liga Peruana": [
+        {
+            "link": "Go:per1",
+            "canal": "Fanatiz International",
+            "opcion1": "Fanatiz International",
+            "opcion2": "Fanatiz International",
+            "opcion3": "Fanatiz International",
+            "torneo": "Primera División",
+            "equipo1": "Ayacucho",
+            "equipo2": "Alianza Atlético",
+            "fechaInicio": "2025-04-26T18:00Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:per2",
+            "canal": "Fanatiz International",
+            "opcion1": "Fanatiz International",
+            "opcion2": "Fanatiz International",
+            "opcion3": "Fanatiz International",
+            "torneo": "Primera División",
+            "equipo1": "Comerciantes Unidos",
+            "equipo2": "Alianza Lima",
+            "fechaInicio": "2025-04-26T20:30Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:per3",
+            "canal": "Fanatiz International",
+            "opcion1": "Fanatiz International",
+            "opcion2": "Fanatiz International",
+            "opcion3": "Fanatiz International",
+            "torneo": "Primera División",
+            "equipo1": "Deportivo Garcilaso",
+            "equipo2": "Binacional",
+            "fechaInicio": "2025-04-26T23:30Z",
+            "fecha": "26 de Abril"
+        }
+    ],
+    "Liga Uruguaya": [
+        {
+            "link": "Go:uru1",
+            "canal": "Go:disney1op2",
+            "opcion1": "Go:disney1op2",
+            "opcion2": "Go:disney1op2",
+            "opcion3": "Go:disney1op2",
+            "torneo": "Primera División",
+            "equipo1": "River Plate",
+            "equipo2": "Danubio",
+            "fechaInicio": "2025-04-26T18:00Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:uru2",
+            "canal": "Go:disney1op2",
+            "opcion1": "Go:disney1op2",
+            "opcion2": "Go:disney1op2",
+            "opcion3": "Go:disney1op2",
+            "torneo": "Primera División",
+            "equipo1": "Plaza Colonia",
+            "equipo2": "Juventud",
+            "fechaInicio": "2025-04-26T20:15Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:uru3",
+            "canal": "Go:disney1op2",
+            "opcion1": "Go:disney1op2",
+            "opcion2": "Go:disney1op2",
+            "opcion3": "Go:disney1op2",
+            "torneo": "Primera División",
+            "equipo1": "Nacional",
+            "equipo2": "Wanderers",
+            "fechaInicio": "2025-04-26T23:15Z",
+            "fecha": "26 de Abril"
+        }
+    ],
+    "Liga Brasileña": [
+        {
+            "link": "Go:bra1",
+            "canal": "Premiere",
+            "opcion1": "Premiere",
+            "opcion2": "Premiere",
+            "opcion3": "Premiere",
+            "torneo": "Brasileirão",
+            "equipo1": "Internacional",
+            "equipo2": "Juventude",
+            "fechaInicio": "2025-04-26T19:00Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:bra2",
+            "canal": "Premiere",
+            "opcion1": "Premiere",
+            "opcion2": "Premiere",
+            "opcion3": "Premiere",
+            "torneo": "Brasileirão",
+            "equipo1": "Mirassol",
+            "equipo2": "Atlético Mineiro",
+            "fechaInicio": "2025-04-26T21:30Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:bra3",
+            "canal": "Amazon Prime Video",
+            "opcion1": "Amazon Prime Video",
+            "opcion2": "Amazon Prime Video",
+            "opcion3": "Amazon Prime Video",
+            "torneo": "Brasileirão",
+            "equipo1": "Ceará",
+            "equipo2": "São Paulo",
+            "fechaInicio": "2025-04-26T21:30Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:bra4",
+            "canal": "Premiere",
+            "opcion1": "Premiere",
+            "opcion2": "Premiere",
+            "opcion3": "Premiere",
+            "torneo": "Brasileirão",
+            "equipo1": "Sport Recife",
+            "equipo2": "Fortaleza",
+            "fechaInicio": "2025-04-26T23:00Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:bra5",
+            "canal": "SporTV",
+            "opcion1": "SporTV",
+            "opcion2": "SporTV",
+            "opcion3": "SporTV",
+            "torneo": "Brasileirão",
+            "equipo1": "Botafogo",
+            "equipo2": "Fluminense",
+            "fechaInicio": "2025-04-27T00:00Z",
+            "fecha": "27 de Abril"
+        }
+    ],
+    "Liga Chilena": [
+        {
+            "link": "Go:chile1",
+            "canal": "Max Chile",
+            "opcion1": "Max Chile",
+            "opcion2": "Max Chile",
+            "opcion3": "Max Chile",
+            "torneo": "Primera División",
+            "equipo1": "Cobresal",
+            "equipo2": "Deportes Limache",
+            "fechaInicio": "2025-04-26T18:00Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:chile2",
+            "canal": "Max Chile",
+            "opcion1": "Max Chile",
+            "opcion2": "Max Chile",
+            "opcion3": "Max Chile",
+            "torneo": "Primera División",
+            "equipo1": "Colo-Colo",
+            "equipo2": "Coquimbo Unido",
+            "fechaInicio": "2025-04-26T20:00Z",
+            "fecha": "26 de Abril"
+        }
+    ],
+    "Liga Colombiana": [
+        {
+            "link": "Go:col1",
+            "canal": "Win Sports",
+            "opcion1": "Win Sports",
+            "opcion2": "Win Sports",
+            "opcion3": "Win Sports",
+            "torneo": "Primera A",
+            "equipo1": "Envigado",
+            "equipo2": "Unión Magdalena",
+            "fechaInicio": "2025-04-26T19:00Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:col2",
+            "canal": "Win Sports",
+            "opcion1": "Win Sports",
+            "opcion2": "Win Sports",
+            "opcion3": "Win Sports",
+            "torneo": "Primera A",
+            "equipo1": "Alianza Petrolera",
+            "equipo2": "Rionegro Águilas",
+            "fechaInicio": "2025-04-26T21:10Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:col3",
+            "canal": "Win Sports",
+            "opcion1": "Win Sports",
+            "opcion2": "Win Sports",
+            "opcion3": "Win Sports",
+            "torneo": "Primera A",
+            "equipo1": "Deportes Tolima",
+            "equipo2": "La Equidad",
+            "fechaInicio": "2025-04-26T23:20Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:col4",
+            "canal": "Win+ Futbol",
+            "opcion1": "Win+ Futbol",
+            "opcion2": "Win+ Futbol",
+            "opcion3": "Win+ Futbol",
+            "torneo": "Primera A",
+            "equipo1": "Deportivo Pereira",
+            "equipo2": "Junior",
+            "fechaInicio": "2025-04-27T01:30Z",
+            "fecha": "27 de Abril"
+        }
+    ],
+    "Liga Ecuatoriana": [
+        {
+            "link": "Go:ecu1",
+            "canal": "Ecuavisa Ecuador",
+            "opcion1": "Ecuavisa Ecuador",
+            "opcion2": "Ecuavisa Ecuador",
+            "opcion3": "Ecuavisa Ecuador",
+            "torneo": "Primera A",
+            "equipo1": "Cuniburo",
+            "equipo2": "Deportivo Cuenca",
+            "fechaInicio": "2025-04-26T19:00Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:ecu2",
+            "canal": "Canal del Futbol",
+            "opcion1": "Canal del Futbol",
+            "opcion2": "Canal del Futbol",
+            "opcion3": "Canal del Futbol",
+            "torneo": "Primera A",
+            "equipo1": "Manta",
+            "equipo2": "LDU Quito",
+            "fechaInicio": "2025-04-26T21:30Z",
+            "fecha": "26 de Abril"
+        },
+        {
+            "link": "Go:ecu3",
+            "canal": "Canal del Futbol",
+            "opcion1": "Canal del Futbol",
+            "opcion2": "Canal del Futbol",
+            "opcion3": "Canal del Futbol",
+            "torneo": "Primera A",
+            "equipo1": "Macará",
+            "equipo2": "Barcelona",
+            "fechaInicio": "2025-04-27T00:00Z",
+            "fecha": "27 de Abril"
+        }
+    ]
 }
+
