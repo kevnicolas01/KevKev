@@ -19,7 +19,7 @@
 "orden":4,
       "imagen": "https://i.imgur.com/jzUy84p.png",
       "link": "go:S6",
-      "status": "finalizado"
+      "status": "activo"
     },
     {
       "nombre": "Europa League",
@@ -68,7 +68,7 @@
 "orden":9,
       "imagen": "https://i.imgur.com/18EahkN.png",
       "link": "go:S11",
-      "status": "finalizado"
+      "status": "activo"
     }
   ]
 }
