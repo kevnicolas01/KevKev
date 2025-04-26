@@ -2,18 +2,6 @@
     "Ligue 1": [
         {
             "link": "go:liguee1",
-            "canal": "Go:disney1op2",
-            "opcion1": "Go:disney1op2",
-            "opcion2": "Go:disney1op2",
-            "opcion3": "Go:disney1op2",
-            "torneo": "Ligue 1",
-            "equipo1": "Strasbourg",
-            "equipo2": "Saint-Étienne",
-            "fechaInicio": "2025-04-26T15:00Z",
-            "fecha": "26 de Abril"
-        },
-        {
-            "link": "go:liguee2",
             "canal": "Go:espn",
             "opcion1": "Go:espn",
             "opcion2": "Go:espn",
@@ -25,7 +13,7 @@
             "fecha": "26 de Abril"
         },
         {
-            "link": "go:liguee3",
+            "link": "go:liguee2",
             "canal": "Go:disney1op2",
             "opcion1": "Go:disney1op2",
             "opcion2": "Go:disney1op2",
