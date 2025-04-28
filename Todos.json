@@ -1,570 +1,183 @@
 {
-    "Liga Argentina": [
-        {
-            "link": "Go:arg1",
-            "canal": "Go:TNTSports",
-            "opcion1": "go:espnprem",
-            "opcion2": "https://voodc.com/embed/85818a96a38ea18a847a8599a487988d877b.html",
-            "opcion3": "https://tucanaldeportivo.org/espnpremium.php",
-            "torneo": "Liga Argentina",
-            "equipo1": "River Plate",
-            "equipo2": "Boca Juniors",
-            "fechaInicio": "2025-04-27T18:30Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:arg2",
-            "canal": "Go:espnprem",
-            "opcion1": "Go:espnprem",
-            "opcion2": "Go:espnprem",
-            "opcion3": "Go:espnprem",
-            "torneo": "Liga Argentina",
-            "equipo1": "Instituto",
-            "equipo2": "Sarmiento",
-            "fechaInicio": "2025-04-27T22:00Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:arg3",
-            "canal": "Go:TNTSports",
-            "opcion1": "Go:TNTSports",
-            "opcion2": "Go:TNTSports",
-            "opcion3": "Go:TNTSports",
-            "torneo": "Liga Argentina",
-            "equipo1": "Lanús",
-            "equipo2": "San Martín San Juan",
-            "fechaInicio": "2025-04-27T22:00Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:arg4",
-            "canal": "Go:espnprem",
-            "opcion1": "Go:espnprem",
-            "opcion2": "Go:espnprem",
-            "opcion3": "Go:espnprem",
-            "torneo": "Liga Argentina",
-            "equipo1": "Independiente",
-            "equipo2": "Deportivo Riestra",
-            "fechaInicio": "2025-04-28T00:15Z",
-            "fecha": "27 de abril"
-        }
-    ],
-    "Liga Brasileña": [
-        {
-            "link": "Go:bra1",
-            "canal": "go:premiere1",
-            "opcion1": "go:premiere1",
-            "opcion2": "go:premiere1",
-            "opcion3": "go:premiere1",
-            "torneo": "Liga Brasileña",
-            "equipo1": "Flamengo",
-            "equipo2": "Corinthians",
-            "fechaInicio": "2025-04-27T19:00Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:bra2",
-            "canal": "https://dpstream2.my/global2.html?channel=premiere3",
-            "opcion1": "https://dpstream2.my/global2.html?channel=premiere3",
-            "opcion2": "https://dpstream2.my/global2.html?channel=premiere3",
-            "opcion3": "https://dpstream2.my/global2.html?channel=premiere3",
-            "torneo": "Liga Brasileña",
-            "equipo1": "Palmeiras",
-            "equipo2": "Bahia",
-            "fechaInicio": "2025-04-27T21:30Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:bra3",
-            "canal": "https://dpstream2.my/global2.html?channel=premiere1",
-            "opcion1": "https://dpstream2.my/global2.html?channel=premiere1",
-            "opcion2": "https://dpstream2.my/global2.html?channel=premiere1",
-            "opcion3": "https://dpstream2.my/global2.html?channel=premiere1",
-            "torneo": "Liga Brasileña",
-            "equipo1": "Cruzeiro",
-            "equipo2": "Vasco da Gama",
-            "fechaInicio": "2025-04-27T21:30Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:bra4",
-            "canal": "https://dpstream2.my/global2.html?channel=premiere6",
-            "opcion1": "https://dpstream2.my/pp.html?id=SPORTVBR",
-            "opcion2": "https://dpstream2.my/global2.html?channel=premiere5",
-            "opcion3": "https://dpstream2.my/global2.html?channel=sportv",
-            "torneo": "Liga Brasileña",
-            "equipo1": "Vitória",
-            "equipo2": "Grêmio",
-            "fechaInicio": "2025-04-27T21:30Z",
-            "fecha": "27 de abril"
-        }
-    ],
-    "Liga Chilena": [
-        {
-            "link": "Go:chile1",
-            "canal": "Go:max1",
-            "opcion1": "Go:max1",
-            "opcion2": "Go:max1",
-            "opcion3": "Go:max1",
-            "torneo": "Liga Chilena",
-            "equipo1": "O'Higgins",
-            "equipo2": "Deportes Iquique",
-            "fechaInicio": "2025-04-27T16:30Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:chile2",
-            "canal": "go;max2",
-            "opcion1": "go;max2",
-            "opcion2": "go;max2",
-            "opcion3": "go;max2",
-            "torneo": "Liga Chilena",
-            "equipo1": "Palestino",
-            "equipo2": "U. Chile",
-            "fechaInicio": "2025-04-27T19:00Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:chile3",
-            "canal": "Go:go;max3",
-            "opcion1": "go;max3",
-            "opcion2": "Go:tntchile",
-            "opcion3": "go;max3",
-            "torneo": "Liga Chilena",
-            "equipo1": "Huachipato",
-            "equipo2": "Unión Española",
-            "fechaInicio": "2025-04-27T21:30Z",
-            "fecha": "27 de abril"
-        }
-    ],
-    "Liga Colombiana": [
-        {
-            "link": "Go:col1",
-            "canal": "Go:winplus",
-            "opcion1": "Go:winpluson",
-            "opcion2": "Go:winplus2",
-            "opcion3": "Go:winplus",
-            "torneo": "Liga Colombiana",
-            "equipo1": "Santa Fe",
-            "equipo2": "Boyacá Chicó",
-            "fechaInicio": "2025-04-27T19:00Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:col2",
-            "canal": "Go:winplus",
-            "opcion1": "Go:winpluson",
-            "opcion2": "Go:winplus2",
-            "opcion3": "Go:winplus",
-            "torneo": "Liga Colombiana",
-            "equipo1": "Fortaleza CEIF",
-            "equipo2": "Medellín",
-            "fechaInicio": "2025-04-27T21:10Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:col3",
-            "canal": "Go:winplus",
-            "opcion1": "Go:winpluson",
-            "opcion2": "Go:winplus2",
-            "opcion3": "Go:winplus",
-            "torneo": "Liga Colombiana",
-            "equipo1": "América de Cali",
-            "equipo2": "Deportivo Cali",
-            "fechaInicio": "2025-04-28T01:20Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:col4",
-            "canal": "Go:winplus",
-            "opcion1": "Go:winpluson",
-            "opcion2": "Go:winplus2",
-            "opcion3": "Go:winplus",
-            "torneo": "Liga Colombiana",
-            "equipo1": "Atlético Bucaramanga",
-            "equipo2": "Millonarios",
-            "fechaInicio": "2025-04-28T03:30Z",
-            "fecha": "27 de abril"
-        }
-    ],
-    "Liga Ecuatoriana": [
-        {
-            "link": "Go:ecu1",
-            "canal": "go:ecdf",
-            "opcion1": "go:ecdf",
-            "opcion2": "go:ecdf",
-            "opcion3": "go:ecdf",
-            "torneo": "Liga Ecuatoriana",
-            "equipo1": "Aucas",
-            "equipo2": "Mushuc Runa",
-            "fechaInicio": "2025-04-27T18:00Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:ecu2",
-            "canal": "go:ecdf",
-            "opcion1": "go:ecdf",
-            "opcion2": "go:ecdf",
-            "opcion3": "go:ecdf",
-            "torneo": "Liga Ecuatoriana",
-            "equipo1": "Orense",
-            "equipo2": "Independiente del Valle",
-            "fechaInicio": "2025-04-27T20:30Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:ecu3",
-            "canal": "go:ecdf",
-            "opcion1": "go:ecdf",
-            "opcion2": "go:ecdf",
-            "opcion3": "go:ecdf",
-            "torneo": "Liga Ecuatoriana",
-            "equipo1": "Emelec",
-            "equipo2": "Técnico Universitario",
-            "fechaInicio": "2025-04-27T23:00Z",
-            "fecha": "27 de abril"
-        }
-    ],
-    "Liga Peruana": [
-        {
-            "link": "Go:per1",
-            "canal": "Go:liga1max",
-            "opcion1": "Go:liga1max",
-            "opcion2": "Go:liga1play",
-            "opcion3": "Go:liga1max",
-            "torneo": "Liga Peruana",
-            "equipo1": "Los Chankas",
-            "equipo2": "Melgar",
-            "fechaInicio": "2025-04-27T18:15Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:per2",
-            "canal": "Go:liga1max",
-            "opcion1": "Go:liga1max",
-            "opcion2": "Go:liga1max",
-            "opcion3": "Go:liga1max",
-            "torneo": "Liga Peruana",
-            "equipo1": "Atlético Grau",
-            "equipo2": "Sport Boys",
-            "fechaInicio": "2025-04-27T20:30Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:per3",
-            "canal": "Go:golperu",
-            "opcion1": "Go:golperu",
-            "opcion2": "Go:liga1max",
-            "opcion3": "Go:golperu",
-            "torneo": "Liga Peruana",
-            "equipo1": "Universitario",
-            "equipo2": "UTC Cajamarca",
-            "fechaInicio": "2025-04-28T01:00Z",
-            "fecha": "27 de abril"
-        }
-    ],
-    "Liga Uruguaya": [
-        {
-            "link": "Go:uru1",
-            "canal": "Go:vtvplus",
-            "opcion1": "Go:vtvplus",
-            "opcion2": "Go:vtvplus",
-            "opcion3": "Go:vtvplus",
-            "torneo": "Liga Uruguaya",
-            "equipo1": "Torque",
-            "equipo2": "Defensor Sporting",
-            "fechaInicio": "2025-04-27T13:45Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:uru2",
-            "canal": "Go:vtvplus",
-            "opcion1": "Go:vtvplus",
-            "opcion2": "Go:vtvplus",
-            "opcion3": "Go:vtvplus",
-            "torneo": "Liga Uruguaya",
-            "equipo1": "Boston River",
-            "equipo2": "Miramar Misiones",
-            "fechaInicio": "2025-04-27T16:00Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:uru3",
-             "canal": "Go:vtvplus",
-            "opcion1": "Go:vtvplus",
-            "opcion2": "Go:vtvplus",
-            "opcion3": "Go:vtvplus",
-            "torneo": "Liga Uruguaya",
-            "equipo1": "Progreso",
-            "equipo2": "Liverpool",
-            "fechaInicio": "2025-04-27T18:15Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:uru4",
-             "canal": "Go:vtvplus",
-            "opcion1": "Go:vtvplus",
-            "opcion2": "Go:vtvplus",
-            "opcion3": "Go:vtvplus",
-            "torneo": "Liga Uruguaya",
-            "equipo1": "Peñarol",
-            "equipo2": "Cerro",
-            "fechaInicio": "2025-04-27T21:15Z",
-            "fecha": "27 de abril"
-        }
-    ],
-    "Liga Mexicana": [
-        {
-            "link": "Go:mex1",
-            "canal": "Go:foxsports2",
-            "opcion1": "Go:foxsports2",
-            "opcion2": "Go:foxdeporte",
-            "opcion3": "Go:azteca7",
-            "torneo": "Liga Mexicana",
-            "equipo1": "Juárez",
-            "equipo2": "Pumas UNAM",
-            "fechaInicio": "2025-04-27T23:00Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:mex2",
-            "canal": "Go:TUDNusa",
-            "opcion1": "Go:TUDNusa",
-            "opcion2": "Go:TUDNusa",
-            "opcion3": "Go:TUDNusa",
-            "torneo": "Liga Mexicana",
-            "equipo1": "Monterrey",
-            "equipo2": "Pachuca",
-            "fechaInicio": "2025-04-28T01:30Z",
-            "fecha": "27 de abril"
-        }
-    ],
-    "Premier League": [
-        {
-            "link": "Go:prem1",
-            "canal": "Go:espn4",
-            "opcion1": "Go:espn4",
-            "opcion2": "Go:espn4",
-            "opcion3": "Go:espn4",
-            "torneo": "Premier League",
-            "equipo1": "AFC Bournemouth",
-            "equipo2": "Manchester United",
-            "fechaInicio": "2025-04-27T13:00Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:prem2",
-            "canal": "https://streamtp4.com/global1.php?stream=peacock1",
-            "opcion1": "https://streamtp4.com/global1.php?stream=max1",
-            "opcion2": "https://streamtp4.com/global1.php?stream=peacock1",
-            "opcion3": "https://streamtp4.com/global1.php?stream=max1",
-            "torneo": "Premier League",
-            "equipo1": "Liverpool",
-            "equipo2": "Tottenham Hotspur",
-            "fechaInicio": "2025-04-27T15:30Z",
-            "fecha": "27 de abril"
-        }
-    ],
-    "La Liga": [
-        {
-            "link": "go:laliga1",
-            "canal": "go:espndeport",
-            "opcion1": "go:espndeport",
-            "opcion2": "Go:espn4",
-            "opcion3": "Go:espn4",
-            "torneo": "La Liga 🇪🇸",
-            "equipo1": "Villarreal",
-            "equipo2": "Espanyol",
-            "fechaInicio": "2025-04-27T14:15Z",
-            "fecha": "27 de abril"
-        }
-    ],
-    "Serie A": [
-        {
-            "link": "Go:serieA1",
-            "canal": "https://la12hd.com/vivo/canales.php?stream=disney1",
-            "opcion1": "https://la12hd.com/vivo/canales.php?stream=disney1",
-            "opcion2": "https://la12hd.com/vivo/canales.php?stream=disney1",
-            "opcion3": "https://la12hd.com/vivo/canales.php?stream=disney1",
-            "torneo": "Serie A",
-            "equipo1": "Como",
-            "equipo2": "Genoa",
-            "fechaInicio": "2025-04-27T10:30Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:serieA2",
-            "canal": "Go:espn3",
-            "opcion1": "Go:espn3",
-            "opcion2": "Go:espn3",
-            "opcion3": "Go:espn3",
-            "torneo": "Serie A",
-            "equipo1": "Venezia",
-            "equipo2": "Milan",
-            "fechaInicio": "2025-04-27T10:30Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:serieA3",
-            "canal": "https://la12hd.com/vivo/canales.php?stream=sporttv3",
-            "opcion1": "https://la12hd.com/vivo/canales.php?stream=disney5",
-            "opcion2": "https://la12hd.com/vivo/canales.php?stream=disney5",
-            "opcion3": "https://la12hd.com/vivo/canales.php?stream=sporttv3",
-            "torneo": "Serie A",
-            "equipo1": "Fiorentina",
-            "equipo2": "Empoli",
-            "fechaInicio": "2025-04-27T13:00Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:serieA4",
-            "canal": "Go:espn",
-            "opcion1": "Go:espn",
-            "opcion2": "Go:espn2",
-            "opcion3": "Go:espn",
-            "torneo": "Serie A",
-            "equipo1": "Internazionale",
-            "equipo2": "Roma",
-            "fechaInicio": "2025-04-27T13:00Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:serieA5",
-            "canal": "Go:disney20",
-            "opcion1": "Go:disney20",
-            "opcion2": "Go:disney20",
-            "opcion3": "Go:disney20",
-            "torneo": "Serie A",
-            "equipo1": "Juventus",
-            "equipo2": "Monza",
-            "fechaInicio": "2025-04-27T16:00Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:serieA6",
-            "canal": "Go:disney8",
-            "opcion1": "Go:disney8",
-            "opcion2": "Go:disney8",
-            "opcion3": "Go:disney8",
-            "torneo": "Serie A",
-            "equipo1": "Atalanta",
-            "equipo2": "Lecce",
-            "fechaInicio": "2025-04-27T18:45Z",
-            "fecha": "27 de abril"
-        },
-        {
-             "link": "Go:serieA7",
-            "canal": "Go:disney9",
-            "opcion1": "Go:disney9",
-            "opcion2": "Go:disney9",
-            "opcion3": "Go:disney9",
-            "torneo": "Serie A",
-            "equipo1": "Napoli",
-            "equipo2": "Torino",
-            "fechaInicio": "2025-04-27T18:45Z",
-            "fecha": "27 de abril"
-        }
-    ],
-    "Bundesliga": [
-        {
-            "link": "Go:bundes1",
-            "canal": "https://la12hd.com/vivo/canales.php?stream=disney9",
-            "opcion1": "https://la12hd.com/vivo/canales.php?stream=disney9",
-            "opcion2": "https://la12hd.com/vivo/canales.php?stream=disney9",
-            "opcion3": "https://la12hd.com/vivo/canales.php?stream=disney9",
-            "torneo": "Bundesliga",
-            "equipo1": "Bochum",
-            "equipo2": "Union Berlin",
-            "fechaInicio": "2025-04-27T13:30Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:bundes2",
-            "canal": "Go:disney1op2",
-            "opcion1": "Go:disney1op2",
-            "opcion2": "Go:espnprem",
-            "opcion3": "Go:zapping",
-            "torneo": "Bundesliga",
-            "equipo1": "Werder Bremen",
-            "equipo2": "St. Pauli",
-            "fechaInicio": "2025-04-27T15:30Z",
-            "fecha": "27 de abril"
-        }
-    ],
-    "Ligue 1": [
-        {
-            "link": "Go:liguee1",
-            "canal": "https://la12hd.com/vivo/canales.php?stream=beinsportes",
-            "opcion1": "https://la12hd.com/vivo/canales.php?stream=beinsportes",
-            "opcion2": "https://la12hd.com/vivo/canales.php?stream=beinsportes",
-            "opcion3": "https://la12hd.com/vivo/canales.php?stream=beinsportes",
-            "torneo": "Ligue 1",
-            "equipo1": "Angers SCO",
-            "equipo2": "Lille",
-            "fechaInicio": "2025-04-27T13:00Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:ligue2",
-            "canal": "https://la12hd.com/vivo/canales.php?stream=disney16",
-            "opcion1": "https://la12hd.com/vivo/canales.php?stream=disney16",
-            "opcion2": "https://la12hd.com/vivo/canales.php?stream=disney16",
-            "opcion3": "https://la12hd.com/vivo/canales.php?stream=disney16",
-            "torneo": "Ligue 1",
-            "equipo1": "Nantes","equipo2": "Toulouse",
-            "fechaInicio": "2025-04-27T15:15Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:ligue3",
-            "canal": "https://la12hd.com/vivo/canales.php?stream=disney15",
-            "opcion1": "https://la12hd.com/vivo/canales.php?stream=disney15",
-             "opcion2": "https://la12hd.com/vivo/canales.php?stream=disney15",
-            "opcion3": "https://la12hd.com/vivo/canales.php?stream=disney15",
-            "torneo": "Ligue 1",
-            "equipo1": "Montpellier",
-            "equipo2": "Reims",
-            "fechaInicio": "2025-04-27T15:15Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:ligue4",
-            "canal": "https://la12hd.com/vivo/canales.php?stream=disney14",
-            "opcion1": "https://la12hd.com/vivo/canales.php?stream=disney14",
-            "opcion2": "https://la12hd.com/vivo/canales.php?stream=disney14",
-            "opcion3": "https://la12hd.com/vivo/canales.php?stream=disney14",
-            "torneo": "Ligue 1",
-            "equipo1": "Lens",
-            "equipo2": "Auxerre",
-            "fechaInicio": "2025-04-27T15:15Z",
-            "fecha": "27 de abril"
-        },
-        {
-            "link": "Go:ligue5",
-            "canal": "https://la12hd.com/vivo/canales.php?stream=disney10",
-            "opcion1": "https://la12hd.com/vivo/canales.php?stream=beinsportes",
-            "opcion2": "https://la12hd.com/vivo/canales.php?stream=disney10",
-            "opcion3": "https://la12hd.com/vivo/canales.php?stream=beinsportes",
-            "torneo": "Ligue 1",
-            "equipo1": "Olympique Marseille",
-            "equipo2": "Brest",
-            "fechaInicio": "2025-04-27T18:45Z",
-            "fecha": "27 de abril"
-        }
-    ],
-      "FA Cup": [
-        {
-            "link": "Go:facup1",
-            "canal": "Go:espn3",
-            "opcion1": "Go:espn3",
-            "opcion2": "Go:espn3",
-            "opcion3": "Go:espn3",
-            "torneo": "FA Cup",
-            "equipo1": "Nottingham Forest",
-            "equipo2": "Manchester City",
-            "fechaInicio": "2025-04-27T15:30Z",
-            "fecha": "27 de abril"
-        }
-    ]
+  "Liga Argentina": [
+    {
+      "link": "Go:arg1",
+      "canal": "Go:espnprem",
+      "opcion1": "Go:disney1op2",
+      "opcion2": "Go:tycsports",
+      "opcion3": "Go:tycop2",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Barracas Central",
+      "equipo2": "Unión Santa Fe",
+      "fechaInicio": "2025-04-28T18:00Z",
+      "fecha": "28 de Abril"
+    },
+    {
+      "link": "Go:arg2",
+      "canal": "Go:TNTSports",
+      "opcion1": "Go:max1op2",
+      "opcion2": "Go:tycsports",
+      "opcion3": "Go:disney1op2",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Godoy Cruz",
+      "equipo2": "Atlético Tucumán",
+      "fechaInicio": "2025-04-28T20:15Z",
+      "fecha": "28 de Abril"
+    },
+    {
+      "link": "Go:arg3",
+      "canal": "Go:TNTSports",
+      "opcion1": "Go:max2op2",
+      "opcion2": "Go:tycsports",
+      "opcion3": "Go:tycop2",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Defensa y Justicia",
+      "equipo2": "Racing Club",
+      "fechaInicio": "2025-04-28T22:30Z",
+      "fecha": "28 de Abril"
+    },
+    {
+      "link": "Go:arg4",
+      "canal": "Go:espnprem",
+      "opcion1": "Go:disney2op2",
+      "opcion2": "Go:tycsports",
+      "opcion3": "Go:espn",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Estudiantes",
+      "equipo2": "Tigre",
+      "fechaInicio": "2025-04-28T22:30Z",
+      "fecha": "28 de Abril"
+    },
+    {
+      "link": "Go:arg5",
+      "canal": "Go:TNTSports",
+      "opcion1": "Go:max3op2",
+      "opcion2": "Go:tycsports",
+      "opcion3": "Go:tycop2",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Vélez Sarsfield",
+      "equipo2": "Gimnasia La Plata",
+      "fechaInicio": "2025-04-29T00:45Z",
+      "fecha": "28 de Abril"
+    },
+    {
+      "link": "Go:arg6",
+      "canal": "Go:espnprem",
+      "opcion1": "Go:disney3op2",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:tycsports",
+      "torneo": "Liga Argentina 🇦🇷",
+      "equipo1": "Central Córdoba SdE",
+      "equipo2": "Independiente Rivadavia",
+      "fechaInicio": "2025-04-29T00:45Z",
+      "fecha": "28 de Abril"
+    }
+  ],
+  "Premier League": [],
+  "Serie A": [
+    {
+      "link": "Go:serieA1",
+      "canal": "Go:espn",
+      "opcion1": "Go:disney4op2",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Udinese",
+      "equipo2": "Bologna",
+      "fechaInicio": "2025-04-28T16:30Z",
+      "fecha": "28 de Abril"
+    },
+    {
+      "link": "Go:serieA2",
+      "canal": "Go:disney5op2",
+      "opcion1": "Go:disney6op2",
+      "opcion2": "Go:disney7op2",
+      "opcion3": "Go:disney8op2",
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Hellas Verona",
+      "equipo2": "Cagliari",
+      "fechaInicio": "2025-04-28T18:45Z",
+      "fecha": "28 de Abril"
+    },
+    {
+      "link": "Go:serieA3",
+      "canal": "Go:espn",
+      "opcion1": "Go:disney9op2",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Lazio",
+      "equipo2": "Parma",
+      "fechaInicio": "2025-04-28T18:45Z",
+      "fecha": "28 de Abril"
+    }
+  ],
+  "Ligue 1": [],
+  "Bundesliga": [],
+  "Liga Ecuatoriana": [
+    {
+      "link": "Go:ecu1",
+      "canal": "Go:ECDF",
+      "opcion1": "Go:ECDF",
+      "opcion2": "Go:ECDF",
+      "opcion3": "Go:ECDF",
+      "torneo": "Liga Ecuatoriana 🇪🇨",
+      "equipo1": "Libertad",
+      "equipo2": "Universidad Católica",
+      "fechaInicio": "2025-04-29T00:00Z",
+      "fecha": "28 de Abril"
+    }
+  ],
+  "Liga Peruana": [
+    {
+      "link": "Go:per1",
+      "canal": "Go:golperu",
+      "opcion1": "Go:golperu",
+      "opcion2": "Go:golperu",
+      "opcion3": "Go:golperu",
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "Sporting Cristal",
+      "equipo2": "Juan Pablo II College",
+      "fechaInicio": "2025-04-28T18:00Z",
+      "fecha": "28 de Abril"
+    },
+    {
+      "link": "Go:per2",
+      "canal": "Go:golperu",
+      "opcion1": "Go:golperu",
+      "opcion2": "Go:golperu",
+      "opcion3": "Go:golperu",
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "ADT",
+      "equipo2": "Cusco",
+      "fechaInicio": "2025-04-28T20:30Z",
+      "fecha": "28 de Abril"
+    },
+    {
+      "link": "Go:per3",
+      "canal": "Go:golperu",
+      "opcion1": "Go:golperu",
+      "opcion2": "Go:golperu",
+      "opcion3": "Go:golperu",
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "Cienciano",
+      "equipo2": "Sport Huancayo",
+      "fechaInicio": "2025-04-29T00:00Z",
+      "fecha": "28 de Abril"
+    }
+  ],
+  "Liga Uruguaya": [
+    {
+      "link": "Go:uru1",
+      "canal": "Go:Vtvplus",
+      "opcion1": "Go:disney10o2",
+      "opcion2": "Go:goltv",
+      "opcion3": "Go:Vtvplus",
+      "torneo": "Liga Uruguaya 🇺🇾",
+      "equipo1": "Racing",
+      "equipo2": "Cerro Largo",
+      "fechaInicio": "2025-04-28T18:00Z",
+      "fecha": "28 de Abril"
+    }
+  ]
 }
-
