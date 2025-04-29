@@ -21,19 +21,19 @@
         "nombre": "Concacaf Champions Cup",
         "imagen": "https://i.imgur.com/rfRIx57.png",
         "enlace": "go:ConcaCup",
-        "data-status": "activo"
+        "data-status": "finalizado"
     },
     {
         "nombre": "MLS",
         "imagen": "https://i.imgur.com/JlUPuP1.png",
         "enlace": "go:mls",
-        "data-status": "activo"
+        "data-status": "finalizado"
     },
     {
         "nombre": "Copa Argentina",
         "imagen": "https://i.imgur.com/J0koTxL.png",
         "enlace": "go:copaarg",
-        "data-status": "activo"
+        "data-status": "finalizado"
     },
     {
         "nombre": "CONCACAF Nations League",
@@ -45,6 +45,6 @@
         "nombre": "FA Cup",
         "imagen": "https://i.imgur.com/18EA5YP.png",
         "enlace": "go:FaCup",
-        "data-status": "activo"
+        "data-status": "finalizado"
     }
 ]
