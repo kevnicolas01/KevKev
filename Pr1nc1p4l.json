@@ -1,19 +1,19 @@
 [
     {
         "nombre": "Copas y Torneos",
-        "imagen": "https://i.imgur.com/EoRTaGh.png",
+        "imagen": "https://i.imgur.com/XKxz2LY.png",
         "enlace": "go:s1",
         "data-status": "activo"
     },
     {
         "nombre": "Ligas Europeas",
-        "imagen": "https://i.imgur.com/YiWtDR0.png",
+        "imagen": "https://i.imgur.com/z5dcHoj.png",
         "enlace": "go:s2",
         "data-status": "activo"
     },
     {
         "nombre": "Ligas Latinoamericanas",
-        "imagen": "https://i.imgur.com/D1sD2Ig.png",
+        "imagen": "https://i.imgur.com/J1X6VNW.png",
         "enlace": "go:s3",
         "data-status": "activo"
     },
