@@ -1,54 +1,44 @@
 {
+  "Champions League": [
+    {
+      "link": "go:cham2",
+      "canal": "Go:espn",
+      "opcion1": "Go:disney1op2",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:disney2op2",
+      "torneo": "Champions League 🏆",
+      "equipo1": "Barcelona",
+      "equipo2": "Inter",
+      "fechaInicio": "2025-04-30T19:00Z",
+      "fecha": "30 de abril"
+    }
+  ],
+  "Concacaf Champions Cup": [
+    {
+      "link": "Go:concacup1",
+      "canal": "Go:espn",
+      "opcion1": "Go:disney3op2",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:disney4op2",
+      "torneo": "MLS",
+      "equipo1": "Inter Miami",
+      "equipo2": "Vancouver Whitecaps",
+      "fechaInicio": "2025-05-01T00:00Z",
+      "fecha": "30 de abril"
+    }
+  ],
   "Liga Argentina": [
     {
       "link": "Go:arg1",
       "canal": "Go:TNTSports",
-      "opcion1": "Go:TNTSports",
+      "opcion1": "Go:tycsports",
       "opcion2": "Go:TNTSports",
-      "opcion3": "Go:TNTSports",
+      "opcion3": "Go:tycop2",
       "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Argentinos Juniors",
-      "equipo2": "Barracas Central",
-      "fechaInicio": "2025-04-29T22:00Z",
-      "fecha": "29 de abril"
-    },
-    {
-      "link": "Go:arg2",
-      "canal": "Go:Espnprem",
-      "opcion1": "Go:Espnprem",
-      "opcion2": "Go:Espnprem",
-      "opcion3": "Go:Espnprem",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Newell's Old Boys",
-      "equipo2": "Huracán",
-      "fechaInicio": "2025-04-29T22:00Z",
-      "fecha": "29 de abril"
-    },
-    {
-      "link": "Go:arg3",
-      "canal": "Go:TNTSports",
-      "opcion1": "Go:TNTSports",
-      "opcion2": "Go:TNTSports",
-      "opcion3": "Go:TNTSports",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Platense",
-      "equipo2": "Talleres Córdoba",
-      "fechaInicio": "2025-04-29T22:00Z",
-      "fecha": "29 de abril"
-    }
-  ],
-  "Champions League": [
-    {
-      "link": "go:cham1",
-      "canal": "Go:espn",
-      "opcion1": "https://verfutboltv.net/p14y/vood/vod01.php",
-      "opcion2": "go:hd6",
-      "opcion3": "Go:foxsports",
-      "torneo": "Champions League 🏆",
-      "equipo1": "Arsenal",
-      "equipo2": "PSG",
-      "fechaInicio": "2025-04-29T19:00Z",
-      "fecha": "29 de abril"
+      "equipo1": "Atl. Tucumán",
+      "equipo2": "Independiente",
+      "fechaInicio": "2025-05-01T00:00Z",
+      "fecha": "30 de abril"
     }
   ],
   "Liga Colombiana": [
@@ -59,10 +49,22 @@
       "opcion2": "Go:winplus",
       "opcion3": "Go:winplus",
       "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Atlético Nacional",
-      "equipo2": "Deportivo Pasto",
-      "fechaInicio": "2025-04-30T00:30Z",
-      "fecha": "29 de abril"
+      "equipo1": "Rionegro Águilas",
+      "equipo2": "América de Cali",
+      "fechaInicio": "2025-04-30T23:00Z",
+      "fecha": "30 de abril"
+    },
+    {
+      "link": "Go:col2",
+      "canal": "Go:winplus",
+      "opcion1": "Go:winplus",
+      "opcion2": "Go:winplus",
+      "opcion3": "Go:winplus",
+      "torneo": "Liga Colombiana 🇨🇴",
+      "equipo1": "Llaneros",
+      "equipo2": "Santa Fe",
+      "fechaInicio": "2025-05-01T01:10Z",
+      "fecha": "30 de abril"
     }
   ]
 }
