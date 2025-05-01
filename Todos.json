@@ -1,44 +1,82 @@
 {
-  "Champions League": [
+  "Europa League": [
     {
-      "link": "go:cham1",
+      "link": "Go:europa1",
       "canal": "Go:espn",
-      "opcion1": "go:foxsports",
-      "opcion2": "https://verfutboltv.net/p14y/vood/vod02.php",
-      "opcion3": "go:foxsports",
-      "torneo": "Champions League 🏆",
-      "equipo1": "Barcelona",
-      "equipo2": "Inter",
-      "fechaInicio": "2025-04-30T19:00Z",
-      "fecha": "30 de abril"
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "UEFA Europa League 🏆",
+      "equipo1": "Tottenham",
+      "equipo2": "Bodø / Glimt",
+      "fechaInicio": "2025-05-01T19:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "link": "Go:europa2",
+      "canal": "Go:espn",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:espn",
+      "opcion3": "Go:espn",
+      "torneo": "UEFA Europa League 🏆",
+      "equipo1": "Athletic Club",
+      "equipo2": "Manchester United",
+      "fechaInicio": "2025-05-01T19:00Z",
+      "fecha": "1 de Mayo"
+    }
+  ],
+  "Premier League": [
+    {
+      "link": "Go:prem1",
+      "canal": "Go:disney1op2",
+      "opcion1": "Go:espn",
+      "opcion2": "Go:disney1op2",
+      "opcion3": "Go:espn",
+      "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Nottingham Forest",
+      "equipo2": "Brentford",
+      "fechaInicio": "2025-05-01T18:30Z",
+      "fecha": "1 de Mayo"
+    }
+  ],
+  "Conference League": [
+    {
+      "link": "Go:conf1",
+      "canal": "Go:disney1op2",
+      "opcion1": "Go:disney1op2",
+      "opcion2": "Go:disney1op2",
+      "opcion3": "Go:disney1op2",
+      "torneo": "UEFA Europa Conference League 🌍",
+      "equipo1": "Real Betis",
+      "equipo2": "Fiorentina",
+      "fechaInicio": "2025-05-01T19:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "link": "Go:conf2",
+      "canal": "Go:disney1op2",
+      "opcion1": "Go:TNTSports",
+      "opcion2": "Go:disney1op2",
+      "opcion3": "Go:TNTSports",
+      "torneo": "UEFA Europa Conference League 🌍",
+      "equipo1": "Djurgården",
+      "equipo2": "Chelsea",
+      "fechaInicio": "2025-05-01T19:00Z",
+      "fecha": "1 de Mayo"
     }
   ],
   "Concacaf Champions Cup": [
     {
-      "link": "Go:concacup1",
-      "canal": "Go:disney1",
-      "opcion1": "go:tudnusa",
-      "opcion2": "Go:disney1",
-      "opcion3": "go:tudnusa",
-      "torneo": "MLS",
-      "equipo1": "Inter Miami",
-      "equipo2": "Vancouver Whitecaps",
-      "fechaInicio": "2025-05-01T00:00Z",
-      "fecha": "30 de abril"
-    }
-  ],
-  "Liga Argentina": [
-    {
-      "link": "Go:arg1",
-      "canal": "Go:TNTSports",
-      "opcion1": "Go:TNTSports",
-      "opcion2": "Go:TNTSports",
-      "opcion3": "Go:TNTSports",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Atl. Tucumán",
-      "equipo2": "Independiente",
-      "fechaInicio": "2025-05-01T00:00Z",
-      "fecha": "30 de abril"
+      "link": "Go:concacaf1",
+      "canal": "Go:disney1op2",
+      "opcion1": "Go:espn4",
+      "opcion2": "Go:disney1op2",
+      "opcion3": "Go:espn4",
+      "torneo": "CONCACAF Champions Cup 🏆",
+      "equipo1": "Cruz Azul",
+      "equipo2": "Tigres UANL",
+      "fechaInicio": "2025-05-02T02:00Z",
+      "fecha": "1 de Mayo"
     }
   ],
   "Liga Colombiana": [
@@ -46,25 +84,27 @@
       "link": "Go:col1",
       "canal": "Go:winplus",
       "opcion1": "Go:winpluson",
-      "opcion2": "Go:winplus2",
+      "opcion2": "Go:winpluswin",
       "opcion3": "Go:winplus",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Rionegro Águilas",
-      "equipo2": "América de Cali",
-      "fechaInicio": "2025-04-30T23:00Z",
-      "fecha": "30 de abril"
-    },
+      "torneo": "Liga BetPlay Dimayor 🇨🇴",
+      "equipo1": "Envigado",
+      "equipo2": "Once Caldas",
+      "fechaInicio": "2025-05-01T19:00Z",
+      "fecha": "1 de Mayo"
+    }
+  ],
+  "Liga Peruana": [
     {
-      "link": "Go:col2",
-      "canal": "Go:winplus",
-      "opcion1": "Go:winpluson",
-      "opcion2": "Go:winplus2",
-      "opcion3": "Go:winplus",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Llaneros",
-      "equipo2": "Santa Fe",
-      "fechaInicio": "2025-05-01T01:10Z",
-      "fecha": "30 de abril"
+      "link": "Go:per1",
+      "canal": "go:ligamax",
+      "opcion1": "Go:golperu",
+      "opcion2": "go:ligamax",
+      "opcion3": "Go:golperu",
+      "torneo": "Liga 1 Te Apuesto 🇵🇪",
+      "equipo1": "Melgar",
+      "equipo2": "Comerciantes Unidos",
+      "fechaInicio": "2025-05-02T00:30Z",
+      "fecha": "1 de Mayo"
     }
   ]
 }
