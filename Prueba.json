@@ -1,7 +1,7 @@
 {
-  "Europa League": [
+  "Liga Europa": [
     {
-      "link": "Go:europa1",
+      "enlace": "Go:europa1",
       "canal": "Go:espn2",
       "opcion1": "Go:espn",
       "opcion2": "Go:espn2",
@@ -9,11 +9,11 @@
       "torneo": "UEFA Europa League 🏆",
       "equipo1": "Tottenham",
       "equipo2": "Bodø / Glimt",
-      "fechaInicio": "2025-05-01T19:00Z",
+      "fechaInicio": "2025-05-01T21:00Z",
       "fecha": "1 de Mayo"
     },
     {
-      "link": "Go:europa2",
+      "enlace": "Go:europa2",
       "canal": "Go:espn",
       "opcion1": "go:tudnusa",
       "opcion2": "https://streamtp4.com/global1.php?stream=paramount2",
@@ -21,13 +21,85 @@
       "torneo": "UEFA Europa League 🏆",
       "equipo1": "Athletic Club",
       "equipo2": "Manchester United",
-      "fechaInicio": "2025-05-01T19:00Z",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:europa3",
+      "canal": "Go:m চ্যানেল",
+      "opcion1": "Go:sonyliv",
+      "opcion2": "https://streamtp4.com/global1.php?stream= அடிடாஸ்",
+      "opcion3": "Go:স্টার স্পোর্টস 1",
+      "torneo": "UEFA Europa League 🏆",
+      "equipo1": "Roma",
+      "equipo2": "Feyenoord",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:europa4",
+      "canal": "beIN Sports",
+      "opcion1": "Arena Sport",
+      "opcion2": "SuperSport",
+      "opcion3": "Ziggo Sport",
+      "torneo": "UEFA Europa League 🏆",
+      "equipo1": "Arsenal",
+      "equipo2": "Sporting CP",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:europa5",
+      "canal": "Movistar Liga de Campeones",
+      "opcion1": "Orange Sport",
+      "opcion2": "Sky Sport Austria",
+      "opcion3": "DAZN",
+      "torneo": "UEFA Europa League 🏆",
+      "equipo1": "Sevilla",
+      "equipo2": "Juventus",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:europa6",
+      "canal": "RMC Sport 1",
+      "opcion1": "ティビーエス",
+      "opcion2": "WOWOW",
+      "opcion3": "Paramount+",
+      "torneo": "UEFA Europa League 🏆",
+      "equipo1": "Bayer Leverkusen",
+      "equipo2": "Union Saint-Gilloise",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+        {
+      "enlace": "Go:europa7",
+      "canal": "ESPN",
+      "opcion1": "Star+",
+      "opcion2": "Fox Sports",
+      "opcion3": "beIN SPORTS",
+      "torneo": "UEFA Europa League 🏆",
+      "equipo1": "AS Roma",
+      "equipo2": "Feyenoord",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+        {
+      "enlace": "Go:europa8",
+      "canal": "Sky Sports",
+      "opcion1": "BT Sport",
+      "opcion2": "Amazon Prime Video",
+      "opcion3": "BBC Sport",
+      "torneo": "UEFA Europa League 🏆",
+      "equipo1": "Liverpool",
+      "equipo2": "Real Betis",
+      "fechaInicio": "2025-05-01T21:00Z",
       "fecha": "1 de Mayo"
     }
   ],
-  "Premier League": [
+  "Liga Premier": [
     {
-      "link": "Go:prem1",
+      "enlace": "Go:prem1",
       "canal": "Go:disney1",
       "opcion1": "Go:max1",
       "opcion2": "https://streamtp4.com/global1.php?stream=dazn1",
@@ -35,149 +107,97 @@
       "torneo": "Premier League",
       "equipo1": "Nottingham Forest",
       "equipo2": "Brentford",
-      "fechaInicio": "2025-05-01T18:30Z",
-      "fecha": "1 de Mayo"
-    }
-  ],
-  "Conference League": [
-    {
-      "link": "Go:conf1",
-      "canal": "https://streamtp4.com/global1.php?stream=foxsports2mx",
-      "opcion1": "go:disney3",
-      "opcion2": "https://streamtp4.com/global1.php?stream=foxsports2mx",
-      "opcion3": "go:disney3",
-      "torneo": "Conference League",
-      "equipo1": "Real Betis",
-      "equipo2": "Fiorentina",
-      "fechaInicio": "2025-05-01T19:00Z",
+      "fechaInicio": "2025-05-01T21:00Z",
       "fecha": "1 de Mayo"
     },
     {
-      "link": "Go:conf2",
-      "canal": "Go:disney7",
-      "opcion1": "https://streamtp4.com/global1.php?stream=paramount4",
-      "opcion2": "https://streamtp4.com/global1.php?stream=eleven2_pt",
-      "opcion3": "Go:disney7",
-      "torneo": "Conference League",
-      "equipo1": "Djurgården",
-      "equipo2": "Chelsea",
-      "fechaInicio": "2025-05-01T19:00Z",
-      "fecha": "1 de Mayo"
-    }
-  ],
-  "Concacaf Champions Cup": [
-    {
-      "link": "Go:concacaf1",
-      "canal": "go:tudnusa",
-      "opcion1": "Go:espn4",
-      "opcion2": "https://streamtp4.com/global1.php?stream=fox_2_usa",
-      "opcion3": "go:disney19",
-      "torneo": "CONCACAF Champions Cup 🏆",
-      "equipo1": "Cruz Azul",
-      "equipo2": "Tigres UANL",
-      "fechaInicio": "2025-05-02T02:00Z",
-      "fecha": "1 de Mayo"
-    }
-  ],
-  "Liga Colombiana": [
-    {
-      "link": "Go:col1",
-      "canal": "Go:winplus",
-      "opcion1": "Go:winpluson",
-      "opcion2": "Go:winpluswin",
-      "opcion3": "Go:winplus",
-      "torneo": "Liga BetPlay 🇨🇴",
-      "equipo1": "Envigado",
-      "equipo2": "Once Caldas",
-      "fechaInicio": "2025-05-01T19:00Z",
-      "fecha": "1 de Mayo"
-    }
-  ],
-  "Premier League": [
-    {
-      "link": "Go:prem1",
-      "canal": "Go:disney1",
-      "opcion1": "Go:max1",
-      "opcion2": "https://streamtp4.com/global1.php?stream=dazn1",
-      "opcion3": "Go:disney1",
+      "enlace": "Go:prem2",
+      "canal": "Sky Sports Main Event",
+      "opcion1": "BT Sport 1",
+      "opcion2": "Amazon Prime Video",
+      "opcion3": "BBC Sport",
       "torneo": "Premier League",
-      "equipo1": "Nottingham Forest",
-      "equipo2": "Brentford",
-      "fechaInicio": "2025-05-01T18:30Z",
-      "fecha": "1 de Mayo"
-    }
-  ],
-  "Conference League": [
-    {
-      "link": "Go:conf1",
-      "canal": "https://streamtp4.com/global1.php?stream=foxsports2mx",
-      "opcion1": "go:disney3",
-      "opcion2": "https://streamtp4.com/global1.php?stream=foxsports2mx",
-      "opcion3": "go:disney3",
-      "torneo": "Conference League",
-      "equipo1": "Real Betis",
-      "equipo2": "Fiorentina",
-      "fechaInicio": "2025-05-01T19:00Z",
+      "equipo1": "Manchester City",
+      "equipo2": "Liverpool",
+      "fechaInicio": "2025-05-01T21:00Z",
       "fecha": "1 de Mayo"
     },
     {
-      "link": "Go:conf2",
-      "canal": "Go:disney7",
-      "opcion1": "https://streamtp4.com/global1.php?stream=paramount4",
-      "opcion2": "https://streamtp4.com/global1.php?stream=eleven2_pt",
-      "opcion3": "Go:disney7",
-      "torneo": "Conference League",
-      "equipo1": "Djurgården",
-      "equipo2": "Chelsea",
-      "fechaInicio": "2025-05-01T19:00Z",
-      "fecha": "1 de Mayo"
-    }
-  ],
-  "Concacaf Champions Cup": [
-    {
-      "link": "Go:concacaf1",
-      "canal": "go:tudnusa",
-      "opcion1": "Go:espn4",
-      "opcion2": "https://streamtp4.com/global1.php?stream=fox_2_usa",
-      "opcion3": "go:disney19",
-      "torneo": "CONCACAF Champions Cup 🏆",
-      "equipo1": "Cruz Azul",
-      "equipo2": "Tigres UANL",
-      "fechaInicio": "2025-05-02T02:00Z",
-      "fecha": "1 de Mayo"
-    }
-  ],
-  "Liga Colombiana": [
-    {
-      "link": "Go:col1",
-      "canal": "Go:winplus",
-      "opcion1": "Go:winpluson",
-      "opcion2": "Go:winpluswin",
-      "opcion3": "Go:winplus",
-      "torneo": "Liga BetPlay 🇨🇴",
-      "equipo1": "Envigado",
-      "equipo2": "Once Caldas",
-      "fechaInicio": "2025-05-01T19:00Z",
-      "fecha": "1 de Mayo"
-    }
-  ],
-  "Premier League": [
-    {
-      "link": "Go:prem1",
-      "canal": "Go:disney1",
-      "opcion1": "Go:max1",
-      "opcion2": "https://streamtp4.com/global1.php?stream=dazn1",
-      "opcion3": "Go:disney1",
+      "enlace": "Go:prem3",
+      "canal": "NBC Sports",
+      "opcion1": "USA Network",
+      "opcion2": "Peacock",
+      "opcion3": "Telemundo",
       "torneo": "Premier League",
-      "equipo1": "Nottingham Forest",
-      "equipo2": "Brentford",
-      "fechaInicio": "2025-05-01T18:30Z",
+      "equipo1": "Chelsea",
+      "equipo2": "Arsenal",
+      "fechaInicio": "2025-05-01T21:00Z",
       "fecha": "1 de Mayo"
-    }
-  ],
-  "Conference League": [
+    },
     {
-      "link": "Go:conf1",
+      "enlace": "Go:prem4",
+      "canal": "Optus Sport",
+      "opcion1": "beIN Sports Australia",
+      "opcion2": "Kayo Sports",
+      "opcion3": "Stan Sport",
+      "torneo": "Premier League",
+      "equipo1": "Manchester United",
+      "equipo2": "Tottenham Hotspur",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:prem5",
+      "canal": "Setanta Sports",
+      "opcion1": "Premier Sports",
+      "opcion2": "LaLigaTV",
+      "opcion3": "Viaplay",
+      "torneo": "Premier League",
+      "equipo1": "Everton",
+      "equipo2": "Brighton & Hove Albion",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:prem6",
+      "canal": "SuperSport",
+      "opcion1": "Canal+ Sport",
+      "opcion2": "Ziggo Sport",
+      "opcion3": "DAZN",
+      "torneo": "Premier League",
+      "equipo1": "West Ham United",
+      "equipo2": "Aston Villa",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+        {
+      "enlace": "Go:prem7",
+      "canal": "beIN SPORTS",
+      "opcion1": "ESPN+",
+      "opcion2": "NBC Sports Gold",
+      "opcion3": "fuboTV",
+      "torneo": "Premier League",
+      "equipo1": "Newcastle United",
+      "equipo2": "Southampton",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+        {
+             "enlace": "Go:prem8",
+             "canal": "Sky Sports",
+             "opcion1": "BT Sport",
+             "opcion2": "Amazon Prime",
+             "opcion3": "BBC iPlayer",
+             "torneo": "Premier League",
+             "equipo1": "Leeds United",
+             "equipo2": "AFC Bournemouth",
+             "fechaInicio": "2025-05-01T21:00Z",
+             "fecha": "1 de Mayo"
+           }
+  ],
+  "Liga Conferencia": [
+    {
+      "enlace": "Go:conf1",
       "canal": "https://streamtp4.com/global1.php?stream=foxsports2mx",
       "opcion1": "go:disney3",
       "opcion2": "https://streamtp4.com/global1.php?stream=foxsports2mx",
@@ -185,11 +205,11 @@
       "torneo": "Conference League",
       "equipo1": "Real Betis",
       "equipo2": "Fiorentina",
-      "fechaInicio": "2025-05-01T19:00Z",
+      "fechaInicio": "2025-05-01T21:00Z",
       "fecha": "1 de Mayo"
     },
     {
-      "link": "Go:conf2",
+      "enlace": "Go:conf2",
       "canal": "Go:disney7",
       "opcion1": "https://streamtp4.com/global1.php?stream=paramount4",
       "opcion2": "https://streamtp4.com/global1.php?stream=eleven2_pt",
@@ -197,13 +217,85 @@
       "torneo": "Conference League",
       "equipo1": "Djurgården",
       "equipo2": "Chelsea",
-      "fechaInicio": "2025-05-01T19:00Z",
+      "fechaInicio": "2025-05-01T21:00Z",
       "fecha": "1 de Mayo"
-    }
-  ],
-  "Concacaf Champions Cup": [
+    },
     {
-      "link": "Go:concacaf1",
+      "enlace": "Go:conf3",
+      "canal": "RMC Sport",
+      "opcion1": "W9",
+      "opcion2": "Canal+ Foot",
+      "opcion3": "DAZN",
+      "torneo": "Conference League",
+      "equipo1": "Nice",
+      "equipo2": "Basel",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:conf4",
+      "canal": "TV 2 Sport",
+      "opcion1": "Viaplay",
+      "opcion2": "NRK 1",
+      "opcion3": "discovery+",
+      "torneo": "Conference League",
+      "equipo1": "AZ Alkmaar",
+      "equipo2": "West Ham United",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:conf5",
+      "canal": "Arena Sport",
+      "opcion1": "SuperSport",
+      "opcion2": "RTS 1",
+      "opcion3": "Movistar+",
+      "torneo": "Conference League",
+      "equipo1": "Partizan",
+      "equipo2": "Anderlecht",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:conf6",
+      "canal": "Cosmote Sport",
+      "opcion1": "Nova Sports",
+      "opcion2": "Cytavision",
+      "opcion3": "ONE",
+      "torneo": "Conference League",
+      "equipo1": "PAOK",
+      "equipo2": "Slavia Prague",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+        {
+          "enlace": "Go:conf7",
+          "canal": " বিটি স্পোর্ট",
+          "opcion1": "স্কাই স্পোর্টস",
+          "opcion2": "ভার্জিন মিডিয়া স্পোর্ট",
+          "opcion3": "বিবিসি স্পোর্ট",
+          "torneo": "Conference League",
+          "equipo1": "Leicester City",
+          "equipo2": "Rennes",
+          "fechaInicio": "2025-05-01T21:00Z",
+          "fecha": "1 de Mayo"
+        },
+        {
+          "enlace": "Go:conf8",
+          "canal": "Sport1",
+          "opcion1": "RTL+",
+          "opcion2": "Sky Sport",
+          "opcion3": "DAZN",
+          "torneo": "Conference League",
+          "equipo1": "FC Köln",
+          "equipo2": "Nice",
+          "fechaInicio": "2025-05-01T21:00Z",
+          "fecha": "1 de Mayo"
+        }
+  ],
+  "Copa de Campeones de la Concacaf": [
+    {
+      "enlace": "Go:concacaf1",
       "canal": "go:tudnusa",
       "opcion1": "Go:espn4",
       "opcion2": "https://streamtp4.com/global1.php?stream=fox_2_usa",
@@ -211,13 +303,97 @@
       "torneo": "CONCACAF Champions Cup 🏆",
       "equipo1": "Cruz Azul",
       "equipo2": "Tigres UANL",
-      "fechaInicio": "2025-05-02T02:00Z",
+      "fechaInicio": "2025-05-01T21:00Z",
       "fecha": "1 de Mayo"
-    }
+    },
+    {
+      "enlace": "Go:concacaf2",
+      "canal": "Fox Sports 1",
+      "opcion1": "TUDN",
+      "opcion2": "Paramount+",
+      "opcion3": "OneSoccer",
+      "torneo": "CONCACAF Champions Cup 🏆",
+      "equipo1": "Pachuca",
+      "equipo2": "Columbus Crew",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:concacaf3",
+      "canal": "ViX",
+      "opcion1": "Univision",
+      "opcion2": "Fox Sports 2",
+      "opcion3": "Concacaf Official App",
+      "torneo": "CONCACAF Champions Cup 🏆",
+      "equipo1": "Los Angeles FC",
+      "equipo2": "LD Alajuelense",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:concacaf4",
+      "canal": "TSN",
+      "opcion1": "RDS",
+      "opcion2": "OneSoccer",
+      "opcion3": "Fanatiz",
+      "torneo": "CONCACAF Champions Cup 🏆",
+      "equipo1": "CF Montréal",
+      "equipo2": "Santos Laguna",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:concacaf5",
+      "canal": "TUDN",
+      "opcion1": "Univision",
+      "opcion2": "ESPN+",
+      "opcion3": "Fox Sports",
+      "torneo": "CONCACAF Champions Cup 🏆",
+      "equipo1": "Club América",
+      "equipo2": "CD Olimpia",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:concacaf6",
+      "canal": "Paramount+",
+      "opcion1": "CBS Sports Network",
+      "opcion2": "Peacock",
+      "opcion3": "Concacaf GO",
+      "torneo": "CONCACAF Champions Cup 🏆",
+      "equipo1": "Orlando City SC",
+      "equipo2": "Tigres UANL",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+        {
+          "enlace": "Go:concacaf7",
+          "canal": "ESPN",
+          "opcion1": "Star+",
+          "opcion2": "Fox Sports",
+          "opcion3": "Fanatiz",
+          "torneo": "CONCACAF Champions Cup 🏆",
+          "equipo1": "Deportivo Saprissa",
+          "equipo2": "Philadelphia Union",
+          "fechaInicio": "2025-05-01T21:00Z",
+          "fecha": "1 de Mayo"
+        },
+        {
+            "enlace": "Go:concacaf8",
+            "canal": "OneSoccer",
+            "opcion1": "TSN",
+            "opcion2": "RDS",
+            "opcion3": "Concacaf Official App",
+            "torneo": "CONCACAF Champions Cup 🏆",
+            "equipo1": "Vancouver Whitecaps FC",
+            "equipo2": "Real España",
+            "fechaInicio": "2025-05-01T21:00Z",
+            "fecha": "1 de Mayo"
+          }
   ],
   "Liga Colombiana": [
     {
-      "link": "Go:col1",
+      "enlace": "Go:col1",
       "canal": "Go:winplus",
       "opcion1": "Go:winpluson",
       "opcion2": "Go:winpluswin",
@@ -225,13 +401,97 @@
       "torneo": "Liga BetPlay 🇨🇴",
       "equipo1": "Envigado",
       "equipo2": "Once Caldas",
-      "fechaInicio": "2025-05-01T19:00Z",
+      "fechaInicio": "2025-05-01T21:00Z",
       "fecha": "1 de Mayo"
-    }
+    },
+    {
+      "enlace": "Go:col2",
+      "canal": "Win Sports +",
+      "opcion1": "RCN Nuestra Tele",
+      "opcion2": "Caracol TV",
+      "opcion3": "Fanatiz",
+      "torneo": "Liga BetPlay 🇨🇴",
+      "equipo1": "Atlético Nacional",
+      "equipo2": "Millonarios",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:col3",
+      "canal": "ਰੀਅਲਿਟੀ ਸਪੋਰਟਸ",
+      "opcion1": "ਫੈਨਟੀਜ਼",
+      "opcion2": "ਆਰਸੀਐਨ ਨੁਏਸਟਰਾ ਟੈਲੀ",
+      "opcion3": "ਵਿਨ ਸਪੋਰਟਸ +",
+      "torneo": "Liga BetPlay 🇨🇴",
+      "equipo1": "América de Cali",
+      "equipo2": "Deportivo Cali",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:col4",
+      "canal": "ESPN Colombia",
+      "opcion1": "Star+",
+      "opcion2": "Win Sports Online",
+      "opcion3": "DIRECTV GO",
+      "torneo": "Liga BetPlay 🇨🇴",
+      "equipo1": "Independiente Medellín",
+      "equipo2": "Deportivo Pereira",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+       "enlace": "Go:col5",
+       "canal": "RCN Nuestra Tele",
+       "opcion1": "Caracol TV",
+       "opcion2": "Win Sports +",
+       "opcion3": "Fanatiz",
+       "torneo": "Liga BetPlay 🇨🇴",
+       "equipo1": "Junior de Barranquilla",
+       "equipo2": "La Equidad",
+       "fechaInicio": "2025-05-01T21:00Z",
+       "fecha": "1 de Mayo"
+     },
+     {
+       "enlace": "Go:col6",
+       "canal": "Win Sports",
+       "opcion1": "Win Sports Online",
+       "opcion2": "DIRECTV GO",
+       "opcion3": "Star+",
+       "torneo": "Liga BetPlay 🇨🇴",
+       "equipo1": "Deportivo Pasto",
+       "equipo2": "Boyacá Chicó",
+       "fechaInicio": "2025-05-01T21:00Z",
+       "fecha": "1 de Mayo"
+     },
+         {
+        "enlace": "Go:col7",
+        "canal": "ESPN",
+        "opcion1": "Fox Sports",
+        "opcion2": "beIN SPORTS",
+        "opcion3": "TyC Sports",
+        "torneo": "Liga BetPlay 🇨🇴",
+        "equipo1": "Atlético Bucaramanga",
+        "equipo2": "Jaguares de Córdoba",
+        "fechaInicio": "2025-05-01T21:00Z",
+        "fecha": "1 de Mayo"
+      },
+      {
+        "enlace": "Go:col8",
+        "canal": "GolTV",
+        "opcion1": "Fanatiz",
+        "opcion2": "RCN Nuestra Tele",
+        "opcion3": "Caracol TV",
+        "torneo": "Liga BetPlay 🇨🇴",
+        "equipo1": "Unión Magdalena",
+        "equipo2": "Alianza Petrolera",
+        "fechaInicio": "2025-05-01T21:00Z",
+        "fecha": "1 de Mayo"
+      }
   ],
   "Liga Peruana": [
     {
-      "link": "Go:per1",
+      "enlace": "Go:per1",
       "canal": "go:ligamax",
       "opcion1": "Go:golperu",
       "opcion2": "go:ligamax",
@@ -239,8 +499,93 @@
       "torneo": "Liga 1 🇵🇪",
       "equipo1": "Melgar",
       "equipo2": "Comerciantes Unidos",
-      "fechaInicio": "2025-05-02T00:30Z",
+      "fechaInicio": "2025-05-01T21:00Z",
       "fecha": "1 de Mayo"
-    }
+    },
+    {
+      "enlace": "Go:per2",
+      "canal": "GOLTV",
+      "opcion1": "Liga 1 Max",
+      "opcion2": "Movistar Deportes",
+      "opcion3": "FPF Play",
+      "torneo": "Liga 1 🇵🇪",
+      "equipo1": "Alianza Lima",
+      "equipo2": "Universitario",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:per3",
+      "canal": "ਐਲ 1 ਮੈਕਸ ਲੀਗ",
+      "opcion1": "ਮੋਵੀਸਟਾਰ ਡੇਪੋਰਟਸ",
+      "opcion2": "ਜੀਓਐਲਟੀਵੀ",
+      "opcion3": "ਐਫਪੀਐਫ ਪਲੇ",
+      "torneo": "Liga 1 🇵🇪",
+      "equipo1": "Sporting Cristal",
+      "equipo2": "Deportivo Municipal",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:per4",
+      "canal": "Liga1 Max",
+      "opcion1": "GOLTV",
+      "opcion2": "Movistar Deportes",
+      "opcion3": "FPF Play",
+      "torneo": "Liga 1 🇵🇪",
+      "equipo1": "Cienciano",
+      "equipo2": "Sport Boys",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:per5",
+      "canal": "Movistar Deportes",
+      "opcion1": "GOLTV",
+      "opcion2": "Liga1 Max",
+      "opcion3": "FPF Play",
+      "torneo": "Liga 1 🇵🇪",
+      "equipo1": "César Vallejo",
+      "equipo2": "UTC Cajamarca",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+    {
+      "enlace": "Go:per6",
+      "canal": "FPF Play",
+      "opcion1": "Liga1 Max",
+      "opcion2": "GOLTV",
+      "opcion3": "Movistar Deportes",
+      "torneo": "Liga 1 🇵🇪",
+      "equipo1": "Deportivo Garcilaso",
+      "equipo2": "Atlético Grau",
+      "fechaInicio": "2025-05-01T21:00Z",
+      "fecha": "1 de Mayo"
+    },
+        {
+        "enlace": "Go:per7",
+        "canal": "Gol Peru",
+        "opcion1": "Liga 1 Max",
+        "opcion2": "Movistar Deportes",
+        "opcion3": "FPF Play",
+        "torneo": "Liga 1 🇵🇪",
+        "equipo1": "Sport Huancayo",
+        "equipo2": "Alianza Atlético",
+        "fechaInicio": "2025-05-01T21:00Z",
+        "fecha": "1 de Mayo"
+      },
+      {
+        "enlace": "Go:per8",
+        "canal": "Liga 1 Max",
+        "opcion1": "GOLTV",
+        "opcion2": "Movistar Deportes",
+        "opcion3": "FPF Play",
+        "torneo": "Liga 1 🇵🇪",
+        "equipo1": "Unión Comercio",
+        "equipo2": "ADT Tarma",
+        "fechaInicio": "2025-05-01T21:00Z",
+        "fecha": "1 de Mayo"
+      }
   ]
 }
+
