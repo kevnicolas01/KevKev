@@ -2,7 +2,7 @@
   "Europa League": [
     {
       "link": "Go:europa1",
-      "canal": "Go:espn2",
+      "canal": "https://streamtp4.com/global1.php?stream=espn",
       "opcion1": "Go:espn",
       "opcion2": "Go:espn2",
       "opcion3": "Go:espn",
