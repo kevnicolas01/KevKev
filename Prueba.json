@@ -3,9 +3,9 @@
     {
       "link": "Go:europa1",
       "canal": "https://streamtp4.com/global1.php?stream=espn",
-      "opcion1": "Go:espn",
-      "opcion2": "Go:espn2",
-      "opcion3": "Go:espn",
+      "opcion1": "https://streamtp4.com/global1.php?stream=espn2",
+      "opcion2": "https://streamtp4.com/global1.php?stream=dsports",
+      "opcion3": "https://streamtp4.com/global1.php?stream=fox1ar",
       "torneo": "UEFA Europa League 🏆",
       "equipo1": "Tottenham",
       "equipo2": "Bodø / Glimt",
