@@ -2,9 +2,9 @@
   "Europa League": [
     {
       "link": "Go:europa1",
-      "canal": "Go:espn",
+      "canal": "Go:espn2",
       "opcion1": "Go:espn",
-      "opcion2": "Go:espn",
+      "opcion2": "Go:espn2",
       "opcion3": "Go:espn",
       "torneo": "UEFA Europa League 🏆",
       "equipo1": "Tottenham",
@@ -15,9 +15,9 @@
     {
       "link": "Go:europa2",
       "canal": "Go:espn",
-      "opcion1": "Go:espn",
-      "opcion2": "Go:espn",
-      "opcion3": "Go:espn",
+      "opcion1": "go:tudnusa",
+      "opcion2": "https://streamtp4.com/global1.php?stream=paramount2",
+      "opcion3": "https://streamtp4.com/global1.php?stream=foxsportspremium",
       "torneo": "UEFA Europa League 🏆",
       "equipo1": "Athletic Club",
       "equipo2": "Manchester United",
@@ -28,10 +28,10 @@
   "Premier League": [
     {
       "link": "Go:prem1",
-      "canal": "Go:disney1op2",
-      "opcion1": "Go:espn",
-      "opcion2": "Go:disney1op2",
-      "opcion3": "Go:espn",
+      "canal": "Go:disney1",
+      "opcion1": "Go:max1",
+      "opcion2": "https://streamtp4.com/global1.php?stream=dazn1",
+      "opcion3": "Go:disney1",
       "torneo": "Premier League",
       "equipo1": "Nottingham Forest",
       "equipo2": "Brentford",
@@ -42,10 +42,10 @@
   "Conference League": [
     {
       "link": "Go:conf1",
-      "canal": "Go:disney1op2",
-      "opcion1": "Go:disney1op2",
-      "opcion2": "Go:disney1op2",
-      "opcion3": "Go:disney1op2",
+      "canal": "https://streamtp4.com/global1.php?stream=foxsports2mx",
+      "opcion1": "go:disney3",
+      "opcion2": "https://streamtp4.com/global1.php?stream=foxsports2mx",
+      "opcion3": "go:disney3",
       "torneo": "Conference League",
       "equipo1": "Real Betis",
       "equipo2": "Fiorentina",
@@ -54,10 +54,10 @@
     },
     {
       "link": "Go:conf2",
-      "canal": "Go:disney1op2",
-      "opcion1": "Go:TNTSports",
-      "opcion2": "Go:disney1op2",
-      "opcion3": "Go:TNTSports",
+      "canal": "Go:disney7",
+      "opcion1": "https://streamtp4.com/global1.php?stream=paramount4",
+      "opcion2": "https://streamtp4.com/global1.php?stream=eleven2_pt",
+      "opcion3": "Go:disney7",
       "torneo": "Conference League",
       "equipo1": "Djurgården",
       "equipo2": "Chelsea",
@@ -68,10 +68,10 @@
   "Concacaf Champions Cup": [
     {
       "link": "Go:concacaf1",
-      "canal": "Go:disney1op2",
+      "canal": "go:tudnusa",
       "opcion1": "Go:espn4",
-      "opcion2": "Go:disney1op2",
-      "opcion3": "Go:espn4",
+      "opcion2": "https://streamtp4.com/global1.php?stream=fox_2_usa",
+      "opcion3": "go:disney19",
       "torneo": "CONCACAF Champions Cup 🏆",
       "equipo1": "Cruz Azul",
       "equipo2": "Tigres UANL",
