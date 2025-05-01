@@ -1,7 +1,7 @@
 {
   "Europa League": [
     {
-      "link": "Go:europa1",
+      "link": "Go:espn",
       "canal": "Go:espn2",
       "opcion1": "Go:espn",
       "opcion2": "Go:espn2",
@@ -13,7 +13,7 @@
       "fecha": "1 de Mayo"
     },
     {
-      "link": "Go:europa2",
+      "link": "Go:espn",
       "canal": "Go:espn",
       "opcion1": "go:tudnusa",
       "opcion2": "https://streamtp4.com/global1.php?stream=paramount2",
