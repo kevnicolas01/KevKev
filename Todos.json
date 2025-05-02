@@ -1,110 +1,255 @@
 {
-  "Europa League": [
-    {
-      "link": "Go:europa1",
-      "canal": "Go:espn2",
-      "opcion1": "Go:espn",
-      "opcion2": "Go:espn2",
-      "opcion3": "Go:espn",
-      "torneo": "UEFA Europa League 🏆",
-      "equipo1": "Tottenham",
-      "equipo2": "Bodø / Glimt",
-      "fechaInicio": "2025-05-01T19:00Z",
-      "fecha": "1 de Mayo"
-    },
-    {
-      "link": "Go:europa2",
-      "canal": "Go:espn",
-      "opcion1": "go:tudnusa",
-      "opcion2": "https://streamtp4.com/global1.php?stream=paramount2",
-      "opcion3": "https://streamtp4.com/global1.php?stream=foxsportspremium",
-      "torneo": "UEFA Europa League 🏆",
-      "equipo1": "Athletic Club",
-      "equipo2": "Manchester United",
-      "fechaInicio": "2025-05-01T19:00Z",
-      "fecha": "1 de Mayo"
-    }
-  ],
-  "Premier League": [
-    {
-      "link": "Go:prem1",
-      "canal": "Go:disney1",
-      "opcion1": "Go:max1",
-      "opcion2": "https://streamtp4.com/global1.php?stream=dazn1",
-      "opcion3": "Go:disney1",
-      "torneo": "Premier League",
-      "equipo1": "Nottingham Forest",
-      "equipo2": "Brentford",
-      "fechaInicio": "2025-05-01T18:30Z",
-      "fecha": "1 de Mayo"
-    }
-  ],
-  "Conference League": [
-    {
-      "link": "Go:conf1",
-      "canal": "https://streamtp4.com/global1.php?stream=foxsports2mx",
-      "opcion1": "go:disney3",
-      "opcion2": "https://streamtp4.com/global1.php?stream=foxsports2mx",
-      "opcion3": "go:disney3",
-      "torneo": "Conference League",
-      "equipo1": "Real Betis",
-      "equipo2": "Fiorentina",
-      "fechaInicio": "2025-05-01T19:00Z",
-      "fecha": "1 de Mayo"
-    },
-    {
-      "link": "Go:conf2",
-      "canal": "Go:disney7",
-      "opcion1": "https://streamtp4.com/global1.php?stream=paramount4",
-      "opcion2": "https://streamtp4.com/global1.php?stream=eleven2_pt",
-      "opcion3": "Go:disney7",
-      "torneo": "Conference League",
-      "equipo1": "Djurgården",
-      "equipo2": "Chelsea",
-      "fechaInicio": "2025-05-01T19:00Z",
-      "fecha": "1 de Mayo"
-    }
-  ],
-  "Concacaf Champions Cup": [
-    {
-      "link": "Go:concacaf1",
-      "canal": "go:tudnusa",
-      "opcion1": "Go:espn4",
-      "opcion2": "https://streamtp4.com/global1.php?stream=fox_2_usa",
-      "opcion3": "go:disney19",
-      "torneo": "CONCACAF Champions Cup 🏆",
-      "equipo1": "Cruz Azul",
-      "equipo2": "Tigres UANL",
-      "fechaInicio": "2025-05-02T02:00Z",
-      "fecha": "1 de Mayo"
-    }
-  ],
-  "Liga Colombiana": [
-    {
-      "link": "Go:col1",
-      "canal": "Go:winplus",
-      "opcion1": "Go:winpluson",
-      "opcion2": "Go:winpluswin",
-      "opcion3": "Go:winplus",
-      "torneo": "Liga BetPlay 🇨🇴",
-      "equipo1": "Envigado",
-      "equipo2": "Once Caldas",
-      "fechaInicio": "2025-05-01T19:00Z",
-      "fecha": "1 de Mayo"
-    }
-  ],
-  "Liga Peruana": [
-    {
-      "link": "Go:per1",
-      "canal": "go:ligamax",
-      "opcion1": "Go:golperu",
-      "opcion2": "go:ligamax",
-      "opcion3": "Go:golperu",
-      "torneo": "Liga 1 🇵🇪",
-      "equipo1": "Melgar",
-      "equipo2": "Comerciantes Unidos",
-      "fechaInicio": "2025-05-02T00:30Z",
-      "fecha": "1 de Mayo"
-    }
-  ]
+    "Liga Brasileña": [
+        {
+            "link": "go:bra1",
+            "canal": "#",
+            "opcion1": "Premiere",
+            "opcion2": "Zapping",
+            "opcion3": "Claro TV+",
+            "torneo": "Liga Brasileña",
+            "equipo1": "São Paulo",
+            "equipo2": "Fortaleza",
+            "fechaInicio": "2025-05-03T00:30Z",
+            "fecha": "2 de Mayo"
+        }
+    ],
+    "Liga Argentina": [
+        {
+            "link": "go:arg1",
+            "canal": "#",
+            "opcion1": "Bet365",
+            "opcion2": "Fanatiz USA",
+            "opcion3": "K-Ball",
+            "torneo": "Liga Argentina",
+            "equipo1": "Argentinos Juniors",
+            "equipo2": "Estudiantes",
+            "fechaInicio": "2025-05-02T18:30Z",
+            "fecha": "2 de Mayo"
+        },
+        {
+            "link": "go:arg2",
+            "canal": "#",
+            "opcion1": "Bet365",
+            "opcion2": "TyC Sports Internacional",
+            "opcion3": "inter",
+            "torneo": "Liga Argentina",
+            "equipo1": "Racing Club",
+            "equipo2": "Newell's Old Boys",
+            "fechaInicio": "2025-05-02T18:30Z",
+            "fecha": "2 de Mayo"
+        },
+        {
+            "link": "go:arg3",
+            "canal": "#",
+            "opcion1": "Bet365",
+            "opcion2": "ESPN Argentina",
+            "opcion3": "Disney+ Argentina",
+            "torneo": "Liga Argentina",
+            "equipo1": "Independiente Rivadavia",
+            "equipo2": "Defensa y Justicia",
+            "fechaInicio": "2025-05-02T18:30Z",
+            "fecha": "2 de Mayo"
+        },
+        {
+            "link": "go:arg4",
+            "canal": "#",
+            "opcion1": "Bet365",
+            "opcion2": "Fanatiz USA",
+            "opcion3": "K-Ball",
+            "torneo": "Liga Argentina",
+            "equipo1": "Banfield",
+            "equipo2": "Central Córdoba SdE",
+            "fechaInicio": "2025-05-02T18:30Z",
+            "fecha": "2 de Mayo"
+        },
+        {
+            "link": "go:arg5",
+            "canal": "#",
+            "opcion1": "Bet365",
+            "opcion2": "TyC",
+            "opcion3": "TyC",
+            "torneo": "Liga Argentina",
+            "equipo1": "Unión Santa Fe",
+            "equipo2": "Belgrano",
+            "fechaInicio": "2025-05-02T21:00Z",
+            "fecha": "2 de Mayo"
+        }
+    ],
+    "Premier League": [
+        {
+            "link": "go:prem1",
+            "canal": "#",
+            "opcion1": "ESPN Brazil",
+            "opcion2": "Zapping",
+            "opcion3": "Claro TV+",
+            "torneo": "Premier League",
+            "equipo1": "Manchester City",
+            "equipo2": "Wolves",
+            "fechaInicio": "2025-05-02T19:00Z",
+            "fecha": "2 de Mayo"
+        }
+    ],
+    "La Liga": [
+        {
+            "link": "go:laliga1",
+            "canal": "#",
+            "opcion1": "ESPN3 Brazil",
+            "opcion2": "Zapping",
+            "opcion3": "Claro TV+",
+            "torneo": "La Liga 🇪🇸",
+            "equipo1": "Rayo Vallecano",
+            "equipo2": "Getafe",
+            "fechaInicio": "2025-05-02T19:00Z",
+            "fecha": "2 de Mayo"
+        }
+    ],
+    "Serie A": [
+        {
+            "link": "go:serieA1",
+            "canal": "#",
+            "opcion1": "Disney+ Premium Brazil",
+            "opcion2": "Disney+ Argentina",
+            "opcion3": "Disney+ Sur",
+            "torneo": "Serie A",
+            "equipo1": "Torino",
+            "equipo2": "Venezia",
+            "fechaInicio": "2025-05-02T18:45Z",
+            "fecha": "2 de Mayo"
+        }
+    ],
+    "Bundesliga": [
+        {
+            "link": "go:bundes1",
+            "canal": "#",
+            "opcion1": "Onefootball",
+            "opcion2": "Bet365",
+            "opcion3": "Disney+ Argentina",
+            "torneo": "Bundesliga",
+            "equipo1": "Heidenheim",
+            "equipo2": "Bochum",
+            "fechaInicio": "2025-05-02T18:30Z",
+            "fecha": "2 de Mayo"
+        }
+    ],
+    "Ligue 1": [
+        {
+            "link": "go:liguee1",
+            "canal": "#",
+            "opcion1": "Bet365",
+            "opcion2": "Disney+ Argentina",
+            "opcion3": "Disney+",
+            "torneo": "Ligue 1",
+            "equipo1": "Nice",
+            "equipo2": "Reims",
+            "fechaInicio": "2025-05-02T18:45Z",
+            "fecha": "2 de Mayo"
+        }
+    ],
+    "Liga Chilena": [
+        {
+            "link": "go:chile1",
+            "canal": "#",
+            "opcion1": "Bet365",
+            "opcion2": "Max Chile",
+            "opcion3": "TNT Sports Go Chile",
+            "torneo": "Liga Chilena",
+            "equipo1": "Deportes Limache",
+            "equipo2": "Colo-Colo",
+            "fechaInicio": "2025-05-02T20:00Z",
+            "fecha": "2 de Mayo"
+        },
+        {
+            "link": "go:chile2",
+            "canal": "#",
+            "opcion1": "Bet365",
+            "opcion2": "Max Chile",
+            "opcion3": "TNT Sports Go",
+            "torneo": "Liga Chilena",
+            "equipo1": "Unión Española",
+            "equipo2": "Cobresal",
+            "fechaInicio": "2025-05-03T00:30Z",
+            "fecha": "2 de Mayo"
+        }
+    ],
+    "Liga Colombiana": [
+        {
+            "link": "go:col1",
+            "canal": "#",
+            "opcion1": "Bet365",
+            "opcion2": "Win+ Futbol",
+            "opcion3": "Win Play",
+            "torneo": "Liga Colombiana",
+            "equipo1": "La Equidad",
+            "equipo2": "Alianza Petrolera",
+            "fechaInicio": "2025-05-03T00:00Z",
+            "fecha": "2 de Mayo"
+        }
+    ],
+    "Liga Ecuatoriana": [
+        {
+            "link": "go:ecu1",
+            "canal": "#",
+            "opcion1": "Canal del Futbol",
+            "opcion2": "Canal del Futbol",
+            "opcion3": "Canal del Futbol",
+            "torneo": "Liga Ecuatoriana",
+            "equipo1": "Deportivo Cuenca",
+            "equipo2": "Manta",
+            "fechaInicio": "2025-05-03T00:00Z",
+            "fecha": "2 de Mayo"
+        }
+    ],
+    "Liga Peruana": [
+        {
+            "link": "go:per1",
+            "canal": "#",
+            "opcion1": "Fanatiz International",
+            "opcion2": "Liga1 Play",
+            "opcion3": "Liga 1 Max",
+            "torneo": "Liga Peruana",
+            "equipo1": "Sport Huancayo",
+            "equipo2": "Atlético Grau",
+            "fechaInicio": "2025-05-02T20:30Z",
+            "fecha": "2 de Mayo"
+        },
+        {
+            "link": "go:per2",
+            "canal": "#",
+            "opcion1": "Fanatiz International",
+            "opcion2": "Liga1 Play",
+            "opcion3": "Liga 1 Max",
+            "torneo": "Liga Peruana",
+            "equipo1": "Alianza Lima",
+            "equipo2": "Cienciano",
+            "fechaInicio": "2025-05-03T00:30Z",
+            "fecha": "2 de Mayo"
+        }
+    ],
+    "Liga Uruguaya": [
+        {
+            "link": "go:uru1",
+            "canal": "#",
+            "opcion1": "Disney+ Premium Brazil",
+            "opcion2": "Bet365",
+            "opcion3": "GolTV Latinoamérica",
+            "torneo": "Liga Uruguaya",
+            "equipo1": "Boston River",
+            "equipo2": "Wanderers",
+            "fechaInicio": "2025-05-02T22:00Z",
+            "fecha": "2 de Mayo"
+        },
+        {
+            "link": "go:uru2",
+            "canal": "#",
+            "opcion1": "Disney+ Premium",
+            "opcion2": "Disney+ Premium",
+            "opcion3": "Disney+ Premium",
+            "torneo": "Liga Uruguaya",
+            "equipo1": "Defensor Sporting",
+            "equipo2": "Peñarol",
+            "fechaInicio": "2025-05-03T00:30Z",
+            "fecha": "2 de Mayo"
+        }
+    ]
 }
+
