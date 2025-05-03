@@ -114,9 +114,9 @@
         },
         {
             "link": "go:laliga3",
-            "canal": "https://elcanaldeportivo.com/directvsports.php",
-            "opcion1": "https://deporte-libre.fans/en-vivo-online/espn-deportes/embed.php",
-            "opcion2": "https://elcanaldeportivo.com/directvsports.php",
+            "canal": "https://la12hd.com/vivo/canales.php?stream=dsports",
+            "opcion1": "https://la12hd.com/vivo/canales.php?stream=espndeportes",
+            "opcion2": "https://la12hd.com/vivo/canales.php?stream=espndeportes",
             "opcion3": "https://deporte-libre.fans/en-vivo-online/espn-deportes/embed.php",
             "torneo": "La Liga",
             "equipo1": "Las Palmas",
