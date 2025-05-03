@@ -21,13 +21,13 @@
         "nombre": "Concacaf Champions Cup",
         "imagen": "https://i.imgur.com/rfRIx57.png",
         "enlace": "go:ConcaCup",
-        "data-status": "activo"
+        "data-status": "finalizado"
     },
     {
         "nombre": "MLS",
         "imagen": "https://i.imgur.com/JlUPuP1.png",
         "enlace": "go:mls",
-        "data-status": "finalizado"
+        "data-status": "activo"
     },
     {
         "nombre": "Copa Argentina",
