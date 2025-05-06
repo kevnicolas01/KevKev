@@ -167,7 +167,7 @@
 "Deportes Limache": "https://escudosfc.com.br/images/limache_chi.jpg",
 "Everton": "https://escudosfc.com.br/images/everton_ch.png",
 "Huachipato": "https://escudosfc.com.br/images/huachipato.png",
-"Iquique": "https://escudosfc.com.br/images/laserena.jpg",
+"Deportes Iquique": "https://escudosfc.com.br/images/laserena.jpg",
 "La Serena": "https://escudosfc.com.br/images/laserena.jpg",
 "Ñublense": "https://escudosfc.com.br/images/nublense_chi.png",
 "O'Higgins": "https://escudosfc.com.br/images/ohiggins.jpg",
@@ -177,7 +177,7 @@
 "Unión Española": "https://escudosfc.com.br/images/unionesp.gif",
 "Unión La Calera": "https://escudosfc.com.br/images/union_la_calera_chi.png",
 
-  
+
   "Alianza Petrolera": "https://escudosfc.com.br/images/alianza_petrolera_col.png",
   "América de Cali": "https://escudosfc.com.br/images/am_cali.png",
   "Atlético Nacional": "https://escudosfc.com.br/images/medelin.png",
@@ -190,7 +190,7 @@
   "Deportivo Cali": "https://escudosfc.com.br/images/dep_cali.png",
   "Deportivo Pereira": "https://escudosfc.com.br/images/dpereyra_col.png",
   "Envigado": "https://escudosfc.com.br/images/envigado_col.png",
-  "Fortaleza": "https://escudosfc.com.br/images/fortaleza_col.png",
+  "Fortaleza CEIF": "https://escudosfc.com.br/images/fortaleza_col.png",
   "Junior": "https://escudosfc.com.br/images/junior_col.png",
   "La Equidad": "https://escudosfc.com.br/images/laequidad_col.png",
   "Llaneros": "https://escudosfc.com.br/images/llaneros_col.png",
@@ -201,13 +201,14 @@
   "Santa Fe": "https://escudosfc.com.br/images/indep_col.png",
   "Tolima": "https://escudosfc.com.br/images/dtolima_col.png",
   "Deportes Tolima": "https://escudosfc.com.br/images/dtolima_col.png",
+
   "Unión Magdalena": "https://escudosfc.com.br/images/magdalena_col.png",
   
   
   "Aucas": "https://escudosfc.com.br/images/aucas.png",
   "Barcelona SC": "https://escudosfc.com.br/images/barcelonaeq.png",
   "Cuniburo": "https://cdn.scores24.live/upload/team/w120-h120/8a1/d7a/03d7b097c24d67d7ea29b43f3f90ff0628.png",
-  "Delfín": "https://escudosfc.com.br/images/delfin_eq.jpg",
+  "Delfin": "https://escudosfc.com.br/images/delfin_eq.jpg",
   "Deportivo Cuenca": "https://escudosfc.com.br/images/cuenca_eq.png",
    "Dep. Cuenca": "https://escudosfc.com.br/images/cuenca_eq.png",
   "Emelec": "https://escudosfc.com.br/images/emelec.png",
@@ -223,6 +224,27 @@
   "Técnico Universitario": "https://escudosfc.com.br/images/tec_universitario_ecu.png",
   "U. Católica (E)": "https://escudosfc.com.br/images/un_catolica_ecu.png",
   "Libertad": "https://escudosfc.com.br/images/libertad_ecu.png",
-  "Vinotinto": "https://escudosfc.com.br/images/vinotinto_1_ecu.png"
+  "Vinotinto": "https://escudosfc.com.br/images/vinotinto_1_ecu.png",
+  
+  "ADT": "https://escudosfc.com.br/images/adt_per.png",
+  "Alianza Atlético": "https://escudosfc.com.br/images/alianza_atl.jpg",
+  "Alianza Lima": "https://escudosfc.com.br/images/alianza.jpg",
+  "Alianza Universidad": "https://escudosfc.com.br/images/alianza_univ_per.jpg",
+  "Atlético Grau": "https://escudosfc.com.br/images/atletico_grau_peru.jpg",
+  "Ayacucho": "https://escudosfc.com.br/images/intideayacucho.png",
+  "Binacional": "https://escudosfc.com.br/images/escola_binacional_per.jpg",
+  "Los Chankas": "https://escudosfc.com.br/images/cultural_santa_rosa_peru.jpg",
+  "Cienciano": "https://escudosfc.com.br/images/cienciano.png",
+  "Comerciantes Unidos": "https://escudosfc.com.br/images/comerciantes_unidos_per.jpg",
+  "Cusco": "https://escudosfc.com.br/images/cusco_peru.jpg",
+  "Deportivo Garcilaso": "https://escudosfc.com.br/images/dep_garcilaso_peru.jpg",
+  "Juan Pablo II College": "https://escudosfc.com.br/images/jp_college_per.png",
+   "Juan Pablo II": "https://escudosfc.com.br/images/jp_college_per.png",
+  "Melgar": "https://escudosfc.com.br/images/melgar.png",
+  "Sport Boys": "https://escudosfc.com.br/images/sportboys.png",
+  "Sport Huancayo": "https://escudosfc.com.br/images/sporthuancayo.png",
+  "Sporting Cristal": "https://escudosfc.com.br/images/cristal.jpg",
+  "Universitario": "https://escudosfc.com.br/images/universitaria_peru.png",
+  "UTC Cajamarca": "https://escudosfc.com.br/images/utc_peru.png"
   
 }
