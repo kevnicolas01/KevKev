@@ -1,98 +1,152 @@
 {
-  "Premier League": [
+  "Champions League": [
     {
-      "link": "Go:prem1",
-      "canal": "https://elcanaldeportivo.com/espn2hd.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=dazn1",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney7",
-      "opcion3": "https://streamtp4.com/global1.php?stream=espn",
-      "torneo": "Premier League",
-      "equipo1": "Crystal Palace",
-      "equipo2": "Nottingham Forest",
-      "fechaInicio": "2025-05-05T19:00Z",
-      "fecha": "5 de mayo"
-    }
-  ], 
-  "La Liga": [
-    {
-      "link": "go:laliga1",
-      "canal": "https://streamtp4.com/global1.php?stream=espn5",
-      "opcion1": "https://elcanaldeportivo.com/espn5.php",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espndeportes",
-      "opcion3": "https://streamtp4.com/global1.php?stream=dazn_laliga",
-      "torneo": "La Liga 🇪🇸",
-      "equipo1": "Girona",
-      "equipo2": "Mallorca",
-      "fechaInicio": "2025-05-05T19:00Z",
-      "fecha": "5 de mayo"
+      "link": "go:cham1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Champions League 🏆",
+      "equipo1": "Inter",
+      "equipo2": "Barcelona",
+      "fechaInicio": "2025-05-06T19:00Z",
+      "fecha": "6 de Mayo"
     }
   ],
-  "Serie A": [
+  "Sudamericana": [
     {
-      "link": "Go:serieA1",
-      "canal": "https://elcanaldeportivo.com/espn4.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=espn4",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney6",
-      "opcion3": "https://streamtp4.com/global1.php?stream=espn2mx",
-      "torneo": "Serie A 🇮🇹",
-      "equipo1": "Genoa",
-      "equipo2": "Milan",
-      "fechaInicio": "2025-05-05T18:45Z",
-      "fecha": "5 de mayo"
-    }
-  ],
-  "Liga Brasileña": [
-    {
-      "link": "Go:bra1",
-      "canal": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion1": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion2": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion3": "https://streamtp4.com/global1.php?stream=premiere1",
-      "torneo": "Brasileirão 🇧🇷",
-      "equipo1": "RB Bragantino",
-      "equipo2": "Mirassol",
-      "fechaInicio": "2025-05-05T22:00Z",
-      "fecha": "5 de mayo"
+      "link": "go:suda1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Sudamericana 🏆",
+      "equipo1": "Nacional Potosí",
+      "equipo2": "Guaraní",
+      "fechaInicio": "2025-05-06T22:00Z",
+      "fecha": "6 de Mayo"
     },
     {
-      "link": "Go:bra2",
-      "canal": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion1": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion2": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion3": "https://streamtp4.com/global1.php?stream=premiere1",
-      "torneo": "Brasileirão 🇧🇷",
-      "equipo1": "Juventude",
-      "equipo2": "Atlético Mineiro",
-      "fechaInicio": "2025-05-05T23:00Z",
-      "fecha": "5 de mayo"
+      "link": "go:suda2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Sudamericana 🏆",
+      "equipo1": "Vitória",
+      "equipo2": "Defensa y Justicia",
+      "fechaInicio": "2025-05-06T22:00Z",
+      "fecha": "6 de Mayo"
+    },
+    {
+      "link": "go:suda3",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Sudamericana 🏆",
+      "equipo1": "Sportivo Luqueño",
+      "equipo2": "Godoy Cruz",
+      "fechaInicio": "2025-05-06T22:00Z",
+      "fecha": "6 de Mayo"
+    },
+    {
+      "link": "go:suda4",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Sudamericana 🏆",
+      "equipo1": "Corinthians",
+      "equipo2": "América de Cali",
+      "fechaInicio": "2025-05-07T00:30Z",
+      "fecha": "6 de Mayo"
+    },
+    {
+      "link": "go:suda5",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Sudamericana 🏆",
+      "equipo1": "Boston River",
+      "equipo2": "Independiente",
+      "fechaInicio": "2025-05-07T00:30Z",
+      "fecha": "6 de Mayo"
+    },
+    {
+      "link": "go:suda6",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Sudamericana 🏆",
+      "equipo1": "Melgar",
+      "equipo2": "Lanús",
+      "fechaInicio": "2025-05-07T02:00Z",
+      "fecha": "6 de Mayo"
     }
   ],
-  "Liga Colombiana": [
+  "Libertadores": [
     {
-      "link": "Go:col1",
-      "canal": "https://elcanaldeportivo.com/winmas.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion2": "https://streamtp4.com/global1.php?stream=winplus2",
-      "opcion3": "https://streamtp4.com/global1.php?stream=winplusonline1",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Boyacá Chicó",
-      "equipo2": "Envigado",
-      "fechaInicio": "2025-05-06T01:00Z",
-      "fecha": "5 de mayo"
-    }
-  ],
-  "Liga Ecuatoriana": [
+      "link": "go:Lib1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "Atlético Bucaramanga",
+      "equipo2": "Racing Club",
+      "fechaInicio": "2025-05-06T22:00Z",
+      "fecha": "6 de Mayo"
+    },
     {
-      "link": "Go:ecu1",
-      "canal": "https://elcanaldeportivo.com/ecfutbol.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion2": "https://elcanaldeportivo.com/ecfutbol.php",
-      "opcion3": "https://streamtp4.com/global1.php?stream=ecdf",
-      "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "Aucas",
-      "equipo2": "Libertad",
-      "fechaInicio": "2025-05-06T00:00Z",
-      "fecha": "5 de mayo"
+      "link": "go:Lib2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "Alianza Lima",
+      "equipo2": "São Paulo",
+      "fechaInicio": "2025-05-06T22:00Z",
+      "fecha": "6 de Mayo"
+    },
+    {
+      "link": "go:Lib3",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "Carabobo",
+      "equipo2": "Botafogo",
+      "fechaInicio": "2025-05-06T22:00Z",
+      "fecha": "6 de Mayo"
+    },
+    {
+      "link": "go:Lib4",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "Fortaleza",
+      "equipo2": "Colo-Colo",
+      "fechaInicio": "2025-05-07T00:30Z",
+      "fecha": "6 de Mayo"
+    },
+    {
+      "link": "go:Lib5",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Libertadores 🏆",
+      "equipo1": "San Antonio Bulo Bulo",
+      "equipo2": "Peñarol",
+      "fechaInicio": "2025-05-07T02:00Z",
+      "fecha": "6 de Mayo"
     }
   ]
 }
