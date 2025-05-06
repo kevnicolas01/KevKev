@@ -109,7 +109,7 @@
   
   "Argentinos Juniors": "https://escudosfc.com.br/images/argentinos.png",
   "Atlético Tucumán": "https://escudosfc.com.br/images/attucuman.png",
-   "Atl Tucumán": "https://escudosfc.com.br/images/attucuman.png",
+   "Atl. Tucumán": "https://escudosfc.com.br/images/attucuman.png",
   "Aldosivi": "https://escudosfc.com.br/images/aldosivi_arg.png",
   "Banfield": "https://escudosfc.com.br/images/banfield.png",
   "Barracas Central": "https://escudosfc.com.br/images/barracas_central_arg.png",
@@ -175,17 +175,17 @@
 "Universidad Católica": "https://escudosfc.com.br/images/unicatolica.png",
 "Universidad de Chile": "https://escudosfc.com.br/images/unichile.png",
 "Unión Española": "https://escudosfc.com.br/images/unionesp.gif",
-"Unión La Calera": "https://escudosfc.com.br/images/union_la_calera_chi.png",
+"Unión La Calera": "https://escudosfc.com.br/images/union_la_calera_chi.png"
 
 
   "Alianza Petrolera": "https://escudosfc.com.br/images/alianza_petrolera_col.png",
   "América de Cali": "https://escudosfc.com.br/images/am_cali.png",
   "Atlético Nacional": "https://escudosfc.com.br/images/medelin.png",
-   "Atl Nacional": "https://escudosfc.com.br/images/medelin.png",
+   "Atl. Nacional": "https://escudosfc.com.br/images/medelin.png",
   "Águilas Doradas": "https://escudosfc.com.br/images/aguilas_pereira_col.png",
   "Boyacá Chicó": "https://escudosfc.com.br/images/mchico.png",
   "Atlético Bucaramanga": "https://escudosfc.com.br/images/bucaramanga_col.png",
-   "Atl Bucaramanga": "https://escudosfc.com.br/images/bucaramanga_col.png",
+   "Atl. Bucaramanga": "https://escudosfc.com.br/images/bucaramanga_col.png",
     "Bucaramanga": "https://escudosfc.com.br/images/bucaramanga_col.png",
   "Deportivo Cali": "https://escudosfc.com.br/images/dep_cali.png",
   "Deportivo Pereira": "https://escudosfc.com.br/images/dpereyra_col.png",
@@ -201,6 +201,29 @@
   "Santa Fe": "https://escudosfc.com.br/images/indep_col.png",
   "Tolima": "https://escudosfc.com.br/images/dtolima_col.png",
   "Deportes Tolima": "https://escudosfc.com.br/images/dtolima_col.png",
-  "Unión Magdalena": "https://escudosfc.com.br/images/magdalena_col.png"
+
+  "Unión Magdalena": "https://escudosfc.com.br/images/magdalena_col.png",
+  
+  
+  "Aucas": "https://escudosfc.com.br/images/aucas.png",
+  "Barcelona SC": "https://escudosfc.com.br/images/barcelonaeq.png",
+  "Cuniburo": "https://cdn.scores24.live/upload/team/w120-h120/8a1/d7a/03d7b097c24d67d7ea29b43f3f90ff0628.png",
+  "Delfín": "https://escudosfc.com.br/images/delfin_eq.jpg",
+  "Deportivo Cuenca": "https://escudosfc.com.br/images/cuenca_eq.png",
+   "Dep. Cuenca": "https://escudosfc.com.br/images/cuenca_eq.png",
+  "Emelec": "https://escudosfc.com.br/images/emelec.png",
+  "El Nacional": "https://escudosfc.com.br/images/elnacional.png",
+  "Independiente del Valle": "https://escudosfc.com.br/images/indep_j_teran.png",
+  "Ind. del Valle": "https://escudosfc.com.br/images/indep_j_teran.png",
+  "Liga de Quito": "https://escudosfc.com.br/images/ldu.png",
+  "LDU Quito": "https://escudosfc.com.br/images/ldu.png",
+  "Macará": "https://escudosfc.com.br/images/macara_equ.png",
+  "Manta": "https://escudosfc.com.br/images/manta_ecu.png",
+  "Mushuc Runa": "https://escudosfc.com.br/images/musgucruna_ecu.png",
+  "Orense": "https://escudosfc.com.br/images/orensenew_ecu.png",
+  "Técnico Universitario": "https://escudosfc.com.br/images/tec_universitario_ecu.png",
+  "U. Católica (E)": "https://escudosfc.com.br/images/un_catolica_ecu.png",
+  "Libertad": "https://escudosfc.com.br/images/libertad_ecu.png",
+  "Vinotinto": "https://escudosfc.com.br/images/vinotinto_1_ecu.png"
   
 }
