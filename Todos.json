@@ -1,3 +1,4 @@
+
 {
   "Champions League": [
     {
@@ -174,5 +175,31 @@
       "fechaInicio": "2025-05-08T02:00Z",
       "fecha": "7 de Mayo"
     }
+  ],
+  "Liga Mexicana": [
+    {
+      "link": "Go:mex1",
+      "canal": "https://elcanaldeportivo.com/udn.php",
+      "opcion1": "https://streamtp4.com/global1.php?stream=canal5mx",
+      "opcion2": "https://streamtp3.com/global1.php?stream=tudn_usa",
+      "opcion3": "https://elcanaldeportivo.com/udn.php",
+      "torneo": "Liga MX",
+      "equipo1": "Monterrey",
+      "equipo2": "Toluca",
+      "fechaInicio": "2025-05-08T01:00Z",
+      "fecha": "7 de Mayo"
+    },
+    {
+      "link": "Go:mex2",
+      "canal": "https://elcanaldeportivo.com/udn.php",
+      "opcion1": "https://streamtp3.com/global1.php?stream=tudn_usa",
+      "opcion2": "https://elcanaldeportivo.com/udn.php",
+      "opcion3": "https://streamtp4.com/global1.php?stream=tubitv1",
+      "torneo": "Liga MX",
+      "equipo1": "Pachuca",
+      "equipo2": "Club América",
+      "fechaInicio": "2025-05-08T03:10Z",
+      "fecha": "8 de Mayo"
+    }    
   ]
 }
