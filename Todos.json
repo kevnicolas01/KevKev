@@ -1,206 +1,98 @@
 {
- "Liga Mexicana": [
+  "La Liga": [
     {
-      "link": "Go:mex1",
-      "canal": "https://elcanaldeportivo.com/udn.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=tudn_usa",
-      "opcion2": "https://streamtp4.com/global1.php?stream=tudn_usa",
-      "opcion3": "https://elcanaldeportivo.com/udn.php",
-      "torneo": "Liga MX",
-      "equipo1": "Necaxa",
-      "equipo2": "Tigres UANL",
-      "fechaInicio": "2025-05-09T01:00Z",
-      "fecha": "8 de Mayo"
-    },
-  {
-   "link": "Go:mex2",
-      "canal": "https://elcanaldeportivo.com/udn.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=tudn_usa",
-      "opcion2": "https://streamtp4.com/global1.php?stream=tudn_usa",
-      "opcion3": "https://elcanaldeportivo.com/udn.php",
-      "torneo": "Liga MX",
-      "equipo1": "León",
-      "equipo2": "Cruz Azul",
-      "fechaInicio": "2025-05-09T03:10Z",
+      "link": "go:laliga1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "La Liga",
+      "equipo1": "Las Palmas",
+      "equipo2": "Rayo Vallecano",
+      "fechaInicio": "2025-05-09T19:00Z",
       "fecha": "9 de Mayo"
-  }
-    ],
-  "Europa League": [
-    {
-      "link": "Go:europa1",
-      "canal": "https://elcanaldeportivo.com/espnhd.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney5",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espn",
-      "opcion3": "https://streamtp4.com/global1.php?stream=espnmx",
-      "torneo": "Europa League",
-      "equipo1": "Manchester United",
-      "equipo2": "Athletic Club",
-      "fechaInicio": "2025-05-08T19:00Z",
-      "fecha": "8 de Mayo"
-    },
-    {
-      "link": "Go:europa2",
-      "canal": "https://elcanaldeportivo.com/espn2hd.php",
-      "opcion1": "https://elcanaldeportivo.com/espn2hd.php",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney4",
-      "opcion3": "https://streamtp4.com/global1.php?stream=eleven1_pt",
-      "torneo": "Europa League",
-      "equipo1": "Bodø / Glimt",
-      "equipo2": "Tottenham",
-      "fechaInicio": "2025-05-08T19:00Z",
-      "fecha": "8 de Mayo"
     }
   ],
-  "Conference League": [
+  "Serie A": [
     {
-      "link": "Go:conf1",
-      "canal": "https://elcanaldeportivo.com/disneyplus.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=paramount4",
-      "opcion2": "https://streamtp4.com/global1.php?stream=eleven2_pt",
-      "opcion3": "https://streamtp4.com/global1.php?stream=paramount4",
-      "torneo": "Conference League",
-      "equipo1": "Chelsea",
-      "equipo2": "Djurgården",
-      "fechaInicio": "2025-05-08T19:00Z",
-      "fecha": "8 de Mayo"
-    },
+      "link": "Go:serieA1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Serie A",
+      "equipo1": "Milan",
+      "equipo2": "Bologna",
+      "fechaInicio": "2025-05-09T18:45Z",
+      "fecha": "9 de Mayo"
+    }
+  ],
+  "Bundesliga": [
     {
-      "link": "Go:conf2",
-      "canal": "https://elcanaldeportivo.com/disneyplus2.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney6",
-      "opcion2": "https://streamtp4.com/global1.php?stream=eleven3_pt",
-      "opcion3": "https://streamtp4.com/global1.php?stream=paramount3",
-      "torneo": "Conference League",
-      "equipo1": "Fiorentina",
-      "equipo2": "Real Betis",
-      "fechaInicio": "2025-05-08T19:00Z",
-      "fecha": "8 de Mayo"
+      "link": "Go:bundes1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Bundesliga",
+      "equipo1": "Wolfsburg",
+      "equipo2": "Hoffenheim",
+      "fechaInicio": "2025-05-09T18:30Z",
+      "fecha": "9 de Mayo"
     }
   ],
   "Liga Colombiana": [
     {
       "link": "Go:col1",
-      "canal": "https://elcanaldeportivo.com/winmas.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=winplus2",
-      "opcion2": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion3": "https://elcanaldeportivo.com/winmas.php",
-      "torneo": "Liga Colombiana ",
-      "equipo1": "Millonarios",
-      "equipo2": "Deportivo Pereira",
-      "fechaInicio": "2025-05-09T00:30Z",
-      "fecha": "8 de Mayo"
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Colombiana",
+      "equipo1": "Deportes Tolima",
+      "equipo2": "Unión Magdalena",
+      "fechaInicio": "2025-05-09T23:20Z",
+      "fecha": "9 de Mayo"
+    },
+    {
+      "link": "Go:col2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Colombiana",
+      "equipo1": "Atlético Bucaramanga",
+      "equipo2": "Medellín",
+      "fechaInicio": "2025-05-10T01:30Z",
+      "fecha": "9 de Mayo"
     }
   ],
-  "Sudamericana": [
+  "Liga Ecuatoriana": [
     {
-      "link": "Go:suda1",
-      "canal": "https://elcanaldeportivo.com/directvsports.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=dsports",
-      "opcion2": "https://elcanaldeportivo.com/directvsports.php",
-      "opcion3": "https://streamtp4.com/global1.php?stream=dsports",
-      "torneo": "Copa Sudamericana",
-      "equipo1": "Racing (uru)",
-      "equipo2": "Huracán",
-      "fechaInicio": "2025-05-08T22:00Z",
-      "fecha": "8 de Mayo"
-    },
-    {
-      "link": "Go:suda2",
-      "canal": "https://elcanaldeportivo.com/espn5.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=espn5",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney10",
-      "opcion3": "https://streamtp4.com/global1.php?stream=sportv_2pt",
-      "torneo": "Copa Sudamericana",
-      "equipo1": "Deportes Iquique",
-      "equipo2": "Atlético Mineiro",
-      "fechaInicio": "2025-05-08T22:00Z",
-      "fecha": "8 de Mayo"
-    },
-    {
-      "link": "Go:suda3",
-      "canal": "https://elcanaldeportivo.com/directvplushd.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=sportv_2pt",
-      "opcion2": "https://streamtp4.com/global1.php?stream=dsports",
-      "opcion3": "https://elcanaldeportivo.com/directvplushd.php",
-      "torneo": "Copa Sudamericana",
-      "equipo1": "GV San José",
-      "equipo2": "Fluminense",
-      "fechaInicio": "2025-05-09T00:30Z",
-      "fecha": "8 de Mayo"
-    },
-    {
-      "link": "Go:suda4",
-      "canal": "https://elcanaldeportivo.com/directvsports.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=espn5",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney14",
-      "opcion3": "https://elcanaldeportivo.com/directvsports.php",
-      "torneo": "Copa Sudamericana",
-      "equipo1": "Cienciano",
-      "equipo2": "Caracas",
-      "fechaInicio": "2025-05-09T02:00Z",
-      "fecha": "8 de Mayo"
+      "link": "Go:ecu1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Ecuatoriana",
+      "equipo1": "Orense",
+      "equipo2": "Deportivo Cuenca",
+      "fechaInicio": "2025-05-10T00:00Z",
+      "fecha": "9 de Mayo"
     }
   ],
-  "Libertadores": [
+  "Liga Peruana": [
     {
-      "link": "go:Lib1",
-      "canal": "https://streamtp4.com/global1.php?stream=espn2",
-      "opcion1": "https://streamtp4.com/global1.php?stream=espn3br",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney9",
-      "opcion3": "https://streamtp4.com/global1.php?stream=fox2ar",
-      "torneo": "Copa Libertadores",
-      "equipo1": "Talleres",
-      "equipo2": "Libertad",
-      "fechaInicio": "2025-05-08T22:00Z",
-      "fecha": "8 de Mayo"
-    },
-    {
-      "link": "go:Lib2",
-      "canal": "https://elcanaldeportivo.com/espnhd.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=espn",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney8",
-      "opcion3": "https://streamtp4.com/global1.php?stream=fox1ar",
-      "torneo": "Copa Libertadores",
-      "equipo1": "Vélez Sarsfield",
-      "equipo2": "Olimpia",
-      "fechaInicio": "2025-05-08T22:00Z",
-      "fecha": "8 de Mayo"
-    },
-    {
-      "link": "go:Lib3",
-      "canal": "https://streamtp4.com/global1.php?stream=telefe",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney12",
-      "opcion2": "https://elcanaldeportivo.com/espn2hd.php",
-      "opcion3": "https://streamtp4.com/global1.php?stream=fox1ar",
-      "torneo": "Copa Libertadores",
-      "equipo1": "Barcelona",
-      "equipo2": "River Plate",
-      "fechaInicio": "2025-05-09T00:30Z",
-      "fecha": "8 de Mayo"
-    },
-    {
-      "link": "go:Lib4",
-      "canal": "https://elcanaldeportivo.com/espnhd.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=espn",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney13",
-      "opcion3": "https://streamtp4.com/global1.php?stream=fox2ar",
-      "torneo": "Copa Libertadores",
-      "equipo1": "Atlético Nacional",
-      "equipo2": "Internacional",
-      "fechaInicio": "2025-05-09T00:30Z",
-      "fecha": "8 de Mayo"
-    },
-    {
-      "link": "go:Lib5",
-      "canal": "https://elcanaldeportivo.com/espn7.php",
-      "opcion1": "https://streamtp4.com/global1.php?stream=espn7",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney15",
-      "opcion3": "https://streamtp4.com/global1.php?stream=fox3ar",
-      "torneo": "Copa Libertadores",
-      "equipo1": "Universitario",
-      "equipo2": "Independiente del Valle",
-      "fechaInicio": "2025-05-09T02:00Z",
-      "fecha": "8 de Mayo"
+      "link": "Go:per1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Peruana",
+      "equipo1": "Comerciantes Unidos",
+      "equipo2": "Binacional",
+      "fechaInicio": "2025-05-09T20:30Z",
+      "fecha": "9 de Mayo"
     }
   ]
 }
