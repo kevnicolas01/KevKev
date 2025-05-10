@@ -2,97 +2,529 @@
   "La Liga": [
     {
       "link": "go:laliga1",
-      "canal": "https://streamtp4.com/global1.php?stream=espn2",
+      "canal": "https://streamtp4.com/global1.php?stream=espn",
       "opcion1": "https://streamtp4.com/global1.php?stream=espndeportes",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espnplus4",
-      "opcion3": "https://streamtp4.com/global1.php?stream=espnplus5",
-      "torneo": "La Liga",
-      "equipo1": "Las Palmas",
-      "equipo2": "Rayo Vallecano",
-      "fechaInicio": "2025-05-09T19:00Z",
-      "fecha": "9 de Mayo"
+      "opcion2": "https://streamtp4.com/global1.php?stream=disney2",
+      "opcion3": "https://streamtp4.com/global1.php?stream=espnplus4",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Valencia",
+      "equipo2": "Getafe",
+      "fechaInicio": "2025-05-10T12:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:laliga2",
+      "canal": "https://streamtp4.com/global1.php?stream=dsports",
+      "opcion1": "https://streamtp4.com/global1.php?stream=espndeportes",
+      "opcion2": "https://streamtp4.com/global1.php?stream=eleven4_pt",
+      "opcion3": "https://streamtp4.com/global1.php?stream=espnplus4",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Celta",
+      "equipo2": "Sevilla",
+      "fechaInicio": "2025-05-10T14:15Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:laliga3",
+      "canal": "https://streamtp4.com/global1.php?stream=dsports",
+      "opcion1": "https://streamtp4.com/global1.php?stream=espndeportes",
+      "opcion2": "https://streamtp4.com/global1.php?stream=eleven3_pt",
+      "opcion3": "https://streamtp4.com/global1.php?stream=espnplus4",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Girona",
+      "equipo2": "Villarreal",
+      "fechaInicio": "2025-05-10T16:30Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:laliga4",
+      "canal": "https://streamtp4.com/global1.php?stream=espn4",
+      "opcion1": "https://streamtp4.com/global1.php?stream=disney17",
+      "opcion2": "https://streamtp4.com/global1.php?stream=espnplus9",
+      "opcion3": "https://streamtp4.com/global1.php?stream=eleven4_pt",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Mallorca",
+      "equipo2": "Real Valladolid",
+      "fechaInicio": "2025-05-10T16:30Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:laliga5",
+      "canal": "https://streamtp4.com/global1.php?stream=dsports",
+      "opcion1": "https://streamtp4.com/global1.php?stream=espndeportes",
+      "opcion2": "https://streamtp4.com/global1.php?stream=eleven1_pt",
+      "opcion3": "https://streamtp4.com/global1.php?stream=espnplus4",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Atlético Madrid",
+      "equipo2": "Real Sociedad",
+      "fechaInicio": "2025-05-10T19:00Z",
+      "fecha": "10 de Mayo"
+    }
+  ],
+  "Premier League": [
+    {
+      "link": "go:prem1",
+      "canal": "https://streamtp4.com/global1.php?stream=max1",
+      "opcion1": "https://streamtp4.com/global1.php?stream=disney8",
+      "opcion2": "https://streamtp4.com/global1.php?stream=eleven2_pt",
+      "opcion3": "https://streamtp4.com/global1.php?stream=peacock1",
+      "torneo": "Premier League",
+      "equipo1": "Fulham",
+      "equipo2": "Everton",
+      "fechaInicio": "2025-05-10T14:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:prem2",
+      "canal": "https://streamtp4.com/global1.php?stream=espn",
+      "opcion1": "https://streamtp4.com/global1.php?stream=disney9",
+      "opcion2": "https://streamtp4.com/global1.php?stream=peacock2",
+      "opcion3": "https://streamtp4.com/global1.php?stream=espn",
+      "torneo": "Premier League",
+      "equipo1": "Ipswich Town",
+      "equipo2": "Brentford",
+      "fechaInicio": "2025-05-10T14:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:prem3",
+      "canal": "https://streamtp4.com/global1.php?stream=espn",
+      "opcion1": "https://streamtp4.com/global1.php?stream=max2",
+      "opcion2": "https://streamtp4.com/global1.php?stream=dazn2",
+      "opcion3": "https://streamtp4.com/global1.php?stream=disney10",
+      "torneo": "Premier League",
+      "equipo1": "Southampton",
+      "equipo2": "Manchester City",
+      "fechaInicio": "2025-05-10T14:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:prem4",
+      "canal": "https://streamtp4.com/global1.php?stream=disney11",
+      "opcion1": "https://streamtp4.com/global1.php?stream=peacock4",
+      "opcion2": "https://streamtp4.com/global1.php?stream=disney11",
+      "opcion3": "https://streamtp4.com/global1.php?stream=peacock4",
+      "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Wolves",
+      "equipo2": "Brighton",
+      "fechaInicio": "2025-05-10T14:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:prem5",
+      "canal": "https://streamtp4.com/global1.php?stream=espn",
+      "opcion1": "https://streamtp4.com/global1.php?stream=disney15",
+      "opcion2": "https://streamtp4.com/global1.php?stream=dazn1",
+      "opcion3": "https://streamtp4.com/global1.php?stream=espn1br",
+      "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Bournemouth",
+      "equipo2": "Aston Villa",
+      "fechaInicio": "2025-05-10T16:30Z",
+      "fecha": "10 de Mayo"
     }
   ],
   "Serie A": [
     {
-      "link": "Go:serieA1",
-      "canal": "https://streamtp4.com/global1.php?stream=disney5",
-      "opcion1": "https://streamtp4.com/global1.php?stream=sportv_3pt",
-      "opcion2": "https://streamtp4.com/global1.php?stream=fox_deportes_usa",
+      "link": "go:serieA1",
+      "canal": "https://streamtp4.com/global1.php?stream=disney3",
+      "opcion1": "https://streamtp4.com/global1.php?stream=espnmx",
+      "opcion2": "https://streamtp4.com/global1.php?stream=sportv_3pt",
+      "opcion3": "https://streamtp4.com/global1.php?stream=disney3",
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Como",
+      "equipo2": "Cagliari",
+      "fechaInicio": "2025-05-10T13:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:serieA2",
+      "canal": "https://streamtp4.com/global1.php?stream=espn2",
+      "opcion1": "https://streamtp4.com/global1.php?stream=disney13",
+      "opcion2": "https://streamtp4.com/global1.php?stream=espnmx",
       "opcion3": "https://streamtp4.com/global1.php?stream=fox_deportes_usa",
-      "torneo": "Serie A",
-      "equipo1": "Milan",
-      "equipo2": "Bologna",
-      "fechaInicio": "2025-05-09T18:45Z",
-      "fecha": "9 de Mayo"
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Lazio",
+      "equipo2": "Juventus",
+      "fechaInicio": "2025-05-10T16:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:serieA3",
+      "canal": "https://streamtp4.com/global1.php?stream=disney20",
+      "opcion1": "https://streamtp4.com/global1.php?stream=sportv_4pt",
+      "opcion2": "https://streamtp4.com/global1.php?stream=fox_deportes_usa",
+      "opcion3": "https://streamtp4.com/global1.php?stream=disney20",
+      "torneo": "Serie A 🇮🇹",
+      "equipo1": "Empoli",
+      "equipo2": "Parma",
+      "fechaInicio": "2025-05-10T18:45Z",
+      "fecha": "10 de Mayo"
     }
   ],
   "Bundesliga": [
     {
-      "link": "Go:bundes1",
-      "canal": "https://streamtp4.com/global1.php?stream=disney3",
-      "opcion1": "https://streamtp4.com/global1.php?stream=eleven1_pt",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney3",
-      "opcion3": "https://streamtp4.com/global1.php?stream=eleven1_pt",
-      "torneo": "Bundesliga",
-      "equipo1": "Wolfsburg",
-      "equipo2": "Hoffenheim",
-      "fechaInicio": "2025-05-09T18:30Z",
-      "fecha": "9 de Mayo"
+      "link": "go:bundes1",
+      "canal": "https://streamtp4.com/global1.php?stream=espn2",
+      "opcion1": "https://streamtp4.com/global1.php?stream=disney4",
+      "opcion2": "https://streamtp4.com/global1.php?stream=eleven4_pt",
+      "opcion3": "https://streamtp4.com/global1.php?stream=espn2",
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Werder Bremen",
+      "equipo2": "RB Leipzig",
+      "fechaInicio": "2025-05-10T13:30Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:bundes2",
+      "canal": "https://streamtp4.com/global1.php?stream=disney5",
+      "opcion1": "https://streamtp4.com/global1.php?stream=disney5",
+      "opcion2": "https://streamtp4.com/global1.php?stream=disney5",
+      "opcion3": "https://streamtp4.com/global1.php?stream=disney5",
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Union Berlin",
+      "equipo2": "Heidenheim",
+      "fechaInicio": "2025-05-10T13:30Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:bundes3",
+      "canal": "https://streamtp4.com/global1.php?stream=disney6",
+      "opcion1": "https://streamtp4.com/global1.php?stream=disney6",
+      "opcion2": "https://streamtp4.com/global1.php?stream=disney6",
+      "opcion3": "https://streamtp4.com/global1.php?stream=disney6",
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Bochum",
+      "equipo2": "Mainz 05",
+      "fechaInicio": "2025-05-10T13:30Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:bundes4",
+      "canal": "https://streamtp4.com/global1.php?stream=disney7",
+      "opcion1": "https://streamtp4.com/global1.php?stream=disney7",
+      "opcion2": "https://streamtp4.com/global1.php?stream=disney7",
+      "opcion3": "https://streamtp4.com/global1.php?stream=disney7",
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Kiel",
+      "equipo2": "Freiburg",
+      "fechaInicio": "2025-05-10T13:30Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:bundes5",
+      "canal": "https://streamtp4.com/global1.php?stream=disney16",
+      "opcion1": "https://streamtp4.com/global1.php?stream=eleven2_pt",
+      "opcion2": "https://streamtp4.com/global1.php?stream=disney16",
+      "opcion3": "https://streamtp4.com/global1.php?stream=eleven2_pt",
+      "torneo": "Bundesliga 🇩🇪",
+      "equipo1": "Bayern",
+      "equipo2": "Borussia M'gladbach",
+      "fechaInicio": "2025-05-10T16:30Z",
+      "fecha": "10 de Mayo"
+    }
+  ],
+  "Ligue 1": [
+    {
+      "link": "go:liguee1",
+      "canal": "https://streamtp4.com/global1.php?stream=disney5",
+      "opcion1": "https://streamtp4.com/global1.php?stream=disney5",
+      "opcion2": "https://streamtp4.com/global1.php?stream=disney5",
+      "opcion3": "https://streamtp4.com/global1.php?stream=disney5",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Le Havre",
+      "equipo2": "Marseille",
+      "fechaInicio": "2025-05-10T19:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:ligue2",
+      "canal": "https://streamtp4.com/global1.php?stream=disney6",
+      "opcion1": "https://streamtp4.com/global1.php?stream=disney6",
+      "opcion2": "https://streamtp4.com/global1.php?stream=disney6",
+      "opcion3": "https://streamtp4.com/global1.php?stream=disney6",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Rennes",
+      "equipo2": "Nice",
+      "fechaInicio": "2025-05-10T19:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:ligue3",
+      "canal": "https://streamtp4.com/global1.php?stream=disney7",
+      "opcion1": "https://streamtp4.com/global1.php?stream=espn",
+      "opcion2": "https://streamtp4.com/global1.php?stream=sportv_3pt",
+      "opcion3": "https://streamtp4.com/global1.php?stream=disney7",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Montpellier",
+      "equipo2": "PSG",
+      "fechaInicio": "2025-05-10T19:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:ligue4",
+      "canal": "https://streamtp4.com/global1.php?stream=disney8",
+      "opcion1": "https://streamtp4.com/global1.php?stream=disney8",
+      "opcion2": "https://streamtp4.com/global1.php?stream=disney8",
+      "opcion3": "https://streamtp4.com/global1.php?stream=disney8",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Toulouse",
+      "equipo2": "Lens",
+      "fechaInicio": "2025-05-10T19:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:ligue5",
+      "canal": "https://streamtp4.com/global1.php?stream=disney9",
+      "opcion1": "https://streamtp4.com/global1.php?stream=disney9",
+      "opcion2": "https://streamtp4.com/global1.php?stream=disney9",
+      "opcion3": "https://streamtp4.com/global1.php?stream=disney9",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Brest",
+      "equipo2": "Lille",
+      "fechaInicio": "2025-05-10T19:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:ligue6",
+      "canal": "https://streamtp4.com/global1.php?stream=disney10",
+      "opcion1": "https://streamtp4.com/global1.php?stream=sporttv5",
+      "opcion2": "https://streamtp4.com/global1.php?stream=disney10",
+      "opcion3": "https://streamtp4.com/global1.php?stream=sporttv5",
+      "torneo": "Ligue 1 🇫🇷",
+      "equipo1": "Monaco",
+      "equipo2": "Lyon",
+      "fechaInicio": "2025-05-10T19:00Z",
+      "fecha": "10 de Mayo"
+    }
+  ],
+  "Liga Argentina": [
+    {
+      "link": "go:arg1",
+      "canal": "https://streamtp4.com/global1.php?stream=tntsports",
+      "opcion1": "https://streamtp4.com/global1.php?stream=tntsports",
+      "opcion2": "https://streamtp4.com/global1.php?stream=tntsports",
+      "opcion3": "https://streamtp4.com/global1.php?stream=tntsports",
+      "torneo": "Superliga Argentina",
+      "equipo1": "San Lorenzo",
+      "equipo2": "Tigre",
+      "fechaInicio": "2025-05-10T17:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:arg2",
+      "canal": "https://streamtp4.com/global1.php?stream=espnpremium",
+      "opcion1": "https://streamtp4.com/global1.php?stream=espnpremium",
+      "opcion2": "https://streamtp4.com/global1.php?stream=espnpremium",
+      "opcion3": "https://streamtp4.com/global1.php?stream=espnpremium",
+      "torneo": "Superliga Argentina",
+      "equipo1": "Rosario Central",
+      "equipo2": "Estudiantes",
+      "fechaInicio": "2025-05-10T19:30Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:arg3",
+      "canal": "https://streamtp4.com/global1.php?stream=tntsports",
+      "opcion1": "https://streamtp4.com/global1.php?stream=tntsports",
+      "opcion2": "https://streamtp4.com/global1.php?stream=tntsports",
+      "opcion3": "https://streamtp4.com/global1.php?stream=tntsports",
+      "torneo": "Superliga Argentina",
+      "equipo1": "Racing Club",
+      "equipo2": "Platense",
+      "fechaInicio": "2025-05-10T21:45Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:arg4",
+      "canal": "https://streamtp4.com/global1.php?stream=espnpremium",
+      "opcion1": "https://streamtp4.com/global1.php?stream=espn",
+      "opcion2": "https://streamtp4.com/global1.php?stream=disney1",
+      "opcion3": "https://streamtp4.com/global1.php?stream=espn4br",
+      "torneo": "Superliga Argentina",
+      "equipo1": "Boca Juniors",
+      "equipo2": "Lanús",
+      "fechaInicio": "2025-05-11T00:00Z",
+      "fecha": "10 de Mayo"
+    }
+  ],
+  "Liga Brasileña": [
+    {
+      "link": "go:bra1",
+      "canal": "https://streamtp4.com/global1.php?stream=premiere1",
+      "opcion1": "https://streamtp4.com/global1.php?stream=premiere1",
+      "opcion2": "https://streamtp4.com/global1.php?stream=premiere1",
+      "opcion3": "https://streamtp4.com/global1.php?stream=premiere1",
+      "torneo": "Brasileirão 🇧🇷",
+      "equipo1": "Fortaleza",
+      "equipo2": "Juventude",
+      "fechaInicio": "2025-05-10T19:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:bra2",
+      "canal": "https://streamtp4.com/global1.php?stream=premiere1",
+      "opcion1": "https://streamtp4.com/global1.php?stream=premiere1",
+      "opcion2": "https://streamtp4.com/global1.php?stream=premiere1",
+      "opcion3": "https://streamtp4.com/global1.php?stream=premiere1",
+      "torneo": "Brasileirão 🇧🇷",
+      "equipo1": "Vitória",
+      "equipo2": "Vasco da Gama",
+      "fechaInicio": "2025-05-10T21:30Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:bra3",
+      "canal": "https://streamtp4.com/global1.php?stream=premiere1",
+      "opcion1": "https://streamtp4.com/global1.php?stream=premiere1",
+      "opcion2": "https://streamtp4.com/global1.php?stream=premiere1",
+      "opcion3": "https://streamtp4.com/global1.php?stream=premiere1",
+      "torneo": "Brasileirão 🇧🇷",
+      "equipo1": "Flamengo",
+      "equipo2": "Bahia",
+      "fechaInicio": "2025-05-11T00:00Z",
+      "fecha": "10 de Mayo"
     }
   ],
   "Liga Colombiana": [
     {
-      "link": "Go:col1",
-      "canal": "https://streamtp4.com/global1.php?stream=winplus2",
-      "opcion1": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion2": "https://streamtp4.com/global1.php?stream=winplus2",
-      "opcion3": "https://streamtp4.com/global1.php?stream=winplus",
-      "torneo": "Liga Colombiana",
-      "equipo1": "Deportes Tolima",
-      "equipo2": "Unión Magdalena",
-      "fechaInicio": "2025-05-09T23:20Z",
-      "fecha": "9 de Mayo"
+      "link": "go:col1",
+      "canal": "https://streamtp4.com/global1.php?stream=winplus",
+      "opcion1": "https://streamtp4.com/global1.php?stream=winplus2",
+      "opcion2": "https://streamtp4.com/global1.php?stream=winplus",
+      "opcion3": "https://streamtp4.com/global1.php?stream=winplus2",
+      "torneo": "Liga Betplay 🇨🇴",
+      "equipo1": "Envigado",
+      "equipo2": "Rionegro Águilas",
+      "fechaInicio": "2025-05-10T20:00Z",
+      "fecha": "10 de Mayo"
     },
     {
-      "link": "Go:col2",
-      "canal": "https://streamtp4.com/global1.php?stream=winplus2",
-      "opcion1": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion2": "https://streamtp4.com/global1.php?stream=winplus2",
-      "opcion3": "https://streamtp4.com/global1.php?stream=winplus",
-      "torneo": "Liga Colombiana",
-      "equipo1": "Atlético Bucaramanga",
-      "equipo2": "Medellín",
-      "fechaInicio": "2025-05-10T01:30Z",
-      "fecha": "9 de Mayo"
+      "link": "go:col2",
+      "canal": "https://streamtp4.com/global1.php?stream=winplus",
+      "opcion1": "https://streamtp4.com/global1.php?stream=winplus2",
+      "opcion2": "https://streamtp4.com/global1.php?stream=winplus",
+      "opcion3": "https://streamtp4.com/global1.php?stream=winplus2",
+      "torneo": "Liga Betplay 🇨🇴",
+      "equipo1": "Fortaleza CEIF",
+      "equipo2": "La Equidad",
+      "fechaInicio": "2025-05-10T22:10Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:col3",
+      "canal": "https://streamtp4.com/global1.php?stream=winplus",
+      "opcion1": "https://streamtp4.com/global1.php?stream=winplus2",
+      "opcion2": "https://streamtp4.com/global1.php?stream=winplus",
+      "opcion3": "https://streamtp4.com/global1.php?stream=winplus2",
+      "torneo": "Liga Betplay 🇨🇴",
+      "equipo1": "Santa Fe",
+      "equipo2": "Junior",
+      "fechaInicio": "2025-05-11T00:20Z",
+      "fecha": "10 de Mayo"
     }
   ],
   "Liga Ecuatoriana": [
     {
-      "link": "Go:ecu1",
+      "link": "go:ecu1",
       "canal": "https://streamtp4.com/global1.php?stream=ecdf",
       "opcion1": "https://streamtp4.com/global1.php?stream=ecdf",
       "opcion2": "https://streamtp4.com/global1.php?stream=ecdf",
       "opcion3": "https://streamtp4.com/global1.php?stream=ecdf",
-      "torneo": "Liga Ecuatoriana",
-      "equipo1": "Orense",
-      "equipo2": "Deportivo Cuenca",
-      "fechaInicio": "2025-05-10T00:00Z",
-      "fecha": "9 de Mayo"
+      "torneo": "Liga Pro 🇪🇨",
+      "equipo1": "Manta",
+      "equipo2": "Mushuc Runa",
+      "fechaInicio": "2025-05-10T18:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:ecu2",
+      "canal": "https://streamtp4.com/global1.php?stream=ecdf",
+      "opcion1": "https://streamtp4.com/global1.php?stream=ecdf",
+      "opcion2": "https://streamtp4.com/global1.php?stream=ecdf",
+      "opcion3": "https://streamtp4.com/global1.php?stream=ecdf",
+      "torneo": "Liga Pro 🇪🇨",
+      "equipo1": "Macará",
+      "equipo2": "LDU Quito",
+      "fechaInicio": "2025-05-10T20:30Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:ecu3",
+      "canal": "https://streamtp4.com/global1.php?stream=ecdf",
+      "opcion1": "https://streamtp4.com/global1.php?stream=ecdf",
+      "opcion2": "https://streamtp4.com/global1.php?stream=ecdf",
+      "opcion3": "https://streamtp4.com/global1.php?stream=ecdf",
+      "torneo": "Liga Pro 🇪🇨",
+      "equipo1": "Libertad",
+      "equipo2": "Delfin",
+      "fechaInicio": "2025-05-11T00:00Z",
+      "fecha": "10 de Mayo"
     }
   ],
   "Liga Peruana": [
     {
-      "link": "Go:per1",
+      "link": "go:per1",
       "canal": "https://streamtp4.com/global1.php?stream=liga1max",
       "opcion1": "https://streamtp4.com/global1.php?stream=liga1max",
       "opcion2": "https://streamtp4.com/global1.php?stream=liga1max",
       "opcion3": "https://streamtp4.com/global1.php?stream=liga1max",
-      "torneo": "Liga Peruana",
-      "equipo1": "Comerciantes Unidos",
-      "equipo2": "Binacional",
-      "fechaInicio": "2025-05-09T20:30Z",
-      "fecha": "9 de Mayo"
+      "torneo": "Liga 1 🇵🇪",
+      "equipo1": "Ayacucho",
+      "equipo2": "Sporting Cristal",
+      "fechaInicio": "2025-05-10T17:00Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:per2",
+      "canal": "https://streamtp4.com/global1.php?stream=liga1max",
+      "opcion1": "https://streamtp4.com/global1.php?stream=liga1max",
+      "opcion2": "https://streamtp4.com/global1.php?stream=liga1max",
+      "opcion3": "https://streamtp4.com/global1.php?stream=liga1max",
+      "torneo": "Liga 1 🇵🇪",
+      "equipo1": "Atlético Grau",
+      "equipo2": "Alianza Lima",
+      "fechaInicio": "2025-05-10T20:30Z",
+      "fecha": "10 de Mayo"
+    },
+    {
+      "link": "go:per3",
+      "canal": "https://streamtp4.com/global1.php?stream=liga1max",
+      "opcion1": "https://streamtp4.com/global1.php?stream=liga1max",
+      "opcion2": "https://streamtp4.com/global1.php?stream=liga1max",
+      "opcion3": "https://streamtp4.com/global1.php?stream=liga1max",
+      "torneo": "Liga 1 🇵🇪",
+      "equipo1": "Cienciano",
+      "equipo2": "Melgar",
+      "fechaInicio": "2025-05-11T02:00Z",
+      "fecha": "10 de Mayo"
+    }
+  ],
+  "Liga Mexicana": [
+    {
+      "link": "go:mex1",
+      "canal": "https://streamtp4.com/global1.php?stream=tudn_usa",
+      "opcion1": "https://streamtp4.com/global1.php?stream=tudn_usa",
+      "opcion2": "https://streamtp4.com/global1.php?stream=tudn_usa",
+      "opcion3": "https://streamtp4.com/global1.php?stream=tudn_usa",
+      "torneo": "Liga MX 🇲🇽",
+      "equipo1": "Toluca",
+      "equipo2": "Monterrey",
+      "fechaInicio": "2025-05-11T01:00Z",
+      "fecha": "10 de Mayo"
+    }
+  ],
+  "MLS": [
+    {
+      "link": "go:mls1",
+      "canal": "https://streamtp4.com/global1.php?stream=mls1es",
+      "opcion1": "https://streamtp4.com/global1.php?stream=mls1es",
+      "opcion2": "https://streamtp4.com/global1.php?stream=mls1es",
+      "opcion3": "https://streamtp4.com/global1.php?stream=mls1es",
+      "torneo": "MLS",
+      "equipo1": "Minnesota United",
+      "equipo2": "Inter Miami",
+      "fechaInicio": "2025-05-10T20:30Z",
+      "fecha": "10 de Mayo"
     }
   ]
 }
