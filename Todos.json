@@ -76,10 +76,10 @@
     },
     {
       "link": "go:prem2",
-      "canal": "https://streamtp4.com/global1.php?stream=espn",
+      "canal": "https://streamtp4.com/global1.php?stream=max1",
       "opcion1": "https://streamtp4.com/global1.php?stream=disney9",
-      "opcion2": "https://streamtp4.com/global1.php?stream=peacock2",
-      "opcion3": "https://streamtp4.com/global1.php?stream=espn",
+      "opcion2": "https://streamtp4.com/global1.php?stream=max1",
+      "opcion3": "https://streamtp4.com/global1.php?stream=peacock2",
       "torneo": "Premier League",
       "equipo1": "Ipswich Town",
       "equipo2": "Brentford",
