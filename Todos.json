@@ -1,394 +1,84 @@
 {
   "Liga Argentina": [
     {
-      "link": "go:arg1",
-      "canal": "1https://streamtp4.com/global1.php?stream=espnpremium",
-      "opcion1": "https://streamtp4.com/global1.php?stream=espnpremium",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espnpremium",
-      "opcion3": "https://streamtp4.com/global1.php?stream=espnpremium",
-      "torneo": "Liga Argentina",
-      "equipo1": "Independiente",
-      "equipo2": "Independiente Rivadavia",
-      "fechaInicio": "2025-05-11T18:30:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:arg2",
-      "canal": "https://streamtp4.com/global1.php?stream=tntsports",
+      "link": "Go:arg1",
+      "canal": "https://streamtp4.com/global1.php?stream=espn",
       "opcion1": "https://streamtp4.com/global1.php?stream=tntsports",
-      "opcion2": "https://streamtp4.com/global1.php?stream=tntsports",
-      "opcion3": "https://streamtp4.com/global1.php?stream=tntsports",
-      "torneo": "Liga Argentin",
-      "equipo1": "Argentinos Juniors",
-      "equipo2": "Instituto",
-      "fechaInicio": "2025-05-11T21:00:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:arg3",
-      "canal": "https://streamtp4.com/global1.php?stream=espnpremium",
-      "opcion1": "https://streamtp4.com/global1.php?stream=espnpremium",
       "opcion2": "https://streamtp4.com/global1.php?stream=espn4br",
-      "opcion3": "https://streamtp4.com/global1.php?stream=espn4br",
-      "torneo": "Liga Argentina",
-      "equipo1": "Huracán",
-      "equipo2": "Deportivo Riestra",
-      "fechaInicio": "2025-05-11T23:30:00Z",
-      "fecha": "23 de Marzo"
-    }
-  ],
-  "Premier League": [
-    {
-      "link": "go:prem1",
-      "canal": "https://streamtp4.com/global1.php?stream=disney2",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney2",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espn1br",
-      "opcion3": "https://streamtp4.com/global1.php?stream=espn",
-      "torneo": "Premier League",
-      "equipo1": "Newcastle",
-      "equipo2": "Chelsea",
-      "fechaInicio": "2025-05-11T11:00:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:prem2",
-      "canal": "https://streamtp4.com/global1.php?stream=disney9",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney9",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espn4br",
-      "opcion3": "https://streamtp4.com/global1.php?stream=eleven3_pt",
-      "torneo": "Premier League",
-      "equipo1": "Forest",
-      "equipo2": "Leicester City",
-      "fechaInicio": "2025-05-11T13:15:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:prem3",
-      "canal": "https://streamtp4.com/global1.php?stream=disney8",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney8",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espn2br",
-      "opcion3": "https://streamtp4.com/global1.php?stream=max2",
-      "torneo": "Premier League",
-      "equipo1": "Tottenham",
-      "equipo2": "Crystal Palace",
-      "fechaInicio": "2025-05-11T13:15:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:prem4",
-      "canal": "https://streamtp4.com/global1.php?stream=disney10",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney10",
-      "opcion2": "https://streamtp4.com/global1.php?stream=eleven2_pt",
-      "opcion3": "https://streamtp4.com/global1.php?stream=dazn2",
-      "torneo": "Premier League",
-      "equipo1": "Manchester United",
-      "equipo2": "West Ham",
-      "fechaInicio": "2025-05-11T13:15:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:prem5",
-      "canal": "https://streamtp4.com/global1.php?stream=disney16",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney16",
-      "opcion2": "https://streamtp4.com/global1.php?stream=eleven2_pt",
-      "opcion3": "https://streamtp4.com/global1.php?stream=dazn2",
-      "torneo": "Premier League",
-      "equipo1": "Liverpool",
-      "equipo2": "Arsenal",
-      "fechaInicio": "2025-05-11T15:30:00Z",
-      "fecha": "23 de Marzo"
-    }
-  ],
-  "La Liga": [
-    {
-      "link": "go:laliga1",
-      "canal": "https://streamtp4.com/global1.php?stream=disney5",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney5",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espn4",
-      "opcion3": "https://streamtp4.com/global1.php?stream=eleven1_pt",
-      "torneo": "La Liga 🇪🇸",
-      "equipo1": "Leganés",
-      "equipo2": "Espanyol",
-      "fechaInicio": "2025-05-11T12:00:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:laliga2",
-      "canal": "https://streamtp4.com/global2.php?stream=espn",
-      "opcion1": "https://streamtp4.com/global1.php?stream=espn",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espnplus4",
-      "opcion3": "https://streamtp4.com/global1.php?stream=espndeportes",
-      "torneo": "La Liga 🇪🇸",
-      "equipo1": "Barcelona",
-      "equipo2": "Real Madrid",
-      "fechaInicio": "2025-05-11T14:15:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:laliga3",
-      "canal": "https://streamtp4.com/global1.php?stream=dsports",
-      "opcion1": "https://streamtp4.com/global1.php?stream=dsports",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espndeportes",
-      "opcion3": "https://streamtp4.com/global1.php?stream=eleven4_pt",
-      "torneo": "La Liga 🇪🇸",
-      "equipo1": "Athletic Club",
-      "equipo2": "Alavés",
-      "fechaInicio": "2025-05-11T16:30:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:laliga4",
-      "canal": "https://streamtp4.com/global1.php?stream=dsports",
-      "opcion1": "https://streamtp4.com/global1.php?stream=dsports",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espndeportes",
-      "opcion3": "https://streamtp4.com/global1.php?stream=espn4br",
-      "torneo": "La Liga 🇪🇸",
-      "equipo1": "Real Betis",
-      "equipo2": "Osasuna",
-      "fechaInicio": "2025-05-11T19:00:00Z",
-      "fecha": "23 de Marzo"
+      "opcion3": "https://streamtp4.com/global1.php?stream=disney6",
+      "torneo": "Primera división Argentina 🇦🇷",
+      "equipo1": "River Plate",
+      "equipo2": "Barracas Central",
+      "fechaInicio": "2025-05-12T23:30Z",
+      "fecha": "12 de Mayo"
     }
   ],
   "Serie A": [
     {
-      "link": "go:serieA1",
+      "link": "Go:serieA1",
       "canal": "https://streamtp4.com/global1.php?stream=disney1",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney1",
-      "opcion2": "https://streamtp4.com/global1.php?stream=sportv_2pt",
-      "opcion3": "https://streamtp4.com/global1.php?stream=sportv_2pt",
+      "opcion1": "https://streamtp4.com/global1.php?stream=espn",
+      "opcion2": "https://streamtp4.com/global1.php?stream=sportv_1pt",
+      "opcion3": "https://streamtp4.com/global1.php?stream=disney1",
       "torneo": "Serie A 🇮🇹",
-      "equipo1": "Udinese",
-      "equipo2": "Monza",
-      "fechaInicio": "2025-05-11T10:30:00Z",
-      "fecha": "23 de Marzo"
+      "equipo1": "Venezia",
+      "equipo2": "Fiorentina",
+      "fechaInicio": "2025-05-12T16:30Z",
+      "fecha": "12 de Mayo"
     },
     {
-      "link": "go:serieA2",
-      "canal": "https://streamtp4.com/global1.php?stream=disney7",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney7",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney7",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney7",
+      "link": "Go:serieA2",
+      "canal": "https://streamtp4.com/global1.php?stream=espn",
+      "opcion1": "https://streamtp4.com/global1.php?stream=disney4",
+      "opcion2": "https://streamtp4.com/global1.php?stream=espn3br",
+      "opcion3": "https://streamtp4.com/global1.php?stream=sportv_1pt",
       "torneo": "Serie A 🇮🇹",
-      "equipo1": "Verona",
-      "equipo2": "Lecce",
-      "fechaInicio": "2025-05-11T13:00:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:serieA3",
-      "canal": "https://streamtp4.com/global1.php?stream=disney18",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney18",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espn4br",
-      "opcion3": "https://streamtp4.com/global1.php?stream=espn2",
-      "torneo": "Serie A 🇮🇹",
-      "equipo1": "Torino",
-      "equipo2": "Inter",
-      "fechaInicio": "2025-05-11T16:00:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:serieA4",
-      "canal": "https://streamtp4.com/global1.php?stream=disney5",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney5",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espn3mx",
-      "opcion3": "https://streamtp4.com/global1.php?stream=sportv_4pt",
-      "torneo": "Serie A 🇮🇹",
-      "equipo1": "Napoli",
-      "equipo2": "Genoa",
-      "fechaInicio": "2025-05-11T18:45:00Z",
-      "fecha": "23 de Marzo"
+      "equipo1": "Atalanta",
+      "equipo2": "Roma",
+      "fechaInicio": "2025-05-12T18:45Z",
+      "fecha": "12 de Mayo"
     }
   ],
-  "Bundesliga": [
+  "Liga Brasileña": [
     {
-      "link": "go:bundes1",
-      "canal": "https://streamtp4.com/global1.php?stream=disney11",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney11",
-      "opcion2": "https://streamtp4.com/global1.php?stream=eleven4_pt",
-      "opcion3": "https://streamtp4.com/global1.php?stream=eleven4_pt",
-      "torneo": "Bundesliga 🇩🇪",
-      "equipo1": "Leverkusen",
-      "equipo2": "Borussia Dortmund",
-      "fechaInicio": "2025-05-11T13:30:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:bundes2",
-      "canal": "https://streamtp4.com/global1.php?stream=disney17",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney17",
-      "opcion2": "https://streamtp4.com/global1.php?stream=eleven3_pt",
-      "opcion3": "https://streamtp4.com/global1.php?stream=eleven3_pt",
-      "torneo": "Bundesliga 🇩🇪",
-      "equipo1": "Eintracht Frankfurt",
-      "equipo2": "St. Pauli",
-      "fechaInicio": "2025-05-11T15:30:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:bundes3",
-      "canal": "https://streamtp4.com/global1.php?stream=disney2",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney2",
-      "opcion2": "https://streamtp4.com/global1.php?stream=eleven3_pt",
-      "opcion3": "https://streamtp4.com/global1.php?stream=eleven3_pt",
-      "torneo": "Bundesliga 🇩🇪",
-      "equipo1": "Stuttgart",
-      "equipo2": "Augsburg",
-      "fechaInicio": "2025-05-11T17:30:00Z",
-      "fecha": "23 de Marzo"
-    }
-  ],
-  "Copa Argentina": [
-    {
-      "link": "go:copaarg1",
-      "canal": "https://streamtp4.com/global1.php?stream=tycsports",
-      "opcion1": "https://streamtp4.com/global1.php?stream=tycsports",
-      "opcion2": "https://streamtp4.com/global1.php?stream=tycsports",
-      "opcion3": "https://streamtp4.com/global1.php?stream=tycsports",
-      "torneo": "Copa Argentina",
-      "equipo1": "Central Córdoba",
-      "equipo2": "Gimnasia",
-      "fechaInicio": "2025-05-11T18:30:00Z",
-      "fecha": "23 de Marzo"
-    }
-  ],
-  "Liga Colombiana": [
-    {
-      "link": "go:col1",
-      "canal": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion1": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion2": "https://streamtp4.com/global1.php?stream=winplus2",
-      "opcion3": "https://streamtp4.com/global1.php?stream=winplus2",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Alianza Petrolera",
-      "equipo2": "Deportivo Cali",
-      "fechaInicio": "2025-05-11T21:00:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:col2",
-      "canal": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion1": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion2": "https://streamtp4.com/global1.php?stream=winplus2",
-      "opcion3": "https://streamtp4.com/global1.php?stream=winplus2",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Atlético Nacional",
-      "equipo2": "Llaneros",
-      "fechaInicio": "2025-05-11T23:00:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:col3",
-      "canal": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion1": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion2": "https://streamtp4.com/global1.php?stream=winplus2",
-      "opcion3": "https://streamtp4.com/global1.php?stream=winplus2",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Once Caldas",
-      "equipo2": "Millonarios",
-      "fechaInicio": "2025-05-12T01:20:00Z",
-      "fecha": "23 de Marzo"
+      "link": "Go:bra1",
+      "canal": "https://streamtp4.com/global1.php?stream=premiere1",
+      "opcion1": "https://streamtp4.com/global1.php?stream=premiere1",
+      "opcion2": "https://streamtp4.com/global1.php?stream=premiere1",
+      "opcion3": "https://streamtp4.com/global1.php?stream=premiere1",
+      "torneo": "Brasileirão 🇧🇷",
+      "equipo1": "Santos",
+      "equipo2": "Ceará",
+      "fechaInicio": "2025-05-12T23:00Z",
+      "fecha": "12 de Mayo"
     }
   ],
   "Liga Ecuatoriana": [
     {
-      "link": "go:ecu1",
+      "link": "Go:ecu1",
       "canal": "https://streamtp4.com/global1.php?stream=ecdf",
       "opcion1": "https://streamtp4.com/global1.php?stream=ecdf",
       "opcion2": "https://streamtp4.com/global1.php?stream=ecdf",
       "opcion3": "https://streamtp4.com/global1.php?stream=ecdf",
-      "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "Técnico Universitario",
-      "equipo2": "Independiente del Valle",
-      "fechaInicio": "2025-05-11T18:00:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:ecu2",
-      "canal": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion1": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion2": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion3": "https://streamtp4.com/global1.php?stream=ecdf",
-      "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "U. Católica (E)",
-      "equipo2": "Barcelona SC",
-      "fechaInicio": "2025-05-11T20:30:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:ecu3",
-      "canal": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion1": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion2": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion3": "https://streamtp4.com/global1.php?stream=ecdf",
-      "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "Emelec",
-      "equipo2": "Aucas",
-      "fechaInicio": "2025-05-11T23:00:00Z",
-      "fecha": "23 de Marzo"
+      "torneo": "Liga Pro 🇪🇨",
+      "equipo1": "El Nacional",
+      "equipo2": "Cuniburo",
+      "fechaInicio": "2025-05-13T00:00Z",
+      "fecha": "12 de Mayo"
     }
   ],
   "Liga Peruana": [
     {
-      "link": "go:per1",
+      "link": "Go:per1",
       "canal": "https://streamtp4.com/global1.php?stream=liga1max",
       "opcion1": "https://streamtp4.com/global1.php?stream=liga1max",
       "opcion2": "https://streamtp4.com/global1.php?stream=liga1max",
       "opcion3": "https://streamtp4.com/global1.php?stream=liga1max",
-      "torneo": "Liga Peruana 🇵🇪",
-      "equipo1": "Los Chankas",
-      "equipo2": "UTC Cajamarca",
-      "fechaInicio": "2025-05-11T18:00:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:per2",
-      "canal": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion1": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion2": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion3": "https://streamtp4.com/global1.php?stream=liga1max",
-      "torneo": "Liga Peruana 🇵🇪",
-      "equipo1": "ADT",
-      "equipo2": "Juan Pablo II College",
-      "fechaInicio": "2025-05-11T20:15:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:per3",
-      "canal": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion1": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion2": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion3": "https://streamtp4.com/global1.php?stream=liga1max",
-      "torneo": "Liga Peruana 🇵🇪",
-      "equipo1": "Deportivo Garcilaso",
-      "equipo2": "Cusco",
-      "fechaInicio": "2025-05-11T22:30:00Z",
-      "fecha": "23 de Marzo"
-    },
-    {
-      "link": "go:per4",
-      "canal": "https://streamtp4.com/global1.php?stream=golperu",
-      "opcion1": "https://streamtp4.com/global1.php?stream=golperu",
-      "opcion2": "https://streamtp4.com/global1.php?stream=golperu",
-      "opcion3": "https://streamtp4.com/global1.php?stream=golperu",
-      "torneo": "Liga Peruana 🇵🇪",
-      "equipo1": "Universitario",
-      "equipo2": "Alianza Atlético",
-      "fechaInicio": "2025-05-11T23:30:00Z",
-      "fecha": "23 de Marzo"
-    }
-  ],
-  "Liga Mexicana": [
-    {
-      "link": "go:mex1",
-      "canal": "https://streamtp4.com/global1.php?stream=tudn_usa",
-      "opcion1": "https://streamtp4.com/global1.php?stream=tudn_usa",
-      "opcion2": "https://streamtp4.com/global1.php?stream=canal5mx",
-      "opcion3": "https://streamtp4.com/global1.php?stream=univision_usa",
-      "torneo": "Liga Mexicana 🇲🇽",
-      "equipo1": "Cruz Azul",
-      "equipo2": "León",
-      "fechaInicio": "2025-05-12T01:00:00Z",
-      "fecha": "23 de Marzo"
+      "torneo": "Liga 1 🇵🇪",
+      "equipo1": "Alianza Universidad",
+      "equipo2": "Sport Huancayo",
+      "fechaInicio": "2025-05-12T20:30Z",
+      "fecha": "12 de Mayo"
     }
   ]
 }
