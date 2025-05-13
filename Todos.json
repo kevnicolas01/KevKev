@@ -1,84 +1,166 @@
 {
-  "Liga Argentina": [
+  "La Liga": [
     {
-      "link": "Go:arg1",
-      "canal": "https://streamtp4.com/global1.php?stream=espn",
-      "opcion1": "https://streamtp4.com/global1.php?stream=tntsports",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espn4br",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney6",
-      "torneo": "Primera división Argentina 🇦🇷",
-      "equipo1": "River Plate",
-      "equipo2": "Barracas Central",
-      "fechaInicio": "2025-05-12T23:30Z",
-      "fecha": "12 de Mayo"
-    }
-  ],
-  "Serie A": [
-    {
-      "link": "Go:serieA1",
-      "canal": "https://streamtp4.com/global1.php?stream=disney1",
-      "opcion1": "https://streamtp4.com/global1.php?stream=espn",
-      "opcion2": "https://streamtp4.com/global1.php?stream=sportv_1pt",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney1",
-      "torneo": "Serie A 🇮🇹",
-      "equipo1": "Venezia",
-      "equipo2": "Fiorentina",
-      "fechaInicio": "2025-05-12T16:30Z",
-      "fecha": "12 de Mayo"
+      "link": "go:laliga1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Real Valladolid",
+      "equipo2": "Girona",
+      "fechaInicio": "2025-05-13T17:00Z",
+      "fecha": "13 de Mayo"
     },
     {
-      "link": "Go:serieA2",
-      "canal": "https://streamtp4.com/global1.php?stream=espn",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney4",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espn3br",
-      "opcion3": "https://streamtp4.com/global1.php?stream=sportv_1pt",
-      "torneo": "Serie A 🇮🇹",
-      "equipo1": "Atalanta",
-      "equipo2": "Roma",
-      "fechaInicio": "2025-05-12T18:45Z",
-      "fecha": "12 de Mayo"
+      "link": "go:laliga2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Real Sociedad",
+      "equipo2": "Celta",
+      "fechaInicio": "2025-05-13T18:00Z",
+      "fecha": "13 de Mayo"
+    },
+    {
+      "link": "go:laliga3",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Sevilla",
+      "equipo2": "Las Palmas",
+      "fechaInicio": "2025-05-13T19:30Z",
+      "fecha": "13 de Mayo"
     }
   ],
-  "Liga Brasileña": [
+  "Liga Colombiana": [
     {
-      "link": "Go:bra1",
-      "canal": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion1": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion2": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion3": "https://streamtp4.com/global1.php?stream=premiere1",
-      "torneo": "Brasileirão 🇧🇷",
-      "equipo1": "Santos",
-      "equipo2": "Ceará",
-      "fechaInicio": "2025-05-12T23:00Z",
-      "fecha": "12 de Mayo"
+      "link": "Go:col1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Betplay 🇨🇴",
+      "equipo1": "Deportivo Pereira",
+      "equipo2": "Deportivo Pasto",
+      "fechaInicio": "2025-05-14T00:30Z",
+      "fecha": "13 de Mayo"
     }
   ],
-  "Liga Ecuatoriana": [
+  "Sudamericana": [
     {
-      "link": "Go:ecu1",
-      "canal": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion1": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion2": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion3": "https://streamtp4.com/global1.php?stream=ecdf",
-      "torneo": "Liga Pro 🇪🇨",
-      "equipo1": "El Nacional",
-      "equipo2": "Cuniburo",
-      "fechaInicio": "2025-05-13T00:00Z",
-      "fecha": "12 de Mayo"
+      "link": "Go:suda1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Sudamericana",
+      "equipo1": "Nacional Potosí",
+      "equipo2": "Boston River",
+      "fechaInicio": "2025-05-13T22:00Z",
+      "fecha": "13 de Mayo"
+    },
+    {
+      "link": "Go:suda2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Sudamericana",
+      "equipo1": "Grêmio",
+      "equipo2": "Godoy Cruz",
+      "fechaInicio": "2025-05-13T22:00Z",
+      "fecha": "13 de Mayo"
+    },
+    {
+      "link": "Go:suda3",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Sudamericana",
+      "equipo1": "Unión",
+      "equipo2": "Mushuc Runa",
+      "fechaInicio": "2025-05-14T00:30Z",
+      "fecha": "13 de Mayo"
+    },
+    {
+      "link": "Go:suda4",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Sudamericana",
+      "equipo1": "Lanús",
+      "equipo2": "Vasco da Gama",
+      "fechaInicio": "2025-05-14T00:30Z",
+      "fecha": "13 de Mayo"
+    },
+    {
+      "link": "Go:suda5",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Sudamericana",
+      "equipo1": "Academia Puerto Cabello",
+      "equipo2": "Melgar",
+      "fechaInicio": "2025-05-14T00:30Z",
+      "fecha": "13 de Mayo"
     }
   ],
-  "Liga Peruana": [
+  "Libertadores": [
     {
-      "link": "Go:per1",
-      "canal": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion1": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion2": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion3": "https://streamtp4.com/global1.php?stream=liga1max",
-      "torneo": "Liga 1 🇵🇪",
-      "equipo1": "Alianza Universidad",
-      "equipo2": "Sport Huancayo",
-      "fechaInicio": "2025-05-12T20:30Z",
-      "fecha": "12 de Mayo"
+      "link": "go:Lib1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Libertadores",
+      "equipo1": "Deportivo Táchira",
+      "equipo2": "Central Córdoba",
+      "fechaInicio": "2025-05-13T22:00Z",
+      "fecha": "13 de Mayo"
+    },
+    {
+      "link": "go:Lib2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Libertadores",
+      "equipo1": "Universidad Chile",
+      "equipo2": "Carabobo",
+      "fechaInicio": "2025-05-14T00:30Z",
+      "fecha": "13 de Mayo"
+    },
+    {
+      "link": "go:Lib3",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Libertadores",
+      "equipo1": "Fortaleza",
+      "equipo2": "Atlético Bucaramanga",
+      "fechaInicio": "2025-05-14T00:30Z",
+      "fecha": "13 de Mayo"
+    },
+    {
+      "link": "go:Lib4",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Libertadores",
+      "equipo1": "Sporting Cristal",
+      "equipo2": "Cerro Porteño",
+      "fechaInicio": "2025-05-14T00:30Z",
+      "fecha": "13 de Mayo"
     }
   ]
 }
