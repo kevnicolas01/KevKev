@@ -8,7 +8,7 @@
       "opcion3": "https://streamtp4.com/global1.php?stream=usa_network",
       "torneo": "Premier League",
       "equipo1": "Aston Villa",
-      "equipo2": "Tottenham Hotspur",
+      "equipo2": "Tottenham",
       "fechaInicio": "2025-05-16T18:30Z",
       "fecha": "16 de Mayo"
     },
@@ -25,6 +25,32 @@
       "fecha": "16 de Mayo"
     }
   ],
+  "Liga Paraguaya": [
+    {
+      "link": "Go:paraguay1",
+      "canal": "https://streamtp4.com/global1.php?stream=eventos9",
+      "opcion1": "https://streamtp4.com/global1.php?stream=eventos9",
+      "opcion2": "https://streamtp4.com/global1.php?stream=eventos9",
+      "opcion3": "https://streamtp4.com/global1.php?stream=eventos9",
+      "torneo": "Liga Paraguaya 🇵🇾",
+      "equipo1": "Deportivo Recoleta",
+      "equipo2": "Atlético Tembetary",
+      "fechaInicio": "2025-05-16T20:00Z",
+      "fecha": "16 de Mayo"
+    },
+     {
+      "link": "Go:paraguay2",
+      "canal": "https://streamtp4.com/global1.php?stream=eventos9",
+      "opcion1": "https://streamtp4.com/global1.php?stream=eventos9",
+      "opcion2": "https://streamtp4.com/global1.php?stream=eventos9",
+      "opcion3": "https://streamtp4.com/global1.php?stream=eventos9",
+      "torneo": "Liga Paraguaya 🇵🇾",
+      "equipo1": "Cerro porteño",
+      "equipo2": "General Caballero",
+      "fechaInicio": "2025-05-16T22:30Z",
+      "fecha": "16 de Mayo"
+    }
+   ],
   "Liga Chilena": [
     {
       "link": "Go:chile1",
