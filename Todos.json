@@ -173,32 +173,99 @@
       "equipo2": "Independiente del Valle",
       "fechaInicio": "2025-05-16T00:30Z",
       "fecha": "15 de Mayo"
+{
+  "Premier League": [
+    {
+      "link": "Go:prem1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Premier League",
+      "equipo1": "Aston Villa",
+      "equipo2": "Tottenham",
+      "fechaInicio": "2025-05-16T18:30Z",
+      "fecha": "16 de Mayo"
     },
     {
-      "link": "go:Lib5",
-      "canal": "https://streamtp4.com/global1.php?stream=disney10",
-      "opcion1": "https://streamtp4.com/global1.php?stream=fox2ar",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espn7",
-      "opcion3": "https://streamtp4.com/global1.php?stream=sportv_1pt",
-      "torneo": "Libertadores",
-      "equipo1": "Flamengo",
-      "equipo2": "LDU Quito",
-      "fechaInicio": "2025-05-16T00:30Z",
-      "fecha": "15 de Mayo"
+      "link": "Go:prem2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Premier League",
+      "equipo1": "Chelsea",
+      "equipo2": "Manchester United",
+      "fechaInicio": "2025-05-16T19:15Z",
+      "fecha": "16 de Mayo"
     }
   ],
-  "Liga Mexicana": [
+  "Liga Chilena": [
     {
-      "link": "Go:mex1",
-      "canal": "https://streamtp4.com/global1.php?stream=tudn_usa",
-      "opcion1": "https://streamtp4.com/global1.php?stream=canal5mx",
-      "opcion2": "https://streamtp4.com/global1.php?stream=tudn_usa",
-      "opcion3": "https://streamtp4.com/global1.php?stream=canal5mx",
-      "torneo": "Liga MX 🇲🇽",
-      "equipo1": "Cruz Azul",
-      "equipo2": "América",
-      "fechaInicio": "2025-05-16T02:00Z",
-      "fecha": "15 de Mayo"
+      "link": "Go:chile1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Chilena 🇨🇱",
+      "equipo1": "Unión La Calera",
+      "equipo2": "Coquimbo Unido",
+      "fechaInicio": "2025-05-17T00:00Z",
+      "fecha": "16 de Mayo"
+    }
+  ],
+  "Liga Colombiana": [
+    {
+      "link": "Go:col1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Colombiana 🇨🇴",
+      "equipo1": "Junior",
+      "equipo2": "Fortaleza CEIF",
+      "fechaInicio": "2025-05-17T01:15Z",
+      "fecha": "16 de Mayo"
+    },
+    {
+      "link": "Go:col2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Colombiana 🇨🇴",
+      "equipo1": "Millonarios",
+      "equipo2": "Envigado",
+      "fechaInicio": "2025-05-17T01:15Z",
+      "fecha": "16 de Mayo"
+    }
+  ],
+  "Liga Ecuatoriana": [
+    {
+      "link": "Go:ecu1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Ecuatoriana 🇪🇨",
+      "equipo1": "Deportivo Cuenca",
+      "equipo2": "Técnico Universitario",
+      "fechaInicio": "2025-05-17T00:00Z",
+      "fecha": "16 de Mayo"
+    }
+  ],
+  "Liga Peruana": [
+    {
+      "link": "Go:per1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Peruana 🇵🇪",
+      "equipo1": "Alianza Atlético",
+      "equipo2": "Deportivo Garcilaso",
+      "fechaInicio": "2025-05-16T20:30Z",
+      "fecha": "16 de Mayo"
     }
   ]
 }
