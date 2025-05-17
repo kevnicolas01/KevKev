@@ -2,10 +2,10 @@
   "Serie A": [
     {
       "link": "Go:serieA1",
-      "canal": "",
-      "opcion1": "",
-      "opcion2": "",
-      "opcion3": "",
+      "canal": "https://streamdp1.xyz/global1.php?channel=espn1br",
+      "opcion1": "https://streamdp1.xyz/global1.php?channel=fox_deportes_usa",
+      "opcion2": "https://streamdp1.xyz/global1.php?channel=espnmx",
+      "opcion3": "https://streamdp1.xyz/global1.php?channel=espn3",
       "torneo": "Serie A 🇮🇹",
       "equipo1": "Genoa",
       "equipo2": "Atalanta",
