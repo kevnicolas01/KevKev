@@ -1,470 +1,614 @@
 {
-  "Serie A": [
-    {
-      "link": "Go:serieA1",
-      "canal": "https://streamdp1.xyz/global1.php?channel=espn1br",
-      "opcion1": "https://streamdp1.xyz/global1.php?channel=fox_deportes_usa",
-      "opcion2": "https://streamdp1.xyz/global1.php?channel=espnmx",
-      "opcion3": "https://streamdp1.xyz/global1.php?channel=espn3",
-      "torneo": "Serie A 🇮🇹",
-      "equipo1": "Genoa",
-      "equipo2": "Atalanta",
-      "fechaInicio": "2025-05-17T18:45Z",
-      "fecha": "17 de Mayo"
-    }
-  ],
-  "Bundesliga": [
-    {
-      "link": "Go:bundes1",
-      "canal": "https://streamtp4.com/global1.php?stream=disney2",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney2",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney2",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney2",
-      "torneo": "Bundesliga 🇩🇪",
-      "equipo1": "RB Leipzig",
-      "equipo2": "Stuttgart",
-      "fechaInicio": "2025-05-17T13:30Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:bundes2",
-      "canal": "https://streamtp4.com/global1.php?stream=disney9",
-      "opcion1": "https://streamtp4.com/global1.php?stream=espnpremium",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espn2",
-      "opcion3": "https://streamtp4.com/global1.php?stream=eleven3_pt",
-      "torneo": "Bundesliga 🇩🇪",
-      "equipo1": "Borussia Dortmund",
-      "equipo2": "Kiel",
-      "fechaInicio": "2025-05-17T13:30Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:bundes3",
-      "canal": "https://streamtp4.com/global1.php?stream=disney10",
-      "opcion1": "https://streamtp4.com/global1.php?stream=eleven1_pt",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney10",
-      "opcion3": "https://streamtp4.com/global1.php?stream=eleven1_pt",
-      "torneo": "Bundesliga 🇩🇪",
-      "equipo1": "Hoffenheim",
-      "equipo2": "Bayern Munich",
-      "fechaInicio": "2025-05-17T13:30Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:bundes4",
-      "canal": "https://streamtp4.com/global1.php?stream=disney6",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney6",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney6",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney6",
-      "torneo": "Bundesliga 🇩🇪",
-      "equipo1": "Augsburg",
-      "equipo2": "Union Berlin",
-      "fechaInicio": "2025-05-17T13:30Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:bundes5",
-      "canal": "https://streamtp4.com/global1.php?stream=disney5",
-      "opcion1": "https://streamtp4.com/global1.php?stream=espn5",
-      "opcion2": "https://streamtp4.com/global1.php?stream=eleven2_pt",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney5",
-      "torneo": "Bundesliga 🇩🇪",
-      "equipo1": "Mainz 05",
-      "equipo2": "Leverkusen",
-      "fechaInicio": "2025-05-17T13:30Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:bundes6",
-      "canal": "https://streamtp4.com/global1.php?stream=disney4",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney4",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney4",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney4",
-      "torneo": "Bundesliga 🇩🇪",
-      "equipo1": "Borussia M'gladbach",
-      "equipo2": "Wolfsburg",
-      "fechaInicio": "2025-05-17T13:30Z",
-      "fecha": "17 de Mayo"
-    }
-  ],
-  "Ligue 1": [
-    {
-      "link": "Go:liguee1",
-      "canal": "https://streamtp4.com/global1.php?stream=disney3",
-      "opcion1": "https://streamtp4.com/global1.php?stream=sporttv5",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney3",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney3",
-      "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "Marsella",
-      "equipo2": "Rennes",
-      "fechaInicio": "2025-05-17T19:00Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:ligue2",
-      "canal": "https://streamtp4.com/global1.php?stream=disney2",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney2",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney2",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney2",
-      "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "Lyon",
-      "equipo2": "Angers",
-      "fechaInicio": "2025-05-17T19:00Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:ligue3",
-      "canal": "https://streamtp4.com/global1.php?stream=disney1",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney1",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney1",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney1",
-      "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "Nice",
-      "equipo2": "Brest",
-      "fechaInicio": "2025-05-17T19:00Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:ligue4",
-      "canal": "https://streamtp4.com/global1.php?stream=disney20",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney20",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney20",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney20",
-      "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "Saint-Étienne",
-      "equipo2": "Toulouse",
-      "fechaInicio": "2025-05-17T19:00Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:ligue5",
-      "canal": "https://streamtp4.com/global1.php?stream=disney19",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney19",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney19",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney19",
-      "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "Lille",
-      "equipo2": "Reims",
-      "fechaInicio": "2025-05-17T19:00Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:ligue6",
-      "canal": "https://streamtp4.com/global1.php?stream=disney15",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney15",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney15",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney15",
-      "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "Strasbourg",
-      "equipo2": "Le Havre",
-      "fechaInicio": "2025-05-17T19:00Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:ligue7",
-      "canal": "https://streamtp4.com/global1.php?stream=disney18",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney18",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney18",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney18",
-      "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "Nantes",
-      "equipo2": "Montpellier",
-      "fechaInicio": "2025-05-17T19:00Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:ligue8",
-      "canal": "https://streamtp4.com/global1.php?stream=disney17",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney17",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney17",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney17",
-      "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "Lens",
-      "equipo2": "Monaco",
-      "fechaInicio": "2025-05-17T19:00Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:ligue9",
-      "canal": "https://streamtp4.com/global1.php?stream=espn4",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney16",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espn4",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney16",
-      "torneo": "Ligue 1 🇫🇷",
-      "equipo1": "PSG",
-      "equipo2": "Auxerre",
-      "fechaInicio": "2025-05-17T19:00Z",
-      "fecha": "17 de Mayo"
-    }
-  ],
-  "FA Cup": [
-    {
-      "link": "Go:facup1",
-      "canal": "https://streamtp4.com/global1.php?stream=espn",
-      "opcion1": "https://streamtp4.com/global1.php?stream=max1",
-      "opcion2": "https://streamtp4.com/global1.php?stream=espnplus3",
-      "opcion3": "https://streamtp4.com/global1.php?stream=espnplus4",
-      "torneo": "FA Cup",
-      "equipo1": "Crystal Palace",
-      "equipo2": "Manchester City",
-      "fechaInicio": "2025-05-17T15:30Z",
-      "fecha": "17 de Mayo"
-    }
-  ],
-  "Liga Brasileña": [
-    {
-      "link": "Go:bra1",
-      "canal": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion1": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion2": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion3": "https://streamtp4.com/global1.php?stream=premiere1",
-      "torneo": "Liga Brasileña 🇧🇷",
-      "equipo1": "Ceará",
-      "equipo2": "Sport Recife",
-      "fechaInicio": "2025-05-17T19:00Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:bra2",
-      "canal": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion1": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion2": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion3": "https://streamtp4.com/global1.php?stream=premiere1",
-      "torneo": "Liga Brasileña 🇧🇷",
-      "equipo1": "Vasco da Gama",
-      "equipo2": "Fortaleza",
-      "fechaInicio": "2025-05-17T21:30Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:bra3",
-      "canal": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion1": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion2": "https://streamtp4.com/global1.php?stream=premiere1",
-      "opcion3": "https://streamtp4.com/global1.php?stream=premiere1",
-      "torneo": "Liga Brasileña 🇧🇷",
-      "equipo1": "São Paulo",
-      "equipo2": "Grêmio",
-      "fechaInicio": "2025-05-18T00:00Z",
-      "fecha": "17 de Mayo"
-    }
-  ],
-  "Liga Chilena": [
-    {
-      "link": "Go:chile1",
-      "canal": "https://streamtp4.com/global1.php?stream=max1",
-      "opcion1": "https://streamtp4.com/global1.php?stream=max1",
-      "opcion2": "https://streamtp4.com/global1.php?stream=max1",
-      "opcion3": "https://streamtp4.com/global1.php?stream=max1",
-      "torneo": "Liga Chilena 🇨🇱",
-      "equipo1": "Cobresal",
-      "equipo2": "Audax",
-      "fechaInicio": "2025-05-17T19:00Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:chile2",
-      "canal": "https://streamtp4.com/global1.php?stream=max1",
-      "opcion1": "https://streamtp4.com/global1.php?stream=max1",
-      "opcion2": "https://streamtp4.com/global1.php?stream=max1",
-      "opcion3": "https://streamtp4.com/global1.php?stream=max1",
-      "torneo": "Liga Chilena 🇨🇱",
-      "equipo1": "O'Higgins",
-      "equipo2": "Universidad Católica",
-      "fechaInicio": "2025-05-17T21:30Z",
-      "fecha": "17 de Mayo"
-    }
-  ],
-  "Liga Colombiana": [
-    {
-      "link": "Go:col1",
-      "canal": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion1": "https://streamtp4.com/global1.php?stream=winplus2",
-      "opcion2": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion3": "https://streamtp4.com/global1.php?stream=winplus2",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "La Equidad",
-      "equipo2": "Atlético Bucaramanga",
-      "fechaInicio": "2025-05-17T20:45Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:col2",
-      "canal": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion1": "https://streamtp4.com/global1.php?stream=winplus2",
-      "opcion2": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion3": "https://streamtp4.com/global1.php?stream=winplus2",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Deportivo Cali",
-      "equipo2": "Santa Fe",
-      "fechaInicio": "2025-05-17T23:00Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:col3",
-      "canal": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion1": "https://streamtp4.com/global1.php?stream=winplus2",
-      "opcion2": "https://streamtp4.com/global1.php?stream=winplus",
-      "opcion3": "https://streamtp4.com/global1.php?stream=winplus2",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Boyacá Chicó",
-      "equipo2": "Alianza Petrolera",
-      "fechaInicio": "2025-05-18T01:10Z",
-      "fecha": "17 de Mayo"
-    }
-  ],
-  "Liga Ecuatoriana": [
-    {
-      "link": "Go:ecu1",
-      "canal": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion1": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion2": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion3": "https://streamtp4.com/global1.php?stream=ecdf",
-      "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "Aucas",
-      "equipo2": "Manta",
-      "fechaInicio": "2025-05-17T19:00Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:ecu2",
-      "canal": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion1": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion2": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion3": "https://streamtp4.com/global1.php?stream=ecdf",
-      "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "Mushuc Runa",
-      "equipo2": "Orense",
-      "fechaInicio": "2025-05-17T21:30Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:ecu3",
-      "canal": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion1": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion2": "https://streamtp4.com/global1.php?stream=ecdf",
-      "opcion3": "https://streamtp4.com/global1.php?stream=ecdf",
-      "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "Macará",
-      "equipo2": "El Nacional",
-      "fechaInicio": "2025-05-18T00:00Z",
-      "fecha": "17 de Mayo"
-    }
-  ],
-  "Liga Paraguaya": [
-    {
-      "link": "Go:paraguay1",
-      "canal": "https://streamtp4.com/global1.php?stream=eventos9",
-      "opcion1": "https://streamtp4.com/global1.php?stream=eventos9",
-      "opcion2": "https://streamtp4.com/global1.php?stream=eventos9",
-      "opcion3": "https://streamtp4.com/global1.php?stream=eventos9",
-      "torneo": "Liga Paraguaya 🇵🇾",
-      "equipo1": "Nacional Asunción",
-      "equipo2": "Sportivo Luqueño",
-      "fechaInicio": "2025-05-17T20:00Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:paraguay2",
-      "canal": "https://streamtp4.com/global1.php?stream=eventos9",
-      "opcion1": "https://streamtp4.com/global1.php?stream=eventos9",
-      "opcion2": "https://streamtp4.com/global1.php?stream=eventos9",
-      "opcion3": "https://streamtp4.com/global1.php?stream=eventos9",
-      "torneo": "Liga Paraguaya 🇵🇾",
-      "equipo1": "Libertad",
-      "equipo2": "Sportivo Trinidense",
-      "fechaInicio": "2025-05-17T22:30Z",
-      "fecha": "17 de Mayo"
-    }
-  ],
-  "Liga Peruana": [
-    {
-      "link": "Go:per1",
-      "canal": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion1": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion2": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion3": "https://streamtp4.com/global1.php?stream=liga1max",
-      "torneo": "Liga Peruana 🇵🇪",
-      "equipo1": "UTC Cajamarca",
-      "equipo2": "Comerciantes Unidos",
-      "fechaInicio": "2025-05-17T18:15Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:per2",
-      "canal": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion1": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion2": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion3": "https://streamtp4.com/global1.php?stream=liga1max",
-      "torneo": "Liga Peruana 🇵🇪",
-      "equipo1": "Sporting Cristal",
-      "equipo2": "ADT",
-      "fechaInicio": "2025-05-17T20:30Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:per3",
-      "canal": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion1": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion2": "https://streamtp4.com/global1.php?stream=liga1max",
-      "opcion3": "https://streamtp4.com/global1.php?stream=liga1max",
-      "torneo": "Liga Peruana 🇵🇪",
-      "equipo1": "Cusco",
-      "equipo2": "Los Chankas",
-      "fechaInicio": "2025-05-17T23:00Z",
-      "fecha": "17 de Mayo"
-    }
-  ],
-  "Liga Uruguaya": [
-    {
-      "link": "Go:uru1",
-      "canal": "https://streamtp4.com/global1.php?stream=disney14",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney14",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney14",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney14",
-      "torneo": "Liga Uruguaya 🇺🇾",
-      "equipo1": "River Plate (uru)",
-      "equipo2": "Wanderers",
-      "fechaInicio": "2025-05-17T18:00Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:uru2",
-      "canal": "https://streamtp4.com/global1.php?stream=disney4",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney4",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney4",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney4",
-      "torneo": "Liga Uruguaya 🇺🇾",
-      "equipo1": "Plaza Colonia",
-      "equipo2": "Danubio",
-      "fechaInicio": "2025-05-17T20:15Z",
-      "fecha": "17 de Mayo"
-    },
-    {
-      "link": "Go:uru3",
-      "canal": "https://streamtp4.com/global1.php?stream=disney5",
-      "opcion1": "https://streamtp4.com/global1.php?stream=disney5",
-      "opcion2": "https://streamtp4.com/global1.php?stream=disney5",
-      "opcion3": "https://streamtp4.com/global1.php?stream=disney5",
-      "torneo": "Liga Uruguaya 🇺🇾",
-      "equipo1": "Peñarol",
-      "equipo2": "Torque",
-      "fechaInicio": "2025-05-17T23:00Z",
-      "fecha": "17 de Mayo"
-    }
-  ],
-  "Liga MX": [
-    {
-      "link": "Go:mex1",
-      "canal": "https://streamtp4.com/global1.php?stream=tudn_usa",
-      "opcion1": "https://streamtp4.com/global1.php?stream=canal5mx",
-      "opcion2": "https://streamtp4.com/global1.php?stream=univision_usa",
-      "opcion3": "https://streamtp4.com/global1.php?stream=tudn_usa",
-      "torneo": "Liga Mexicana 🇲🇽",
-      "equipo1": "Toluca",
-      "equipo2": "Tigres UANL",
-      "fechaInicio": "2025-05-18T01:00Z",
-      "fecha": "17 de Mayo"
-    }
-  ]
+    "Liga Argentina": [
+        {
+            "link": "Go:arg1",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Argentina",
+            "equipo1": "Rosario Central",
+            "equipo2": "Huracán",
+            "fechaInicio": "2025-05-18T22:00Z",
+            "fecha": "18 de Mayo"
+        }
+    ],
+    "Premier League": [
+        {
+            "link": "Go:prem1",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Premier League",
+            "equipo1": "Everton",
+            "equipo2": "Southampton",
+            "fechaInicio": "2025-05-18T11:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:prem2",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Premier League",
+            "equipo1": "West Ham",
+            "equipo2": "Forest",
+            "fechaInicio": "2025-05-18T13:15Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:prem3",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Premier League",
+            "equipo1": "Brentford",
+            "equipo2": "Fulham",
+            "fechaInicio": "2025-05-18T14:00Z",
+            "fecha": "18 de Mayo"
+        },
+         {
+            "link": "Go:prem4",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Premier League",
+            "equipo1": "Leicester",
+            "equipo2": "Ipswich Town",
+            "fechaInicio": "2025-05-18T14:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:prem5",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Premier League",
+            "equipo1": "Arsenal",
+            "equipo2": "Newcastle",
+            "fechaInicio": "2025-05-18T15:30Z",
+            "fecha": "18 de Mayo"
+        }
+    ],
+    "La Liga": [
+        {
+            "link": "go:laliga1",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "La Liga 🇪🇸",
+            "equipo1": "Atlético Madrid",
+            "equipo2": "Real Betis",
+            "fechaInicio": "2025-05-18T17:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "go:laliga2",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "La Liga 🇪🇸",
+            "equipo1": "Barcelona",
+            "equipo2": "Villarreal",
+            "fechaInicio": "2025-05-18T17:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "go:laliga3",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "La Liga 🇪🇸",
+            "equipo1": "Celta",
+            "equipo2": "Rayo Vallecano",
+            "fechaInicio": "2025-05-18T17:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "go:laliga4",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "La Liga 🇪🇸",
+            "equipo1": "Valencia",
+            "equipo2": "Athletic Club",
+            "fechaInicio": "2025-05-18T17:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "go:laliga5",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "La Liga 🇪🇸",
+             "equipo1": "Mallorca",
+            "equipo2": "Getafe",
+            "fechaInicio": "2025-05-18T17:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "go:laliga6",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "La Liga 🇪🇸",
+            "equipo1": "Real Sociedad",
+            "equipo2": "Girona",
+            "fechaInicio": "2025-05-18T17:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+             "link": "go:laliga7",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "La Liga 🇪🇸",
+            "equipo1": "Sevilla",
+            "equipo2": "Real Madrid",
+            "fechaInicio": "2025-05-18T17:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+             "link": "go:laliga8",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "La Liga 🇪🇸",
+             "equipo1": "Real Valladolid",
+            "equipo2": "Alavés",
+            "fechaInicio": "2025-05-18T17:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+             "link": "go:laliga9",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "La Liga 🇪🇸",
+            "equipo1": "Las Palmas",
+            "equipo2": "Leganés",
+            "fechaInicio": "2025-05-18T17:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+             "link": "go:laliga10",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "La Liga 🇪🇸",
+            "equipo1": "Osasuna",
+            "equipo2": "Espanyol",
+            "fechaInicio": "2025-05-18T17:00Z",
+            "fecha": "18 de Mayo"
+        }
+    ],
+    "Serie A": [
+        {
+            "link": "Go:serieA1",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Serie A",
+            "equipo1": "Cagliari",
+            "equipo2": "Venezia",
+            "fechaInicio": "2025-05-18T18:45Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:serieA2",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Serie A",
+            "equipo1": "Fiorentina",
+            "equipo2": "Bologna",
+            "fechaInicio": "2025-05-18T18:45Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:serieA3",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Serie A",
+            "equipo1": "Verona",
+            "equipo2": "Como",
+            "fechaInicio": "2025-05-18T18:45Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:serieA4",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Serie A",
+            "equipo1": "Inter",
+            "equipo2": "Lazio",
+            "fechaInicio": "2025-05-18T18:45Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:serieA5",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Serie A",
+            "equipo1": "Juventus",
+            "equipo2": "Udinese",
+            "fechaInicio": "2025-05-18T18:45Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:serieA6",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Serie A",
+            "equipo1": "Lecce",
+            "equipo2": "Torino",
+            "fechaInicio": "2025-05-18T18:45Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:serieA7",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Serie A",
+            "equipo1": "Monza",
+            "equipo2": "Empoli",
+            "fechaInicio": "2025-05-18T18:45Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:serieA8",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Serie A",
+            "equipo1": "Parma",
+            "equipo2": "Napoli",
+            "fechaInicio": "2025-05-18T18:45Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:serieA9",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Serie A",
+            "equipo1": "Roma",
+            "equipo2": "Milan",
+            "fechaInicio": "2025-05-18T18:45Z",
+            "fecha": "18 de Mayo"
+        }
+    ],
+    "Liga Brasileña": [
+        {
+            "link": "Go:bra1",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Brasileña",
+            "equipo1": "Corinthians",
+            "equipo2": "Santos",
+            "fechaInicio": "2025-05-18T19:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:bra2",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Brasileña",
+            "equipo1": "Bahia",
+            "equipo2": "Vitória",
+            "fechaInicio": "2025-05-18T19:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:bra3",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Brasileña",
+            "equipo1": "Juventude",
+            "equipo2": "Fluminense",
+            "fechaInicio": "2025-05-18T19:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:bra4",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Brasileña",
+            "equipo1": "Flamengo",
+            "equipo2": "Botafogo",
+            "fechaInicio": "2025-05-18T21:30Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:bra5",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Brasileña",
+            "equipo1": "Bragantino",
+            "equipo2": "Palmeiras",
+            "fechaInicio": "2025-05-18T21:30Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:bra6",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Brasileña",
+            "equipo1": "Cruzeiro",
+            "equipo2": "Atlético Mineiro",
+            "fechaInicio": "2025-05-18T23:30Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:bra7",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Brasileña",
+            "equipo1": "Internacional",
+            "equipo2": "Mirassol",
+            "fechaInicio": "2025-05-18T23:30Z",
+            "fecha": "18 de Mayo"
+        }
+    ],
+    "Liga Chilena": [
+        {
+            "link": "Go:chile1",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Chilena",
+            "equipo1": "Deportes Limache",
+            "equipo2": "Palestino",
+            "fechaInicio": "2025-05-18T19:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:chile2",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Chilena",
+            "equipo1": "Universidad Chile",
+            "equipo2": "Huachipato",
+            "fechaInicio": "2025-05-18T22:30Z",
+            "fecha": "18 de Mayo"
+        }
+    ],
+    "Liga Colombiana": [
+        {
+            "link": "Go:col1",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Colombiana",
+            "equipo1": "Rionegro Águilas",
+            "equipo2": "Atlético Nacional",
+            "fechaInicio": "2025-05-18T21:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:col2",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Colombiana",
+            "equipo1": "Deportivo Pasto",
+            "equipo2": "Once Caldas",
+            "fechaInicio": "2025-05-19T01:10Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:col3",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Colombiana",
+            "equipo1": "Unión Magdalena",
+            "equipo2": "América de Cali",
+            "fechaInicio": "2025-05-19T03:15Z",
+            "fecha": "18 de Mayo"
+        }
+    ],
+    "Liga Ecuatoriana": [
+        {
+            "link": "Go:ecu1",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Ecuatoriana",
+            "equipo1": "Cuniburo",
+            "equipo2": "Independiente del Valle",
+            "fechaInicio": "2025-05-18T20:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:ecu2",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Ecuatoriana",
+            "equipo1": "Delfin",
+            "equipo2": "Universidad Católica",
+            "fechaInicio": "2025-05-18T22:30Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:ecu3",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Ecuatoriana",
+            "equipo1": "Barcelona",
+            "equipo2": "Emelec",
+            "fechaInicio": "2025-05-19T00:00Z",
+            "fecha": "18 de Mayo"
+        }
+    ],
+    "Liga Paraguaya": [
+        {
+            "link": "Go:paraguay1",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Paraguaya",
+            "equipo1": "2 de Mayo",
+            "equipo2": "Olimpia",
+            "fechaInicio": "2025-05-18T21:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:paraguay2",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Paraguaya",
+            "equipo1": "Guaraní",
+            "equipo2": "Ameliano",
+            "fechaInicio": "2025-05-19T00:30Z",
+            "fecha": "18 de Mayo"
+        }
+    ],
+    "Liga Peruana": [
+        {
+            "link": "Go:per1",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Peruana",
+            "equipo1": "Sport Huancayo",
+            "equipo2": "Sport Boys",
+            "fechaInicio": "2025-05-18T20:15Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:per2",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Peruana",
+            "equipo1": "Juan Pablo II College",
+            "equipo2": "Universitario",
+            "fechaInicio": "2025-05-18T22:30Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:per3",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Peruana",
+            "equipo1": "Melgar",
+            "equipo2": "Atlético Grau",
+            "fechaInicio": "2025-05-19T01:00Z",
+            "fecha": "18 de Mayo"
+        }
+    ],
+    "Liga Uruguaya": [
+        {
+            "link": "Go:uru1",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Uruguaya",
+            "equipo1": "Progreso",
+            "equipo2": "Juventud",
+            "fechaInicio": "2025-05-18T18:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:uru2",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Uruguaya",
+            "equipo1": "Liverpool",
+            "equipo2": "Cerro Largo",
+            "fechaInicio": "2025-05-18T18:00Z",
+            "fecha": "18 de Mayo"
+        },
+        {
+            "link": "Go:uru3",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Uruguaya",
+            "equipo1": "Nacional",
+            "equipo2": "Defensor Sporting",
+            "fechaInicio": "2025-05-18T18:00Z",
+            "fecha": "18 de Mayo"
+        }
+    ],
+    "Liga Mexicana": [
+        {
+            "link": "Go:mex1",
+            "canal": "",
+            "opcion1": "",
+            "opcion2": "",
+            "opcion3": "",
+            "torneo": "Liga Mexicana",
+            "equipo1": "América",
+            "equipo2": "Cruz Azul",
+            "fechaInicio": "2025-05-19T03:15Z",
+            "fecha": "18 de Mayo"
+        }
+    ]
 }
