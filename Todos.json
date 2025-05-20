@@ -1,184 +1,68 @@
 {
+  "Liga Paraguaya": [
+    {
+      "link": "Go:paraguay1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Paraguaya 🇵🇾",
+      "equipo1": "Sportivo Luqueño",
+      "equipo2": "Deportivo Recoleta",
+      "fechaInicio": "2025-05-20T19:30Z",
+      "fecha": "20 de Mayo"
+    },
+    {
+      "link": "Go:paraguay2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Paraguaya 🇵🇾",
+      "equipo1": "Sportivo Trinidense",
+      "equipo2": "Nacional Asunción",
+      "fechaInicio": "2025-05-20T22:00Z",
+      "fecha": "20 de Mayo"
+    }
+  ],
   "Liga Argentina": [
     {
       "link": "Go:arg1",
-      "canal": "https://streamtp4.com/global2.php?stream=tntsports",
-      "opcion1": "https://streamtp4.com/global2.php?stream=espn4br",
-      "opcion2": "https://streamtp4.com/global2.php?stream=tntsports",
-      "opcion3": "https://streamtp4.com/global2.php?stream=espn4br",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
       "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Argentinos Juniors",
-      "equipo2": "San Lorenzo",
-      "fechaInicio": "2025-05-19T22:00Z",
-      "fecha": "19 de Mayo"
-    },
-    {
-      "link": "Go:arg2",
-      "canal": "https://streamtp4.com/global2.php?stream=espnpremium",
-      "opcion1": "https://streamtp4.com/global2.php?stream=disney6",
-      "opcion2": "https://streamtp4.com/global2.php?stream=espn",
-      "opcion3": "https://streamtp4.com/global2.php?stream=espn2br",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "Boca Juniors",
-      "equipo2": "Independiente",
-      "fechaInicio": "2025-05-20T00:30Z",
-      "fecha": "19 de Mayo"
+      "equipo1": "River Plate",
+      "equipo2": "Platense",
+      "fechaInicio": "2025-05-20T23:30Z",
+      "fecha": "20 de Mayo"
     }
   ],
   "Premier League": [
     {
       "link": "Go:prem1",
-      "canal": "https://streamtp4.com/global2.php?stream=espn",
-      "opcion1": "https://streamtp4.com/global2.php?stream=disney3",
-      "opcion2": "https://streamtp4.com/global2.php?stream=dazn1",
-      "opcion3": "https://streamtp4.com/global2.php?stream=universo_usa",
-      "torneo": "Premier League",
-      "equipo1": "Brighton",
-      "equipo2": "Liverpool",
-      "fechaInicio": "2025-05-19T19:00Z",
-      "fecha": "19 de Mayo"
-    }
-  ],
-  "Liga Chilena": [
-    {
-      "link": "Go:chile1",
-      "canal": "https://streamtp4.com/global2.php?stream=max1",
-      "opcion1": "https://streamtp4.com/global2.php?stream=max1",
-      "opcion2": "https://streamtp4.com/global2.php?stream=max1",
-      "opcion3": "https://streamtp4.com/global2.php?stream=max1",
-      "torneo": "Liga Chilena 🇨🇱",
-      "equipo1": "Unión Española",
-      "equipo2": "Everton",
-      "fechaInicio": "2025-05-19T19:00Z",
-      "fecha": "19 de Mayo"
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Manchester City",
+      "equipo2": "Bournemouth",
+      "fechaInicio": "2025-05-20T19:00Z",
+      "fecha": "20 de Mayo"
     },
     {
-      "link": "Go:chile2",
-      "canal": "https://streamtp4.com/global2.php?stream=max2",
-      "opcion1": "https://streamtp4.com/global2.php?stream=max2",
-      "opcion2": "https://streamtp4.com/global2.php?stream=max2",
-      "opcion3": "https://streamtp4.com/global2.php?stream=max2",
-      "torneo": "Liga Chilena 🇨🇱",
-      "equipo1": "Colo-Colo",
-      "equipo2": "Ñublense",
-      "fechaInicio": "2025-05-19T22:00Z",
-      "fecha": "19 de Mayo"
-    },
-    {
-      "link": "Go:chile3",
-      "canal": "https://streamtp4.com/global2.php?stream=max3",
-      "opcion1": "https://streamtp4.com/global2.php?stream=max3",
-      "opcion2": "https://streamtp4.com/global2.php?stream=max3",
-      "opcion3": "https://streamtp4.com/global2.php?stream=max3",
-      "torneo": "Liga Chilena 🇨🇱",
-      "equipo1": "La Serena",
-      "equipo2": "Deportes Iquique",
-      "fechaInicio": "2025-05-20T00:30Z",
-      "fecha": "19 de Mayo"
-    }
-  ],
-  "Liga Colombiana": [
-    {
-      "link": "Go:col1",
-      "canal": "https://streamtp4.com/global2.php?stream=winplus",
-      "opcion1": "https://streamtp4.com/global2.php?stream=winplus2",
-      "opcion2": "https://streamtp4.com/global2.php?stream=winplus",
-      "opcion3": "https://streamtp4.com/global2.php?stream=winplus2",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Llaneros",
-      "equipo2": "Deportes Tolima",
-      "fechaInicio": "2025-05-19T23:00Z",
-      "fecha": "19 de Mayo"
-    },
-    {
-      "link": "Go:col2",
-      "canal": "https://streamtp4.com/global2.php?stream=winplus",
-      "opcion1": "https://streamtp4.com/global2.php?stream=winplus2",
-      "opcion2": "https://streamtp4.com/global2.php?stream=winplus",
-      "opcion3": "https://streamtp4.com/global2.php?stream=winplus2",
-      "torneo": "Liga Colombiana 🇨🇴",
-      "equipo1": "Medellín",
-      "equipo2": "Deportivo Pereira",
-      "fechaInicio": "2025-05-20T01:05Z",
-      "fecha": "19 de Mayo"
-    }
-  ],
-  "Liga Ecuatoriana": [
-    {
-      "link": "Go:ecu1",
-      "canal": "https://streamtp4.com/global2.php?stream=ecdf",
-      "opcion1": "https://streamtp4.com/global2.php?stream=ecdf",
-      "opcion2": "https://streamtp4.com/global2.php?stream=ecdf",
-      "opcion3": "https://streamtp4.com/global2.php?stream=ecdf",
-      "torneo": "Liga Ecuatoriana 🇪🇨",
-      "equipo1": "LDU Quito",
-      "equipo2": "Libertad",
-      "fechaInicio": "2025-05-20T00:00Z",
-      "fecha": "19 de Mayo"
-    }
-  ],
-  "Liga Peruana": [
-    {
-      "link": "Go:per1",
-      "canal": "https://streamtp4.com/global2.php?stream=liga1max",
-      "opcion1": "https://streamtp4.com/global2.php?stream=liga1max",
-      "opcion2": "https://streamtp4.com/global2.php?stream=liga1max",
-      "opcion3": "https://streamtp4.com/global2.php?stream=liga1max",
-      "torneo": "Liga Peruana 🇵🇪",
-      "equipo1": "Binacional",
-      "equipo2": "Cienciano",
-      "fechaInicio": "2025-05-19T22:30Z",
-      "fecha": "19 de Mayo"
-    },
-    {
-      "link": "Go:per2",
-      "canal": "https://streamtp4.com/global2.php?stream=liga1max",
-      "opcion1": "https://streamtp4.com/global2.php?stream=liga1max",
-      "opcion2": "https://streamtp4.com/global2.php?stream=liga1max",
-      "opcion3": "https://streamtp4.com/global2.php?stream=liga1max",
-      "torneo": "Liga Peruana 🇵🇪",
-      "equipo1": "Alianza Lima",
-      "equipo2": "Alianza Universidad",
-      "fechaInicio": "2025-05-20T01:00Z",
-      "fecha": "19 de Mayo"
-    }
-  ],
-  "Liga Uruguaya": [
-    {
-      "link": "Go:uru1",
-      "canal": "https://streamtp4.com/global2.php?stream=disney1",
-      "opcion1": "https://streamtp4.com/global2.php?stream=disney1",
-      "opcion2": "https://streamtp4.com/global2.php?stream=disney1",
-      "opcion3": "https://streamtp4.com/global2.php?stream=disney1",
-      "torneo": "Liga Uruguaya 🇺🇾",
-      "equipo1": "Racing (uru)",
-      "equipo2": "Miramar Misiones",
-      "fechaInicio": "2025-05-19T18:00Z",
-      "fecha": "19 de Mayo"
-    },
-    {
-      "link": "Go:uru2",
-      "canal": "https://streamtp4.com/global2.php?stream=disney4",
-      "opcion1": "https://streamtp4.com/global2.php?stream=disney4",
-      "opcion2": "https://streamtp4.com/global2.php?stream=disney4",
-      "opcion3": "https://streamtp4.com/global2.php?stream=disney4",
-      "torneo": "Liga Uruguaya 🇺🇾",
-      "equipo1": "Plaza Colonia",
-      "equipo2": "Danubio",
-      "fechaInicio": "2025-05-19T21:00Z",
-      "fecha": "19 de Mayo"
-    },
-    {
-      "link": "Go:uru3",
-      "canal": "https://streamtp4.com/global2.php?stream=disney5",
-      "opcion1": "https://streamtp4.com/global2.php?stream=disney5",
-      "opcion2": "https://streamtp4.com/global2.php?stream=disney5",
-      "opcion3": "https://streamtp4.com/global2.php?stream=disney5",
-      "torneo": "Liga Uruguaya 🇺🇾",
-      "equipo1": "Boston River",
-      "equipo2": "Cerro",
-      "fechaInicio": "2025-05-19T22:00Z",
-      "fecha": "19 de Mayo"
+      "link": "Go:prem2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "equipo1": "Crystal Palace",
+      "equipo2": "Wanderers",
+      "fechaInicio": "2025-05-20T19:00Z",
+      "fecha": "20 de Mayo"
     }
   ]
 }
