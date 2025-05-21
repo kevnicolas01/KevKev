@@ -1,68 +1,142 @@
 {
+  "Europa League": [
+    {
+      "link": "go:europa1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "UEFA Europa League",
+      "equipo1": "Tottenham",
+      "equipo2": "Manchester United",
+      "fechaInicio": "2025-05-21T22:00:00Z",
+      "fecha": "21 de Mayo"
+    }
+  ],
+  "Ligue 1": [
+    {
+      "link": "go:liguee1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Ligue 1",
+      "equipo1": "Metz",
+      "equipo2": "Reims",
+      "fechaInicio": "2025-05-21T21:00:00Z",
+      "fecha": "21 de Mayo"
+    }
+  ],
   "Liga Paraguaya": [
     {
-      "link": "Go:paraguay1",
-      "canal": "https://streamtp4.com/global2.php?stream=eventos9",
-      "opcion1": "https://streamtp4.com/global2.php?stream=eventos9",
-      "opcion2": "https://streamtp4.com/global2.php?stream=eventos9",
-      "opcion3": "https://streamtp4.com/global2.php?stream=eventos9",
-      "torneo": "Liga Paraguaya 🇵🇾",
-      "equipo1": "Sportivo Luqueño",
-      "equipo2": "Deportivo Recoleta",
-      "fechaInicio": "2025-05-20T19:30Z",
-      "fecha": "20 de Mayo"
+      "link": "go:paraguay1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Paraguaya",
+      "equipo1": "Atlético Tembetary",
+      "equipo2": "Guaraní",
+      "fechaInicio": "2025-05-22T01:30:00Z",
+      "fecha": "21 de Mayo"
     },
     {
-      "link": "Go:paraguay2",
-      "canal": "https://streamtp4.com/global2.php?stream=eventos9",
-      "opcion1": "https://streamtp4.com/global2.php?stream=eventos9",
-      "opcion2": "https://streamtp4.com/global2.php?stream=eventos9",
-      "opcion3": "https://streamtp4.com/global2.php?stream=eventos9",
-      "torneo": "Liga Paraguaya 🇵🇾",
-      "equipo1": "Sportivo Trinidense",
-      "equipo2": "Nacional Asunción",
-      "fechaInicio": "2025-05-20T22:00Z",
-      "fecha": "20 de Mayo"
-    }
-  ],
-  "Liga Argentina": [
-    {
-      "link": "Go:arg1",
-      "canal": "https://streamtp4.com/global2.php?stream=tntsports",
-      "opcion1": "https://streamtp4.com/global2.php?stream=espn",
-      "opcion2": "https://streamtp4.com/global2.php?stream=sportv_1pt",
-      "opcion3": "https://streamtp4.com/global2.php?stream=espn1br",
-      "torneo": "Liga Argentina 🇦🇷",
-      "equipo1": "River Plate",
-      "equipo2": "Platense",
-      "fechaInicio": "2025-05-20T23:30Z",
-      "fecha": "20 de Mayo"
-    }
-  ],
-  "Premier League": [
-    {
-      "link": "Go:prem1",
-      "canal": "https://streamtp4.com/global2.php?stream=max1",
-      "opcion1": "https://streamtp4.com/global2.php?stream=disney2",
-      "opcion2": "https://streamtp4.com/global2.php?stream=eleven1_pt",
-      "opcion3": "https://streamtp4.com/global2.php?stream=usa_network",
-      "torneo": "Premier League",
-      "equipo1": "Manchester City",
-      "equipo2": "Bournemouth",
-      "fechaInicio": "2025-05-20T19:00Z",
-      "fecha": "20 de Mayo"
+      "link": "go:paraguay2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Paraguaya",
+      "equipo1": "Olimpia",
+      "equipo2": "Libertad",
+      "fechaInicio": "2025-05-22T01:30:00Z",
+      "fecha": "21 de Mayo"
     },
     {
-      "link": "Go:prem2",
-      "canal": "https://streamtp4.com/global2.php?stream=espn",
-      "opcion1": "https://streamtp4.com/global2.php?stream=disney1",
-      "opcion2": "https://streamtp4.com/global2.php?stream=espn1br",
-      "opcion3": "https://streamtp4.com/global2.php?stream=peacock1",
-      "torneo": "Premier League",
-      "equipo1": "Crystal Palace",
-      "equipo2": "Wolves",
-      "fechaInicio": "2025-05-20T19:00Z",
-      "fecha": "20 de Mayo"
+      "link": "go:paraguay3",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Paraguaya",
+      "equipo1": "Ameliano",
+      "equipo2": "Cerro Porteño",
+      "fechaInicio": "2025-05-22T01:30:00Z",
+      "fecha": "21 de Mayo"
+    }
+  ],
+  "Liga Brasileña": [
+    {
+      "link": "go:bra1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa do Brasil",
+      "equipo1": "Fortaleza",
+      "equipo2": "Retrô",
+      "fechaInicio": "2025-05-21T22:00:00Z",
+      "fecha": "21 de Mayo"
+    },
+    {
+      "link": "go:bra2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa do Brasil",
+      "equipo1": "Aparecidense",
+      "equipo2": "Fluminense",
+      "fechaInicio": "2025-05-21T22:30:00Z",
+      "fecha": "21 de Mayo"
+    },
+    {
+      "link": "go:bra3",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa do Brasil",
+      "equipo1": "Bahia",
+      "equipo2": "Paysandu",
+      "fechaInicio": "2025-05-21T22:30:00Z",
+      "fecha": "21 de Mayo"
+    },
+    {
+      "link": "go:bra4",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa do Brasil",
+      "equipo1": "Atlético Mineiro",
+      "equipo2": "Maringá",
+      "fechaInicio": "2025-05-22T00:30:00Z",
+      "fecha": "21 de Mayo"
+    },
+    {
+      "link": "go:bra5",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa do Brasil",
+      "equipo1": "Flamengo",
+      "equipo2": "Botafogo PB",
+      "fechaInicio": "2025-05-22T00:30:00Z",
+      "fecha": "21 de Mayo"
+    },
+    {
+      "link": "go:bra6",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa do Brasil",
+      "equipo1": "Corinthians",
+      "equipo2": "Novorizontino",
+      "fechaInicio": "2025-05-22T00:30:00Z",
+      "fecha": "21 de Mayo"
     }
   ]
 }
