@@ -1,148 +1,438 @@
 {
-  "Liga Peruana": [
+  "MLS": [
     {
-      "link": "go:per1",
-      "canal": "https://streamtp4.com/global2.php?stream=golperu",
-      "opcion1": "https://streamtp4.com/global2.php?stream=golperu",
-      "opcion2": "https://streamtp4.com/global2.php?stream=golperu",
-      "opcion3": "https://streamtp4.com/global2.php?stream=golperu",
-      "torneo": "Liga 1",
-      "equipo1": "Sport Boys",
-      "equipo2": "Alianza Lima",
-      "fechaInicio": "2025-05-24T01:00:00Z",
-      "fecha": "23 de Mayo"
-    },
-    {
-      "link": "go:per2",
-      "canal": "https://streamtp4.com/global2.php?stream=liga1max",
-      "opcion1": "https://streamtp4.com/global2.php?stream=liga1max",
-      "opcion2": "https://streamtp4.com/global2.php?stream=liga1max",
-      "opcion3": "https://streamtp4.com/global2.php?stream=liga1max",
-      "torneo": "Liga 1",
-      "equipo1": "Alianza Universidad",
-      "equipo2": "Melgar",
-      "fechaInicio": "2025-05-23T20:30:00Z",
-      "fecha": "23 de Mayo"
+      "link": "go:mls1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "MLS",
+      "equipo1": "Philadelphia Union",
+      "equipo2": "Inter Miami",
+      "fechaInicio": "2025-05-24T23:30:00Z",
+      "fecha": "24 de Mayo"
     }
   ],
-  "Liga Colombiana": [
+  "Ligue 1": [
     {
-      "link": "go:col1",
-      "canal": "https://streamtp4.com/global2.php?stream=winplus",
-      "opcion1": "https://streamtp4.com/global2.php?stream=winplus",
-      "opcion2": "https://streamtp4.com/global2.php?stream=winplus2",
-      "opcion3": "https://streamtp4.com/global2.php?stream=winplus",
-      "torneo": "Primera A",
-      "equipo1": "Deportivo Pereira",
-      "equipo2": "La Equidad",
-      "fechaInicio": "2025-05-23T23:30:00Z",
-      "fecha": "23 de Mayo"
+      "link": "go:conf1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa de Francia",
+      "equipo1": "PSG",
+      "equipo2": "Reims",
+      "fechaInicio": "2025-05-24T19:00:00Z",
+      "fecha": "24 de Mayo"
     }
   ],
   "Liga Uruguaya": [
     {
       "link": "go:uru1",
-      "canal": "https://streamtp4.com/global2.php?stream=disney5",
-      "opcion1": "https://streamtp4.com/global2.php?stream=disney5",
-      "opcion2": "https://streamtp4.com/global2.php?stream=goltv",
-      "opcion3": "https://streamtp4.com/global2.php?stream=disney5",
-      "torneo": "Primera División",
-      "equipo1": "Nacional",
-      "equipo2": "Progreso",
-      "fechaInicio": "2025-05-23T23:30:00Z",
-      "fecha": "23 de Mayo"
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Uruguaya",
+      "equipo1": "Defensor Sporting",
+      "equipo2": "Cerro Largo",
+      "fechaInicio": "2025-05-24T23:00:00Z",
+      "fecha": "24 de Mayo"
     },
     {
       "link": "go:uru2",
-      "canal": "https://streamtp4.com/global2.php?stream=disney1",
-      "opcion1": "https://streamtp4.com/global2.php?stream=disney1",
-      "opcion2": "https://streamtp4.com/global2.php?stream=goltv",
-      "opcion3": "https://streamtp4.com/global2.php?stream=disney1",
-      "torneo": "Primera División",
-      "equipo1": "Racing (uru)",
-      "equipo2": "Boston River",
-      "fechaInicio": "2025-05-23T18:00:00Z",
-      "fecha": "23 de Mayo"
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Uruguaya",
+      "equipo1": "Peñarol",
+      "equipo2": "Plaza Colonia",
+      "fechaInicio": "2025-05-24T20:30:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:uru3",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Uruguaya",
+      "equipo1": "Juventud",
+      "equipo2": "Torque",
+      "fechaInicio": "2025-05-24T18:00:00Z",
+      "fecha": "24 de Mayo"
+    }
+  ],
+  "Liga Peruana": [
+    {
+      "link": "go:per1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Peruana",
+      "equipo1": "Cienciano",
+      "equipo2": "UTC Cajamarca",
+      "fechaInicio": "2025-05-24T23:00:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:per2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Peruana",
+      "equipo1": "Atlético Grau",
+      "equipo2": "Binacional",
+      "fechaInicio": "2025-05-24T20:30:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:per3",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Peruana",
+      "equipo1": "Comerciantes Unidos",
+      "equipo2": "Cusco",
+      "fechaInicio": "2025-05-24T18:00:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:per4",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+       "torneo": "Liga Peruana",
+      "equipo1": "Juan Pablo II",
+      "equipo2": "Los Chankas",
+      "fechaInicio": "2025-05-25T00:00:00Z",
+      "fecha": "24 de Mayo"
+    }
+  ],
+  "Liga Paraguaya": [
+    {
+      "link": "go:paraguay1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Paraguaya",
+      "equipo1": "Libertad",
+      "equipo2": "General Caballero",
+      "fechaInicio": "2025-05-24T22:00:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:paraguay2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Paraguaya",
+      "equipo1": "Cerro Porteño",
+      "equipo2": "2 de Mayo",
+      "fechaInicio": "2025-05-24T22:00:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:paraguay3",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Paraguaya",
+      "equipo1": "Guaraní",
+      "equipo2": "Sportivo Luqueño",
+      "fechaInicio": "2025-05-24T22:00:00Z",
+      "fecha": "24 de Mayo"
     }
   ],
   "Liga Ecuatoriana": [
     {
       "link": "go:ecu1",
-      "canal": "https://streamtp4.com/global2.php?stream=ecdf",
-      "opcion1": "https://streamtp4.com/global2.php?stream=ecdf",
-      "opcion2": "https://streamtp4.com/global2.php?stream=ecdf",
-      "opcion3": "https://streamtp4.com/global2.php?stream=ecdf",
-      "torneo": "Primera A",
-      "equipo1": "Barcelona",
-      "equipo2": "Deportivo Cuenca",
-      "fechaInicio": "2025-05-24T00:00:00Z",
-      "fecha": "23 de Mayo"
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Ecuatoriana",
+      "equipo1": "Orense",
+      "equipo2": "Aucas",
+      "fechaInicio": "2025-05-25T00:00:00Z",
+      "fecha": "24 de Mayo"
     },
     {
       "link": "go:ecu2",
-      "canal": "https://streamtp4.com/global2.php?stream=ecdf",
-      "opcion1": "https://streamtp4.com/global2.php?stream=ecdf",
-      "opcion2": "https://streamtp4.com/global2.php?stream=ecdf",
-      "opcion3": "https://streamtp4.com/global2.php?stream=ecdf",
-      "torneo": "Primera A",
-      "equipo1": "Independiente del Valle",
-      "equipo2": "Mushuc Runa",
-      "fechaInicio": "2025-05-23T21:30:00Z",
-      "fecha": "23 de Mayo"
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Ecuatoriana",
+      "equipo1": "Universidad Católica",
+      "equipo2": "LDU Quito",
+      "fechaInicio": "2025-05-24T21:30:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:ecu3",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Ecuatoriana",
+      "equipo1": "Manta",
+      "equipo2": "Cuniburo",
+      "fechaInicio": "2025-05-24T19:00:00Z",
+      "fecha": "24 de Mayo"
+    }
+  ],
+  "Liga Colombiana": [
+    {
+      "link": "go:col1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Colombiana",
+      "equipo1": "Fortaleza CEIF",
+      "equipo2": "Unión Magdalena",
+      "fechaInicio": "2025-05-24T21:00:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:col2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Colombiana",
+      "equipo1": "Envigado",
+      "equipo2": "Llaneros",
+      "fechaInicio": "2025-05-24T19:00:00Z",
+      "fecha": "24 de Mayo"
     }
   ],
   "Liga Chilena": [
     {
       "link": "go:chile1",
-      "canal": "https://streamtp4.com/global2.php?stream=max1",
-      "opcion1": "https://streamtp4.com/global2.php?stream=max1",
-      "opcion2": "https://streamtp4.com/global2.php?stream=max1",
-      "opcion3": "https://streamtp4.com/global2.php?stream=max1",
-      "torneo": "Primera División",
-      "equipo1": "Deportes Limache",
-      "equipo2": "Universidad de Chile",
-      "fechaInicio": "2025-05-23T22:00:00Z",
-      "fecha": "23 de Mayo"
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Chilena",
+      "equipo1": "Coquimbo Unido",
+      "equipo2": "Palestino",
+      "fechaInicio": "2025-05-25T00:00:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:chile2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Chilena",
+      "equipo1": "Colo-Colo",
+      "equipo2": "Unión Española",
+      "fechaInicio": "2025-05-24T21:30:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:chile3",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Chilena",
+      "equipo1": "Everton",
+      "equipo2": "Cobresal",
+      "fechaInicio": "2025-05-24T19:00:00Z",
+      "fecha": "24 de Mayo"
+    }
+  ],
+  "Liga Brasileña": [
+    {
+      "link": "go:bra1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Brasileirão",
+      "equipo1": "Atlético Mineiro",
+      "equipo2": "Corinthians",
+      "fechaInicio": "2025-05-25T00:00:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:bra2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Brasileirão",
+      "equipo1": "São Paulo",
+      "equipo2": "Mirassol",
+      "fechaInicio": "2025-05-24T21:30:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+       "link": "go:bra3",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Brasileirão",
+      "equipo1": "Fluminense",
+      "equipo2": "Vasco da Gama",
+      "fechaInicio": "2025-05-24T21:30:00Z",
+      "fecha": "24 de Mayo"
+    }
+  ],
+  "Copa Argentina": [
+    {
+      "link": "go:copaarg1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa Argentina",
+      "equipo1": "Deportivo Riestra",
+      "equipo2": "Deportivo Armenio",
+      "fechaInicio": "2025-05-24T15:30:00Z",
+      "fecha": "24 de Mayo"
+    }
+  ],
+  "Bundesliga": [
+    {
+      "link": "go:bundes1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Copa de Alemania",
+      "equipo1": "Arminia Bielefeld",
+      "equipo2": "Stuttgart",
+      "fechaInicio": "2025-05-24T18:00:00Z",
+      "fecha": "24 de Mayo"
     }
   ],
   "Serie A": [
     {
       "link": "go:serieA1",
-      "canal": "https://streamtp4.com/global2.php?stream=disney2",
-      "opcion1": "https://streamtp4.com/global2.php?stream=disney2",
-      "opcion2": "https://streamtp4.com/global2.php?stream=espn2",
-      "opcion3": "https://streamtp4.com/global2.php?stream=espn4br",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
       "torneo": "Serie A",
-      "equipo1": "Como",
-      "equipo2": "Inter",
-      "fechaInicio": "2025-05-23T18:45:00Z",
-      "fecha": "23 de Mayo"
+      "equipo1": "Milan",
+      "equipo2": "Monza",
+      "fechaInicio": "2025-05-24T18:45:00Z",
+      "fecha": "24 de Mayo"
     },
     {
       "link": "go:serieA2",
-      "canal": "https://streamtp4.com/global2.php?stream=espn",
-      "opcion1": "https://streamtp4.com/global2.php?stream=espn",
-      "opcion2": "https://streamtp4.com/global2.php?stream=disney3",
-      "opcion3": "https://streamtp4.com/global2.php?stream=espn1br",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
       "torneo": "Serie A",
-      "equipo1": "Napoli",
-      "equipo2": "Cagliari",
-      "fechaInicio": "2025-05-23T18:45:00Z",
-      "fecha": "23 de Mayo"
+      "equipo1": "Bologna",
+      "equipo2": "Genoa",
+      "fechaInicio": "2025-05-24T16:00:00Z",
+      "fecha": "24 de Mayo"
     }
   ],
   "La Liga": [
     {
       "link": "go:laliga1",
-      "canal": "https://streamtp4.com/global2.php?stream=espn3",
-      "opcion1": "https://streamtp4.com/global2.php?stream=espn3",
-      "opcion2": "https://streamtp4.com/global2.php?stream=disney4",
-      "opcion3": "https://streamtp4.com/global2.php?stream=espndeportes",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
       "torneo": "La Liga 🇪🇸",
-      "equipo1": "Real Betis",
-      "equipo2": "Valencia",
-      "fechaInicio": "2025-05-23T19:00:00Z",
-      "fecha": "23 de Mayo"
+      "equipo1": "Rayo Vallecano",
+      "equipo2": "Mallorca",
+      "fechaInicio": "2025-05-24T19:00:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:laliga2",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Getafe",
+      "equipo2": "Celta",
+      "fechaInicio": "2025-05-24T19:00:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:laliga3",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Alavés",
+      "equipo2": "Osasuna",
+      "fechaInicio": "2025-05-24T19:00:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:laliga4",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Leganés",
+      "equipo2": "Real Valladolid",
+      "fechaInicio": "2025-05-24T16:30:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:laliga5",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+       "torneo": "La Liga 🇪🇸",
+      "equipo1": "Espanyol",
+      "equipo2": "Las Palmas",
+      "fechaInicio": "2025-05-24T16:30:00Z",
+      "fecha": "24 de Mayo"
+    },
+    {
+      "link": "go:laliga6",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "La Liga 🇪🇸",
+      "equipo1": "Real Madrid",
+      "equipo2": "Real Sociedad",
+      "fechaInicio": "2025-05-24T14:15:00Z",
+      "fecha": "24 de Mayo"
+    }
+  ],
+  "Liga Argentina": [
+    {
+      "link": "go:arg1",
+      "canal": "",
+      "opcion1": "",
+      "opcion2": "",
+      "opcion3": "",
+      "torneo": "Liga Argentina",
+      "equipo1": "Independiente",
+      "equipo2": "Huracán",
+      "fechaInicio": "2025-05-24T21:30:00Z",
+      "fecha": "24 de Mayo"
     }
   ]
-}
+    }
